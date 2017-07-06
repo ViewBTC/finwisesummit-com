@@ -1,0 +1,292 @@
+body{
+  background: #ccc;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("../images/finwise/img-about.jpg");
+  min-height: 100%;
+  overflow-y: scroll;
+  font: 16px/1.5 "Microsoft YaHei",Helvetica,STHeiti STXihei,Microsoft JhengHei,Arial;
+
+}
+.h2-title{
+  margin: 30px 0;
+  font-weight: 700;
+}
+@media (min-width: 1200px){
+  .container.A-wrap {
+    padding: 50px;
+  }
+}
+
+.mar-auto{
+  margin: 0 auto;
+}
+section.xh-container/*, section.index-bgdd*/{
+  background-color:transparent;
+}
+.A-wrap{
+
+  margin: 0 auto;
+
+  background-color: #fff;
+}
+
+.form-control {
+
+  height: 42px;}
+
+
+
+
+.form-group label {
+  font-size: 13px;
+  font-weight: 400;
+  color: #000;
+}
+
+.btn.cc-btn {
+  padding: 0 50px;
+  font-size: 18px;
+  height: 52px;
+  line-height: 48px;
+  border-radius: 4px;
+  background-color: orange;
+  color: #fff;
+  background: #df5327;
+  border: none;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.cm-ct{
+  font-size: 16px;
+  color: #000;
+  font-weight: 700;
+}
+.h6-title{
+  font-size: 14px;
+  color: #333;
+}
+
+.i-cont{
+  /*width: 40%;*/
+  background-color: #fff;
+
+}
+.i-cont{
+  color: #fff;
+}
+.head-p{
+  background: red;  padding: 15px;
+}
+.foot-p{
+  padding: 15px;
+}
+.p-dw{
+  margin: 0 8px;
+  font-style: normal;
+}
+.p-pricebox{
+  margin: 20px 0;
+}
+.p-price{
+  font-size: 28px;
+  /*color: #000;*/
+  font-weight: 700;
+  color: #fff;
+
+  text-align: center;
+}
+.get-btn{
+  width: 120px;
+  height: 32px;
+  line-height: 32px;
+  display: inline-block;
+  background-color: orange;
+  text-align: center;
+  border-radius: 4px;
+  color: #fff;
+}
+
+
+
+
+@media (min-width: 992px){
+  .count-wrap .col-md-1 {
+    width: 15%;
+  }
+}
+
+.count-wrap .number{
+  font-size: 28px;
+  /*color: #000;*/
+  font-weight: 700;
+  color: #000;
+  /*text-align: center;*/
+}
+.count-wrap *{
+  list-style: none;
+  text-align: center;
+}
+
+
+.index-bg{
+  /*width: 1000px;*/
+  height: 600px;
+  /*background: url("../images/finwise/img-about.jpg");*/
+  /*background-clip: content-box;*/
+  display: block;
+}
+.clogo-img{
+  margin-bottom: 30px;
+}
+
+/*jieshao*/
+
+.title {
+  background: url("../images/finwise/title_bg.png") no-repeat center top;
+  height: 95px;
+  margin-bottom: 3em;
+}
+h3.page-title {
+  background: url("../images/finwise/pic_title_bg.png");
+  width: 263px;
+  height: 95px;
+  margin: 80px auto 0px auto;
+  /*color: #FFF;*/
+  text-align: center;
+}
+h3.page-title b {
+  font-size: 36px;
+  display: block;
+  line-height: 48px;
+  height: 48px;
+  padding-top: 10px;
+}
+h3.page-title span {
+  font-size: 16px;
+  display: block;
+}
+.content-text {
+  font-size: 18px;
+  margin-bottom: 3em;
+  text-align: left;
+  column-gap: 50px;
+  text-align: center;
+}
+
+ /*.features ul {*/
+  /*margin: 0px -30px;*/
+/*}*/
+ /*.features li {*/
+  /*width: 25%;*/
+  /*list-style: none;*/
+  /*display: block;*/
+  /*float: left;*/
+/*}*/
+ /*.features .circle1 {*/
+  /*background: url("../images/q2_icon_sc_1.png") no-repeat center center;*/
+  /*border-radius: 100%;*/
+  /*border: 2px solid #adba7b;*/
+/*}*/
+/*#circle1 .c-wrapper {*/
+  /*transform: rotate(180deg);*/
+/*}*/
+/*.c-wrapper {*/
+  /*width: 136px;*/
+  /*height: 136px;*/
+  /*position: absolute;*/
+  /*clip: rect(0px, 136px, 136px, 68px);*/
+  /*top: -1px;*/
+  /*left: -1px;*/
+  /*display: none;*/
+/*}*/
+/*#circle1 .c-circle {*/
+  /*border: 7px solid #adba7b;*/
+/*}*/
+/*.c-circle {*/
+  /*width: 122px;*/
+  /*height: 122px;*/
+  /*border: 7px solid #adba7b;*/
+  /*border-radius: 122px;*/
+  /*position: absolute;*/
+  /*clip: rect(0px, 68px, 136px, 0px);*/
+/*}*/
+ /*.c-wrapper {*/
+  /*transform: rotate(290deg);*/
+/*}*/
+ /*.c-circle {*/
+  /*border: 7px solid #3fc5fd;*/
+/*}*/
+ /*.features .circle .ci-cont {*/
+  /*width: 138px;*/
+  /*height: 138px;*/
+  /*position: absolute;*/
+  /*top: 0px;*/
+  /*left: 0px;*/
+  /*padding-top: 35px;*/
+/*}*/
+ /*.features .circle .ci-cont {*/
+  /*width: 138px;*/
+  /*height: 138px;*/
+  /*position: absolute;*/
+  /*top: 0px;*/
+  /*left: 0px;*/
+  /*padding-top: 35px;*/
+/*}*/
+ /*.features .circle2 {*/
+  /*background: url("../images/q2_icon_sc_2.png") no-repeat center center;*/
+  /*border-radius: 100%;*/
+  /*border: 2px solid #3fc5fd;*/
+/*}*/
+
+@media (min-width: 992px){
+  .features .circle {
+    width: 138px;
+    height: 138px;
+  }
+}
+
+.c-wrapper {/* width: 136px;  height: 136px;  position: absolute; */ clip: rect(0px, 136px, 136px, 68px); top:-1px; left:-1px; display:none;  }
+.c-circle { /*8width: 122px; height: 122px;*/ border: 7px solid #adba7b; border-radius: 122px; position: absolute; clip: rect(0px, 68px, 136px, 0px);}
+
+#circle1 .c-circle {  border: 7px solid #adba7b; }
+#circle2 .c-circle {  border: 7px solid #3fc5fd; }
+#circle3 .c-circle {  border: 7px solid #fc8653; }
+#circle4 .c-circle {  border: 7px solid #fc4fa8; }
+
+
+#circle1 .c-wrapper { transform:rotate(180deg); }
+#circle2 .c-wrapper { transform:rotate(290deg); }
+#circle3 .c-wrapper { transform:rotate(230deg); }
+#circle4 .c-wrapper { transform:rotate(30deg); }
+
+#guest{background: url("../images/q2_bg.jpg") no-repeat center top; background-size: cover;}
+.content { margin-top:20px; }
+ .content-text{ font-size: 18px; margin-bottom: 3em;  text-align:left; column-gap:50px; text-align:center;  }
+.content-text p { margin:0px; padding:0px;  }
+ .features ul{margin:0px -30px;}
+ .features li{width: 25%; list-style: none; display: block; float: left;}
+ .features .circle{font-size: 20px; font-weight: bold; /*width: 134px; height: 134px;  padding: 0px; margin: 0 auto; position:relative;*/ }
+ .features .circle .ci-cont {     text-align: center;/*width:138px; height:138px; position:absolute; top:0px; left:0px; */padding-top:35px; }
+ .features .circle1{background: url("../images/q2_icon_sc_1.png") no-repeat center center;   border-radius:100%; border:2px solid #adba7b; }
+ .features .circle2{background: url("../images/q2_icon_sc_2.png") no-repeat center center;   border-radius:100%; border:2px solid #3fc5fd; }
+ .features .circle3{background: url("../images/q2_icon_sc_3.png") no-repeat center center;   border-radius:100%; border:2px solid #fc8653; }
+.features .circle4{background: url("../images/q2_icon_sc_4.png") no-repeat center center;   border-radius:100%; border:2px solid #fc4fa8; }
+/* end */
+
+
+
+/*contact us*/
+.contact-us{
+  color: #fff;
+  font-size: 24px;
+}
+.contact-usstyle{
+  color: orange;
+  text-align: center;
+  margin: 30px 0;
+  height: 30px;
+}
