@@ -50,6 +50,9 @@ body{
   .pd-lt {
     padding-left: 15px !important;
   }
+  .meet-title{
+    font-size: 16px;
+  }
 }
 #topnav #navigation.en-lspe {
   left: 60px;
