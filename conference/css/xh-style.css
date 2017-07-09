@@ -762,7 +762,7 @@ img, video {
     margin: 0 0 20px;
   }
   .bz-btn.corange-btn.enbtn {
-    font-size: 23px;
+    /*font-size: 23px;*/
   }
   .pd-lt {
     padding-left: 5px !important;
