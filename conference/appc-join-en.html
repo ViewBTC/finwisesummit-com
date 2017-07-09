@@ -3,13 +3,12 @@
 <head>
     <title>Become sponsors</title>
     <meta charset="UTF-8">
-    <meta name="keywords" content="viewfin, blockchain, metaverse, avatar, oracle, smart property, eric gu, fintech">
+    <meta name="keywords" content="finwise global summit, viewfin, blockchain, metaverse">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="stylesheet" href="css/bundle.css">
     <link rel="stylesheet" href="css/hody-icons.css">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/xh-style.css">
     <!--<script src="layer/layer.js"></script>-->
     <!--<link rel="stylesheet" href="css/font-awesome.min.css">-->
@@ -49,13 +48,13 @@
                 <div class="menu-extras">
                     <div class="menu-item toggle-nav">
                         <!-- Mobile menu toggle-->
-                        <a class="menu-toggle" href="#" onclick="$('#navigation').toggle();if($(this).hasClass('is-active')){$(this).removeClass('is-active');}else{$(this).addClass('is-active');}">
+                        <a class="menu-toggle" href="#" onclick="mininav()">
                             <div class="toggle-inner"></div>
                         </a>
                         <!-- End mobile menu toggle-->
                     </div>
                 </div>
-                <div class="lang-select"><a href="/appc-index.html">Chinese</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a></div>
+                <div class="lang-select"><a href="/appc-join.html">Chinese</a><span class="fg-line">/</span><a href="/appc-join-en.html">English</a></div>
                   <div id="navigation" class="en-lspe">
                     <ul class="navigation-menu nav">
                         <li><a href="/appc-index-en.html">Home</a>
@@ -68,6 +67,12 @@
                 </div>
             </div>
         </header>
+        <script>
+        /**mini menu**/
+        function mininav() {
+            $('#navigation').toggle();if($(this).hasClass('is-active')){$(this).removeClass('is-active');}else{$(this).addClass('is-active'); $('#navigation').toggle();}
+        }
+        </script>
         <!-- header end-->
     </div>
 

@@ -9,8 +9,6 @@
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="stylesheet" href="css/bundle.css">
     <link rel="stylesheet" href="css/hody-icons.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/xh-style.css">
     <link rel="stylesheet" href="css/xh-style.css">
     <!--<link rel="stylesheet" href="css/font-awesome.min.css">-->
 
@@ -51,7 +49,7 @@
             <div class="menu-extras">
                 <div class="menu-item toggle-nav">
                     <!-- Mobile menu toggle-->
-                    <a class="menu-toggle" href="#" onclick="$('#navigation').toggle();if($(this).hasClass('is-active')){$(this).removeClass('is-active');}else{$(this).addClass('is-active');}">
+                    <a class="menu-toggle" href="#" onclick="mininav()">
                         <div class="toggle-inner"></div>
                     </a>
                     <!-- End mobile menu toggle-->
@@ -70,6 +68,12 @@
             </div>
         </div>
     </header>
+    <script>
+        /**mini menu**/
+        function mininav() {
+            $('#navigation').toggle();if($(this).hasClass('is-active')){$(this).removeClass('is-active');}else{$(this).addClass('is-active'); $('#navigation').toggle();}
+        }
+    </script>
     <!-- header end-->
 </div>
 

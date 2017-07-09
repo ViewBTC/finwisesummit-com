@@ -53,7 +53,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 body.top-padding {
-  padding-top: 60px;
+  /*padding-top: 60px;*/
 }
 ::-moz-selection {
   background-color: #222225;
@@ -333,7 +333,7 @@ section.dark-bg .title > hr {
   height: 52px;
   line-height: 48px;
   border-radius: 30px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 14px;
   letter-spacing: 1px;
   -webkit-transition: all .3s ease;
@@ -1443,7 +1443,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   height: 100%;
   z-index: 9999999;
   text-align: center;
-  background-color: #222225;
+  background-color: #000;
 }
 #mask {
   width: 80px;
@@ -1519,13 +1519,13 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   }
 }
 #topnav.stick .navigation-menu > li > a:hover {
-  color: #1b96ed;
+  color: #ff6600;
   background-color: transparent;
 }
 @media (min-width: 992px) {
   #topnav.stick .navigation-menu > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    /*padding-top: 20px;*/
+    /*padding-bottom: 20px;*/
   }
 }
 #topnav.stick .navigation-menu > li.active > a {
@@ -1541,10 +1541,10 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   color: #1b96ed !important;
 }
 #topnav.stick .menu-toggle:hover .toggle-inner {
-  background-color: #1b96ed !important;
+  background-color: #ff6600 !important;
 }
 #topnav.stick .toggle-inner {
-  background-color: #222225;
+  /*background-color: #222225;*/
 }
 #topnav.stick.dark-menu {
   background-color: #222225;
@@ -1643,14 +1643,14 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 #topnav .navigation-menu > li > a {
   display: block;
   color: #fff;
-  font-size: 14px;
-  text-transform: uppercase;
-  font-family: Gisha, "Microsoft YaHei", serif;
+  font-size: 20px;
+  /*text-transform: uppercase;*/
+  /*font-family: Gisha, "Microsoft YaHei", serif;*/
   letter-spacing: 0.10em;
   font-weight: 400;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  line-height: 40px;
+  line-height: 42px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -1660,8 +1660,8 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 }
 @media (min-width: 992px) {
   #topnav .navigation-menu > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    /*padding-top: 20px;*/
+    /*padding-bottom: 20px;*/
     min-height: 62px;
   }
 }
@@ -1680,6 +1680,16 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   font-size: 8px;
   font-weight: bold;
   line-height: 1;
+}
+#topnav {
+  background-color: transparent !important;
+  border-bottom: none;
+
+}
+@media (max-width: 991px){
+  #topnav .menu-toggle:hover .toggle-inner {
+    background-color: #fff !important;
+  }
 }
 .dylan-site-name {
   color: #fff;
@@ -1881,7 +1891,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   width: 20px;
 }
 .toggle-inner:before {
-  width: 16px;
+  /*width: 16px;*/
   top: -5px;
 }
 .toggle-inner:after {
@@ -6616,16 +6626,16 @@ form.register {
   }
   #navigation {
     position: absolute;
-    top: 90px;
+    top: 82px;
     left: 0;
     width: 100%;
     display: none;
     height: auto;
     padding-bottom: 0;
     overflow: auto;
-    border-top: 1px solid #3a3a40;
-    border-bottom: 1px solid #3a3a40;
-    background-color: #222225;
+     border-top: 1px solid #1b1b1b;
+    /* border-bottom: 1px solid #bd2020; */
+    background-color: #000;
   }
   #navigation.visible {
     visibility: visible;
@@ -6799,8 +6809,10 @@ form.register {
     display: block;
   }
   #topnav .navigation-menu > li > a {
-    color: #ccc;
-    padding: 15px 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    border-bottom: 1px solid #1b1b1b;
   }
   #topnav .navigation-menu > li > a:hover {
     color: #1b96ed;
@@ -6881,10 +6893,10 @@ form.register {
     color: #1b96ed !important;
   }
   #topnav .menu-toggle:hover .toggle-inner {
-    background-color: #1b96ed !important;
+    background-color: #ff6600 !important;
   }
   #topnav .toggle-inner {
-    background-color: #fff;
+    background-color: #ff6600;
   }
   #topnav .logo .logo-light {
     display: none;
@@ -7310,12 +7322,3 @@ form.register {
 
 
 
-#topnav {
-  background-color: transparent !important;
-
-}
-@media (max-width: 991px){
-  #topnav .menu-toggle:hover .toggle-inner {
-    background-color: #fff !important;
-  }
-}
