@@ -755,9 +755,9 @@ img, video {
     width: 150px;
     margin-top: 15px;
   }
-  #topnav .container {
+/*  #topnav .container {
     background: rgba(0,0,0,1);
-  }
+  }*/
   .corange-btn.mar-rt15{
     margin: 0 0 20px;
   }
@@ -1173,12 +1173,12 @@ h3.page-title span {
       background: url(../images/finwise/bg-big.jpg) no-repeat;
       width: 100%;
       background-position: center;
-      height: 400px;
+      height: 380px;
       background-size: cover;
   }
 
   .clogo-img{
-    margin: 110px 0 10px 0;
+    margin: 80px 0 10px 0;
   }
 
   .clogo-img{
