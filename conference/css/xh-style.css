@@ -253,7 +253,7 @@ img, video {
 
 @media (max-width: 991px) {
   body:not(.has-home-slider):not(.loggedin-in.admin-bar) {
-    padding-top: 60px;
+    /*padding-top: 60px;*/
   }
   .split-row + .split-row {
     border-top: 1px solid #eee;
@@ -293,9 +293,9 @@ img, video {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #fff;
+    /*background-color: #fff;*/
     border-bottom: 0;
-    box-shadow: 0 4px 10px -8px rgba(0, 0, 0, 0.45);
+    /*box-shadow: 0 4px 10px -8px rgba(0, 0, 0, 0.45);*/
   }
   #topnav .container {
     width: auto;
@@ -470,7 +470,7 @@ img, video {
   left: 0;
   top: 0;
   z-index: 99999;
-  background-color: transparent;
+  background: none;
   border: 0;
   min-height: 62px;
   -webkit-transition: all .4s ease;
