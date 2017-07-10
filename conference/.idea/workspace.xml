@@ -26,8 +26,8 @@
       <file leaf-file-name="xh-style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/xh-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+            <state relative-caret-position="-8514">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -182,8 +182,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="181" />
+    <option name="x" value="165" />
+    <option name="y" value="241" />
     <option name="width" value="1740" />
     <option name="height" value="730" />
   </component>
@@ -348,15 +348,15 @@
       <option name="presentableId" value="Default" />
       <updated>1499526246521</updated>
       <workItem from="1499526248550" duration="19690000" />
-      <workItem from="1499669789536" duration="9213000" />
+      <workItem from="1499669789536" duration="9467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28903000" />
+    <option name="totallyTimeSpent" value="29157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="181" width="1740" height="730" extended-state="0" />
+    <frame x="165" y="241" width="1740" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/xh-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        <state relative-caret-position="-8514">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -1,13 +1,6 @@
 @charset "UTF-8";
 body{
   background: #F2F2F2;
-  /*background-repeat: no-repeat;*/
-  /*background-position: center;*/
-  /*background-size: cover;*/
-  /*background-attachment: fixed;*/
-  /*background-image: url("../images/finwise/bg-big.jpg");*/
-  /*min-height: 100%;*/
-  /*overflow-y: scroll;*/
   font: 16px/1.5 "Microsoft YaHei",Helvetica,STHeiti STXihei,Microsoft JhengHei,Arial;
 
 }
@@ -822,6 +815,13 @@ img, video {
 .bg-white{
  background-color: #fff;
 }
+<<<<<<< HEAD
+=======
+.A-wrap{
+  margin: 0 auto;
+  padding: 30px 50px;
+}
+>>>>>>> 846d638b5a26890f4226a5c9403f68eb8667c612
 /*form style*/
 
 .form-control {
