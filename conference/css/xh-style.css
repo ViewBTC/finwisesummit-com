@@ -36,7 +36,7 @@ img, video {
   max-height: 70px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  width: 300px;
+  width: 280px;
 }
 #topnav .logo .logo-light {
   display: block;
@@ -72,7 +72,7 @@ img, video {
 #topnav .navigation-menu > li > a {
   display: block;
   color: #fff;
-  font-size: 20px;
+  font-size: 16px;
   /*text-transform: uppercase;*/
   /*font-family: Gisha, "Microsoft YaHei", serif;*/
   letter-spacing: 0.10em;
@@ -729,8 +729,8 @@ img, video {
   display: block;
 }
 .clogo-img{
-  margin: 275px 0 80px;
-  width: 450px;
+  margin: 240px 80px 80px 0;
+  width: 400px;
 }
 .meet-title{
   font-size: 44px;
@@ -799,12 +799,12 @@ img, video {
   background: url("../images/finwise/bg-big.jpg") no-repeat;
   width: 100%;
   background-position: center;
-  height: 1080px;
-  max-width: 1920px;
+  height: 800px;
+  background-size: cover;
 }
 
 .c-important{
-  margin-top: -50px !important;
+  margin-top: -100px !important;
 }
 .h2-title{
   margin: 30px 0;
@@ -850,8 +850,8 @@ section.xh-container/*, section.index-bgdd*/{
 
 .bz-btn.corange-btn {
   width: 200px;
-  height: 40px;
-  line-height: 40px;
+  height: 36px;
+  line-height: 36px;
   display: inline-block;
   background-color: #ff6600;
   text-align: center;
@@ -883,8 +883,8 @@ section.xh-container/*, section.index-bgdd*/{
 }
 
 .cm-ct{
-  font-size: 16px;
-  color: #000;
+  font-size: 20px;
+  color: #333;
   font-weight: 700;
 }
 .h6-title{
@@ -906,7 +906,8 @@ section.xh-container/*, section.index-bgdd*/{
 .head-p{
   background: url("../images/finwise/or-bg.png") no-repeat;
   padding: 15px;
-  height: 200px;
+  height: 150px;
+  background-size: cover;
 }
 .i-cont  .foot-p{
   padding: 15px;
@@ -924,10 +925,10 @@ section.xh-container/*, section.index-bgdd*/{
   margin: 20px 0;
 }
 .xx-title{
-  font-size: 24px;
+  font-size: 16px;
 }
 .p-price{
-  font-size: 60px;
+  font-size: 40px;
   /*color: #000;*/
   font-weight: 700;
   color: #fff;
@@ -936,8 +937,8 @@ section.xh-container/*, section.index-bgdd*/{
 }
 .get-btn, .corange-btn{
   width: 240px;
-  height: 52px;
-  line-height: 52px;
+  height: 36px;
+  line-height: 36px;
   display: inline-block;
   background-color: #ff6600;
   text-align: center;
@@ -954,7 +955,7 @@ section.xh-container/*, section.index-bgdd*/{
 }
 
 .count-wrap .number{
-  font-size: 28px;
+  font-size: 40px;
   /*color: #000;*/
   font-weight: 700;
   color: #000;
@@ -978,17 +979,17 @@ section.xh-container/*, section.index-bgdd*/{
   /*padding: 20px 25px;*/
 }
 .and-cl{
-  font-weight: 400;
+  font-weight: lighter;
   margin: 0 15px;
 }
 .ad-fimg{
   background: url("../images/finwise/sh.png ");
   width: 100%;
-  height: 260px;
+  height: 200px;
 
 }
 .title {
-
+  font-size: 14px;
 }
 h3.page-title {
   background: url("../images/finwise/pic_title_bg.png");
@@ -1017,8 +1018,13 @@ h3.page-title span {
   text-align: center;
 }
 
+.fh-top{
+  margin-top: 40px;
+}
 
-
+.bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover{
+  background: #ff8f44;
+}
 
 @media (min-width: 992px){
   .features .circle {
@@ -1046,7 +1052,9 @@ h3.page-title span {
 .content-text{ font-size: 18px; margin-bottom: 3em;  text-align:left; column-gap:50px; }
 .fh-intro{
  text-indent: 30px;
- margin: 0;
+ font-size: 24px;
+ font-weight: lighter;
+ color: #777;
 }
 .content-text p { margin:0px; padding:0px;  }
 .features ul{margin:0px -30px;}
@@ -1131,5 +1139,46 @@ h3.page-title span {
 .fm-wrap.spe-formwrap{
   margin-top: -960px;
 }
+
+@media screen and (min-width: 1800px){
+  .index-bgwrap {
+      height: 1000px;
+  }
+
+  .clogo-img{
+    margin: 300px 80px 80px 0;
+  }
+}
+
+@media (max-width: 768px){
+  .index-bgwrap {
+      background: url(../images/finwise/bg-big.jpg) no-repeat;
+      width: 100%;
+      background-position: center;
+      height: 400px;
+      background-size: cover;
+  }
+
+  .clogo-img{
+    margin: 110px 0 10px 0;
+  }
+
+  .clogo-img{
+    width: 200px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
