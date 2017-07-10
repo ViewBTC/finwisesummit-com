@@ -1,12 +1,5 @@
 body{
   background: #F2F2F2;
-  /*background-repeat: no-repeat;*/
-  /*background-position: center;*/
-  /*background-size: cover;*/
-  /*background-attachment: fixed;*/
-  /*background-image: url("../images/finwise/bg-big.jpg");*/
-  /*min-height: 100%;*/
-  /*overflow-y: scroll;*/
   font: 16px/1.5 "Microsoft YaHei",Helvetica,STHeiti STXihei,Microsoft JhengHei,Arial;
 
 }
@@ -827,6 +820,7 @@ section.xh-container/*, section.index-bgdd*/{
 }
 .A-wrap{
   margin: 0 auto;
+  padding: 30px 50px;
 }
 /*form style*/
 
