@@ -729,8 +729,8 @@ img, video {
   display: block;
 }
 .clogo-img{
-  margin: 240px 80px 80px 0;
-  width: 400px;
+  margin: 170px 80px 60px 0;
+  width: 320px;
 }
 .meet-title{
   font-size: 44px;
@@ -799,7 +799,7 @@ img, video {
   background: url("../images/finwise/bg-big.jpg") no-repeat;
   width: 100%;
   background-position: center;
-  height: 800px;
+  height: 680px;
   background-size: cover;
 }
 
@@ -986,7 +986,8 @@ section.xh-container/*, section.index-bgdd*/{
   background: url("../images/finwise/sh.png ");
   width: 100%;
   height: 200px;
-
+  background-size: cover;
+  margin-top: 30px;
 }
 .title {
   font-size: 14px;
@@ -1147,6 +1148,23 @@ h3.page-title span {
 
   .clogo-img{
     margin: 300px 80px 80px 0;
+    width: 400px;
+  }
+
+  .A-wrap {
+    width: 1500px;
+  }
+
+  .count-wrap .number{
+    font-size: 50px;
+  }
+
+  .row {
+    margin: 20px -15px;
+  }
+
+  .ad-fimg{
+    margin-top: 50px;
   }
 }
 
@@ -1165,6 +1183,18 @@ h3.page-title span {
 
   .clogo-img{
     width: 200px;
+  }
+
+  .ad-h2title{
+    font-size: 20px;
+  }
+
+  .ad-fimg{
+    height: 120px;
+  }
+
+  .fh-intro{
+    font-size: 20px;
   }
 }
 
