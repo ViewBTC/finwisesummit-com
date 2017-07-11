@@ -804,7 +804,7 @@ img, video {
 }
 @media (min-width: 1200px){
   .container.A-wrap {
-    padding: 30px 50px;
+    padding: 50px 50px 100px;
   }
 }
 
@@ -1016,7 +1016,7 @@ h3.page-title span {
 }
 
 .fh-top{
-  margin-top: 40px;
+  margin-top: 80px;
 }
 
 .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover{
