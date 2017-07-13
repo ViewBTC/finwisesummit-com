@@ -20,7 +20,7 @@ img, video {
 }
 #topnav .logo {
   float: left;
-  padding: 10px 0;
+  padding: 14px 0;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
   position: relative;
@@ -721,8 +721,8 @@ img, video {
   display: block;
 }
 .clogo-img{
-  margin: 170px 80px 60px 0;
-  width: 320px;
+  margin: 170px 60px 60px 0;
+  width: 380px;
 }
 .meet-title{
   font-size: 44px;
@@ -1109,8 +1109,8 @@ h3.page-title span {
   }
 
   .clogo-img{
-    margin: 300px 80px 80px 0;
-    width: 400px;
+    margin: 270px 74px 80px 0;
+    width: 460px;
   }
 
   .A-wrap {
@@ -1143,11 +1143,8 @@ h3.page-title span {
   }
 
   .clogo-img{
-    margin: 80px 0 10px 0;
-  }
-
-  .clogo-img{
-    width: 200px;
+    margin: 80px 34px 10px 0;
+    width: 260px;
   }
 
   .ad-h2title{
