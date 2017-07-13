@@ -127,7 +127,7 @@ http.createServer(function(req, res) {
 
                         });
                         //发送邮件
-                        var speechUrl = 'http://' + req.headers.host + '/speech.html';
+                        var speechUrl = 'http://www.finwisesummit.com' + '/speech.html';
                         if (SEND) {
                             sendMail(`有了新的演讲嘉宾报名表`, `<p>更新的表格请查看最新的链接：<a href="${speechUrl}"> ${speechUrl}</a></p>`);
                         }
@@ -180,7 +180,7 @@ http.createServer(function(req, res) {
 
                         });
                         //发送邮件
-                        var sponsorUrl = 'http://' + req.headers.host + '/sponsor.html';
+                        var sponsorUrl = 'http://www.finwisesummit.com' + '/sponsor.html';
                         if (SEND) {
                             sendMail(`有了新的赞助商报名表`, `<p>更新的表格请查看最新的链接：<a href="${sponsorUrl}"> ${sponsorUrl}</a></p>`);
                         }
