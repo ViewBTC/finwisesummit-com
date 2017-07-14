@@ -665,7 +665,6 @@ img, video {
 #footer {
   position: relative;
   padding-top: 30px;
-  padding-bottom: 30px;
   background-color: #1b1b1d;
   z-index: 10;
   color: #fff;
@@ -822,6 +821,19 @@ img, video {
 
 .footer-wrap{
   margin-bottom: 100px;
+}
+
+.social{
+  margin-top: 30px;
+  height: 50px;
+  line-height: 50px;
+  background: #111;
+  padding-left: 12%;
+}
+
+.social>a>img{
+  height: 30px;
+  margin-right: 20px;
 }
 /*form style*/
 
