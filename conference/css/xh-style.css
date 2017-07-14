@@ -823,6 +823,10 @@ img, video {
   margin-bottom: 100px;
 }
 
+.footer-wrap>.count-wrap>ul{
+  margin-bottom: 40px;
+}
+
 .social img{
   height: 30px;
   margin-right: 20px;
@@ -966,6 +970,12 @@ img, video {
 @media (min-width: 992px){
   .count-wrap .col-md-1 {
     width: 19.7%;
+  }
+}
+
+@media (max-width: 992px){
+  .footer-wrap>.count-wrap>ul img{
+    height: 60px;
   }
 }
 
