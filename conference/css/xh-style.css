@@ -799,12 +799,12 @@ img, video {
   margin-top: -100px !important;
 }
 .h2-title{
-  margin: 30px 0;
+  margin: 30px 0 50px;
   font-weight: 700;
 }
 @media (min-width: 1200px){
   .container.A-wrap {
-    padding: 50px 50px 100px;
+    padding: 50px 50px 0;
   }
 }
 
@@ -818,6 +818,10 @@ img, video {
 .A-wrap{
   margin: 0 auto;
   padding: 30px 50px;
+}
+
+.footer-wrap{
+  margin-bottom: 100px;
 }
 /*form style*/
 
@@ -1017,6 +1021,7 @@ h3.page-title span {
 
 .fh-top{
   margin-top: 80px;
+  margin-bottom: 60px;
 }
 
 .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover{
@@ -1109,7 +1114,7 @@ h3.page-title span {
   }
 
   .clogo-img{
-    margin: 270px 74px 80px 0;
+    margin: 280px 74px 80px 0;
     width: 460px;
   }
 
