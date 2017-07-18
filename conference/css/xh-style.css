@@ -977,6 +977,10 @@ img, video {
   .footer-wrap>.count-wrap>ul img{
     height: 110px;
   }
+  .footer-wrap .col-md-3{
+    width: 50%;
+    float: left;
+  }
 }
 
 .count-wrap .number{
@@ -1185,6 +1189,15 @@ h3.page-title span {
   }
   .fm-wrap.spe-formwrap {
     margin-top: -330px;
+  }
+
+  .footer-wrap .col-md-3{
+    width: 50%;
+    float: left;
+  }
+
+  .footer-wrap>.count-wrap>ul img{
+    height: auto;
   }
 }
 
