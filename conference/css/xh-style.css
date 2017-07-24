@@ -785,6 +785,12 @@ img, video {
     width: 33%;
     height: 200px;
   }
+
+  .data-item .col-md-1{
+    width: 33%;
+    float: left;
+    height: 100px;
+  }
 }
 
 
@@ -1236,6 +1242,20 @@ h3.page-title span {
   .guest-item .col-md-2 {
     height: 200px;
     padding: 4px;
+  }
+
+  .data-item .col-md-1{
+    width: 33%;
+    float: left;
+    height: 70px;
+  }
+
+  .count-wrap .number {
+      font-size: 26px;
+  }
+
+  .title{
+    font-size: 12px;
   }
 }
 
