@@ -786,7 +786,7 @@
     $('.endingbtn').click(function(){
         $('.show_areabox').show();
     })
-    $('.mask').click(function(){
+    $('.maskclose').click(function(){
         $('.show_areabox').hide();
     })
     /** mask end by xh**/

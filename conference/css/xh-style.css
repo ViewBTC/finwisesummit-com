@@ -469,7 +469,7 @@ img, video {
   right: 0;
   left: 0;
   top: 0;
-  z-index: 99999;
+  z-index: 8000;
   background: none;
   border: 0;
   min-height: 62px;
@@ -1141,7 +1141,7 @@ h3.page-title span {
   top: 0;
   left: 0;
   z-index: 1000;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.8);
   filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#7F000000,endcolorstr=#7F000000);
 }
 
@@ -1150,7 +1150,8 @@ h3.page-title span {
   position: fixed;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,.5);
+  z-index: 9999;
+  /*background: rgba(0,0,0,.5);*/
   display: none;
   /*visibility: hidden;*/
 }
@@ -1161,7 +1162,7 @@ h3.page-title span {
   background: url("../images/finwise/bg_closepage.png");
   position: fixed;
   z-index: 9999;
-  top: 20%;
+  top: 28%;
   left: 50%;
   margin-left: -372px;
 }
@@ -1169,6 +1170,31 @@ h3.page-title span {
   font-size: 48px;
   padding: 80px;
   color: #fff;
+}
+.maskclose{
+  cursor: pointer;
+}
+@media only screen and (min-width: 376px) and (max-width: 767px) {
+  .mask-con{
+    width: 80%;
+    height: 200px;
+    margin-left: -40%;
+  }
+  .end-act {
+    font-size: 24px;
+    padding: 40px 25px;
+  }
+}
+@media only screen and (min-width: 300px) and (max-width: 375px) {
+  .mask-con{
+    width: 80%;
+    height: 200px;
+    margin-left: -40%;
+  }
+  .end-act {
+    font-size:  16px;
+    padding: 50px 25px;
+  }
 }
 
 /*mask end*/
