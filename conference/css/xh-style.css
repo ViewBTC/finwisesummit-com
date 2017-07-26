@@ -1177,9 +1177,9 @@ h3.page-title span {
 }
 @media only screen and (min-width: 376px) and (max-width: 767px) {
   .mask-con{
-    width: 80%;
+    width: 90%;
     height: 200px;
-    margin-left: -40%;
+    margin-left: -45%;
   }
   .end-act {
     font-size: 24px;
@@ -1188,12 +1188,12 @@ h3.page-title span {
 }
 @media only screen and (min-width: 300px) and (max-width: 375px) {
   .mask-con{
-    width: 80%;
+    width: 90%;
     height: 200px;
-    margin-left: -40%;
+    margin-left: -45%;
   }
   .end-act {
-    font-size:  16px;
+    font-size: 24px;
     padding: 40px 25px;
   }
 }
