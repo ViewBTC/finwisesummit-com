@@ -1159,7 +1159,8 @@ h3.page-title span {
 .mask-con{
   width: 745px;
   height: 330px;
-  background: url("../images/finwise/bg_closepage.png");
+  background: url("../images/finwise/bg_closepage.png") no-repeat;
+  background-size: cover;
   position: fixed;
   z-index: 9999;
   top: 28%;
@@ -1193,7 +1194,7 @@ h3.page-title span {
   }
   .end-act {
     font-size:  16px;
-    padding: 50px 25px;
+    padding: 40px 25px;
   }
 }
 
