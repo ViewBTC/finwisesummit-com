@@ -782,7 +782,16 @@
     });
   }
 
-  function initCustom() {
+  /** mask by xh**/
+    $('.endingbtn').click(function(){
+        $('.show_areabox').show();
+    })
+    $('.mask').click(function(){
+        $('.show_areabox').hide();
+    })
+    /** mask end by xh**/
+
+    function initCustom() {
     // Your custom code here
   }
 

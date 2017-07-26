@@ -1141,9 +1141,36 @@ h3.page-title span {
   top: 0;
   left: 0;
   z-index: 1000;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.6);
   filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#7F000000,endcolorstr=#7F000000);
 }
+
+
+.show_areabox{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.5);
+  display: none;
+  /*visibility: hidden;*/
+}
+
+.mask-con{
+  width: 745px;
+  height: 330px;
+  background: url("../images/finwise/bg_closepage.png");
+  position: fixed;
+  z-index: 9999;
+  top: 20%;
+  left: 50%;
+  margin-left: -372px;
+}
+.end-act{
+  font-size: 48px;
+  padding: 80px;
+  color: #fff;
+}
+
 /*mask end*/
 
 .mrt-t50{
@@ -1297,8 +1324,6 @@ h3.page-title span {
   line-height: inherit;
 }
 /*go-top end*/
-
-
 
 
 
