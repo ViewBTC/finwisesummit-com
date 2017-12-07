@@ -676,7 +676,7 @@ img, video {
   margin-bottom: 30px;
 }
 .contact-usstyle{
-  color: #ff6600;
+  color: #f9297d;
   margin: 10px 0;
 }
 .row-fbox{
@@ -820,6 +820,15 @@ img, video {
 /*}*/
 .index-bgwrap{
   background: url("../images/finwise/bg-big.jpg") no-repeat;
+  width: 100%;
+  background-position: center;
+  height: 680px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.index-bgwrapnew{
+  background: url("../images/finwise/bg-big2.jpg") no-repeat;
   width: 100%;
   background-position: center;
   height: 680px;
@@ -1048,6 +1057,13 @@ img, video {
   background-size: cover;
   margin-top: 30px;
 }
+
+.ad-fimg-new{
+  background: url("../images/finwise/bg_closepage2.png ");
+  background-position: center;
+  background-size: cover;
+}
+
 .title {
   font-size: 14px;
 }
@@ -1175,6 +1191,11 @@ h3.page-title span {
 .maskclose{
   cursor: pointer;
 }
+
+.coop-table{
+  padding: 60px 0 40px;
+}
+
 @media only screen and (min-width: 376px) and (max-width: 767px) {
   .mask-con{
     width: 90%;
@@ -1258,6 +1279,10 @@ h3.page-title span {
       background-position: center;
       height: 380px;
       background-size: cover;
+  }
+
+  .index-bgwrapnew {
+      background: url(../images/finwise/bg-big2.jpg) no-repeat;
   }
 
   .clogo-img{
