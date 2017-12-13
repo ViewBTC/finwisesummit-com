@@ -250,6 +250,10 @@ img, video {
   color: #fff;
 }
 
+#lang-switch{
+  left: 100px;
+}
+
 
 @media (max-width: 991px) {
   body:not(.has-home-slider):not(.loggedin-in.admin-bar) {
@@ -423,6 +427,9 @@ img, video {
   }
   #topnav.dark-menu .menu-toggle .toggle-inner {
     background-color: #fff;
+  }
+  #lang-switch{
+    left: 0;
   }
 
 
