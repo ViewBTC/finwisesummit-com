@@ -254,6 +254,14 @@ img, video {
   left: 100px;
 }
 
+.purple-text{
+  color: #70309f;
+}
+
+.blue-text{
+  color: #5c9ad5;
+}
+
 
 @media (max-width: 991px) {
   body:not(.has-home-slider):not(.loggedin-in.admin-bar) {
