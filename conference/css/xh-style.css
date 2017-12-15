@@ -262,6 +262,10 @@ img, video {
   color: #5c9ad5;
 }
 
+.img-center{
+  text-align: center;
+}
+
 
 @media (max-width: 991px) {
   body:not(.has-home-slider):not(.loggedin-in.admin-bar) {
