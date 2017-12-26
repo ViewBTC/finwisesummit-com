@@ -14,6 +14,10 @@ img, video {
   height: auto;
 }
 /*header and footer begin*/
+.photo .row div{
+  margin-top: 20px;
+}
+
 
 #topnav > .container {
   position: relative;
