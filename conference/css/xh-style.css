@@ -812,7 +812,7 @@ img, video {
   .data-item .col-md-1{
     width: 33%;
     float: left;
-    height: 100px;
+    height: 120px;
   }
 }
 
@@ -1342,14 +1342,14 @@ h3.page-title span {
   }
 
   .guest-item .col-md-2 {
-    height: 200px;
+    height: 245px;
     padding: 4px;
   }
 
   .data-item .col-md-1{
     width: 33%;
     float: left;
-    height: 70px;
+    /*height: 70px;*/
   }
 
   .count-wrap .number {
@@ -1361,6 +1361,11 @@ h3.page-title span {
   }
 }
 
+@media only screen and (min-width: 300px) and (max-width: 575px) {
+  .data-item .col-md-1{
+    width: 50%;
+  }
+}
 /*go-top*/
 .go-top {
   position: fixed;
@@ -1401,8 +1406,15 @@ h3.page-title span {
 /*go-top end*/
 
 
+/*finwise 2018 gegin*/
 
 
+
+
+
+/*.index-fwrap{*/
+  /*background: url(../images/finwise2018/index-bg.jpg) no-repeat;*/
+/*}*/
 
 
 

@@ -1,0 +1,6 @@
+
+# dotenv environment variables file
+.env
+.DS_Store
+dist/
+*/.DS_Store

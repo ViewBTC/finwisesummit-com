@@ -1,7 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="" />
+    <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conference/css/scss.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/index备份.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/favicon.ico" afterPath="$PROJECT_DIR$/conference/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/MVSfoundation.png" afterPath="$PROJECT_DIR$/conference/images/finwise/MVSfoundation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/Wechat.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/Wechat.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_18.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_3dchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_3dchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_7bao.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_7bao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_8btc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_8btc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_8de.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_8de.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_8dec.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_8dec.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_BJDO.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_BJDO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_BTC123.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_BTC123.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_Gong.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_Gong.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_Jin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_Jin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_achain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_achain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_aex.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_aex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_afc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_afc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_aicoin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_aicoin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_aimwise.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_aimwise.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_atmatrix.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_atmatrix.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_atn.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_atn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_babicj.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_babicj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_baofeng.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_baofeng.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_basicworld.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_basicworld.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bb.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bcd.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bcd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bcdws.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bcdws.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_beechat.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_beechat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bepal.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bepal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_binance.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_binance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitas.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitcoin86.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitcoin86.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitgame.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitgame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitgo.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitgo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitz.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitz.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bixin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bixin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_blockchaingame.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_blockchaingame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_blockchainru.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_blockchainru.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_blocknews.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_blocknews.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_blockwor.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_blockwor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bottos.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bottos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_btc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_btc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_btc9.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_btc9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_btcchina.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_btcchina.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_btcfamily.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_btcfamily.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_btom.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_btom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bullbtc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bullbtc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_casnio.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_casnio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_cc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_cc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_cchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_cchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_cdgex.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_cdgex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_cloudchian.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_cloudchian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_coinbene.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_coinbene.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_coinegg.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_coinegg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_coldlar.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_coldlar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_coupling.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_coupling.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_demo.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_demo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_draper.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_draper.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_dubai1.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_dubai1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_dubai2.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_dubai2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ebtcbank.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ebtcbank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_echat.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_echat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_etcchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_etcchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_etclab.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_etclab.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_euro.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_euro.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_exchange.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_exchange.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_exchangeunion.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_exchangeunion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fab.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fab.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fabtc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fabtc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fcfl.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fcfl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fenghuang.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fenghuang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fjqkl.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fjqkl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fortuna.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fortuna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_fudan.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_fudan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gaoerjie.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gaoerjie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gate.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gateio.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gateio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gcs.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gcs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gd.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_genex.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_genex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_guangyinglian.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_guangyinglian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_gve.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_gve.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_haitun.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_haitun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_hbp.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_hbp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_huangpu.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_huangpu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_huobi.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_huobi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_hyper.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_hyper.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ibaf.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ibaf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ibca.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ibca.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_icocoin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_icocoin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_int.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_int.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ip.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ip.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_jgycj.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_jgycj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_jibrel.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_jibrel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_jinglin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_jinglin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_jiuding.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_jiuding.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_kuaixun.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_kuaixun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_leo.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_leo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_lite.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_lite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_liuliang.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_liuliang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_llt.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_llt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_lxcj.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_lxcj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_mark.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_mark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_meiribidu.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_meiribidu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_mvs.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_mvs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_nem.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_nem.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_newsbtc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_newsbtc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ninjas.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ninjas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_oax.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_oax.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_okcoin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_okcoin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_preangel.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_preangel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_q.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_q.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_quanmin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_quanmin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_quintar.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_quintar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_red.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_red.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_rnt.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_rnt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_robin.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_robin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ruijiao.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ruijiao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_seer.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_seer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_sgc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_sgc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_sharedfinance.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_sharedfinance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_smt.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_smt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_sosobtc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_sosobtc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_starchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_starchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_stbchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_stbchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_superbloom.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_superbloom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_szzc.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_szzc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_tea.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_tea.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_topchain.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_topchain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_tron.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_tron.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_tuoniao.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_tuoniao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_u.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_u.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_ubs.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_ubs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_unigame.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_unigame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_wechatme.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_wechatme.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_wlcj.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_wlcj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_xiha.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_xiha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_xintian.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_xintian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_yangyang.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_yangyang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_yinlian.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_yinlian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_yiyi.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_yiyi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_youqi.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_youqi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_youyu.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_youyu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_yunbit.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_yunbit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_zb.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_zb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_zenair.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_zenair.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_zendao.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_zendao.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_zengold.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_zengold.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_zhanqi.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_zhanqi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/shaojianliang.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/shaojianliang.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/shaon.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/shaon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/shawn.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/shawn.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/shentuchunchun.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/shentuchunchun.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/shixiaohong.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/shixiaohong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/stevie.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/stevie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/tarmar.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/tarmar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/ted.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/ted.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/tomoaki.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/tomoaki.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/toni.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/toni.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wangbingsheng.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wangbingsheng.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wanglijie.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wanglijie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wangyi.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wangyi.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wangyuehua.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wangyuehua.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wangzhongming.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wangzhongming.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wenxiaodong.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wenxiaodong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/wubinhua.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/wubinhua.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/xiaoyongquan.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/xiaoyongquan.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/xugang.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/xugang.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/xukang.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/xukang.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/xuxiaodong.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/xuxiaodong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/yangbing.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/yangbing.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/yangjianjun.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/yangjianjun.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/yanglinke.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/yanglinke.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/yelu.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/yelu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/you.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/you.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/youya.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/youya.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/yuchen.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/yuchen.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zanzhu.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zanzhu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zenghao.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zenghao.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zenghaohao.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zenghaohao.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zenglimin.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zenglimin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zero.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zero.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zhangjie.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zhangjie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zhangliaoliao.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zhangliaoliao.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zhangshousong.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zhangshousong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/zhangyinhai.jpg" afterPath="$PROJECT_DIR$/conference/images/finwise/zhangyinhai.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/cooperation.html" afterPath="$PROJECT_DIR$/conference/cooperation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/xh-style.css" afterPath="$PROJECT_DIR$/conference/css/xh-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/index.html" afterPath="$PROJECT_DIR$/conference/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/js/mini-nav.js" afterPath="$PROJECT_DIR$/conference/js/mini-nav.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,11 +209,128 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="824" column="47" lean-forward="false" selection-start-line="824" selection-start-column="39" selection-end-line="824" selection-end-column="47" />
+            <state relative-caret-position="362">
+              <caret line="1555" column="38" lean-forward="false" selection-start-line="1555" selection-start-column="25" selection-end-line="1555" selection-end-column="38" />
+              <folding>
+                <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="1554" column="38" lean-forward="false" selection-start-line="1554" selection-start-column="38" selection-end-line="1554" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conference/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="54" />
+              <folding>
+                <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mini-nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/js/mini-nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/en/cooperation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="84" column="24" lean-forward="false" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#table#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/index-en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="77" column="45" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="636" column="27" lean-forward="false" selection-start-line="636" selection-start-column="27" selection-end-line="636" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#video#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -27,10 +338,67 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>zoey sun</find>
+      <find>EN</find>
+      <find>head</find>
+      <find>colorful-border</find>
+      <find>lang-switch</find>
+      <find>575</find>
+      <find>Finwise Summit 纷智区块链峰会提供空间让来自全球区块链、金融科技和金融服务领域中最有远见、最具创新思维行业菁英汇聚一堂，携手共创金融新生态。</find>
+      <find>.abfw-des</find>
+      <find>images/finwise/</find>
+      <find>敬请期待</find>
+      <find>分会场冠名</find>
+      <find>.fm-wrap</find>
+      <find>images/finwise2018/</find>
+      <find>review-old</find>
+      <find>Agenda</find>
+      <find>coop-wrap</find>
+      <find>cooperation-wrap</find>
+      <find>rong</find>
+      <find>src=</find>
+      <find>联合主办</find>
+      <find>partner-wrap</find>
+      <find>images/finwise/logo_starchain.png</find>
+      <find>991</find>
+      <find>合作伙伴</find>
+      <find>images/finwise/logo_gcs.png</find>
+      <find>参会嘉宾</find>
+      <find>images/finwise/zhangzurong.jpg</find>
+      <find>../../images/finwise/Wechat.jpg</find>
+      <find>../images/finwise2018/il.png</find>
+      <find>微信公众号</find>
+      <find>Wechat</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>..images/finwise/</replace>
+      <replace>../images/</replace>
+      <replace>foot-p</replace>
+      <replace>联合主办</replace>
+      <replace>swatch-a cc-border</replace>
+      <replace>swatch-a</replace>
+      <replace>&lt;/div&gt;</replace>
+      <replace>container  partner-wrap footer-wrap</replace>
+      <replace>wh14</replace>
+      <replace>images/finwise/</replace>
+      <replace>../images/finwise2018/</replace>
+      <replace>data-original=</replace>
+      <replace>../js/</replace>
+      <replace>lazy cc-border</replace>
+      <replace>../images/finwise/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/conference/macau</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +406,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/conference/index-macau.html" />
+        <option value="$PROJECT_DIR$/conference/agenda-en.html" />
+        <option value="$PROJECT_DIR$/conference/css/scss.css" />
+        <option value="$PROJECT_DIR$/conference/css/xh-style.css" />
+        <option value="$PROJECT_DIR$/conference/macau/agenda.html" />
+        <option value="$PROJECT_DIR$/conference/macau/agenda-en.html" />
+        <option value="$PROJECT_DIR$/conference/macau/cooperation-en.html" />
+        <option value="$PROJECT_DIR$/conference/macau/cooperation.html" />
+        <option value="$PROJECT_DIR$/conference/macau/index.html" />
+        <option value="$PROJECT_DIR$/conference/macau/index-en.html" />
+        <option value="$PROJECT_DIR$/conference/js/mini-nav.js" />
+        <option value="$PROJECT_DIR$/conference/cooperation.html" />
+        <option value="$PROJECT_DIR$/conference/en/cooperation.html" />
+        <option value="$PROJECT_DIR$/conference/css/scss.scss" />
         <option value="$PROJECT_DIR$/conference/index.html" />
+        <option value="$PROJECT_DIR$/conference/en/index.html" />
+        <option value="$PROJECT_DIR$/conference/.gitignore" />
       </list>
     </option>
   </component>
@@ -49,9 +433,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="202" />
-    <option name="y" value="114" />
-    <option name="width" value="1551" />
+    <option name="x" value="356" />
+    <option name="y" value="120" />
+    <option name="width" value="1500" />
     <option name="height" value="887" />
   </component>
   <component name="ProjectView">
@@ -69,8 +453,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -99,6 +481,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,6 +490,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,6 +504,74 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -131,31 +584,37 @@
       <updated>1515726980075</updated>
       <workItem from="1515727000866" duration="2100000" />
       <workItem from="1515732777162" duration="280000" />
+      <workItem from="1520502562224" duration="2735000" />
+      <workItem from="1520563078234" duration="466000" />
+      <workItem from="1520565812867" duration="17236000" />
+      <workItem from="1520824161742" duration="8541000" />
+      <workItem from="1520841844254" duration="10089000" />
+      <workItem from="1520909091259" duration="21239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2380000" />
+    <option name="totallyTimeSpent" value="62686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="114" width="1551" height="887" extended-state="0" />
+    <frame x="356" y="120" width="1500" height="887" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25828263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -170,11 +629,279 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17595">
+          <caret line="1173" column="40" lean-forward="false" selection-start-line="1173" selection-start-column="22" selection-end-line="1173" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9060">
+          <caret line="604" column="44" lean-forward="false" selection-start-line="604" selection-start-column="44" selection-end-line="604" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="64" lean-forward="false" selection-start-line="288" selection-start-column="64" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conference/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index-macau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17595">
+          <caret line="1173" column="40" lean-forward="false" selection-start-line="1173" selection-start-column="22" selection-end-line="1173" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9060">
+          <caret line="604" column="44" lean-forward="false" selection-start-line="604" selection-start-column="44" selection-end-line="604" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="64" lean-forward="false" selection-start-line="288" selection-start-column="64" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index-macau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17595">
+          <caret line="1173" column="40" lean-forward="false" selection-start-line="1173" selection-start-column="22" selection-end-line="1173" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9060">
+          <caret line="604" column="44" lean-forward="false" selection-start-line="604" selection-start-column="44" selection-end-line="604" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="64" lean-forward="false" selection-start-line="288" selection-start-column="64" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="283" column="0" lean-forward="false" selection-start-line="283" selection-start-column="0" selection-end-line="288" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12360">
+          <caret line="824" column="47" lean-forward="false" selection-start-line="824" selection-start-column="39" selection-end-line="824" selection-end-column="47" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -183,10 +910,179 @@
     <entry file="file://$PROJECT_DIR$/conference/.idea/modules.xml" />
     <entry file="file://$PROJECT_DIR$/conference/.idea/workspace.xml" />
     <entry file="file://$PROJECT_DIR$/conference/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/conference/index-macau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20430">
+          <caret line="1362" column="0" lean-forward="false" selection-start-line="1362" selection-start-column="0" selection-end-line="1362" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/scss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/cooperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/agenda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="77" column="45" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/en/cooperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="84" column="24" lean-forward="false" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/js/mini-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="636" column="27" lean-forward="false" selection-start-line="636" selection-start-column="27" selection-end-line="636" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conference/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="824" column="47" lean-forward="false" selection-start-line="824" selection-start-column="39" selection-end-line="824" selection-end-column="47" />
+        <state relative-caret-position="362">
+          <caret line="1555" column="38" lean-forward="false" selection-start-line="1555" selection-start-column="25" selection-end-line="1555" selection-end-column="38" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#9;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="1554" column="38" lean-forward="false" selection-start-line="1554" selection-start-column="38" selection-end-line="1554" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
         </state>
       </provider>

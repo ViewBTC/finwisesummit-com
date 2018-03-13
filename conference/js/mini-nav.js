@@ -15,4 +15,22 @@ function mininav() {
         $('#topnav').addClass('bg-active');
     }
 }
+
+
+
 /**mini nav end**/
+
+
+var screen_w=window.innerWidth;
+if(screen_w>991){
+    $('.sl-language').mouseenter(function () {
+        $('.review-old').slideDown(300);
+        $('.review-old').addClass('active')
+    })
+
+    $('.sl-language').mouseleave(function () {
+        $('.review-old').slideUp(200);
+    })
+
+}
+
