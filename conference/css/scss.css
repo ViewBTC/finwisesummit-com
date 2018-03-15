@@ -339,7 +339,7 @@ a, a:link, a:visited, a:hover, a:active {
       padding-right: 25px;
       padding-left: 25px; }
     .Bg-fwwrap .contact-wrap .h2-tl {
-      margin: 15px 0 50px; }
+      margin: 62px 0 0; }
 
 .h2-tl {
   font-size: 36px;
@@ -355,7 +355,7 @@ a, a:link, a:visited, a:hover, a:active {
   /* background-size: 50%; */
   display: inline-block;
   background-position: bottom;
-  padding-bottom: 20px;
+  padding-bottom: 28px;
   zoom: 0.5; }
 
 .guest-item .h2-tl {
@@ -385,19 +385,22 @@ a, a:link, a:visited, a:hover, a:active {
     margin-left: -25px; }
 
 .abfw-des {
-  line-height: 34px;
+  line-height: 2.2;
   letter-spacing: 1.2px;
   font-size: 16px;
-  margin: 40px 15px; }
+  margin: 15px; }
   .abfw-des:first-child {
     margin-bottom: 50px; }
 
 @media only screen and (min-width: 990px) and (max-width: 1190px) {
+  .Bg-fwwrap .contact-wrap .h2-tl {
+    margin: 42px 0 0; }
+
   .abfw-des {
-    line-height: 30px;
-    letter-spacing: 0.8px;
-    font-size: 16px;
-    margin: 0 15px; }
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    margin: 15px; }
 
   .gettiketsbox {
     margin: 0 10px !important; } }
@@ -492,6 +495,7 @@ a, a:link, a:visited, a:hover, a:active {
     margin-bottom: 50px; }
 
   .Bg-fwwrap .contact-wrap .h2-tl {
+    font-size: 48px;
     margin: 120px 0 20px !important; }
   .Bg-fwwrap .contact-wrap .video-box {
     text-align: center; }
@@ -499,7 +503,7 @@ a, a:link, a:visited, a:hover, a:active {
     line-height: 28px;
     letter-spacing: 1px;
     font-size: 14px;
-    margin: 40px 0px; }
+    margin: 10px 0px; }
 
   .footer-spewrap .col-md-spe25 {
     width: 100%; }

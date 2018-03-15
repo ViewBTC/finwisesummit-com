@@ -640,7 +640,7 @@ a, a:link, a:visited, a:hover, a:active {
 			}
 			.h2-tl {
 				//font-size: 36px;
-				margin: 15px 0 50px;
+				margin: 62px 0 0;
 			}
 		}
 	}
@@ -668,7 +668,7 @@ a, a:link, a:visited, a:hover, a:active {
 			/* background-size: 50%; */
 			display: inline-block;
 			background-position: bottom;
-			padding-bottom: 20px;
+			padding-bottom: 28px;
 			zoom: 0.5;
 		}
 	}
@@ -718,11 +718,11 @@ a, a:link, a:visited, a:hover, a:active {
 
 	.abfw-des{
 		@extend .font-w300;
-		line-height: 34px;
+		line-height: 2.2;
 		letter-spacing: 1.2px;
 		font-size: 16px;
 		//margin-left: 15px;
-		margin: 40px 15px;
+		margin: 15px;
 		&:first-child{
 			margin-bottom: 50px;
 		}
@@ -732,12 +732,14 @@ a, a:link, a:visited, a:hover, a:active {
 		//.index-fwrap {
 		//	height: 1200px;
 		//}
-
+		.Bg-fwwrap .contact-wrap .h2-tl {
+			margin: 42px 0 0;
+		}
 		.abfw-des {
-			line-height: 30px;
-			letter-spacing: 0.8px;
-			font-size: 16px;
-			margin: 0 15px;
+			line-height: 1.6;
+			letter-spacing: 0.5px;
+			font-size: 15px;
+			margin: 15px;
 		}
 
 		.gettiketsbox {
@@ -948,7 +950,7 @@ a, a:link, a:visited, a:hover, a:active {
 				//	padding-left: 25px;
 				//}
 				.h2-tl {
-					//font-size: 36px;
+					font-size: 48px;
 					margin: 120px 0 20px !important
 				}
 				.video-box{
@@ -959,7 +961,7 @@ a, a:link, a:visited, a:hover, a:active {
 				line-height: 28px;
 				letter-spacing: 1px;
 				font-size: 14px;
-				margin: 40px 0px;
+				margin: 10px 0px;
 			}
 		}
 
