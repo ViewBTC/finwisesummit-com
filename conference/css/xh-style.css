@@ -17,7 +17,10 @@ img, video {
 .photo .row div{
   margin-top: 20px;
 }
-
+.photo .row{
+  width: 100%;
+  /*margin: 0 auto;*/
+}
 
 #topnav > .container {
   position: relative;
@@ -1358,6 +1361,11 @@ h3.page-title span {
 
   .title{
     font-size: 12px;
+  }
+
+  .photo .row{
+    /*width: 100%;*/
+    margin: 0 auto;
   }
 }
 

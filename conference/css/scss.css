@@ -40,7 +40,7 @@ a, a:link, a:visited, a:hover, a:active {
   height: 1050px;
   background-size: cover; }
   .index-fwrap .index-bg {
-    height: 500px; }
+    height: auto; }
 
 #topnav {
   position: fixed;
@@ -85,10 +85,23 @@ a, a:link, a:visited, a:hover, a:active {
   #navigation {
     margin-left: 100px; } }
 @media (min-width: 992px) {
+  #topnav #navigation {
+    position: relative;
+    left: inherit;
+    width: auto;
+    text-align: inherit;
+    float: right;
+    margin-left: 0; }
+
   #topnav .navigation-menu > li > a {
     font-size: 14px;
     line-height: 70px;
-    padding: 0 20px; }
+    padding: 0 !important;
+    margin-right: 25px; }
+  #topnav .fg-line {
+    margin: 0 25px 0 27px; }
+  #topnav .lang-switch a {
+    margin-right: 0 !important; }
   #topnav .logo {
     padding: 0; }
 
@@ -104,7 +117,8 @@ a, a:link, a:visited, a:hover, a:active {
           color: #FF1D92; }
       .past-review .review-old.active {
         background: #0D0D0D;
-        width: 100%; }
+        width: 100%;
+        text-align: center; }
     .past-review.active .review-old {
       display: block; }
 
@@ -113,13 +127,15 @@ a, a:link, a:visited, a:hover, a:active {
     height: 400px; }
 
   .en .colorful-border, .en .des-get {
-    height: 460px; }
-
-  #lang-switch a {
-    font-size: 12px !important; }
+    height: 535px; }
 
   #lang-switch {
-    left: inherit; } }
+    left: inherit;
+    font-size: 12px !important;
+    color: #fff; }
+
+  .clogo-img {
+    margin: 150px 0 120px 0; } }
 @media (min-width: 1400px) {
   #topnav > .container {
     width: 1400px; }
@@ -175,20 +191,19 @@ a, a:link, a:visited, a:hover, a:active {
   width: 90px;
   height: 35px;
   line-height: 36px;
-  margin: 0 70px;
   text-align: center; }
 
 .index-bgdd {
   padding-top: 160px; }
 
 .clogo-img {
-  width: 750px;
-  margin: 80px 60px 10px 0; }
+  width: 70%; }
 
 @media (max-width: 768px) {
   .clogo-img {
     /* width: 230px; */
-    margin: 180px 34px 10px 0; }
+    width: 100%;
+    margin: 160px 34px 80px 0 !important; }
 
   .tb-qywrap table .type-sv {
     padding-left: 10px !important;
@@ -400,10 +415,7 @@ a, a:link, a:visited, a:hover, a:active {
     line-height: 1.6;
     letter-spacing: 0.5px;
     font-size: 15px;
-    margin: 15px; }
-
-  .gettiketsbox {
-    margin: 0 10px !important; } }
+    margin: 15px; } }
 .foot-p .plname-info {
   font-size: 18px; }
 
@@ -491,11 +503,13 @@ a, a:link, a:visited, a:hover, a:active {
   .lang-select {
     right: 60px !important; }
 
+  .clogo-img {
+    margin: 50px 0 80px; }
+
   .data-item .col-md-1 {
     margin-bottom: 50px; }
 
   .Bg-fwwrap .contact-wrap .h2-tl {
-    font-size: 48px;
     margin: 120px 0 20px !important; }
   .Bg-fwwrap .contact-wrap .video-box {
     text-align: center; }
@@ -522,12 +536,16 @@ a, a:link, a:visited, a:hover, a:active {
   .ot-listwrap .colorful-border {
     margin: 30px auto;
     max-width: 420px;
-    height: 360px; }
+    min-height: 440px;
+    height: auto; }
 
   .en .ot-listwrap .colorful-border {
     max-height: 450px;
     height: auto; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .colorful-border {
+    height: 615px !important; }
+
   .en .colorful-border, .en .en .des-get {
     height: 530px; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -557,7 +575,7 @@ a, a:link, a:visited, a:hover, a:active {
   color: #fff;
   border: 1px solid #ad339b;
   max-width: 335px;
-  height: 400px;
+  height: 535px;
   display: block; }
 
 .cc-bg {
