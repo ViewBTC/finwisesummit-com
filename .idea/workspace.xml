@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitpress.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitpress.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_xy.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_xy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise2018/il.png" afterPath="$PROJECT_DIR$/conference/images/finwise2018/il.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/appc-index.html" afterPath="$PROJECT_DIR$/conference/appc-index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/cooperation.html" afterPath="$PROJECT_DIR$/conference/cooperation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css" afterPath="$PROJECT_DIR$/conference/css/scss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css.map" afterPath="$PROJECT_DIR$/conference/css/scss.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.scss" afterPath="$PROJECT_DIR$/conference/css/scss.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/xh-style.css" afterPath="$PROJECT_DIR$/conference/css/xh-style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/en/index.html" afterPath="$PROJECT_DIR$/conference/en/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/index.html" afterPath="$PROJECT_DIR$/conference/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/macau/index-en.html" afterPath="$PROJECT_DIR$/conference/macau/index-en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/macau/index.html" afterPath="$PROJECT_DIR$/conference/macau/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="1179" column="32" lean-forward="false" selection-start-line="1179" selection-start-column="32" selection-end-line="1179" selection-end-column="32" />
+            <state relative-caret-position="261">
+              <caret line="1086" column="55" lean-forward="false" selection-start-line="1086" selection-start-column="47" selection-end-line="1086" selection-end-column="55" />
               <folding>
                 <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -56,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
@@ -66,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conference/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="1164" column="0" lean-forward="false" selection-start-line="1164" selection-start-column="0" selection-end-line="1178" selection-end-column="14" />
+            <state relative-caret-position="246">
+              <caret line="1400" column="8" lean-forward="false" selection-start-line="1400" selection-start-column="8" selection-end-line="1400" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -79,7 +68,7 @@
       <file leaf-file-name="cooperation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="2025">
               <caret line="135" column="160" lean-forward="false" selection-start-line="135" selection-start-column="160" selection-end-line="135" selection-end-column="160" />
               <folding>
                 <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -166,10 +155,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.h2-tl</find>
-      <find>-195px</find>
-      <find>414</find>
-      <find>参会嘉宾</find>
       <find>tk-des</find>
       <find>.tkbox-br</find>
       <find>2880</find>
@@ -196,6 +181,10 @@
       <find>.index-bg</find>
       <find>991</find>
       <find>.clogo-img</find>
+      <find>媒体协办</find>
+      <find>images/finwise/logo_xy.png</find>
+      <find>images/finwise/</find>
+      <find>logo_xy2</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -242,10 +231,10 @@
         <option value="$PROJECT_DIR$/conference/macau/index.html" />
         <option value="$PROJECT_DIR$/conference/macau/index-en.html" />
         <option value="$PROJECT_DIR$/conference/css/xh-style.css" />
-        <option value="$PROJECT_DIR$/conference/en/index.html" />
-        <option value="$PROJECT_DIR$/conference/index.html" />
         <option value="$PROJECT_DIR$/conference/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/css/scss.scss" />
+        <option value="$PROJECT_DIR$/conference/index.html" />
+        <option value="$PROJECT_DIR$/conference/en/index.html" />
       </list>
     </option>
   </component>
@@ -256,8 +245,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="436" />
-    <option name="y" value="140" />
+    <option name="x" value="395" />
+    <option name="y" value="261" />
     <option name="width" value="1500" />
     <option name="height" value="979" />
   </component>
@@ -276,6 +265,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -398,8 +389,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -510,20 +499,22 @@
       <workItem from="1520996794778" duration="16412000" />
       <workItem from="1521082402629" duration="15087000" />
       <workItem from="1521170887312" duration="4249000" />
-      <workItem from="1521189977970" duration="4389000" />
+      <workItem from="1521189977970" duration="4494000" />
+      <workItem from="1521445397965" duration="3373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103472000" />
+    <option name="totallyTimeSpent" value="106950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="140" width="1500" height="979" extended-state="0" />
+    <frame x="395" y="261" width="1500" height="979" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25828263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -535,7 +526,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -938,31 +928,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conference/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="1164" column="0" lean-forward="false" selection-start-line="1164" selection-start-column="0" selection-end-line="1178" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="1179" column="32" lean-forward="false" selection-start-line="1179" selection-start-column="32" selection-end-line="1179" selection-end-column="32" />
-          <folding>
-            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="2025">
           <caret line="135" column="160" lean-forward="false" selection-start-line="135" selection-start-column="160" selection-end-line="135" selection-end-column="160" />
           <folding>
             <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -974,6 +942,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="966" column="30" lean-forward="false" selection-start-line="966" selection-start-column="30" selection-end-line="966" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="1086" column="55" lean-forward="false" selection-start-line="1086" selection-start-column="47" selection-end-line="1086" selection-end-column="55" />
+          <folding>
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="1400" column="8" lean-forward="false" selection-start-line="1400" selection-start-column="8" selection-end-line="1400" selection-end-column="8" />
           <folding />
         </state>
       </provider>
