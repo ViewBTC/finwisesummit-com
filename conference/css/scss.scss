@@ -1,5 +1,7 @@
 /*finwise 2018 gegin*/
 
+@import "var";
+
 ul,li,ol,dl{
 	list-style: none;
 }
@@ -16,8 +18,20 @@ a, a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 }
 
-
-
+body{
+	background: $gray-color;
+}
+.show-ft{
+	//display: block !important;
+	height: 780px;
+	overflow: hidden;
+	&.active{
+		height: auto;
+		.col-md-2{
+			display: block !important;
+		}
+	}
+}
 .bg-white {
 	background-color: #fff;
 }
@@ -150,6 +164,15 @@ a, a:link, a:visited, a:hover, a:active {
 			margin-left: 100px;
 		}
 	}
+	@media (max-width: 992px){
+		.index-fwrap {
+			background: url(../images/finwise2018/wap-bg.jpg) no-repeat;
+			background-position: center 10px;
+			height: 500px;
+			background-size: cover;
+		}
+	}
+
 	@media (min-width: 992px){
 
 		//header
@@ -237,11 +260,44 @@ a, a:link, a:visited, a:hover, a:active {
 
 
 		.clogo-img {
-			margin: 150px 0 120px 0;
+			margin: 150px 0 50px 0;
+			//margin: 150px 0 120px 0;
 			//width: 380px;
 		}
 
+		.beginning-time{
+			font-size: 30px;
+			color: #FFFFFF;
+			margin-bottom: 80px;
+			//font-weight: lighter;
+		}
 
+
+		.count-wrap .col-md-1 {
+			width: 25%;
+		}
+
+		.about-wrap .count-wrap .number{
+			display: block;
+			&.wap-num img{
+				display: none;
+			}
+		}
+
+		//.video-box {
+		//
+		//	.pc-vidimg{
+		//		display: block;
+		//	}
+		//	.wap-vidimg{
+		//		display: none;
+		//	}
+		//
+		//}
+
+		.index-bgdd{
+			padding-top: 160px;
+		}
 	}
 
 	@media (min-width: 1400px){
@@ -323,7 +379,7 @@ a, a:link, a:visited, a:hover, a:active {
 
 		.lang-switch{
 			text-align: left;
-			padding: 20px 20px;
+			padding:0 20px 20px;
 			a{
 				border-bottom: none !important;
 			}
@@ -367,9 +423,7 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 
 	//home first screen
-	.index-bgdd{
-		padding-top: 160px;
-	}
+
 
 	.clogo-img {
 		//margin: 170px 60px 60px 0;
@@ -378,10 +432,43 @@ a, a:link, a:visited, a:hover, a:active {
 		//margin: 80px 60px 10px 0;
 	}
 
+	@media (min-width: 768px){
+		#footer {
+			background-color: #202020;
+			padding: 40px 0 15px;
+		}
+
+
+		.beginning-time {
+			font-size: 20px;
+			color: #FFFFFF;
+			font-weight: lighter;
+			margin-bottom: 50px;
+		}
+		.red-btn{
+			background: $red-color;
+			width: 240px !important;
+			height: 45px !important;
+			line-height: 45px !important;
+			display: inline-block;
+			text-align: center;
+			/* border-radius: 4px; */
+			color: #fff;
+			font-size: 18px;
+			*{
+				display: inline-block;
+			}
+		}
+
+		.mar-left {
+			margin-left: 50px;
+		}
+	}
 	@media (max-width: 768px){
+
 		.clogo-img {
 			/* width: 230px; */
-			width: 100%;
+			width: 80%;
 			margin: 160px 34px 80px 0 !important
 		}
 
@@ -400,16 +487,63 @@ a, a:link, a:visited, a:hover, a:active {
 		}
 
 
+
+		//wap styel begin
+		#footer {
+			background-color:$purple-color2;
+			//padding: 40px 0 15px;
+		}
+
+		.footer-spewrap .fcon-wrap {
+			float: left;
+			margin-bottom: 30px;
+			padding: 0 25px !important;
+		}
+
+
+
+		.red-btn{
+			background: $red-color;
+			width: 160px;
+			height: 36px;
+			line-height: 38px;
+			display: inline-block;
+			text-align: center;
+			/* border-radius: 4px; */
+			color: #fff;
+			font-size: 16px;
+			//@extend .cc-btn;
+			*{
+				display: inline-block;
+			}
+		}
+
+
 	}
 
 
-
+@media (max-width: 320px){
+	#topnav .tikets-wapbox {
+		//position: absolute;
+		//top: 8px;
+		right: 40px !important;
+		//z-index: 9999;
+	}
+}
 
 	@media only screen and (min-width: 300px) and (max-width: 415px) {
 		.index-fwrap{
-			height: 900px !important;
+			height: 600px !important;
 
 		}
+
+		.count-wrap.wap-show .title {
+			font-size: 12px !important;
+			color: #fff;
+			margin-top: 15px;
+		}
+
+
 		.index-bg {
 			/* width: 1000px; */
 			height: 350px !important;
@@ -420,7 +554,7 @@ a, a:link, a:visited, a:hover, a:active {
 
 		.clogo-img {
 			/* width: 230px; */
-			margin: 130px 34px 10px 0;
+			margin: 50px 34px 30px 0 !important;
 		}
 
 		.h2-tl {
@@ -446,13 +580,121 @@ a, a:link, a:visited, a:hover, a:active {
 			}
 		}
 
+
+		.about-wrap .count-wrap {
+			.title{
+				font-size: 12px !important;
+				margin-left: 0px;
+				//margin-top: 0 !important;
+			}
+			.number{
+				display: none;
+				img{
+					//height: 45px;
+					height: auto;
+				}
+				&.wap-num{
+					display: block;
+				}
+			}
+		}
+
+
+		//wap style begin
+		.red-btn{
+			background: $red-color;
+			width: 160px;
+			height: 36px;
+			line-height: 38px;
+			display: inline-block;
+			text-align: center;
+			/* border-radius: 4px; */
+			color: #fff;
+			font-size: 16px;
+			//@extend .cc-btn;
+			*{
+				display: inline-block;
+			}
+		}
+		.beginning-time {
+			font-size: 20px;
+			color: #FFFFFF;
+			font-weight: lighter;
+			margin-bottom: 20px;
+		}
+		.mar-left{
+			margin-left: 20px;
+		}
+
+		.data-item .col-md-1 {
+			margin: 20px 0 !important;
+			//width: 25%;
+			//height: auto;
+		}
+
+		.about-finwise.h2-tl, .guest-item .h2-tl  {
+			font-size: 24px !important;
+			//margin: 40px auto 30px !important;
+			//padding: 0 28px 0px;
+			//margin: 120px 0 80px;
+			//font-weight: 700;
+			//background: url(../images/finwise2018/tl-line.png) repeat-x;
+			///* background-size: 50%; */
+			//display: inline-block;
+			//background-position: bottom;
+		}
+		.Bg-fwwrap .abfw-des {
+
+			font-size: 14px !important;
+
+		}
+
 	}
 
+	@media only screen and (min-width: 416px) and (max-width: 767px) {
+		//wap style begin
+		.red-btn{
+			background: $red-color;
+			width: 160px;
+			height: 36px;
+			line-height: 38px;
+			display: inline-block;
+			text-align: center;
+			/* border-radius: 4px; */
+			color: #fff;
+			font-size: 16px;
+			//@extend .cc-btn;
+			*{
+				display: inline-block;
+			}
+		}
+
+
+
+
+		.beginning-time {
+			font-size: 20px;
+			color: #FFFFFF;
+			font-weight: lighter;
+			margin-bottom: 50px;
+		}
+
+		.clogo-img {
+			/* width: 230px; */
+			width: 100%;
+			margin: 120px 34px 50px 0 !important;
+		}
+
+
+		.index-fwrap {
+			height: 650px !important;
+		}
+	}
 	@media only screen and (min-width: 300px) and (max-width: 767px) {
 		.index-bgdd{
 			&.container {
-				width: auto;
-				padding: 0 50px;
+				width: 100%;
+				//padding: 0 50px;
 			}
 		}
 		.welcome-text{
@@ -613,7 +855,12 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 @media only screen and (min-width: 474px) and (max-width: 992px) {
 	.index-fwrap {
-		height: 1000px;
+		//height: 1000px;
+		height: 972px !important
+
+	}
+	.clogo-img {
+		width: 80%;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 990px) {
@@ -673,7 +920,8 @@ a, a:link, a:visited, a:hover, a:active {
 			}
 			.h2-tl {
 				//font-size: 36px;
-				margin: 62px 0 0;
+				//margin: 62px 0 0;
+				margin:20px 0 40px;
 			}
 		}
 	}
@@ -692,8 +940,11 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 	.about-finwise{
 		&.h2-tl{
-			font-size: 72px;
+			font-size: 36px;
+			//font-size: 72px;
 			//text-align: center;
+			//padding-bottom: 28px;
+			padding: 0 28px 0px;
 			margin: 120px 0 80px;
 			font-weight: 700;
 
@@ -701,8 +952,7 @@ a, a:link, a:visited, a:hover, a:active {
 			/* background-size: 50%; */
 			display: inline-block;
 			background-position: bottom;
-			padding-bottom: 28px;
-			zoom: 0.5;
+			//zoom: 0.5;
 		}
 	}
 
@@ -727,12 +977,12 @@ a, a:link, a:visited, a:hover, a:active {
 		.count-wrap{
 			margin: 40px 0;
 			.number {
-				font-size: 48px;
-				font-weight: 700;
-				-webkit-background-clip: text;
-				-webkit-text-fill-color: transparent;
-				background-image: linear-gradient(0deg, #7515CF 38%, #FF33E1 85%);
-				color: linear-gradient(0deg, #7515CF 38%, #FF33E1 85%);
+				//font-size: 48px;
+				//font-weight: 700;
+				//-webkit-background-clip: text;
+				//-webkit-text-fill-color: transparent;
+				//background-image: linear-gradient(0deg, #7515CF 38%, #FF33E1 85%);
+				//color: linear-gradient(0deg, #7515CF 38%, #FF33E1 85%);
 				img{
 					height: 65px;
 				}
@@ -755,7 +1005,7 @@ a, a:link, a:visited, a:hover, a:active {
 		letter-spacing: 1.2px;
 		font-size: 16px;
 		//margin-left: 15px;
-		margin: 15px;
+		margin: 15px 15px 15px 0;
 		&:first-child{
 			margin-bottom: 50px;
 		}
@@ -766,13 +1016,13 @@ a, a:link, a:visited, a:hover, a:active {
 		//	height: 1200px;
 		//}
 		.Bg-fwwrap .contact-wrap .h2-tl {
-			margin: 42px 0 0;
+			//margin: 42px 0 0;
 		}
 		.abfw-des {
 			line-height: 1.6;
 			letter-spacing: 0.5px;
 			font-size: 15px;
-			margin: 15px;
+			//margin: 15px;
 		}
 
 		.gettiketsbox {
@@ -798,11 +1048,6 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 
 
-	.guest-item .pl-info {
-		//color: #999;
-		font-size: 12px;
-		color: rgba(255,255,255,0.50);
-	}
 
 
 
@@ -810,7 +1055,25 @@ a, a:link, a:visited, a:hover, a:active {
 		.col-md-2 {
 			text-align: center;
 			margin-bottom: 20px;
+			height: 240px;
+			display: none;
+			&.showimg{
+				display: block;
+			}
+			&.show-ft{
+				//display: block !important;
+				height: 720px;
+				overflow: hidden;
+				&.active{
+					height: auto;
+					.col-md-2.showimg{
+						display: block;
+					}
+				}
+			}
 		}
+
+
 		.photo-dbbox{
 			border-radius: 50%;
 			max-width: 100%;
@@ -828,6 +1091,11 @@ a, a:link, a:visited, a:hover, a:active {
 			max-width:inherit;
 			width: 115px;
 		}
+		.pl-info {
+			//color: #999;
+			font-size: 12px;
+			color: rgba(255,255,255,0.50);
+		}
 	}
 
 	.spe-cltl{
@@ -836,7 +1104,11 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 	.spe-tlh3{
 		//font-size: 24px;
-		color: #999999;
+		//color: #999999;
+		color: $purple-color;
+		margin: 30px auto 50px;
+		font-weight: 700;
+		text-align: center;
 	}
 	.partner-wrap{
 		.col-md-3{
@@ -853,7 +1125,9 @@ a, a:link, a:visited, a:hover, a:active {
 			border: 1px solid #D9D9D9;
 
 		}
-
+		img{
+			width: 100%;
+		}
 	}
 	//.union-wrap, .partner-wrap {
 	//	.swatch-a{
@@ -900,10 +1174,10 @@ a, a:link, a:visited, a:hover, a:active {
 	.footer-wrap {
 		margin-bottom: 0;
 	}
-	#footer{
-		background-color:#202020;
-		padding: 40px 0 15px;
-	}
+	//#footer{
+	//	background-color:#202020;
+	//	padding: 40px 0 15px;
+	//}
 	.footer-spewrap{
 		.col-md-spe25 {
 			width: 25%;
@@ -954,8 +1228,12 @@ a, a:link, a:visited, a:hover, a:active {
 	}
 
 	@media only screen and (min-width: 300px) and (max-width: 991px) {
+		.index-fwrap{
+			position: relative;
+		}
 		#topnav .toggle-inner {
-			background-color:#ff5599;
+			//background-color:#ff5599;
+			background-color:$white-color;
 		}
 		.lang-select {
 			right: 60px !important;
@@ -964,8 +1242,16 @@ a, a:link, a:visited, a:hover, a:active {
 
 
 		.clogo-img {
-			margin: 50px 0 80px;
+			//margin: 50px 0 80px;
+			margin: 50px 0 50px;
 			//width: 300px;
+		}
+
+		.beginning-time{
+			//font-size: 30px;
+			//color: #FFFFFF;
+			//font-weight: lighter;
+			//margin-bottom: 50px;
 		}
 
 
@@ -973,7 +1259,16 @@ a, a:link, a:visited, a:hover, a:active {
 			//width: 33%;
 			//float: left;
 			//height: 120px;
-			margin-bottom: 50px;
+			//margin-bottom: 50px;
+			margin: 35px 0;
+			width: 25%;
+			height: auto;
+		}
+
+		.im-welbox.container {
+			width: 100%;
+			position: relative;
+			padding: 0;
 		}
 
 
@@ -992,7 +1287,9 @@ a, a:link, a:visited, a:hover, a:active {
 				//}
 				.h2-tl {
 					//font-size: 48px;
-					margin: 120px 0 20px !important
+					//margin: 120px 0 20px !important;
+					margin: 60px auto 50px !important;
+					text-align: center;
 				}
 				.video-box{
 					text-align: center;
@@ -1001,8 +1298,9 @@ a, a:link, a:visited, a:hover, a:active {
 			.abfw-des {
 				line-height: 28px;
 				letter-spacing: 1px;
-				font-size: 14px;
+				font-size: 18px;
 				margin: 10px 0px;
+				color: #070340;
 			}
 		}
 
@@ -1090,6 +1388,218 @@ a, a:link, a:visited, a:hover, a:active {
 				}
 			}
 		}
+
+
+
+		.about-wrap .count-wrap {
+			.title{
+				font-size: 14px;
+				margin-left: 0px;
+				margin-top: 15px;
+			}
+			.number{
+				display: none;
+				img{
+					//height: 45px;
+					height: auto;
+				}
+				&.wap-num{
+					display: block;
+				}
+			}
+		}
+
+
+		//.video-box {
+			//img{
+			//	display: none;
+			//}
+			//.pc-vidimg{
+			//	display: none !important;
+			//}
+			//.wap-vidimg{
+			//	display: block !important;
+			//}
+
+		//}
+
+
+
+		//wap style begin
+
+		.wap-show{
+			//display: block !important;
+			display: inline-block !important;
+		}
+		.pc-hide{
+			display: none !important;
+		}
+		.index-bgdd {
+			//padding-top: 100px;
+			//padding: 100px 0 0;
+
+		}
+		.index-bg{
+			margin: 100px 0 60px;
+		}
+		.about-wrap .count-wrap{
+			//margin-top: 80px;
+			//background: rgba(22,9,43,0.55);
+		}
+
+		 .count-wrap{
+			 &.wap-show{
+				 //margin-top: 80px;
+				 background: rgba(22,9,43,0.55);
+				 //margin-top: 150px;
+				 position: absolute;
+				 bottom: 0;
+				 width: 100%;
+				 left: 0;
+				 right: 0;
+				 margin: 0;
+				 .title {
+					 font-size: 14px;
+					 color: #fff;
+					 margin-top: 15px;
+				 }
+			 }
+
+		}
+		.Bg-fwwrap{
+			background-image: linear-gradient(-180deg, #FFFFFF 0%, #FFFFFF 100%);
+
+		}
+
+		.guest-item .h2-tl {
+			margin: 120px 0 80px;
+			font-weight: 700;
+			background: none;
+			/* background-size: 50%; */
+			display: inline-block;
+			background-position: bottom;
+			padding: 0 28px 0px;
+			text-align: center;
+			color: #4F2F84;
+		}
+		.about-finwise.h2-tl{
+			background: none;
+			color: #4F2F84;
+			display: block;
+		}
+
+		//guest begin
+		.guest-item {
+			.col-md-2 {
+				text-align: center;
+				margin-bottom: 20px;
+				height: 220px;
+			}
+			.photo-dbbox{
+				border-radius: 50%;
+				max-width: 100%;
+				width: 126px;
+				border: 1px solid #6A4AFF;
+				padding: 4px;
+				margin: 0 auto;
+			}
+
+			img {
+				//border-radius: 50%;
+				//max-width: 70%;
+				//border: 2px solid #6A4AFF;
+				border: 0 none;
+				max-width:inherit;
+				width: 115px;
+			}
+			.foot-p{
+				//color: $purple-color;
+			}
+			.plname-info{
+				color: $purple-color;
+			}
+			.pl-info {
+				//color: #999;
+				font-size: 12px;
+				color: $purple-color;
+			}
+		}
+
+
+		.show-ft{
+			//display: block !important;
+			height: 720px;
+			overflow: hidden;
+			&.active{
+				height: auto;
+				.col-md-2.showimg{
+					display: block;
+				}
+			}
+		}
+
+
+
+		//wap style begin
+		.entrance-wrap{
+			display: none;
+
+		}
+		//.tiketsex .tkbox {
+		//	max-width: 540px;
+		//	width: 100%;
+		//	margin: 0 auto 30px;
+		//}
+
+		.red-btn{
+			//background: $red-color;
+			//width: 160px;
+			//height: 36px;
+			//line-height: 38px;
+			//display: inline-block;
+			//text-align: center;
+			/* border-radius: 4px; */
+			//color: #fff;
+			//font-size: 16px;
+			//@extend .cc-btn;
+			*{
+				//display: inline-block;
+			}
+		}
+		.s-icon{
+			//background: url("../images/finwise2018/s-icon.png");
+			width: 20px;
+			background: url(../images/finwise2018/s-icon.png);
+			background-size: cover;
+			height: 20px;
+			height: 20px;
+			position: relative;
+			top: 4px;
+			left: 10px;
+			//display: block;
+
+			//float: right;
+		}
+
+		#topnav  {
+			.tikets-wapbox{
+				//position: absolute;
+				position: absolute;
+				//top: -50px;
+				top: 8px;
+				right: 60px;
+				z-index: 9999;
+				.gettiketsbox{
+					font-size: 12px;
+					width: 80px;
+					height: 30px;
+					line-height: 30px;
+				}
+			}
+			//float: none;
+			//display: block;
+		}
+		//wap style end
 
 	}
 
@@ -1315,3 +1825,26 @@ a, a:link, a:visited, a:hover, a:active {
 		}
 		}
 	//}
+
+.show-all{
+	//float: right;
+	//padding-bottom: 30px;
+	cursor: pointer;
+	background: $red-color;
+	//background: #FF1D92;
+	//padding: 5px 18px;
+	width: 220px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	font-size: 18px;
+	color: rgba(255,255,255,0.90);
+	margin: 0 auto 30px;
+	display: block;
+}
+
+
+
+.wap-show{
+	display: none;
+}
