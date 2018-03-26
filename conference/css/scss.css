@@ -35,6 +35,14 @@ body {
     .show-ft.active .col-md-2 {
       display: block !important; }
 
+.co-sponsor-wrap .show-allimg {
+  height: 575px;
+  overflow: hidden; }
+  .co-sponsor-wrap .show-allimg.active {
+    height: auto !important; }
+    .co-sponsor-wrap .show-allimg.active .col-md-2 {
+      display: block !important; }
+
 .bg-white {
   background-color: #fff; }
 
@@ -114,7 +122,10 @@ body {
     background: url(../images/finwise2018/wap-bg.jpg) no-repeat;
     background-position: center 10px;
     height: 500px;
-    background-size: cover; } }
+    background-size: cover; }
+
+  .Bg-fwwrap .contact-wrap {
+    margin-top: 0 !important; } }
 @media (min-width: 992px) {
   #topnav #navigation {
     position: relative;
@@ -194,6 +205,22 @@ body {
     width: 620px; }
   .tiketsex .tkbox-br {
     width: 620px; } }
+@media only screen and (min-width: 490px) and (max-width: 700px) {
+  .co-sponsor-wrap .show-allimg {
+    height: 500px !important;
+    overflow: hidden; }
+    .co-sponsor-wrap .show-allimg.active {
+      height: auto; }
+      .co-sponsor-wrap .show-allimg.active .col-md-2 {
+        display: block !important; } }
+@media only screen and (min-width: 701px) and (max-width: 990px) {
+  .co-sponsor-wrap .show-allimg {
+    height: 725px;
+    overflow: hidden; }
+    .co-sponsor-wrap .show-allimg.active {
+      height: auto; }
+      .co-sponsor-wrap .show-allimg.active .col-md-2 {
+        display: block !important; } }
 @media only screen and (min-width: 300px) and (max-width: 990px) {
   #topnav .navigation-menu > li > a {
     padding: 12px 20px; }
@@ -272,8 +299,7 @@ body {
 @media (max-width: 768px) {
   .clogo-img {
     /* width: 230px; */
-    width: 80%;
-    margin: 160px 34px 80px 0 !important; }
+    width: 70%; }
 
   .tb-qywrap table .type-sv {
     padding-left: 10px !important;
@@ -286,13 +312,18 @@ body {
   .check-i {
     width: 18px !important; }
 
+  .Bg-fwwrap .contact-wrap .col-md-6 {
+    padding-right: 0 !important;
+    padding-left: 0 !important; }
+
   #footer {
-    background-color: #603EA3; }
+    background-color: #fff; }
+    #footer .footer-spewrap {
+      background-color: #603EA3; }
 
   .footer-spewrap .fcon-wrap {
     float: left;
-    margin-bottom: 30px;
-    padding: 0 25px !important; }
+    margin-bottom: 30px; }
 
   .red-btn {
     background: #FF1D92;
@@ -305,13 +336,31 @@ body {
     color: #fff;
     font-size: 16px; }
     .red-btn * {
-      display: inline-block; } }
+      display: inline-block; }
+
+  .col-md-2 {
+    padding-right: 6px;
+    padding-left: 6px; }
+
+  .partner-wrap .col-md-2 img {
+    margin-bottom: 12px !important; } }
 @media (max-width: 320px) {
   #topnav .tikets-wapbox {
     right: 40px !important; } }
+@media only screen and (min-width: 300px) and (max-width: 412px) {
+  .clogo-img {
+    /* width: 230px; */
+    margin: 30px 0 30px 0 !important; } }
+@media only screen and (min-width: 300px) and (max-width: 374px) {
+  .co-sponsor-wrap .show-allimg {
+    height: 450px !important; } }
+@media only screen and (min-width: 375px) and (max-width: 414px) {
+  .co-sponsor-wrap .show-allimg {
+    height: 560px !important; } }
 @media only screen and (min-width: 300px) and (max-width: 415px) {
   .index-fwrap {
-    height: 600px !important; }
+    height: 550px !important;
+    padding-top: 100px; }
 
   .count-wrap.wap-show .title {
     font-size: 12px !important;
@@ -320,17 +369,17 @@ body {
 
   .index-bg {
     /* width: 1000px; */
-    height: 350px !important; }
+    height: 550px !important; }
 
   .welcome-text {
     font-size: 12px !important; }
 
   .clogo-img {
     /* width: 230px; */
-    margin: 50px 34px 30px 0 !important; }
+    margin: 50px 0 50px 0; }
 
   .h2-tl {
-    margin: 80px 0 80px !important; }
+    margin: 50px 0 30px !important; }
 
   .data-item .col-md-1:last-child {
     margin-bottom: 0 !important; }
@@ -358,6 +407,13 @@ body {
     .about-wrap .count-wrap .number.wap-num {
       display: block; }
 
+  .Bg-fwwrap .contact-wrap .h2-tl {
+    margin: 10px auto 25px !important;
+    text-align: center; }
+
+  .about-finwise.h2-tl, .guest-item .h2-tl {
+    font-size: 24px !important; }
+
   .red-btn {
     background: #FF1D92;
     width: 160px;
@@ -383,11 +439,39 @@ body {
   .data-item .col-md-1 {
     margin: 20px 0 !important; }
 
-  .about-finwise.h2-tl, .guest-item .h2-tl {
-    font-size: 24px !important; }
-
   .Bg-fwwrap .abfw-des {
-    font-size: 14px !important; } }
+    font-size: 14px !important; }
+
+  .show-ft {
+    height: 660px !important;
+    overflow: hidden; }
+
+  .guest-item .col-md-2 {
+    height: 200px !important; }
+    .guest-item .col-md-2 .pl-info {
+      width: 70% !important;
+      margin: 0 auto; }
+
+  .footer-wrap .col-md-2 {
+    width: 50%; }
+
+  .show-all, .show-hide {
+    cursor: pointer;
+    background: #FF1D92;
+    width: 150px !important;
+    height: 35px !important;
+    text-align: center;
+    line-height: 35px !important;
+    font-size: 14px !important;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0 auto 30px;
+    display: block; }
+
+  #footer .footer-spewrap .row {
+    padding: 25px 20px !important; } }
+@media only screen and (min-width: 414px) and (max-width: 515px) {
+  .index-fwrap {
+    height: 600px !important; } }
 @media only screen and (min-width: 416px) and (max-width: 767px) {
   .red-btn {
     background: #FF1D92;
@@ -410,8 +494,7 @@ body {
 
   .clogo-img {
     /* width: 230px; */
-    width: 100%;
-    margin: 120px 34px 50px 0 !important; }
+    margin: 120px 0 50px 0 !important; }
 
   .index-fwrap {
     height: 650px !important; } }
@@ -492,15 +575,10 @@ body {
 
   .en .tb-qywrap table th {
     padding: 0 5px; } }
-@media only screen and (min-width: 474px) and (max-width: 992px) {
-  .index-fwrap {
-    height: 972px !important; }
-
-  .clogo-img {
-    width: 80%; } }
 @media only screen and (min-width: 768px) and (max-width: 990px) {
   .index-fwrap {
-    height: 1200px; } }
+    height: 1000px;
+    padding-top: 150px; } }
 @media only screen and (min-width: 300px) and (max-width: 1205px) {
   .tiketsex.col-md-6 {
     width: 100%; }
@@ -540,6 +618,9 @@ body {
   /* background-size: 50%; */
   display: inline-block;
   background-position: bottom; }
+  .about-finwise.h2-tl .about-intr {
+    color: #ccc;
+    font-size: 18px; }
 
 .guest-item .h2-tl {
   margin: 120px 0 80px;
@@ -613,9 +694,12 @@ body {
 
 .spe-tlh3 {
   color: #4F2F84;
-  margin: 30px auto 50px;
+  margin: 30px auto 45px;
   font-weight: 700;
   text-align: center; }
+
+.union-wrap {
+  padding-top: 20px; }
 
 .partner-wrap .col-md-3 {
   margin-bottom: 30px; }
@@ -669,7 +753,13 @@ body {
     position: relative; }
 
   #topnav .toggle-inner {
-    background-color: #D8D8D8; }
+    background-color: #D8D8D8;
+    top: 56% !important; }
+  #topnav.stick .menu-toggle:hover .toggle-inner {
+    background-color: #FF1D92 !important; }
+  #topnav.stick .navigation-menu > li > a:hover {
+    color: #FF1D92 !important;
+    background-color: transparent; }
 
   .lang-select {
     right: 60px !important; }
@@ -688,10 +778,12 @@ body {
     padding: 0; }
 
   .Bg-fwwrap .contact-wrap .h2-tl {
-    margin: 60px auto 50px !important;
+    margin: 60px auto 50px;
     text-align: center; }
   .Bg-fwwrap .contact-wrap .video-box {
     text-align: center; }
+  .Bg-fwwrap .contact-wrap .finwise-ad {
+    margin-bottom: 10px; }
   .Bg-fwwrap .abfw-des {
     line-height: 28px;
     letter-spacing: 1px;
@@ -704,9 +796,7 @@ body {
   .footer-spewrap .col-md-6 {
     width: 100%; }
   .footer-spewrap .fcon-wrap {
-    float: left;
-    margin-bottom: 30px;
-    padding: 0 20px; }
+    float: left; }
 
   .cont-imwrap .col-md-6 {
     margin: 0 0 30px; }
@@ -739,9 +829,6 @@ body {
 
   .pc-hide {
     display: none !important; }
-
-  .index-bg {
-    margin: 100px 0 60px; }
 
   .count-wrap.wap-show {
     background: rgba(22, 9, 43, 0.55);
@@ -797,10 +884,10 @@ body {
     color: #4F2F84; }
 
   .show-ft {
-    height: 720px;
+    height: 720px !important;
     overflow: hidden; }
     .show-ft.active {
-      height: auto; }
+      height: auto !important; }
       .show-ft.active .col-md-2.showimg {
         display: block; }
 
@@ -822,14 +909,60 @@ body {
 
   #topnav .tikets-wapbox {
     position: absolute;
-    top: 8px;
+    top: 13px;
     right: 60px;
     z-index: 9999; }
     #topnav .tikets-wapbox .gettiketsbox {
       font-size: 12px;
       width: 80px;
       height: 30px;
-      line-height: 30px; } }
+      line-height: 30px; }
+
+  #footer {
+    background-color: #fff;
+    padding: 0; }
+    #footer .footer-spewrap {
+      background-color: #603EA3;
+      width: 100%; }
+      #footer .footer-spewrap .fcon-wrap {
+        float: left;
+        padding: 0;
+        margin-bottom: 0; }
+      #footer .footer-spewrap .row {
+        padding: 25px 40px; }
+      #footer .footer-spewrap .col-md-spe25 {
+        margin-bottom: 20px; }
+    #footer .fim-tl {
+      font-size: 20px;
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 18px;
+      font-weight: 400;
+      border-left: 3px solid #fff;
+      padding-left: 10px; }
+    #footer .email {
+      margin: 0; }
+    #footer .contact-ussty:last-child {
+      margin-bottom: 0; }
+    #footer .contact-ussty dt {
+      float: none;
+      /* display: inline-block; */
+      height: auto;
+      min-width: 120px; }
+    #footer .contact-ussty dd {
+      width: 70%;
+      text-align: left;
+      margin-left: 0; }
+    #footer .col-md-wap {
+      width: 100%;
+      padding: 25px;
+      background-color: #fff; }
+      #footer .col-md-wap .col-md-6 {
+        width: 50%;
+        float: left;
+        text-align: center; }
+      #footer .col-md-wap .logo-footer {
+        max-height: 100px; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .colorful-border {
     height: 615px !important; }
@@ -961,7 +1094,7 @@ body {
   .cont-cm p {
     margin: 0; }
 
-.show-all {
+.show-all, .show-hide {
   cursor: pointer;
   background: #FF1D92;
   width: 220px;
@@ -970,7 +1103,7 @@ body {
   line-height: 45px;
   font-size: 18px;
   color: rgba(255, 255, 255, 0.9);
-  margin: 0 auto 30px;
+  margin: 20px auto 30px;
   display: block; }
 
 .wap-show {

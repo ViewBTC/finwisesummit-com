@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css" afterPath="$PROJECT_DIR$/conference/css/scss.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css.map" afterPath="$PROJECT_DIR$/conference/css/scss.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.scss" afterPath="$PROJECT_DIR$/conference/css/scss.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/var.css.map" afterPath="$PROJECT_DIR$/conference/css/var.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/var.scss" afterPath="$PROJECT_DIR$/conference/css/var.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/index.html" afterPath="$PROJECT_DIR$/conference/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,15 +26,24 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4440">
-              <caret line="2037" column="18" lean-forward="false" selection-start-line="245" selection-start-column="2" selection-end-line="2037" selection-end-column="18" />
+            <state relative-caret-position="398">
+              <caret line="2169" column="0" lean-forward="true" selection-start-line="2169" selection-start-column="0" selection-end-line="2169" selection-end-column="0" />
               <folding>
                 <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/css/bundle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15233">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,41 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mini-nav.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/js/mini-nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="xh-style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="15">
               <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9510">
-              <caret line="634" column="42" lean-forward="false" selection-start-line="634" selection-start-column="42" selection-end-line="634" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="var.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/var.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="413">
+              <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -86,8 +81,18 @@
       <file leaf-file-name="var.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/var.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="60">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lightbox.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/css/lightbox.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="709">
@@ -134,36 +139,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.guest-item</find>
-      <find>.show-ft</find>
-      <find>合作伙伴</find>
-      <find>.spe-tlh3</find>
-      <find>#footer</find>
-      <find>.show-all</find>
-      <find>sss</find>
-      <find>ssshow</find>
-      <find>2018</find>
-      <find>tkbox</find>
-      <find>tikets-box</find>
-      <find>#topnav .toggle-inner</find>
-      <find>.lang-switch</find>
       <find>beginning-time</find>
       <find>.beginning-time</find>
-      <find>992</find>
       <find>.count-wrap</find>
       <find>wap-show</find>
-      <find>768</find>
-      <find>991</find>
       <find>.clogo-img</find>
       <find>logo_ibaf.png</find>
       <find>.index-fwrap</find>
       <find>.index-bgdd</find>
       <find>img, video</find>
       <find>.red-btn</find>
-      <find>300</find>
       <find>../images/finwise/lhzb/logo_ibaf.png</find>
       <find>参会嘉宾</find>
       <find>images/finwise/lhzb/logo_ibaf.png</find>
+      <find>hm.baidu.com</find>
+      <find>ticket@finwisesummit.com</find>
+      <find>媒体参与报道</find>
+      <find>关于大会</find>
+      <find>416</find>
+      <find>$gray-color</find>
+      <find>uni</find>
+      <find>650</find>
+      <find>adwap</find>
+      <find>991</find>
+      <find>992</find>
+      <find>414</find>
+      <find>show-ft</find>
+      <find>415</find>
+      <find>container  partner-wrap footer-wrap</find>
+      <find>300</find>
+      <find>768</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -212,11 +217,11 @@
         <option value="$PROJECT_DIR$/conference/macau/index-en.html" />
         <option value="$PROJECT_DIR$/conference/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/css/var.scss.css" />
-        <option value="$PROJECT_DIR$/conference/css/var.scss" />
         <option value="$PROJECT_DIR$/conference/en/index.html" />
         <option value="$PROJECT_DIR$/conference/css/xh-style.css" />
-        <option value="$PROJECT_DIR$/conference/css/scss.scss" />
+        <option value="$PROJECT_DIR$/conference/css/var.scss" />
         <option value="$PROJECT_DIR$/conference/index.html" />
+        <option value="$PROJECT_DIR$/conference/css/scss.scss" />
       </list>
     </option>
   </component>
@@ -227,8 +232,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="y" value="138" />
+    <option name="x" value="576" />
+    <option name="y" value="135" />
     <option name="width" value="1411" />
     <option name="height" value="909" />
   </component>
@@ -510,19 +515,21 @@
       <workItem from="1521687917281" duration="12034000" />
       <workItem from="1521773906580" duration="484000" />
       <workItem from="1521793255345" duration="4542000" />
-      <workItem from="1522031151006" duration="149000" />
+      <workItem from="1522031151006" duration="13870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136710000" />
+    <option name="totallyTimeSpent" value="150431000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="375" y="138" width="1411" height="909" extended-state="0" />
+    <frame x="576" y="135" width="1411" height="909" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27482015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27482015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -534,7 +541,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -549,20 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17595">
-          <caret line="1173" column="40" lean-forward="false" selection-start-line="1173" selection-start-column="22" selection-end-line="1173" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/macau/index-en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9060">
-          <caret line="604" column="44" lean-forward="false" selection-start-line="604" selection-start-column="44" selection-end-line="604" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference/agenda-en.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -607,7 +599,6 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -677,7 +668,6 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -691,7 +681,6 @@
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -789,6 +778,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
           <caret line="135" column="160" lean-forward="false" selection-start-line="135" selection-start-column="160" selection-end-line="135" selection-end-column="160" />
+          <folding>
+            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -796,6 +788,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11942">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -803,6 +796,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -829,57 +825,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/zdy.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/var.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/var.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9510">
-          <caret line="634" column="42" lean-forward="false" selection-start-line="634" selection-start-column="42" selection-end-line="634" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4440">
-          <caret line="2037" column="18" lean-forward="false" selection-start-line="245" selection-start-column="2" selection-end-line="2037" selection-end-column="18" />
-          <folding>
-            <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,6 +853,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="709">
           <caret line="1073" column="59" lean-forward="false" selection-start-line="1073" selection-start-column="59" selection-end-line="1073" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/zdy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/lightbox.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/bundle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15233">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="2169" column="0" lean-forward="true" selection-start-line="2169" selection-start-column="0" selection-end-line="2169" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
           <folding />
         </state>
       </provider>
