@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/images/finwise/logo_bitpress.png" afterPath="$PROJECT_DIR$/conference/images/finwise/logo_bitpress.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/cooperation.html" afterPath="$PROJECT_DIR$/conference/cooperation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css" afterPath="$PROJECT_DIR$/conference/css/scss.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css.map" afterPath="$PROJECT_DIR$/conference/css/scss.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.scss" afterPath="$PROJECT_DIR$/conference/css/scss.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/var.css.map" afterPath="$PROJECT_DIR$/conference/css/var.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/var.scss" afterPath="$PROJECT_DIR$/conference/css/var.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/en/cooperation.html" afterPath="$PROJECT_DIR$/conference/en/cooperation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/index.html" afterPath="$PROJECT_DIR$/conference/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,36 +26,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conference/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="2169" column="0" lean-forward="true" selection-start-line="2169" selection-start-column="0" selection-end-line="2169" selection-end-column="0" />
+            <state relative-caret-position="514">
+              <caret line="236" column="39" lean-forward="false" selection-start-line="236" selection-start-column="39" selection-end-line="236" selection-end-column="39" />
               <folding>
                 <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/css/bundle.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15233">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-en.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/index-en.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2955">
-              <caret line="197" column="53" lean-forward="false" selection-start-line="197" selection-start-column="53" selection-end-line="197" selection-end-column="53" />
+            <state relative-caret-position="187">
+              <caret line="725" column="18" lean-forward="true" selection-start-line="725" selection-start-column="18" selection-end-line="725" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -61,18 +53,72 @@
       <file leaf-file-name="xh-style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="195">
               <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+            <state relative-caret-position="211">
+              <caret line="2558" column="93" lean-forward="false" selection-start-line="2558" selection-start-column="93" selection-end-line="2558" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="342" column="50" lean-forward="true" selection-start-line="342" selection-start-column="32" selection-end-line="342" selection-end-column="50" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.SuperSlide2.1.2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/js/jquery.SuperSlide2.1.2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="30" column="98" lean-forward="false" selection-start-line="30" selection-start-column="98" selection-end-line="30" selection-end-column="98" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cooperation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/en/cooperation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mini-nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conference/js/mini-nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,48 +127,8 @@
       <file leaf-file-name="var.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conference/css/var.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lightbox.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/css/lightbox.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zdy.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/zdy.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/en/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="1073" column="59" lean-forward="false" selection-start-line="1073" selection-start-column="59" selection-end-line="1073" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appc-index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conference/appc-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="167" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -139,36 +145,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>beginning-time</find>
-      <find>.beginning-time</find>
       <find>.count-wrap</find>
-      <find>wap-show</find>
-      <find>.clogo-img</find>
-      <find>logo_ibaf.png</find>
-      <find>.index-fwrap</find>
-      <find>.index-bgdd</find>
-      <find>img, video</find>
-      <find>.red-btn</find>
-      <find>../images/finwise/lhzb/logo_ibaf.png</find>
-      <find>参会嘉宾</find>
-      <find>images/finwise/lhzb/logo_ibaf.png</find>
-      <find>hm.baidu.com</find>
-      <find>ticket@finwisesummit.com</find>
-      <find>媒体参与报道</find>
-      <find>关于大会</find>
-      <find>416</find>
-      <find>$gray-color</find>
-      <find>uni</find>
-      <find>650</find>
-      <find>adwap</find>
-      <find>991</find>
-      <find>992</find>
-      <find>414</find>
-      <find>show-ft</find>
-      <find>415</find>
-      <find>container  partner-wrap footer-wrap</find>
+      <find>40px 0</find>
+      <find>images/finwise2018/2500.png</find>
       <find>300</find>
+      <find>p</find>
+      <find>about-finwise h2-tl</find>
+      <find>images/finwise2018/video-ad.png</find>
+      <find>first-child</find>
+      <find>plan-wrap</find>
+      <find>415</find>
+      <find>991</find>
+      <find>ct-lists fl</find>
+      <find>.fm-wrap</find>
+      <find>menu</find>
+      <find>images/finwise/logo_yangyang.png</find>
+      <find>992</find>
+      <find>1200</find>
       <find>768</find>
+      <find>mdpartner-wrap</find>
+      <find>.show-all</find>
+      <find>.guest-item</find>
+      <find>images/finwise/logo-tnews.png</find>
+      <find>fd</find>
+      <find>images/finwise/new/caixin.png</find>
+      <find>images/finwise2018/about/ray.png</find>
+      <find>#footer</find>
+      <find>520</find>
+      <find>images/left_ico.png</find>
+      <find>cat.png</find>
+      <find>images/finwise2018/about/fw-tokyo.png</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -211,17 +217,19 @@
         <option value="$PROJECT_DIR$/conference/macau/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/js/mini-nav.js" />
         <option value="$PROJECT_DIR$/conference/.gitignore" />
-        <option value="$PROJECT_DIR$/conference/en/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/appc-index.html" />
         <option value="$PROJECT_DIR$/conference/macau/index.html" />
         <option value="$PROJECT_DIR$/conference/macau/index-en.html" />
-        <option value="$PROJECT_DIR$/conference/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/css/var.scss.css" />
         <option value="$PROJECT_DIR$/conference/en/index.html" />
         <option value="$PROJECT_DIR$/conference/css/xh-style.css" />
         <option value="$PROJECT_DIR$/conference/css/var.scss" />
-        <option value="$PROJECT_DIR$/conference/index.html" />
+        <option value="$PROJECT_DIR$/conference/cooperation.html" />
+        <option value="$PROJECT_DIR$/conference/en/cooperation.html" />
         <option value="$PROJECT_DIR$/conference/css/scss.scss" />
+        <option value="$PROJECT_DIR$/conference/js/jquery.SuperSlide2.1.2.js" />
+        <option value="$PROJECT_DIR$/conference/about.html" />
+        <option value="$PROJECT_DIR$/conference/index.html" />
       </list>
     </option>
   </component>
@@ -232,10 +240,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="576" />
-    <option name="y" value="135" />
+    <option name="x" value="363" />
+    <option name="y" value="140" />
     <option name="width" value="1411" />
-    <option name="height" value="909" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -252,6 +260,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -396,7 +405,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -515,32 +523,36 @@
       <workItem from="1521687917281" duration="12034000" />
       <workItem from="1521773906580" duration="484000" />
       <workItem from="1521793255345" duration="4542000" />
-      <workItem from="1522031151006" duration="13870000" />
+      <workItem from="1522031151006" duration="13958000" />
+      <workItem from="1522121139788" duration="9040000" />
+      <workItem from="1522205204065" duration="6475000" />
+      <workItem from="1522291672066" duration="8049000" />
+      <workItem from="1522314386769" duration="2897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150431000" />
+    <option name="totallyTimeSpent" value="176980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="576" y="135" width="1411" height="909" extended-state="0" />
+    <frame x="363" y="140" width="1411" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27482015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32585752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -555,20 +567,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conference/agenda-en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="25" lean-forward="false" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/macau/agenda-en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4320">
-          <caret line="288" column="64" lean-forward="false" selection-start-line="288" selection-start-column="64" selection-end-line="288" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference/macau/agenda.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4245">
@@ -596,9 +594,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -665,9 +662,8 @@
           <caret line="824" column="47" lean-forward="false" selection-start-line="824" selection-start-column="39" selection-end-line="824" selection-end-column="47" />
           <folding>
             <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -678,9 +674,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -753,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conference/en/cooperation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4365">
-          <caret line="446" column="62" lean-forward="false" selection-start-line="446" selection-start-column="62" selection-end-line="446" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference/macau/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
@@ -774,24 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="135" column="160" lean-forward="false" selection-start-line="135" selection-start-column="160" selection-end-line="135" selection-end-column="160" />
-          <folding>
-            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11942">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conference/js/SmoothScroll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -799,13 +769,6 @@
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/js/w3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -817,6 +780,64 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conference/css/var.scss.css" />
+    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/index-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="197" column="53" lean-forward="false" selection-start-line="197" selection-start-column="53" selection-end-line="197" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/appc-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="167" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/zdy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/lightbox.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/bundle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="4" column="2609" lean-forward="true" selection-start-line="4" selection-start-column="2609" selection-end-line="4" selection-end-column="2609" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/js/w3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conference/js/mini-nav.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -825,47 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/var.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/index-en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2955">
-          <caret line="197" column="53" lean-forward="false" selection-start-line="197" selection-start-column="53" selection-end-line="197" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/appc-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="167" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="1073" column="59" lean-forward="false" selection-start-line="1073" selection-start-column="59" selection-end-line="1073" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../viewfin-维优code/viewfin-dev/viewfin/css/scss/zdy.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/lightbox.min.css">
+    <entry file="file://$PROJECT_DIR$/conference/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -873,48 +854,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/bundle.css">
+    <entry file="file://$PROJECT_DIR$/conference/en/cooperation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15233">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1050">
+          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/xh-style.css">
+    <entry file="file://$PROJECT_DIR$/conference/cooperation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="1140">
+          <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conference/css/var.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="2558" column="93" lean-forward="false" selection-start-line="2558" selection-start-column="93" selection-end-line="2558" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/js/jquery.SuperSlide2.1.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="30" column="98" lean-forward="false" selection-start-line="30" selection-start-column="98" selection-end-line="30" selection-end-column="98" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="342" column="50" lean-forward="true" selection-start-line="342" selection-start-column="32" selection-end-line="342" selection-end-column="50" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conference/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="725" column="18" lean-forward="true" selection-start-line="725" selection-start-column="18" selection-end-line="725" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conference/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="2169" column="0" lean-forward="true" selection-start-line="2169" selection-start-column="0" selection-end-line="2169" selection-end-column="0" />
+        <state relative-caret-position="514">
+          <caret line="236" column="39" lean-forward="false" selection-start-line="236" selection-start-column="39" selection-end-line="236" selection-end-column="39" />
           <folding>
             <element signature="n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conference/css/scss.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
