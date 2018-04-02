@@ -14,6 +14,10 @@
 
 /*screen width*/
 /*url*/
+::selection {
+  background-color: #FF1D92;
+  color: #fff; }
+
 ul, li, ol, dl {
   list-style: none; }
 
@@ -102,7 +106,7 @@ body {
   .past-review .review-old {
     position: absolute; }
     .past-review .review-old li {
-      margin: 15px 0; }
+      margin: 20px 0; }
       .past-review .review-old li a:hover {
         color: #FF1D92; }
   .past-review.active .review-old {
@@ -141,7 +145,7 @@ body {
     font-size: 14px;
     line-height: 70px;
     padding: 0 !important;
-    margin-right: 25px; }
+    margin: 0 13px; }
   #topnav .fg-line {
     margin: 0 25px 0 27px; }
   #topnav .lang-switch a {
@@ -154,9 +158,11 @@ body {
     color: #fff; }
     .past-review .review-old {
       display: none;
-      position: absolute; }
+      position: absolute;
+      top: 50px; }
       .past-review .review-old li {
-        margin: 15px 0; }
+        margin: 20px 0;
+        letter-spacing: 1px; }
         .past-review .review-old li a:hover {
           color: #FF1D92; }
       .past-review .review-old.active {
@@ -232,23 +238,22 @@ body {
   #topnav .logo {
     padding: 0; }
     #topnav .logo .finwise-logowrap {
-      height: 40px;
+      height: 55px;
       vertical-align: middle;
       display: table-cell; }
 
   .past-review {
-    padding: 20px 20px;
     height: 140px;
     display: inline-block;
     float: left;
     text-align: left; }
     .past-review .review-old li {
       list-style: circle;
-      margin-left: 35px; }
+      margin-left: 55px; }
 
   .lang-switch {
     text-align: left;
-    padding: 0 20px 20px; }
+    padding: 15px 20px; }
     .lang-switch a {
       border-bottom: none !important; }
 
@@ -713,7 +718,7 @@ body {
       padding-right: 25px;
       padding-left: 25px; }
     .Bg-fwwrap .contact-wrap .h2-tl {
-      margin: 20px 0 40px; }
+      margin: 10px 0 20px; }
 
 .h2-tl {
   font-size: 36px;
@@ -762,6 +767,10 @@ body {
   margin: 15px 15px 15px 0; }
   .abfw-des:first-child {
     margin-bottom: 50px; }
+  .abfw-des.c-more {
+    color: #F0F0F0; }
+    .abfw-des.c-more:hover {
+      color: #FF1D92; }
 
 @media only screen and (min-width: 768px) and (max-width: 999px) {
   .team-wrap .col-md-3 {
@@ -922,7 +931,7 @@ body {
   .Bg-fwwrap .contact-wrap .video-box {
     text-align: center; }
   .Bg-fwwrap .contact-wrap .finwise-ad {
-    margin-bottom: 10px; }
+    margin: 25px 0 10px; }
   .Bg-fwwrap .abfw-des {
     line-height: 28px;
     letter-spacing: 1px;

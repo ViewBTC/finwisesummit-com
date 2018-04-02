@@ -2,6 +2,13 @@
 
 @import "var";
 
+
+::selection {
+	background-color: $red-color;
+	color: #fff;
+}
+
+
 ul,li,ol,dl{
 	list-style: none;
 }
@@ -145,7 +152,7 @@ body{
 			position: absolute;
 			//font-size: 14px;
 			li{
-				margin: 15px 0;
+				margin: 20px 0;
 				& a:hover{
 					color: #FF1D92;
 				}
@@ -229,7 +236,8 @@ body{
 				font-size: 14px;
 				line-height: 70px;
 				padding: 0 !important;
-				margin-right: 25px;
+				margin: 0 13px;
+				//margin-right: 25px;
 				//line-height: 55px;
 				//padding-left: 15px;
 				//padding-right: 15px;
@@ -250,9 +258,11 @@ body{
 			.review-old{
 				display: none;
 				position: absolute;
+				top: 50px;
 				//font-size: 14px;
 				li{
-					margin: 15px 0;
+					margin: 20px 0;
+					letter-spacing: 1px;
 					& a:hover{
 						color: #FF1D92;
 					}
@@ -427,7 +437,8 @@ body{
 				.logo {
 					padding:  0;
 					.finwise-logowrap {
-						height: 40px;
+						//height: 40px;
+						height: 55px;
 						vertical-align: middle;
 						display: table-cell;
 					}
@@ -435,7 +446,7 @@ body{
 			}
 
 			.past-review{
-				padding: 20px 20px;
+				//padding: 20px 20px;
 				height: 140px;
 				display: inline-block;
 				float: left;
@@ -443,7 +454,7 @@ body{
 				.review-old{
 					li{
 						list-style: circle;
-						margin-left: 35px;
+						margin-left: 55px;
 					}
 				}
 
@@ -451,7 +462,8 @@ body{
 
 		.lang-switch{
 			text-align: left;
-			padding:0 20px 20px;
+			//padding:0 20px 20px;
+			padding:15px 20px;
 			a{
 				border-bottom: none !important;
 			}
@@ -1413,7 +1425,8 @@ body{
 			.h2-tl {
 				//font-size: 36px;
 				//margin: 62px 0 0;
-				margin:20px 0 40px;
+				//margin:20px 0 40px;
+				margin:10px 0 20px;
 			}
 		}
 	}
@@ -1507,6 +1520,16 @@ body{
 		&:first-child{
 			margin-bottom: 50px;
 		}
+		&.c-more{
+			color: $gray-color;
+			&:hover{
+				//text-decoration: underline;
+				//margin-bottom: 12px;
+				color: $red-color;
+
+			}
+		}
+
 	}
 
 	@media  only screen and (min-width: 768px) and (max-width: 999px) {
@@ -1857,7 +1880,7 @@ body{
 					text-align: center;
 				}
 				.finwise-ad{
-					margin-bottom: 10px;
+					margin:25px 0 10px;
 				}
 			}
 			.abfw-des {

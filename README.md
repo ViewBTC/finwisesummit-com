@@ -1,2 +1,2 @@
 # finwisesummit-com
-finwisesummit-com
+finwisesummit.com
