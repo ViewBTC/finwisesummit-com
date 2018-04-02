@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise/lhzb/IBCA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise/lhzb/logo-jba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise/lhzb/logo-jcba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise/lhzb/logo_BJDO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise/lhzb/logo_ibaf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/conference/images/finwise2018/tbover.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/about.html" afterPath="$PROJECT_DIR$/conference/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/cooperation.html" afterPath="$PROJECT_DIR$/conference/cooperation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css" afterPath="$PROJECT_DIR$/conference/css/scss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.css.map" afterPath="$PROJECT_DIR$/conference/css/scss.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/css/scss.scss" afterPath="$PROJECT_DIR$/conference/css/scss.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/en/index.html" afterPath="$PROJECT_DIR$/conference/en/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/index.html" afterPath="$PROJECT_DIR$/conference/index.html" />
-    </list>
+    <list default="true" id="4f4e3d29-2534-491f-bf31-81cfa44fcce1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -419,12 +403,12 @@
       <workItem from="1522291672066" duration="8049000" />
       <workItem from="1522314386769" duration="4863000" />
       <workItem from="1522378989591" duration="13405000" />
-      <workItem from="1522640345505" duration="3756000" />
+      <workItem from="1522640345505" duration="3852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196107000" />
+    <option name="totallyTimeSpent" value="196203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="429" y="207" width="1411" height="876" extended-state="0" />
