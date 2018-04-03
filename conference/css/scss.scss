@@ -12,7 +12,7 @@
 ul,li,ol,dl{
 	list-style: none;
 }
-.h1, .h2, .h3, h1, h2, h3, p, * {
+.h1, .h2, .h3, h1, h2, h3, p, ul, ol, dl, * {
 	//margin-top: 20px;
 	//margin-bottom: 10px;
 
@@ -216,6 +216,31 @@ body{
 				}
 			}
 		}
+
+		.team-wrap{
+			.col-md-2, .col-sm-3{
+				padding-right: 6px;
+				padding-left: 6px;
+			}
+
+		}
+
+
+
+		.partner-wrap .col-md-2 img {
+			margin-bottom: 12px !important;
+			max-height: 92px;
+		}
+		.partner-wrap .col-md-3 {
+			margin-bottom: 10px !important;
+		}
+
+
+		.partner-wrap img {
+			//height: 72px;
+			height: auto
+		}
+
 	}
 
 	@media (min-width: 992px){
@@ -669,18 +694,7 @@ body{
 			}
 		}
 
-		.col-md-2, .col-sm-3{
-			padding-right: 6px;
-			padding-left: 6px;
-		}
 
-		.partner-wrap .col-md-2 img {
-			margin-bottom: 12px !important;
-			max-height: 82px;
-		}
-		.partner-wrap .col-md-3 {
-			margin-bottom: 10px !important;
-		}
 
 		.ot-listwrap{
 			//.col-md-4 {
@@ -709,11 +723,15 @@ body{
 		}
 
 		.co-sponsor-wrap .show-allimg {
-			height: 655px;
+			height: 624px;
 			overflow: hidden;
 		}
 
-
+		.partner-wrap .col-md-2 img {
+			//margin-bottom: 12px !important;
+			//max-height: 92px;
+			height: 92px;
+		}
 
 		//about begin
 
@@ -730,19 +748,19 @@ body{
 			}
 			.afw-des {
 				color: #070340;
-				font-size: 16px;
+				font-size: 13px;
 				line-height: 1.5;
 				letter-spacing: .5px;
 				margin: 0;
 				&.first-p {
-					margin-bottom: 20px;
+					margin-bottom: 15px;
 				}
 			}
 		}
 
 		.pd-tb {
 			//padding: 35px 0 !important;
-			padding:45px 15px !important
+			padding:45px 40px !important
 		}
 
 		.team-wrap{
@@ -752,7 +770,7 @@ body{
 				padding: 0;
 				.team-bbox {
 					margin: 0 auto;
-					width: 300px;
+					width: 280px;
 					height: 385px;
 
 					.team-ph {
@@ -791,8 +809,8 @@ body{
 			color: #4F2F84;
 		}
 		.founder-ph {
-			width: 245px !important;
-			height: 245px  !important;
+			width: 180px !important;
+			height: 180px  !important;
 			//border-radius: 5px 0 0 5px;
 
 		}
@@ -808,7 +826,7 @@ body{
 			//max-width: 745px;
 			//width: 100%;
 			//margin: 0 auto;
-			padding: 40px 50px !important;
+			padding: 40px 50px 32px !important;
 			height: auto !important;
 			.fd-photobox{
 				//float: left;
@@ -828,14 +846,15 @@ body{
 				padding: 0 !important;
 				margin-top: 35px;
 				.foundername{
-					font-size: 24px;
+					font-size: 18px !important;
 					line-height: 1.2;
 				}
 				.position-fd{
-					font-size: 16px;
+					font-size: 13px !important;
 				}
 				.founder-des{
-					font-size: 14px;
+					font-size: 13px !important;
+					line-height:1.8 !important;
 					margin-top: 25px;
 					line-height: 29px;
 				}
@@ -846,7 +865,110 @@ body{
 
 
 
+
+		.time-historywrap {
+			.dl-tbox {
+				//width: 16%;
+				//display: inline-block;
+				//position: relative;
+				//overflow: hidden;
+				height: 175px !important;
+				&.act{
+					.city-lj{
+						color:#fff !important;
+						font-weight: 700 !important;
+					}
+				}
+			}
+			.circle-p{
+				margin: 0 0 20px 15px !important;
+			}
+			.tr-addr {
+				font-size: 16px !important;
+				color: rgba(255, 255, 255, .8) !important;
+				font-weight: 300;
+			}
+		}
+
+		.h2-tlcom {
+			//color: #4F2F84;
+			font-size: 24px !important;
+			//margin-bottom: 30px;
+		}
+
+		.plan-wrap {
+			//height: 600px !important;
+			.plan-img {
+
+				//max-width: 680px;
+				width: 90% !important;
+				//margin: 70px 0 50px;
+			}
+		}
+		.city-lj{
+			//margin-left: 7px;
+			letter-spacing: 2px;
+			-webkit-writing-mode: vertical-rl;
+			writing-mode: vertical-rl;
+			&.tr-date{
+				margin: 15px  10px  10px 12px !important;
+			}
+
+		}
+
+
+
+		//about begin
+		.team-wrap{
+			.col-md-3 {
+				//width:50%;
+				//margin: 12px 0 !important;
+				//float: left;
+				.team-bbox {
+					//margin: 0 auto;
+					//width: 280px;
+					//height: 375px;
+					height: 350px;
+					.team-ph {
+						//width: 300px;
+						//height: 260px;
+					}
+					.foundername {
+						font-size: 18px;
+						//color: #333333;
+						//line-height: 1.2;
+						.position-info {
+							font-size: 12px;
+						}
+					}
+				}
+			}
+		}
+
+
+		.contact-usinfo * {
+			font-weight: 400 !important;
+			//line-height: 2.2;
+		}
+
 	}
+
+@media only screen and (min-width: 414px) and (max-width: 768px) {
+	.plan-wrap {
+		height: 600px !important;
+		.plan-img {
+
+			//max-width: 680px;
+			//width: 90% !important;
+			//margin: 70px 0 50px;
+		}
+	}
+
+	.slideBox{
+		height: 230px !important;
+		line-height: 230px !important;
+	}
+}
 
 
 @media (max-width: 320px){
@@ -855,6 +977,16 @@ body{
 		//top: 8px;
 		right: 40px !important;
 		//z-index: 9999;
+	}
+
+	//Team begin
+	.founder-ph {
+		width: 150px !important;
+		height: 150px !important;
+	}
+	.founder-box {
+		padding: 30px 30px !important;
+		height: auto !important;
 	}
 }
 
@@ -918,6 +1050,17 @@ body{
 			}
 		}
 	}
+	@media only screen and (min-width: 415px) and (max-width: 575px) {
+		.partner-wrap .col-md-2 img {
+			//margin-bottom: 12px !important;
+			//max-height: 92px;
+			height: 46px !important;
+		}
+		.co-sponsor-wrap .show-allimg {
+			height: 414px !important;
+			//overflow: hidden;
+		}
+	}
 	@media only screen and (min-width: 300px) and (max-width: 415px) {
 
 
@@ -930,7 +1073,7 @@ body{
 		.count-wrap.wap-show .title {
 			font-size: 12px !important;
 			color: #fff;
-			margin-top: 15px;
+			margin-top: 10px !important;
 		}
 
 
@@ -1039,6 +1182,7 @@ body{
 
 		.data-item .col-md-1 {
 			margin: 20px 0 !important;
+			padding: 0 2px !important;
 			//width: 25%;
 			//height: auto;
 		}
@@ -1140,6 +1284,33 @@ body{
 
 		}
 
+		//brand logo
+		.partner-wrap img {
+			height: 80px;
+		}
+
+		//about wap
+		.slideBox{
+			height: 180px !important;
+			line-height: 180px !important;
+		}
+		.plan-wrap .plan-img {
+			//margin: 50px 0 50px !important;
+			width: 90% !important;
+		}
+		.h2-tlcom {
+			//color: #4F2F84;
+			font-size: 18px !important;
+			//margin-bottom: 30px;
+		}
+		.plan-wrap{
+			height: 500px !important
+		}
+
+
+		.partner-wrap .col-md-2 img {
+			height:70px;
+		}
 
 	}
 
@@ -1181,11 +1352,68 @@ body{
 			/* width: 230px; */
 			//width: 100%;
 			margin: 120px 0 50px 0 !important;
+
 		}
 
 
 		.index-fwrap {
 			height: 650px !important;
+		}
+
+
+		//about begin
+
+		//.h2-tlcom {
+		//	font-size: 24px !important;
+		//}
+
+		.about-deswrap{
+
+
+			.afw-des{
+				color: $purple-color3;
+				//font-weight: 400;
+				font-size: 14px;
+				line-height: 1.5;
+				letter-spacing: 0.8px;
+				margin: 0;
+				&.first-p{
+					margin-bottom: 20px;
+				}
+			}
+		}
+
+	}
+	@media  (max-width: 575px) {
+		.time-historywrap {
+			//.dl-tbox {
+			//	//width: 16%;
+			//	//display: inline-block;
+			//	//position: relative;
+			//	//overflow: hidden;
+			//	height: 175px !important;
+			//	&.act{
+			//		.city-lj{
+			//			color:#fff !important;
+			//			font-weight: 700 !important;
+			//		}
+			//	}
+			//}
+			//.circle-p{
+			//	margin: 0 0 20px 15px !important;
+			//}
+			.tr-addr {
+				//font-size: 14px !important;
+				//color: rgba(255, 255, 255, .8) !important;
+				//font-weight: 300;
+			}
+			.line-c{
+				display: none !important;
+			}
+			.ht-con{
+				left: 12px !important;
+			}
+
 		}
 	}
 	@media only screen and (min-width: 300px) and (max-width: 767px) {
@@ -1197,6 +1425,37 @@ body{
 		}
 		.welcome-text{
 			font-size: 14px;
+		}
+
+
+		.time-historywrap {
+			//.dl-tbox {
+			//	//width: 16%;
+			//	//display: inline-block;
+			//	//position: relative;
+			//	//overflow: hidden;
+			//	height: 175px !important;
+			//	&.act{
+			//		.city-lj{
+			//			color:#fff !important;
+			//			font-weight: 700 !important;
+			//		}
+			//	}
+			//}
+			//.circle-p{
+			//	margin: 0 0 20px 15px !important;
+			//}
+			.tr-addr {
+				font-size: 14px !important;
+				//color: rgba(255, 255, 255, .8) !important;
+				//font-weight: 300;
+			}
+			//.line-c{
+			//	display: none !important;
+			//}
+		}
+		.city-lj.tr-date {
+			margin: 15px 10px 10px 8px !important;
 		}
 
 	}
@@ -1532,19 +1791,35 @@ body{
 
 	}
 
-	@media  only screen and (min-width: 768px) and (max-width: 999px) {
+	@media  only screen and (min-width: 595px) and (max-width: 999px) {
+
 		//about begin
+		.h2-tlcom {
+			//color: #4F2F84;
+			font-size: 28px !important;
+			//margin-bottom: 30px;
+		}
+
 		.team-wrap{
 			.col-md-3 {
 				width:50%;
-				margin: 12px 0 !important;
+				margin: 15px 0 !important;
+				float: left;
 				.team-bbox {
 					margin: 0 auto;
-					width: 300px;
-					height: 375px;
+					width: 280px;
+					height: 362px;
 					.team-ph {
 						width: 300px;
 						height: 260px;
+					}
+					.foundername {
+						font-size: 18px;
+						//color: #333333;
+						//line-height: 1.2;
+						.position-info {
+							font-size: 14px;
+						}
 					}
 				}
 			}
@@ -1634,6 +1909,10 @@ body{
 			border: 2px solid #6A4AFF;
 			padding: 4px;
 			margin: 0 auto;
+		}
+
+		.foot-p {
+			padding: 15px 5px;
 		}
 
 		img {
@@ -2071,6 +2350,7 @@ body{
 				 left: 0;
 				 right: 0;
 				 margin: 0;
+				 padding-left: 12px;
 				 .title {
 					 font-size: 14px;
 					 color: #fff;
@@ -2578,7 +2858,8 @@ body{
 
 
 .slideBox{
-	height: 240px;
+	//height: 240px;
+	height: 260px;
 }
 
 @media (min-width: 1200px){
@@ -2601,6 +2882,11 @@ body{
 			width: 25%;
 		}
 	}
+
+
+	.partner-wrap img {
+		height: 67px;
+	}
 }
 
 @media (max-width: 1200px){
@@ -2608,14 +2894,19 @@ body{
 		//max-height: 52px;
 	}
 }
+@media only screen and (min-width: 993px) and (max-width: 1199px) {
+	.partner-wrap img {
+		height: 54px;
+	}
+}
 
 
 .plan-wrap{
 	background: url(../images/finwise2018/about/plan-bg.png) no-repeat;
 	background-position: center center;
-	height: 529px;
+	height: 530px;
 	background-size: cover;
-	padding: 60px 0;
+	padding: 70px 0 50px;
 	.h2-tlcom {
 		color: #FFFFFF;
 		margin-bottom: 0;
@@ -2624,7 +2915,7 @@ body{
 	.plan-img{
 		max-width: 680px;
 		width: 100%;
-		margin: 40px 0 50px;
+		//margin: 50px 0 60px;
 
 	}
 	.container {
@@ -2686,11 +2977,15 @@ body{
 		font-size: 18px;
 		color: #FFFFFF;
 		font-weight: 300;
+
 	}
 	.tr-date{
 		font-size: 12px;
 		color: rgba(255,255,255,0.40);
 		text-align: left;
+	}
+	.city-lj{
+		margin-left: 7px;
 	}
 	.circle-p{
 		width: 10px;
