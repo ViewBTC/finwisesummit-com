@@ -418,7 +418,8 @@ body {
     line-height: 1.8;
     letter-spacing: .5px;
     text-align: justify;
-    margin: 0; }
+    margin: 0;
+    vertical-align: bottom; }
     .about-deswrap .afw-des.first-p {
       margin-bottom: 15px; }
 
@@ -485,7 +486,7 @@ body {
         text-align: justify; }
 
   .time-historywrap .dl-tbox {
-    height: 175px !important; }
+    height: 150px !important; }
     .time-historywrap .dl-tbox.act .city-lj {
       color: #fff !important;
       font-weight: 700 !important; }
@@ -527,9 +528,10 @@ body {
   .city-lj {
     letter-spacing: 2px;
     -webkit-writing-mode: vertical-rl;
-    writing-mode: vertical-rl; }
+    writing-mode: vertical-rl;
+    margin-left: 8px !important; }
     .city-lj.tr-date {
-      margin: 15px  10px  10px 12px !important; }
+      margin: 15px  10px  10px 9px !important; }
 
   .team-wrap .col-md-3 .team-bbox {
     height: 350px; }
@@ -553,10 +555,13 @@ body {
     height: 622px !important; }
 
   .partner-wrap .col-md-2 img.lazy {
-    height: 92px; } }
+    height: 92px; }
+
+  .city-lj.tr-date {
+    margin: 15px 10px 10px 12px !important; } }
 @media only screen and (min-width: 414px) and (max-width: 768px) {
   .plan-wrap {
-    height: 600px !important; }
+    height: 540px !important; }
 
   .slideBox {
     height: 230px !important;
@@ -603,7 +608,26 @@ body {
     max-height: 70px !important; }
 
   #wechat-img {
-    height: 80px !important; } }
+    height: 80px !important; }
+
+  .ot-listwrap .h3-title {
+    font-size: 16px !important; }
+  .ot-listwrap .des-get {
+    line-height: 2 !important;
+    padding: 35px 25px;
+    font-size: 13px;
+    text-align: justify; }
+
+  .geth2-title {
+    font-size: 16px !important; }
+
+  .tb-qywrap table th {
+    line-height: 1.8 !important;
+    padding: 7px !important; }
+
+  .cont-cm .ct-lists {
+    font-size: 13px !important;
+    line-height: 2; } }
 @media only screen and (min-width: 415px) and (max-width: 575px) {
   .co-sponsor-wrap .show-allimg {
     height: 414px !important; }
@@ -759,10 +783,11 @@ body {
     width: 90% !important; }
 
   .h2-tlcom {
-    font-size: 18px !important; }
+    font-size: 20px !important; }
 
   .plan-wrap {
-    height: 500px !important; } }
+    height: 460px !important;
+    padding: 50px 0 25px !important; } }
 @media only screen and (min-width: 414px) and (max-width: 515px) {
   .index-fwrap {
     height: 600px !important; } }
@@ -805,7 +830,14 @@ body {
   .time-historywrap .line-c {
     display: none !important; }
   .time-historywrap .ht-con {
-    left: 12px !important; } }
+    left: 12px !important; }
+
+  .time-historywrap .ht-con {
+    float: none !important;
+    text-align: center;
+    margin: 0 auto; }
+  .time-historywrap .line-c {
+    display: none !important; } }
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .index-bgdd.container {
     width: 100%; }
@@ -814,10 +846,7 @@ body {
     font-size: 14px; }
 
   .time-historywrap .tr-addr {
-    font-size: 14px !important; }
-
-  .city-lj.tr-date {
-    margin: 15px 10px 10px 8px !important; } }
+    font-size: 14px !important; } }
 .tiketsex {
   height: 260px;
   overflow: hidden; }
@@ -1542,7 +1571,7 @@ body {
   width: 100%;
   display: inline-flex; }
   .time-historywrap .dl-tbox {
-    width: 16%;
+    width: 16.67%;
     display: inline-block;
     position: relative;
     overflow: hidden;

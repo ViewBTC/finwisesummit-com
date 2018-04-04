@@ -806,6 +806,7 @@ body{
 				letter-spacing: .5px;
 				text-align: justify;
 				margin: 0;
+				vertical-align: bottom;
 				&.first-p {
 					margin-bottom: 15px;
 				}
@@ -934,7 +935,7 @@ body{
 				//display: inline-block;
 				//position: relative;
 				//overflow: hidden;
-				height: 175px !important;
+				height: 150px !important;
 				&.act{
 					.city-lj{
 						color:#fff !important;
@@ -1009,8 +1010,10 @@ body{
 			letter-spacing: 2px;
 			-webkit-writing-mode: vertical-rl;
 			writing-mode: vertical-rl;
+			margin-left: 8px !important;
 			&.tr-date{
-				margin: 15px  10px  10px 12px !important;
+				margin: 15px  10px  10px 9px !important;
+
 			}
 
 		}
@@ -1076,6 +1079,11 @@ body{
 		}
 	}
 
+
+	.city-lj.tr-date {
+		margin: 15px 10px 10px 12px !important;
+	}
+
 }
 @media  (max-width: 415px) {
 
@@ -1112,7 +1120,7 @@ body{
 }
 @media only screen and (min-width: 414px) and (max-width: 768px) {
 	.plan-wrap {
-		height: 600px !important;
+		height: 540px !important;
 		.plan-img {
 
 			//max-width: 680px;
@@ -1240,6 +1248,33 @@ body{
 		#wechat-img {
 			height: 80px !important;
 		}
+
+
+		.ot-listwrap {
+			.h3-title {
+				font-size: 16px !important;
+			}
+			.des-get {
+				line-height: 2 !important;
+				padding: 35px 25px;
+				font-size: 13px;
+				text-align: justify;
+			}
+		}
+		.geth2-title{
+			font-size: 16px !important;
+		}
+		.tb-qywrap table th {
+			//height: 40px;
+			line-height: 1.8 !important;
+			padding: 7px !important;
+		}
+
+		.cont-cm .ct-lists {
+			font-size: 13px !important;
+			line-height: 2;
+		}
+
 	}
 	@media only screen and (min-width: 415px) and (max-width: 575px) {
 		.partner-wrap .col-md-2 img {
@@ -1533,11 +1568,12 @@ body{
 		}
 		.h2-tlcom {
 			//color: #4F2F84;
-			font-size: 18px !important;
+			font-size: 20px !important;
 			//margin-bottom: 30px;
 		}
 		.plan-wrap{
-			height: 500px !important
+			height: 460px !important;
+			padding: 50px 0 25px !important;
 		}
 
 
@@ -1648,6 +1684,20 @@ body{
 			}
 
 		}
+
+
+		.time-historywrap {
+			.ht-con{
+				//position: inherit !important;
+				float: none !important;
+				//left: 15px !important;
+				text-align: center;
+				margin: 0 auto;
+			}
+			.line-c{
+				display: none !important;
+			}
+		}
 	}
 	@media only screen and (min-width: 300px) and (max-width: 767px) {
 		.index-bgdd{
@@ -1687,9 +1737,9 @@ body{
 			//	display: none !important;
 			//}
 		}
-		.city-lj.tr-date {
-			margin: 15px 10px 10px 8px !important;
-		}
+		//.city-lj.tr-date {
+		//	margin: 15px 10px 10px 8px !important;
+		//}
 
 	}
 
@@ -3181,7 +3231,7 @@ body{
 	.dl-tbox{
 		//border-bottom: 4px solid #FFFFFF;
 		//width: 16.67%;
-		width: 16%;
+		width: 16.67%;
 		display: inline-block;
 		position: relative;
 		overflow: hidden;
