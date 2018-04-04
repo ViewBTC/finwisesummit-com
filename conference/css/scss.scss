@@ -1224,13 +1224,21 @@ body{
 			overflow: hidden;
 			height: 100%;
 			color: #4F2F84;
+			text-align: center;
 
 		}
 		.founder-ph {
-			width: 180px !important;
-			height: 180px  !important;
+			width: 150px !important;
+			height: 150px  !important;
 			//border-radius: 5px 0 0 5px;
 
+		}
+
+		#footer .col-md-wap .logo-footer {
+			max-height: 70px !important;
+		}
+		#wechat-img {
+			height: 80px !important;
 		}
 	}
 	@media only screen and (min-width: 415px) and (max-width: 575px) {
