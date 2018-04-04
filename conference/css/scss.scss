@@ -2050,7 +2050,8 @@ body{
 					height: 362px;
 					.team-ph {
 						width: 280px;
-						height: 260px;
+						height: auto;
+						//height: 260px;
 					}
 					.foundername {
 						font-size: 18px;

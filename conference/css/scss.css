@@ -988,7 +988,7 @@ body {
       height: 362px; }
       .team-wrap .col-md-3 .team-bbox .team-ph {
         width: 280px;
-        height: 260px; }
+        height: auto; }
       .team-wrap .col-md-3 .team-bbox .foundername {
         font-size: 18px; }
         .team-wrap .col-md-3 .team-bbox .foundername .position-info {
