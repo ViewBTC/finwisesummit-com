@@ -334,7 +334,10 @@ body {
       margin-bottom: 30px; }
 
   .founder-box .fd-infobox {
-    margin-left: 275px; } }
+    margin-left: 275px; }
+
+  .time-historywrap .dl-tbox.last-actbox {
+    width: 45px !important; } }
 @media (max-width: 768px) {
   .show-ft {
     padding: 0 18px; }
@@ -523,7 +526,7 @@ body {
     line-height: 40px !important; }
 
   .plan-wrap .plan-img {
-    width: 90% !important; }
+    width: 70% !important; }
 
   .city-lj {
     letter-spacing: 2px;
@@ -776,11 +779,11 @@ body {
     margin: 5px 0 10px 0; }
 
   .slideBox {
-    height: 180px !important;
-    line-height: 180px !important; }
+    height: 160px !important;
+    line-height: 160px !important; }
 
   .plan-wrap .plan-img {
-    width: 90% !important; }
+    width: 80% !important; }
 
   .h2-tlcom {
     font-size: 20px !important; }
@@ -830,7 +833,7 @@ body {
   .time-historywrap .line-c {
     display: none !important; }
   .time-historywrap .ht-con {
-    left: 12px !important; }
+    left: -6px !important; }
 
   .time-historywrap .ht-con {
     float: none !important;
@@ -1535,8 +1538,24 @@ body {
   padding: 65px 0; }
 
 .slideBox {
-  height: 260px; }
+  height: 260px;
+  text-align: center;
+  height: 260px;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0 auto;
+  text-align: center; }
+  .slideBox .slideBoxi {
+    width: 1140px;
+    height: 260px;
+    display: table-cell !important;
+    vertical-align: middle;
+    text-align: center;
+    margin: 0 auto; }
 
+@media (max-width: 1199px) {
+  .time-historywrap .dl-tbox.last-actbox {
+    width: 4.5%; } }
 @media (min-width: 1200px) {
   .about-deswrap.container {
     width: 860px; }
@@ -1551,6 +1570,9 @@ body {
 
   .mdpartner-wrap img {
     height: 67px; } }
+@media (max-width: 1200px) {
+  .plan-wrap .plan-img {
+    max-width: 500px !important; } }
 @media only screen and (min-width: 993px) and (max-width: 1199px) {
   .partner-wrap img {
     height: 54px; } }
@@ -1564,12 +1586,12 @@ body {
     color: #FFFFFF;
     margin-bottom: 0; }
   .plan-wrap .plan-img {
-    max-width: 680px;
+    max-width: 650px;
     width: 100%; }
 
 .time-historywrap {
   width: 100%;
-  display: inline-flex; }
+  display: inline-block; }
   .time-historywrap .dl-tbox {
     width: 16.67%;
     display: inline-block;
@@ -1719,5 +1741,11 @@ body {
     height: 350px !important; }
     .co-sponsor-wrap .show-allimg img.lazy {
       height: 48px !important; } }
+@media (max-width: 415px) {
+  .slideBox .slideBoxi {
+    height: 160px !important; }
+
+  .time-historywrap .ht-con {
+    left: -8px !important; } }
 
 /*# sourceMappingURL=scss.css.map */
