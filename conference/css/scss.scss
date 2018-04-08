@@ -798,7 +798,8 @@ body{
 			.h2-tlcom {
 				//color: #4F2F84;
 				font-size: 24px;
-				margin-bottom: 30px;
+				//margin-bottom: 30px;
+				margin: 45px 35px 25px !important;
 			}
 				&.container {
 				//width: 100%;
@@ -831,11 +832,11 @@ body{
 				padding: 0;
 				.team-bbox {
 					margin: 0 auto;
-					width: 280px;
-					height: 385px;
+					width: 260px;
+					height: 335px !important;
 
 					.team-ph {
-						width: 300px;
+						width: 260px;
 						height: auto;
 
 
@@ -845,7 +846,7 @@ body{
 			.h2-tlcom {
 				//color: #4F2F84;
 				font-size: 24px;
-				margin-bottom: 20px;
+				//margin: 45px 35px 25px !important;
 			}
 			&.pd-tb {
 				//padding: 35px 0 !important;
@@ -1059,6 +1060,28 @@ body{
 			//line-height: 2.2;
 		}
 
+
+
+		//visa begin
+		.visa-fwrap{
+			margin: 110px auto 40px !important;
+			&.container {
+				//width: 690px;
+			}
+			.im-tips {
+				margin: 35px 0 25px;
+				//font-size: 18px;
+			}
+			.mar-tb45 {
+				margin: 25px 0;
+			}
+		}
+
+
+		//footer begin
+		#footer .fim-tl {
+			font-size: 16px !important
+		}
 	}
 
 @media (width: 768px){
@@ -1090,6 +1113,20 @@ body{
 		margin: 15px 10px 10px 12px !important;
 	}
 
+	//visa begin
+	.visa-fwrap{
+		margin: 110px auto 40px !important;
+		&.container {
+			width: 690px;
+		}
+		.im-tips {
+			margin: 35px 0 25px;
+			//font-size: 18px;
+		}
+		.mar-tb45 {
+			margin: 25px 0;
+		}
+	}
 }
 
 @media only screen and (min-width: 414px) and (max-width: 768px) {
@@ -2079,10 +2116,10 @@ body{
 				float: left;
 				.team-bbox {
 					margin: 0 auto;
-					width: 280px;
-					height: 362px;
+					width: 250px;
+					height: 320px;
 					.team-ph {
-						width: 280px;
+						width: 250px;
 						height: auto;
 						//height: 260px;
 					}
@@ -3168,12 +3205,20 @@ body{
 }
 @media (min-width: 1200px){
 	.about-deswrap.container {
-		width: 860px;
+		//width: 860px;
 		.h2-tlcom {
-			margin-bottom: 60px;
+			margin-bottom: 10px;
+		}
+		.team-bbox{
+			height: 330px;
+
 		}
 	}
-
+	.fd-member{
+		font-size: 22px;
+		margin: 15px 0 6px;
+		display: block;
+	}
 	.co-sponsor-wrap .col-md-2.showimg {
 		//display: block;
 		max-height: 97px;
@@ -3184,6 +3229,7 @@ body{
 	.team-wrap{
 		.col-md-3 {
 			width: 25%;
+			height: 345px;
 		}
 	}
 
@@ -3194,8 +3240,20 @@ body{
 
 
 
-}
 
+	//visa begin
+	.visa-fwrap{
+		&.container {
+			//width: 1000px;
+			//width:1180px;
+		}
+	}
+
+}
+@media(min-width: 992px){
+
+
+}
 @media (max-width: 1200px){
 	.mdpartner-wrap img{
 		//max-height: 52px;
@@ -3205,7 +3263,38 @@ body{
 		max-width: 500px !important;
 		//width: 100%;
 	}
-}
+
+
+	//visa begin
+	.vs-h1 {
+		font-size: 24px !important;
+	}
+	.im-tips {
+		margin: 45px 0;
+		font-size: 16px !important;
+	}
+	.visa-fwrap{
+		.va-h3 {
+			font-weight: 700;
+			font-size:  16px !important;
+			line-height: 1.8 !important;
+		}
+		p{
+			font-size:  16px !important;
+		}
+	}
+
+
+	.fd-member {
+		font-size: 18px;
+		margin: 15px 0 6px;
+		display: block;
+	}
+	.position-info {
+		font-size: 14px !important;
+
+		}
+	}
 @media only screen and (min-width: 993px) and (max-width: 1199px) {
 	.partner-wrap img {
 		height: 54px;
@@ -3413,16 +3502,16 @@ body{
 
 
 .team-bbox{
-	width: 260px;
-	height: 345px;
+	width: 250px;
+	height: 335px;
 	background: #FFFFFF;
 	box-shadow: 0 2px 12px 0 rgba(0,0,0,0.15);
 	border-radius: 5px;
 	font-size: 14px;
 	color: #333333;
 	.team-ph{
-		width: 260px;
-		height: 230px;
+		width: 250px;
+		height: 218px;
 		border-bottom:3px solid #8B18E9;
 		border-radius: 5px 5px 0 0;
 	}
@@ -3432,12 +3521,18 @@ body{
 	.foundername{
 		font-size: 24px;
 		color: #333333;
+		//line-height: 1.5;
+		//display: block;
+
 		//border-bottom: 1px dashed #D0D0D0;
 		//margin: 12px 12px;
 		line-height: 1.2;
+
 		.position-info{
 			font-size: 16px;
 			color: #333333;
+			line-height: 1.5;
+			display: block;
 		}
 
 	}
@@ -3469,6 +3564,16 @@ body{
 		}
 	}
 
+
+	.mdpartner-wrap{
+
+		img.lazy{
+			height: 36px !important;
+		}
+	}
+
+
+
 	.co-sponsor-wrap .show-allimg {
 		height: 285px !important;
 		img.lazy{
@@ -3476,9 +3581,18 @@ body{
 			//overflow: hidden;
 		}
 	}
+
+
+
 }
 @media only screen and (min-width: 321px) and (max-width: 360px) {
 
+	.mdpartner-wrap{
+
+		img.lazy{
+			height: 40px !important;
+		}
+	}
 	.co-sponsor-wrap .show-allimg {
 		height: 315px!important;
 		img.lazy {
@@ -3488,6 +3602,13 @@ body{
 	}
 }
 @media only screen and (min-width: 361px) and (max-width: 375px) {
+
+	.mdpartner-wrap{
+
+		img.lazy{
+			height: 40px !important;
+		}
+	}
 
 
 	.co-sponsor-wrap .show-allimg {
@@ -3500,6 +3621,12 @@ body{
 }
 @media only screen and (min-width: 376px) and (max-width: 411px) {
 
+	.mdpartner-wrap{
+
+		img.lazy{
+			height: 50px !important;
+		}
+	}
 
 
 	.co-sponsor-wrap .show-allimg {
@@ -3510,6 +3637,26 @@ body{
 		}
 	}
 }
+
+@media only screen and (min-width: 412px) and (max-width: 414px) {
+
+	.mdpartner-wrap{
+
+		img.lazy{
+			height: 48px !important;
+		}
+	}
+
+	.co-sponsor-wrap .show-allimg {
+		height: 360px!important;
+		img.lazy{
+			height: 50px !important;
+			//overflow: hidden;
+		}
+	}
+}
+
+
 @media only screen and (min-width: 412px) and (max-width: 768px) {
 
 
@@ -3566,11 +3713,94 @@ body{
 
 		.ht-con{
 			//left: 12px !important;
-			left: -8px !important;
+			left: -10px !important;
 		}
 
 	}
 
+
+
+	//visa begin
+	.vs-h1 {
+		font-size: 18px !important;
+	}
+	.im-tips {
+		margin: 30px 0;
+		font-size: 13px !important;
+	}
+	.visa-fwrap{
+		margin: 95px auto 20px !important;
+		line-height: 2 !important;
+		.va-h3 {
+			font-weight: 700;
+			font-size:  13px !important;
+			line-height: 1.5 !important;
+		}
+		.im-tips {
+			margin: 25px 0 10px;
+		}
+		p{
+			font-size:  13px !important;
+		}
+	}
+
+
+	.about-deswrap .h2-tlcom {
+		//font-size: 24px;
+		margin: 50px 35px 15px !important;
+	}
 }
 
+
+
+
+//visa begin
+
+.visa-tips{
+	position: fixed;
+	right: 0px;
+	bottom: 30%;
+	z-index: 9999;
+	background: $red-color;
+	padding: 5px 15px 4px;
+	border-radius: 20px 0 0 20px;
+	font-size: 13px;
+	line-height: 1.5;
+	&:hover{
+		background:#e81a85;
+	}
+}
+
+
+.visa-fwrap{
+	margin: 130px auto 40px;
+	color: $purple-color3;
+	line-height: 37px;
+	p{
+		font-size: 18px;
+		color: $purple-color4;
+
+		//line-height: 37px;
+	}
+	.va-h3{
+		font-weight: 700;
+		font-size: 20px;
+		line-height: 2;
+	}
+
+}
+.vs-h1{
+	font-size: 32px;
+	color: $purple-color;
+}
+
+.im-tips{
+	margin: 45px 0;
+	font-size: 18px;
+
+
+}
+.mar-tb45{
+	margin: 45px 0;
+}
 
