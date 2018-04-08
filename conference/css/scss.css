@@ -1553,7 +1553,7 @@ body {
   margin-bottom: 30px; }
 
 .pd-tb {
-  padding: 65px 0; }
+  padding: 65px 0 5px; }
 
 .slideBox {
   height: 260px;
@@ -1593,7 +1593,10 @@ body {
     height: 345px; }
 
   .mdpartner-wrap img {
-    height: 67px; } }
+    height: 67px; }
+
+  .about-deswrap.team-wrap .col-md-3 {
+    margin: 45px 0 0; } }
 @media (max-width: 1200px) {
   .plan-wrap .plan-img {
     max-width: 500px !important; }
