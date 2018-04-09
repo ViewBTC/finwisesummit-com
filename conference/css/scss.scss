@@ -794,12 +794,12 @@ body{
 
 		//about begin
 
-		.about-deswrap{
+		.about-deswrap.team-wrap{
 			.h2-tlcom {
 				//color: #4F2F84;
 				font-size: 24px;
 				//margin-bottom: 30px;
-				margin: 45px 35px 25px !important;
+				margin: 50px 35px 15px !important;
 			}
 				&.container {
 				//width: 100%;
@@ -820,6 +820,8 @@ body{
 			}
 		}
 
+
+
 		.pd-tb {
 			//padding: 35px 0 !important;
 			padding:45px 40px !important
@@ -828,15 +830,16 @@ body{
 		.team-wrap{
 			.col-md-3 {
 				width:100%;
+				height: 320px;
 				margin: 20px 0 !important;
 				padding: 0;
 				.team-bbox {
 					margin: 0 auto;
-					width: 260px;
-					height: 335px !important;
+					width: 250px;
+					height: 320px !important;
 
 					.team-ph {
-						width: 260px;
+						width: 250px;
 						height: auto;
 
 
@@ -854,7 +857,11 @@ body{
 			}
 		}
 
-
+		.coreteam-wrap{
+			.h2-tlcom {
+				margin-bottom: 25px;
+			}
+		}
 		//founder info
 
 
@@ -2106,12 +2113,15 @@ body{
 		.h2-tlcom {
 			//color: #4F2F84;
 			font-size: 28px !important;
+			margin-bottom: 45px !important;
 			//margin-bottom: 30px;
 		}
+
 
 		.team-wrap{
 			.col-md-3 {
 				width:50%;
+				height: 320px;
 				margin: 15px 0 !important;
 				float: left;
 				.team-bbox {
@@ -3158,16 +3168,26 @@ body{
 	height: 322px;
 	background-size: cover;
 }
-.h2-tlcom{
-	color: $purple-color;
-	font-size: 36px;
-	margin-bottom: 30px;
+
+.coreteam-wrap{
+	margin-bottom: 40px;
 }
 
 
+.h2-tlcom{
+	color: $purple-color;
+	font-size: 36px;
+	margin-bottom: 15px;
+}
+.about-infowrap{
+	.h2-tlcom {
+		margin-bottom: 45px !important;
+	}
+}
+
 .pd-tb{
-	//padding: 65px 0;
-	padding:65px 0 5px;
+	padding: 65px 0;
+	//padding:65px 0 5px;
 }
 
 
@@ -3209,6 +3229,7 @@ body{
 		//width: 860px;
 		.h2-tlcom {
 			margin-bottom: 10px;
+			//font-size: 28px;
 		}
 		.team-bbox{
 			height: 330px;
@@ -3226,7 +3247,12 @@ body{
 
 	}
 
+
+
 	//about begin
+	.h2-tlcom {
+		font-size: 28px;
+	}
 	.team-wrap{
 		.col-md-3 {
 			width: 25%;
@@ -3239,6 +3265,11 @@ body{
 		height: 67px;
 	}
 
+	.co-sponsor-wrap{
+		&.partner-wrap img {
+			height: 68px;
+		}
+	}
 
 
 
@@ -3268,6 +3299,14 @@ body{
 		max-width: 500px !important;
 		//width: 100%;
 	}
+
+
+	//about begin
+
+	.about-infowrap .h2-tlcom {
+		margin-bottom: 25px !important;
+	}
+
 
 
 	//visa begin
@@ -3535,7 +3574,7 @@ body{
 
 		.position-info{
 			font-size: 16px;
-			color: #333333;
+			color: #666;
 			line-height: 1.5;
 			display: block;
 		}
@@ -3549,6 +3588,7 @@ body{
 }
 .team-wrap{
 	.col-md-3{
+		//height: 335px;
 		margin: 45px 0;
 	}
 }
@@ -3750,9 +3790,11 @@ body{
 	}
 
 
-	.about-deswrap .h2-tlcom {
-		//font-size: 24px;
-		margin: 50px 35px 15px !important;
+	.about-deswrap.team-wrap {
+		.h2-tlcom {
+			//font-size: 24px;
+			margin: 50px 35px 15px !important;
+		}
 	}
 }
 

@@ -412,10 +412,10 @@ body {
     height: 624px;
     overflow: hidden; }
 
-  .about-deswrap .h2-tlcom {
+  .about-deswrap.team-wrap .h2-tlcom {
     font-size: 24px;
-    margin: 45px 35px 25px !important; }
-  .about-deswrap .afw-des {
+    margin: 50px 35px 15px !important; }
+  .about-deswrap.team-wrap .afw-des {
     color: #070340;
     font-size: 13px;
     line-height: 1.8;
@@ -423,7 +423,7 @@ body {
     text-align: justify;
     margin: 0;
     vertical-align: bottom; }
-    .about-deswrap .afw-des.first-p {
+    .about-deswrap.team-wrap .afw-des.first-p {
       margin-bottom: 15px; }
 
   .pd-tb {
@@ -431,19 +431,23 @@ body {
 
   .team-wrap .col-md-3 {
     width: 100%;
+    height: 320px;
     margin: 20px 0 !important;
     padding: 0; }
     .team-wrap .col-md-3 .team-bbox {
       margin: 0 auto;
-      width: 260px;
-      height: 335px !important; }
+      width: 250px;
+      height: 320px !important; }
       .team-wrap .col-md-3 .team-bbox .team-ph {
-        width: 260px;
+        width: 250px;
         height: auto; }
   .team-wrap .h2-tlcom {
     font-size: 24px; }
   .team-wrap.pd-tb {
     padding: 0 35px 45px !important; }
+
+  .coreteam-wrap .h2-tlcom {
+    margin-bottom: 25px; }
 
   .founder-box {
     background: #fff;
@@ -1033,10 +1037,12 @@ body {
 
 @media only screen and (min-width: 595px) and (max-width: 999px) {
   .h2-tlcom {
-    font-size: 28px !important; }
+    font-size: 28px !important;
+    margin-bottom: 45px !important; }
 
   .team-wrap .col-md-3 {
     width: 50%;
+    height: 320px;
     margin: 15px 0 !important;
     float: left; }
     .team-wrap .col-md-3 .team-bbox {
@@ -1547,13 +1553,19 @@ body {
   height: 322px;
   background-size: cover; }
 
+.coreteam-wrap {
+  margin-bottom: 40px; }
+
 .h2-tlcom {
   color: #4F2F84;
   font-size: 36px;
-  margin-bottom: 30px; }
+  margin-bottom: 15px; }
+
+.about-infowrap .h2-tlcom {
+  margin-bottom: 45px !important; }
 
 .pd-tb {
-  padding: 65px 0 5px; }
+  padding: 65px 0; }
 
 .slideBox {
   height: 260px;
@@ -1588,6 +1600,9 @@ body {
   .co-sponsor-wrap .col-md-2.showimg {
     max-height: 97px; }
 
+  .h2-tlcom {
+    font-size: 28px; }
+
   .team-wrap .col-md-3 {
     width: 25%;
     height: 345px; }
@@ -1595,11 +1610,17 @@ body {
   .mdpartner-wrap img {
     height: 67px; }
 
+  .co-sponsor-wrap.partner-wrap img {
+    height: 68px; }
+
   .about-deswrap.team-wrap .col-md-3 {
     margin: 45px 0 0; } }
 @media (max-width: 1200px) {
   .plan-wrap .plan-img {
     max-width: 500px !important; }
+
+  .about-infowrap .h2-tlcom {
+    margin-bottom: 25px !important; }
 
   .vs-h1 {
     font-size: 24px !important; }
@@ -1756,7 +1777,7 @@ body {
     line-height: 1.2; }
     .team-bbox .foundername .position-info {
       font-size: 16px;
-      color: #333333;
+      color: #666;
       line-height: 1.5;
       display: block; }
   .team-bbox .email-addr {
@@ -1838,7 +1859,7 @@ body {
     .visa-fwrap p {
       font-size: 13px !important; }
 
-  .about-deswrap .h2-tlcom {
+  .about-deswrap.team-wrap .h2-tlcom {
     margin: 50px 35px 15px !important; } }
 .visa-tips {
   position: fixed;
