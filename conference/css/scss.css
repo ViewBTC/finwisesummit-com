@@ -148,7 +148,22 @@ body {
     margin-bottom: 10px !important; }
 
   .partner-wrap img {
-    height: auto; } }
+    height: auto; }
+
+  .agenda-wrap {
+    background: #FFFFFF;
+    color: #000;
+    margin: 100px auto 55px !important;
+    padding: 50px; }
+    .agenda-wrap .day-plan {
+      margin: 10px 0; }
+    .agenda-wrap .plan-h2box {
+      margin-bottom: 20px !important; }
+    .agenda-wrap .fw-plantl {
+      line-height: 1.5;
+      font-size: 24px; }
+    .agenda-wrap .age-tbox th, .agenda-wrap .age-tbox td {
+      font-size: 13px !important; } }
 @media (min-width: 992px) {
   #topnav #navigation {
     position: relative;
@@ -163,6 +178,8 @@ body {
     line-height: 70px;
     padding: 0 !important;
     margin: 0 13px; }
+    #topnav .navigation-menu > li > a.active {
+      color: #FF1D92; }
   #topnav .fg-line {
     margin: 0 25px 0 27px; }
   #topnav .lang-switch a {
@@ -207,7 +224,7 @@ body {
   .beginning-time {
     font-size: 30px;
     color: #FFFFFF;
-    margin-bottom: 80px; }
+    margin-bottom: 80px !important; }
 
   .count-wrap .col-md-1 {
     width: 25%; }
@@ -278,10 +295,15 @@ body {
     padding: 0 0 20px !important; }
   .tikets-box .gettiketsbox {
     margin-left: 20px !important; } }
+#topnav.stick .navigation-menu > li > a.fg-line:hover {
+  color: #fff; }
+
 .gettiketsbox {
   background: #FF1D92; }
   .gettiketsbox:hover {
-    background: #ec1886; }
+    background: #ec1886;
+    text-decoration: none;
+    color: #fff; }
   .gettiketsbox a:hover {
     text-decoration: none;
     color: #fff; }
@@ -736,12 +758,12 @@ body {
     background: #FF1D92;
     width: 160px;
     height: 36px;
-    line-height: 38px;
+    line-height: 36px;
     display: inline-block;
     text-align: center;
     /* border-radius: 4px; */
     color: #fff;
-    font-size: 16px; }
+    font-size: 14px; }
     .red-btn * {
       display: inline-block; }
 
@@ -811,7 +833,7 @@ body {
     font-size: 20px !important; }
 
   .plan-wrap {
-    height: 460px !important;
+    height: 410px !important;
     padding: 50px 0 25px !important; } }
 @media only screen and (min-width: 414px) and (max-width: 515px) {
   .index-fwrap {
@@ -1037,9 +1059,10 @@ body {
 
 @media only screen and (min-width: 595px) and (max-width: 999px) {
   .h2-tlcom {
-    font-size: 28px !important;
-    margin-bottom: 45px !important; }
+    font-size: 28px !important; }
 
+  .team-wrap .h2-tlcom {
+    margin-bottom: 45px !important; }
   .team-wrap .col-md-3 {
     width: 50%;
     height: 320px;
@@ -1071,7 +1094,22 @@ body {
 
 @media only screen and (min-width: 300px) and (max-width: 767px) {
   .foot-p .plname-info {
-    font-size: 16px; } }
+    font-size: 16px; }
+
+  .agenda-wrap {
+    background: #FFFFFF;
+    color: #000;
+    margin: 55px auto 0 !important;
+    padding: 20px !important; }
+    .agenda-wrap .day-plan {
+      margin: 10px 0; }
+    .agenda-wrap .plan-h2box {
+      margin-bottom: 15px !important; }
+    .agenda-wrap .fw-plantl {
+      line-height: 1.5;
+      font-size: 20px !important; }
+    .agenda-wrap .age-tbox th, .agenda-wrap .age-tbox td {
+      font-size: 12px !important; } }
 .guest-item .col-md-2 {
   text-align: center;
   margin-bottom: 20px;
@@ -1188,7 +1226,8 @@ body {
     right: 60px !important; }
 
   .clogo-img {
-    margin: 50px 0 50px; }
+    margin: 50px 0 50px;
+    width: 60% !important; }
 
   .data-item .col-md-1 {
     margin: 35px 0;
@@ -1401,6 +1440,13 @@ body {
   .about-fwrap {
     background-position: center 55px !important;
     height: 280px !important; } }
+@media only screen and (min-width: 992px) and (max-width: 1450px) {
+  .clogo-img {
+    margin: 100px 0 50px 0 !important;
+    width: 65% !important; }
+
+  .beginning-time {
+    margin-bottom: 100px; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .colorful-border {
     height: 615px !important; }
@@ -1789,6 +1835,10 @@ body {
   margin: 45px 0; }
 
 @media (max-width: 320px) {
+  .index-fwrap {
+    height: 480px !important;
+    padding-top: 80px !important; }
+
   .guest-item .photo-dbbox {
     width: 110px; }
   .guest-item img {
@@ -1860,14 +1910,17 @@ body {
       font-size: 13px !important; }
 
   .about-deswrap.team-wrap .h2-tlcom {
-    margin: 50px 35px 15px !important; } }
+    margin: 50px 35px 15px !important; }
+
+  .visa-tips {
+    font-size: 12px !important; } }
 .visa-tips {
   position: fixed;
   right: 0px;
   bottom: 30%;
   z-index: 9999;
   background: #FF1D92;
-  padding: 5px 15px 4px;
+  padding: 5px 12px 4px 15px;
   border-radius: 20px 0 0 20px;
   font-size: 13px;
   line-height: 1.5; }
@@ -1896,5 +1949,41 @@ body {
 
 .mar-tb45 {
   margin: 45px 0; }
+
+.agenda-wrap {
+  background: #FFFFFF;
+  color: #000;
+  margin: 120px auto 50px;
+  padding: 50px; }
+  .agenda-wrap .day-plan {
+    margin: 15px 0; }
+  .agenda-wrap .plan-h2box {
+    margin-bottom: 30px; }
+  .agenda-wrap .fw-plantl {
+    line-height: 1.5; }
+  .agenda-wrap .age-tbox {
+    width: 100%;
+    text-align: center;
+    outline: 1px solid #333;
+    margin-bottom: 20px; }
+    .agenda-wrap .age-tbox .t-ftime {
+      background: #b9b9b9;
+      color: #000;
+      font-size: 14px; }
+    .agenda-wrap .age-tbox td {
+      border: 1px solid #ccc;
+      text-align: left;
+      padding: 5px 10px;
+      font-size: 14px; }
+      .agenda-wrap .age-tbox td:nth-child(1) {
+        width: 45%; }
+  .agenda-wrap .age-thead {
+    font-size: 14px;
+    background: #444;
+    color: #FFFFFF;
+    height: 32px;
+    line-height: 32px; }
+    .agenda-wrap .age-thead th {
+      padding: 0 10px; }
 
 /*# sourceMappingURL=scss.css.map */

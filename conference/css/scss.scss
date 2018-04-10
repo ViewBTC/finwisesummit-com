@@ -241,6 +241,35 @@ body{
 			height: auto
 		}
 
+
+
+		//agenda begin
+		.agenda-wrap {
+				background: #FFFFFF;
+				color: #000;
+				margin: 100px auto 55px !important;
+				padding: 50px;
+				.day-plan{
+					margin: 10px 0;
+				}
+				.plan-h2box{
+					margin-bottom: 20px !important;
+				}
+				.fw-plantl{
+					line-height: 1.5;
+					font-size: 24px;
+
+				}
+
+			 .age-tbox {
+				 th, td {
+					 //border: 1px solid #ccc;
+					 //text-align: left;
+					 //padding: 5px 10px;
+					 font-size: 13px !important;
+				 }
+			 }
+			}
 	}
 
 	@media (min-width: 992px){
@@ -266,6 +295,9 @@ body{
 				//line-height: 55px;
 				//padding-left: 15px;
 				//padding-right: 15px;
+				&.active{
+					color: $red-color;
+				}
 			}
 			.fg-line{
 				margin: 0 25px 0 27px;
@@ -341,7 +373,7 @@ body{
 		.beginning-time{
 			font-size: 30px;
 			color: #FFFFFF;
-			margin-bottom: 80px;
+			margin-bottom: 80px !important;
 			//font-weight: lighter;
 		}
 
@@ -508,10 +540,15 @@ body{
 			}
 		}
 	}
+	#topnav.stick .navigation-menu > li > a.fg-line:hover{
+		color: #fff;
+	}
 	.gettiketsbox {
 		background: #FF1D92;
 		&:hover{
 			background: #ec1886;
+			text-decoration: none;
+			color: #fff;
 		}
 		& a:hover{
 			text-decoration: none;
@@ -1438,12 +1475,12 @@ body{
 			background: $red-color;
 			width: 160px;
 			height: 36px;
-			line-height: 38px;
+			line-height: 36px;
 			display: inline-block;
 			text-align: center;
 			/* border-radius: 4px; */
 			color: #fff;
-			font-size: 16px;
+			font-size: 14px;
 			//@extend .cc-btn;
 			*{
 				display: inline-block;
@@ -1590,7 +1627,7 @@ body{
 			//margin-bottom: 30px;
 		}
 		.plan-wrap{
-			height: 460px !important;
+			height: 410px !important;
 			padding: 50px 0 25px !important;
 		}
 
@@ -2113,12 +2150,15 @@ body{
 		.h2-tlcom {
 			//color: #4F2F84;
 			font-size: 28px !important;
-			margin-bottom: 45px !important;
+			//margin-bottom: 45px !important;
 			//margin-bottom: 30px;
 		}
 
 
 		.team-wrap{
+			.h2-tlcom {
+				margin-bottom: 45px !important;
+			}
 			.col-md-3 {
 				width:50%;
 				height: 320px;
@@ -2192,6 +2232,35 @@ body{
 		.foot-p .plname-info {
 			//color: #333;
 			font-size: 16px;
+		}
+
+
+		//agenda begin
+		.agenda-wrap {
+			background: #FFFFFF;
+			color: #000;
+			margin: 55px auto 0 !important;
+			padding: 20px !important;
+			.day-plan{
+				margin: 10px 0;
+			}
+			.plan-h2box{
+				margin-bottom: 15px !important;
+			}
+			.fw-plantl{
+				line-height: 1.5;
+				font-size:20px !important;
+
+			}
+
+			.age-tbox {
+				th, td {
+					//border: 1px solid #ccc;
+					//text-align: left;
+					//padding: 5px 10px;
+					font-size: 12px !important;
+				}
+			}
 		}
 	}
 
@@ -2429,6 +2498,7 @@ body{
 		.clogo-img {
 			//margin: 50px 0 80px;
 			margin: 50px 0 50px;
+			width: 60% !important;
 			//width: 300px;
 		}
 
@@ -2908,8 +2978,24 @@ body{
 	}
 
 
+@media only screen and (min-width: 992px) and (max-width: 1450px) {
 
+	.clogo-img {
+		margin: 100px 0 50px 0 !important;
+		width: 65% !important;
+	}
+
+
+	.beginning-time {
+		margin-bottom: 100px;
+	}
+
+
+}
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
 	.colorful-border {
 
 		height: 615px !important;
@@ -2920,6 +3006,8 @@ body{
 			height: 530px;
 		}
 	}
+
+
 }
 
 	@media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -3596,6 +3684,13 @@ body{
 
 @media (max-width: 320px) {
 
+
+	.index-fwrap {
+		height: 480px !important;
+		padding-top: 80px !important;
+	}
+
+
 	.guest-item{
 		.photo-dbbox {
 			//border-radius: 50%;
@@ -3796,6 +3891,11 @@ body{
 			margin: 50px 35px 15px !important;
 		}
 	}
+
+
+	.visa-tips {
+		font-size: 12px !important;
+	}
 }
 
 
@@ -3809,7 +3909,7 @@ body{
 	bottom: 30%;
 	z-index: 9999;
 	background: $red-color;
-	padding: 5px 15px 4px;
+	padding: 5px 12px 4px 15px;
 	border-radius: 20px 0 0 20px;
 	font-size: 13px;
 	line-height: 1.5;
@@ -3851,3 +3951,59 @@ body{
 	margin: 45px 0;
 }
 
+
+
+
+//agenda begin
+.agenda-wrap {
+	background: #FFFFFF;
+	color: #000;
+	margin: 120px auto 50px;
+	padding: 50px;
+	.day-plan{
+		margin: 15px 0;
+	}
+	.plan-h2box{
+		margin-bottom: 30px;
+	}
+	.fw-plantl{
+		line-height: 1.5;
+
+	}
+	.age-tbox {
+
+		//color: #FFFFFF;
+		//font-weight: lighter;
+		width: 100%;
+		text-align: center;
+		outline: 1px solid #333;
+		margin-bottom: 20px;
+		.t-ftime{
+			background: #b9b9b9;
+			color: #000;
+			font-size: 14px;
+		}
+		td{
+			border: 1px solid #ccc;
+			text-align: left;
+			padding: 5px 10px;
+			font-size: 14px;
+			&:nth-child(1){
+				//background: #b9b9b9;
+				width: 45%;
+			}
+		}
+	}
+	.age-thead{
+		font-size: 14px;
+		background: #444;
+		color: #FFFFFF;
+
+		height: 32px;
+		line-height:  32px;
+	th{
+		padding: 0 10px;
+	}
+
+	}
+}

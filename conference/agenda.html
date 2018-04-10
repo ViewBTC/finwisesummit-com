@@ -1,15 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>纷智峰会 · 澳门</title>
+    <title>纷智峰会 · 东京</title>
     <meta charset="UTF-8">
-    <meta name="keywords" content="纷智全球峰会, viewfin, blockchain, metaverse">
+    <meta name="keywords" content="纷智全球峰会,finwisesummit, viewfin, blockchain, metaverse">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="css/bundle.css">
     <link rel="stylesheet" href="css/hody-icons.css">
     <link rel="stylesheet" href="css/xh-style.css">
+    <link rel="stylesheet" href="css/scss.css">
+    <style type="text/css">
+        #topnav.stick .navigation-menu > li > a:hover{
+            color: #f9297d;
+        }
+
+        .foot-p p{
+            color: #fff;
+        }
+
+        .lang-select a:hover{
+            color: #fff;
+        }
+
+        #footer{
+            /*margin-top: 50px;*/
+        }
+
+        .fg-line{
+            margin: 0;
+        }
+
+        .gettiketsbox {
+            /*background: #FF1D92;*/
+            /*padding: 4px;*/
+            /*!*border-radius: 4px;*!*/
+            /*!*top: 12px;*!*/
+            /*font-size: 14px;*/
+            /*min-width: 100px;*/
+            /*text-align: center;*/
+            /*display: block;*/
+            /*padding: 0;*/
+            /*width: 90px;*/
+            /*height: 40px;*/
+            /*line-height: 40px;*/
+        }
+
+        .get-btn, .corange-btn{
+            background: #f9297d;
+        }
+
+        .head-p{
+            background: none;
+        }
+
+        .i-cont .foot-p{
+            background: #333;
+            padding-top: 0;
+            padding: 25px 40px 40px;
+        }
+
+        .head-p{
+            padding: 40px;
+            margin-top: 20px;
+        }
+
+        .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover {
+            background: #ff5599;
+        }
+
+        .xx-title-new{
+            font-size: 30px;
+            padding-bottom: 20px;
+        }
+
+        .get-btn, .corange-btn{
+            padding: 0;
+        }
+
+        .i-cont{
+            /*background: url(images/finwise/zanzhu.jpg);
+            background-attachment: fixed;*/
+        }
+
+        .head-p{
+            background: #333;
+        }
+
+        #topnav .logo img{
+            width: 210px;
+        }
+
+        .foot-p .plname-info{
+            /*color: #333;*/
+        }
+
+        #topnav .toggle-inner {
+            /*background-color: #ff5599;*/
+            background-color: #D8D8D8;;
+        }
+
+        @media (max-width: 768px){
+            .clogo-img{
+                /*width: 230px;*/
+                /*margin: 120px 34px 10px 0;*/
+            }
+
+            .index-bgwrapnew {
+                background-position: center;
+                background-size: cover;
+            }
+
+            .head-p, .i-cont .foot-p{
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            #topnav .logo img{
+                width: 180px;
+            }
+
+
+
+            .head-p .xx-title{
+                padding-left: 20px;
+            }
+        }
+
+        @media (max-width: 991px){
+            .lang-select {
+                right: 46px;
+                top: 10px;
+            }
+        }
+
+
+    </style>
+
     <script>
     var _hmt = _hmt || [];
     (function() {
@@ -28,31 +156,29 @@
 </head>
 
 <body>
-<!-- Preloader-->
-<div id="loader">
-    <div class="centrize">
-        <div class="v-center">
-            <div id="mask">
-                <span></span>
+    <!-- Preloader-->
+    <div id="loader">
+        <div class="centrize">
+            <div class="v-center">
+                <div id="mask">
+                    <span></span>
+                </div>
             </div>
         </div>
     </div>
-</div>
-<!-- End Preloader-->
+    <!-- End Preloader-->
 
-<div class="index-bgwrap index-bgwrapnew">
-    <!--<div w3-include-html="top.html"></div>-->
 
     <!-- header-->
     <header id="topnav">
         <div class="container">
             <!-- Logo container-->
-            <div class="logo">
-                <a href="./index.html">
-                    <img class="logo-light" src="images/finwise/logo-macau.png" alt="纷智全球峰会">
-                    <img class="logo-dark" src="images/finwise/logo-macau.png" alt="纷智全球峰会">
+            <h1 class="logo">
+                <a href="./index.html" class="finwise-logowrap">
+                    <!--<img class="logo-light" data-original="images/finwise/logo-macau.png" alt="纷智全球峰会">-->
+                    <img class="logo-dark fwlogo" src="images/finwise-tokyo/finwiselogo.png" alt="纷智全球峰会">
                 </a>
-            </div>
+            </h1>
             <!-- End Logo container-->
             <div class="menu-extras">
                 <div class="menu-item toggle-nav">
@@ -63,28 +189,52 @@
                     <!-- End mobile menu toggle-->
                 </div>
             </div>
-            <div class="lang-select">
-                <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
-                <a href="https://msite.31huiyi.com/1097240309" class="fg-line" target="_blank">获取门票</a>    
-            </div>
+
+            <a href="#" class="fg-line tikets-wapbox wap-show">
+                <span class="gettiketsbox gray-nouse">
+                    <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
+                   个人参会
+                </span>
+            </a>
+
+            <!--<div class="lang-select gray-nouse">-->
+            <!--&lt;!&ndash; <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> &ndash;&gt;-->
+            <!--<a href="#" class="fg-line">获取门票</a>-->
+            <!--</div>-->
 
             <div id="navigation">
-                
                 <ul class="navigation-menu nav">
                     <li>
                         <a href="./index.html">首页</a>
                     </li>
                     <li>
-                         <a href="./agenda.html" class="endingbtn" target="_blank">会议议程</a>
+                        <a href="javascript:;" class="endingbtn active" target="_blank">会议议程</a>
                     </li>
                     <li>
                         <a href="./cooperation.html" class="endingbtn">赞助合作</a>
                     </li>
-                    <li>
-                         <a href="./appc-index.html" class="endingbtn" target="_blank">往届回顾</a>
+                    <li class="past-review sl-language">
+                        <a class="spe-hover" href="javascript:;">往届回顾</a>
+                        <ul class="review-old">
+                            <li><a href="./appc-index.html" class="endingbtn" target="_blank">上海站</a></li>
+                            <li><a href="./macau/index.html" class="endingbtn" target="_blank">澳门站</a></li>
+                        </ul>
                     </li>
-                    <li id="lang-switch">
-                         <a href="./agenda-en.html" class="endingbtn">EN</a>
+                    <li>
+                        <a href="./about.html" class="about">关于我们</a>
+                    </li>
+                    <li class="tikets-box pc-hide">
+                        <a href="https://msite.31huiyi.com/m/1323220912" target="_blank" class="fg-line">
+                            <span class="gettiketsbox">
+                                <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
+                               获取门票
+                            </span>
+                        </a>
+                    </li>
+                    <li id="lang-switch" class="lang-switch">
+                        <a href="#" class="endingbtn">中文</a>／
+                        <a href="#" class="endingbtn">EN</a>
+                        <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
                     </li>
                 </ul>
             </div>
@@ -92,203 +242,272 @@
     </header>
     <!-- header end-->
 
-    
-</div>
-<section class="fm-wrap spe-formwrap A-wrap container bg-white">
-    <h1>会议议程</h1>
-    
-    <img src="images/finwise/1.jpg" class="coop-table">
-    <img src="images/finwise/2.jpg" class="coop-table">
-    <img src="images/finwise/3.jpg" class="coop-table">
-    <img src="images/finwise/4.jpg" class="coop-table">
-    <img src="images/finwise/5.jpg" class="coop-table">
-    <img src="images/finwise/6.jpg" class="coop-table">
-    <img src="images/finwise/7.jpg" class="coop-table">
-    <img src="images/finwise/8.jpg" class="coop-table">
-    <img src="images/finwise/9.jpg" class="coop-table">
-    <img src="images/finwise/10.jpg" class="coop-table">
-    <img src="images/finwise/11.jpg" class="coop-table">
-    <img src="images/finwise/12.jpg" class="coop-table">
+    <!--get detail begin-->
 
-</section>
+    <div class="container agenda-wrap">
+        <div class="plan-h2box">
+            <h2 class="fw-plantl">Agenda for FINWISE Blockchain Summit Tokyo 2018 </h2>
+            <h2 class="fw-plantl">纷智区块链峰会 东京站大会议程  </h2>
+        </div>
+        <p class="day-plan">Day 1 (May 21, 2018)</p>
+        <table class="age-tbox">
+            <thead class="age-thead">
+                <tr>
+                    <th class="wh30 type-sv">Time 时间</th>
+                    <th class="wh14">Topic 演讲主题</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="t-ftime">
+                    <td class="text-left" colspan="2">   Part I 上午</td>
+                </tr>
+                <tr>
+                    <td class="">09:30 AM - 09:50 AM</td>
+                    <td>到场嘉宾签到</td>
+                </tr>
+                <tr>
+                    <td class="">09:50 AM - 10:05 AM</td>
+                    <td>大会开始</td>
+                </tr>
+                <tr>
+                    <td class="">10:05 AM - 10:15 AM</td>
+                    <td>Welcome Speech 大会揭幕致辞</td>
+                </tr>
+                <tr>
+                    <td class="">10:15 AM - 10:20 AM</td>
+                    <td>BCUA揭幕仪式</td>
+                </tr>
+                <tr>
+                    <td class="">10:20 AM - 10:40 AM</td>
+                    <td>监管技术如何推动数字货币行业的发展</td>
+                </tr>
+
+                <tr>
+                    <td class="">10:40 AM - 11:10 AM（Panel 圆桌）</td>
+                    <td>跨辖区和金融服务的区块链互操作性</td>
+                </tr>
+
+                <tr>
+                    <td class="">11:10 AM - 11:40 AM（Panel 圆桌）</td>
+                    <td>监管机构及其在制定支持性立法和治理方面的作用</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <table class="age-tbox">
+            <!--<thead>-->
+            <!--<tr class="zz-tb">-->
+                <!--<th class="wh30 type-sv">Time 时间</th>-->
+                <!--<th class="wh14">Topic 演讲主题</th>-->
+            <!--</tr>-->
+            <!--</thead>-->
+            <tbody>
+                <tr class="t-ftime">
+                    <td class="text-left" colspan="2">Part II 下午</td>
+                </tr>
+                <tr>
+                    <td class="">02:00 PM - 02:30 PM</td>
+                    <td>区块链如何促进社会生产力的创新</td>
+                </tr>
+                <tr>
+                    <td class="">02:30 PM - 03:00 PM</td>
+                    <td>如何实现区块链的广泛应用</td>
+                </tr>
+                <tr>
+                    <td class="">03:00 PM - 03:30 PM</td>
+                    <td>风险投资与区块链</td>
+                </tr>
+                <tr>
+                    <td class="">03:30 PM - 04:00 PM</td>
+                    <td>加密货币价格与股票市场的关联度</td>
+                </tr>
+                <tr>
+                    <td class="">04:30 PM - 05:00 PM（Panel圆桌）</td>
+                    <td>区块链技术对未来金融的变革</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <p class="day-plan">Day 2 (May 22, 2018)</p>
+
+        <table class="age-tbox">
+            <thead class="age-thead">
+                <tr>
+                    <th class="wh30 type-sv">Time 时间</th>
+                    <th class="wh14">Topic 演讲主题</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr class="t-ftime">
+                <td class="text-left" colspan="2">Part I 上午</td>
+            </tr>
+            <tr>
+                <td class="">09:00 AM - 09:30 AM</td>
+                <td>到场嘉宾签到</td>
+            </tr>
+            <tr>
+                <td class="">09:30 AM - 10:00 AM</td>
+                <td>交易所如何做到自律与合规</td>
+            </tr>
+            <tr>
+                <td class="">10:00 AM - 10:20 AM</td>
+                <td>区块链应用的技术限制</td>
+            </tr>
+            <tr>
+                <td class="">10:20 AM - 10:40 AM</td>
+                <td>共识机制的演化</td>
+            </tr>
+            <tr>
+                <td class="">10:40 AM - 11:00 AM</td>
+                <td>区块链的过去、现在和未来</td>
+            </tr>
+            <tr>
+                <td class=""> 11:00 AM - 11:30 AM（Panel 圆桌）</td>
+                <td>Future of exchanges 交易所的未来</td>
+            </tr>
+
+            </tbody>
+        </table>
+
+
+        <table class="age-tbox">
+            <!--<thead>-->
+            <!--<tr class="zz-tb">-->
+                <!--<th class="wh30 type-sv">Time 时间</th>-->
+                <!--<th class="wh14">Topic 演讲主题</th>-->
+            <!--</tr>-->
+            <!--</thead>-->
+            <tbody>
+            <tr class="t-ftime">
+                <td class="text-left" colspan="2">Part II 下午</td>
+            </tr>
+            <tr>
+                <td class="">02:00 PM - 02:30 PM</td>
+                <td>共赢机制是未来公司的基础</td>
+            </tr>
+            <tr>
+                <td class="">02:30 PM - 03:00 PM</td>
+                <td>区块链的安全问题与痛点</td>
+            </tr>
+            <tr>
+                <td class="">03:30 PM - 04:00 PM</td>
+                <td>区块链与人工智能</td>
+            </tr>
+            <tr>
+                <td class="">04:00 PM - 04:30 PM</td>
+                <td>区块链在移动端的全新发展</td>
+            </tr>
+            <tr>
+                <td class="">04:30 PM - 05:00 PM（Panel 圆桌）</td>
+                <td>新一代矿池的发展趋势</td>
+            </tr>
+
+            </tbody>
+        </table>
 
 
 
 
+    </div>
+    <!--get detail end-->
 
 
-<footer id="footer">
-    <div class="container">
-        <div class="row">
-            <h2 class="text-center contact-us">联系我们</h2>
-            <div class="col-md-4">
-                <div class="">票务咨询</div>
-                <div class="contact-usstyle">
-                    <p class="">ticket@finwisesummit.com</p>
+
+    <!--footer begin-->
+    <footer id="footer">
+        <div class="container footer-spewrap">
+            <div class="row">
+                <!--<h2 class="text-center contact-us">联系我们</h2>-->
+                <div class="col-md-spe25 fcon-wrap">
+                    <h4 class="fim-tl">票务咨询</h4>
+                    <div class="contact-usinfo">
+                        <p class="email">Email：ticket@finwisesummit.com</p>
+                    </div>
                 </div>
-                <div style="margin-top: 20px;">赞助咨询</div>
-                <div class="contact-usstyle">
-                    <p class="">TEL & Wechat 137 6459 5403</p>
+                <div class="col-md-6 social fcon-wrap">
+                    <h4 class="fim-tl">赞助咨询</h4>
+                    <div class="contact-usinfo">
+                        <!--<p class="">TEL & Wechat 137 6459 5403</p>-->
+                        <dl class="contact-ussty col-md-spe25">
+                            <dt>Raymond HE</dt>
+                            <dd>Tel: 18817429015</dd>
+                            <dd>Wechat: rh12586</dd>
+                            <dd>Email: raymond.he@finwisesummit.com</dd>
+                        </dl>
+                        <dl class="contact-ussty">
+                            <dt>Damian</dt>
+                            <dd>Tel: 18600936157</dd>
+                            <dd>Wechat: qianjiexua3378</dd>
+                            <dd>Email: Damian@finwisesummit.com</dd>
+                        </dl>
+                    </div>
+                    <!-- <div>社交媒体</div>
+                    <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
+                        <img  data-original="images/finwise/facebook.png" alt="facebook">
+                    </a>
+                    <a href="https://twitter.com/finwise_org">
+                        <img  data-original="images/finwise/twitter.png" alt="twitter">
+                    </a> -->
                 </div>
+                <div class="col-md-spe25 social pc-hide fcon-wrap">
+                    <h4 class="fim-tl">关注我们</h4>
+                    <div class="wechat-tl">微信公众号</div>
+                    <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="lazy">
+                </div>
+
             </div>
-            <div class="col-md-4 social">
-                <!-- <div>社交媒体</div>
-                <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
-                    <img  src="images/finwise/facebook.png" alt="facebook">
-                </a>
-                <a href="https://twitter.com/finwise_org">
-                    <img  src="images/finwise/twitter.png" alt="twitter">
-                </a> -->
+
+        </div>
+
+        <div class="col-md-wap fcon-wrap wap-show clearfix">
+            <div class="col-md-6">
+                <img data-original="images/finwise-tokyo/logo-footer.png" class="logo-footer lazy">
             </div>
-            <div class="col-md-4 social">
-                <div>微信公众号</div>
-                <img src="images/finwise/Wechat.jpg" id="wechat-img">
+            <div class="col-md-6">
+                <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="wechat-img lazy">
             </div>
         </div>
-        
+
+    </footer>
+    <!--footer end-->
+
+
+    <div class="go-top">
+        <a href="#top">
+            <i class="hc-angle-up"></i>
+        </a>
     </div>
-</footer>
-
-
-<div class="go-top">
-    <a href="#top">
-        <i class="hc-angle-up"></i>
-    </a>
-</div>
-<style type="text/css">
-    #topnav.stick .navigation-menu > li > a:hover{
-        color: #f9297d;
-    }
-
-    .foot-p p{
-        color: #fff;
-    }
-
-    .lang-select a:hover{
-         color: #fff;
-    }
-
-    #footer{
-        margin-top: 50px;
-    }
-
-    .fg-line{
-        margin: 0;
-    }
-
-    .lang-select {
-        background: #f9297d;
-        padding: 4px;
-        border-radius: 4px;
-        top: 12px;
-        font-size: 14px;
-        min-width: 100px;
-        text-align: center;
-    }
-
-    .get-btn, .corange-btn{
-        background: #f9297d;
-    }
-
-    .head-p{
-        background: none;
-    }
-
-    .i-cont .foot-p{
-        background: none;
-        padding-top: 0;
-        padding: 25px 40px 40px;
-    }
-
-    .head-p{
-        padding: 40px;
-    }
-
-    .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover {
-        background: #ff5599;
-    }
-
-    .xx-title-new{
-        font-size: 30px;
-        padding-bottom: 20px;
-    }
-
-    .get-btn, .corange-btn{
-        width: 120px;
-    }
-
-    .i-cont{
-        background: url(images/finwise/zanzhu.jpg);
-        background-attachment: fixed;
-    }
-
-    .h2-title {
-        margin: 40px 0 10px;
-        font-weight: 700;
-    }
-
-    #topnav .logo img{
-        width: 210px;
-    }
-
-    .coop-table {
-        padding: 20px 0 0px;
-        width: 100%;
-    }
-
-    @media (max-width: 768px){
-        .clogo-img{
-            width: 230px;
-            margin: 60px 34px 10px 0;
-        }
-
-        .index-bgwrapnew {
-            background-position: center;
-            background-size: cover;
-        }
-
-        .i-cont .foot-p{
-            margin-top: 50px;
-        }
-
-        .head-p, .i-cont .foot-p{
-            padding-left: 0;
-            padding-right: 0;
-        }
-
-        #topnav .logo img{
-            width: 180px;
-        }
-
-        #topnav .logo {
-            padding: 8px 0;
-        }
-
-    }
-
-    @media (max-width: 991px){
-        .lang-select {
-            right: 46px;
-            top: 10px;
-        }
-
-
-    }
-
-
-        
-    
-</style>
 
 
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bundle.js"></script>
 <script type="text/javascript" src="js/SmoothScroll.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
-<script type="text/javascript" src="js/w3.js"></script>
+<!--<script type="text/javascript" src="js/w3.js"></script>-->
 <script type="text/javascript" src="js/mini-nav.js"></script>
+<!--<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>-->
+<script src="js/jquery.lazyload.js"></script>
+<script src="js/jquery.SuperSlide2.1.2.js"></script>
 <script>
-    w3.includeHTML();
+//    w3.includeHTML();
+
+
+//    img lazyload
+    $(function() {
+
+        $("img.lazy").lazyload({effect: "fadeIn"});
+
+    });
+
+
+//finwise plan begin
+    $(function() {
+        jQuery(".event_box").slide({ titCell: ".parHd li", mainCell: ".parBd", defaultPlay: true, titOnClassName: "act", prevCell: ".sPrev", nextCell: ".sNext" });
+        jQuery(".parHd").slide({ mainCell: " ul", vis: 6, effect: "leftLoop", defaultPlay: true, prevCell: ".sPrev", nextCell: ".sNext" });
+    });
+
 </script>
 </body>
 </html>
