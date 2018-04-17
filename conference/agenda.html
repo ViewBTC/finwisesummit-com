@@ -211,7 +211,7 @@
                         <a href="./agenda.html" class="endingbtn active" target="_blank" dom-i18n='hyyc2'>会议议程</a>
                     </li>
                     <li>
-                        <a href="./cooperation.html" class="endingbtn" dom-i18n='hyyc2'>赞助合作</a>
+                        <a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>
                     </li>
                     <li class="past-review sl-language">
                         <a class="spe-hover" href="javascript:;" dom-i18n='wjhg4'>往届回顾</a>
@@ -225,7 +225,7 @@
                     </li>
                     <li class="tikets-box pc-hide">
                         <a href="https://msite.31huiyi.com/m/1323220912" target="_blank" class="fg-line">
-                            <span class="gettiketsbox">
+                            <span class="gettiketsbox" dom-i18n='hqmp6'>
                                 <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
                                获取门票
                             </span>
@@ -248,7 +248,7 @@
 
     <div class="container agenda-wrap">
         <div class="plan-h2box">
-            <h2 class="fw-plantl">Agenda for FINWISE Blockchain Summit Tokyo 2018 </h2>
+            <h2 class="fw-plantl" style="display: none;">Agenda for FINWISE Blockchain Summit Tokyo 2018 </h2>
             <h2 class="fw-plantl" dom-i18n='fzyc26'>纷智区块链峰会 东京站大会议程  </h2>
         </div>
         <p class="day-plan">Day 1 (May 21, 2018)</p>
@@ -420,8 +420,7 @@
     <!--footer begin-->
     <footer id="footer">
         <div class="container footer-spewrap">
-            <div class="row">
-                <!--<h2 class="text-center contact-us">联系我们</h2>-->
+            <div class="row" style="display: flex">
                 <div class="col-md-spe25 fcon-wrap">
                     <h4 class="fim-tl" dom-i18n='pwzx23'>票务咨询</h4>
                     <div class="contact-usinfo">
@@ -437,7 +436,18 @@
                             <dd>Tel: 18817429015</dd>
                             <dd>Wechat: rh12586</dd>
                             <dd>Email: raymond.he@finwisesummit.com</dd>
-                        </dl>
+                        <!-- </dl>
+                        <dl class="contact-ussty">
+                            <dt>Damian</dt>
+                            <dd>Tel: 18600936157</dd>
+                            <dd>Wechat: qianjiexua3378</dd>
+                            <dd>Email: Damian@finwisesummit.com</dd>
+                        </dl> -->
+                    </div>
+                </div>
+                <div class="col-md-spe25 social fcon-wrap">
+                    <h4 class="fim-tl" style="border-bottom:0">　</h4>
+                    <div class="contact-usinfo">
                         <dl class="contact-ussty">
                             <dt>Damian</dt>
                             <dd>Tel: 18600936157</dd>
@@ -445,15 +455,8 @@
                             <dd>Email: Damian@finwisesummit.com</dd>
                         </dl>
                     </div>
-                    <!-- <div>社交媒体</div>
-                    <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
-                        <img  data-original="images/finwise/facebook.png" alt="facebook">
-                    </a>
-                    <a href="https://twitter.com/finwise_org">
-                        <img  data-original="images/finwise/twitter.png" alt="twitter">
-                    </a> -->
                 </div>
-                <div class="col-md-spe25 social pc-hide fcon-wrap">
+                <div class="col-md-spe25 social pc-hide fcon-wrap" style="display:none;">
                     <h4 class="fim-tl" dom-i18n='gywm25'>关注我们</h4>
                     <div class="wechat-tl">微信公众号</div>
                     <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="lazy">

@@ -44,7 +44,7 @@
         tghb29:
           "通过现场展览，让您的品牌形象遍布于各媒体网站及大会会场，有助于您提升品牌认知度。 Finwise Summit Tokyo ，预计将覆盖 2500+参会嘉宾、东亚 800万+ 区块链相关人士。此次峰会除了纷智官方的Facebook、twitter 等社交渠道，将在会前、会中、会后全方位传播大会及合作伙伴信息外，相关的区块链行业的企业媒体、个人自媒体，也将全渠道、多维度同步曝光合作伙伴。",
         tzyh30: "拓展潜在用户",
-        //
+
         tgjl31:
           "通过展示您的优秀产品及服务，吸引用户使用，有助您提升品牌关注度。Finwise Summit Tokyo将重点关注、探讨行业的监管、各国对区块链的政策、日本交易所的合规性等热点问题，吸引更多区块链行业最热门、最具代表的行业企业资源到场参与，促进合作交流。",
         scsl32: "输出技术实力",
@@ -96,7 +96,11 @@
         zwhe73: "FINWISE组委会",
         hxcy74: "核心团队成员",
 
-        cyqy75: "参与合作，赞助商将获得以下权益"
+        cyqy75: "参与合作，赞助商将获得以下权益",
+
+        lysn76: "刘彦燊",
+        lysd77:
+          "Colony Capital柯罗尼资本亚太区董事总经理 WE+创始人兼首席执行官CEO"
       },
       en: {
         seey1: "Home",
@@ -149,7 +153,7 @@
         fhgm43: "Title Sponsorship of Sub-venues",
         mtzf44: "Exclusive Interview",
         esyj45: "20 mins Independent Speech",
-        bzzt46: "Standard Booth",
+        bzzt46: "Standard Booth Investment",
         wixz47: "VIP Pass",
         jeeg48: "Price",
 
@@ -187,7 +191,10 @@
         zwhe73: "FINWISE Organizing Committee",
         hxcy74: "Core Team Members",
 
-        cyqy75: "Sponsors will obtain the following rights and interests"
+        cyqy75: "Sponsors will obtain the following rights and interests",
+
+        lysn76: "Allen Lau",
+        lysd77: "Managing Director of Coloney Capital, Founder and CEO of WE+"
       },
       jap: {
         seey1: "トップページ",
@@ -300,8 +307,10 @@
         //获取当前语言
         var lang = opts.i18n[opts.lang],
           txt = lang[key];
-        //渲染文字
-        dom.innerText = txt;
+        if (txt && txt.length > 0) {
+          //渲染文字
+          dom.innerText = txt;
+        }
       });
     },
     setLang: function(v) {
