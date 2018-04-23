@@ -205,23 +205,23 @@
             <div id="navigation">
                 <ul class="navigation-menu nav">
                     <li>
-                        <a href="./index.html">首页</a>
+                        <a href="./index.html" dom-i18n='seey1'>首页</a>
                     </li>
                     <li>
-                        <a href="javascript:;" class="endingbtn" target="_blank">会议议程</a>
+                        <a href="javascript:;" class="endingbtn" target="_blank" dom-i18n='hyyc2'>会议议程</a>
                     </li>
                     <li>
-                        <a href="./cooperation.html" class="endingbtn">赞助合作</a>
+                        <a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>
                     </li>
                     <li class="past-review sl-language">
-                        <a class="spe-hover" href="javascript:;">往届回顾</a>
+                        <a class="spe-hover" href="javascript:;" dom-i18n='wjhg4'>往届回顾</a>
                         <ul class="review-old">
                             <li><a href="./appc-index.html" class="endingbtn" target="_blank">上海站</a></li>
                             <li><a href="./macau/index.html" class="endingbtn" target="_blank">澳门站</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="./about.html" class="about">关于我们</a>
+                        <a href="./about.html" class="about" dom-i18n='gywm5'>关于我们</a>
                     </li>
                     <li class="tikets-box pc-hide">
                         <a href="https://msite.31huiyi.com/m/1323220912" target="_blank" class="fg-line">
@@ -232,10 +232,12 @@
                         </a>
                     </li>
                     <li id="lang-switch" class="lang-switch">
-                        <a href="#" class="endingbtn">中文</a>／
-                        <a href="#" class="endingbtn">EN</a>
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日本語</a>
                         <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
-                    </li>
+                        <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
+                   </li>
                 </ul>
             </div>
         </div>
@@ -304,16 +306,15 @@
     <!--footer begin-->
     <footer id="footer">
         <div class="container footer-spewrap">
-            <div class="row">
-                <!--<h2 class="text-center contact-us">联系我们</h2>-->
+            <div class="row" style="display: flex">
                 <div class="col-md-spe25 fcon-wrap">
-                    <h4 class="fim-tl">票务咨询</h4>
+                    <h4 class="fim-tl" dom-i18n='pwzx23'>票务咨询</h4>
                     <div class="contact-usinfo">
                         <p class="email">Email：ticket@finwisesummit.com</p>
                     </div>
                 </div>
                 <div class="col-md-6 social fcon-wrap">
-                    <h4 class="fim-tl">赞助咨询</h4>
+                    <h4 class="fim-tl" dom-i18n='zzzx24'>赞助咨询</h4>
                     <div class="contact-usinfo">
                         <!--<p class="">TEL & Wechat 137 6459 5403</p>-->
                         <dl class="contact-ussty col-md-spe25">
@@ -321,7 +322,18 @@
                             <dd>Tel: 18817429015</dd>
                             <dd>Wechat: rh12586</dd>
                             <dd>Email: raymond.he@finwisesummit.com</dd>
-                        </dl>
+                        <!-- </dl>
+                        <dl class="contact-ussty">
+                            <dt>Damian</dt>
+                            <dd>Tel: 18600936157</dd>
+                            <dd>Wechat: qianjiexua3378</dd>
+                            <dd>Email: Damian@finwisesummit.com</dd>
+                        </dl> -->
+                    </div>
+                </div>
+                <div class="col-md-spe25 social fcon-wrap">
+                    <h4 class="fim-tl" style="border-bottom:0">　</h4>
+                    <div class="contact-usinfo">
                         <dl class="contact-ussty">
                             <dt>Damian</dt>
                             <dd>Tel: 18600936157</dd>
@@ -329,16 +341,9 @@
                             <dd>Email: Damian@finwisesummit.com</dd>
                         </dl>
                     </div>
-                    <!-- <div>社交媒体</div>
-                    <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
-                        <img  data-original="images/finwise/facebook.png" alt="facebook">
-                    </a>
-                    <a href="https://twitter.com/finwise_org">
-                        <img  data-original="images/finwise/twitter.png" alt="twitter">
-                    </a> -->
                 </div>
-                <div class="col-md-spe25 social pc-hide fcon-wrap">
-                    <h4 class="fim-tl">关注我们</h4>
+                <div class="col-md-spe25 social pc-hide fcon-wrap" style="display:none;">
+                    <h4 class="fim-tl" dom-i18n='gywm25'>关注我们</h4>
                     <div class="wechat-tl">微信公众号</div>
                     <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="lazy">
                 </div>
@@ -376,6 +381,8 @@
 <!--<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>-->
 <script src="js/jquery.lazyload.js"></script>
 <script src="js/jquery.SuperSlide2.1.2.js"></script>
+<script src="js/i18n.js"></script>
+
 <script>
 //    w3.includeHTML();
 

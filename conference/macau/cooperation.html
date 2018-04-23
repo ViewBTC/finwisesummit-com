@@ -65,27 +65,31 @@
             </div>
             <div class="lang-select">
                 <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
-                <a href="https://msite.31huiyi.com/1097240309" class="fg-line" target="_blank">获取门票</a>    
+                <a href="https://msite.31huiyi.com/1097240309" class="fg-line" target="_blank" dom-i18n='hqmp6'>获取门票</a>    
             </div>
 
             <div id="navigation">
                 
                 <ul class="navigation-menu nav">
                     <li>
-                        <a href="./index.html">首页</a>
+                        <a href="./index.html" dom-i18n='seey1'>首页</a>
                     </li>
                     <li>
-                         <a href="./agenda.html" class="endingbtn" target="_blank">会议议程</a>
+                         <a href="./agenda.html" class="endingbtn" target="_blank" dom-i18n='hyyc2'>会议议程</a>
                     </li>
                     <li>
-                        <a href="./cooperation.html" class="endingbtn">赞助合作</a>
+                        <a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>
                     </li>
                     <li>
-                         <a href="./appc-index.html" class="endingbtn" target="_blank">往届回顾</a>
+                         <a href="./appc-index.html" class="endingbtn" target="_blank" dom-i18n='wjhg4'>往届回顾</a>
                     </li>
-                    <li id="lang-switch">
-                         <a href="./cooperation-en.html" class="endingbtn">EN</a>
-                    </li>
+                    <li id="lang-switch" class="lang-switch">
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日本語</a>
+                        <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
+                        <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
+                   </li>
                 </ul>
             </div>
         </div>
@@ -95,18 +99,18 @@
     
 </div>
 <section class="fm-wrap spe-formwrap A-wrap container bg-white">
-    <h1>参与合作，赞助商将获得以下权益</h1>
-    <h2 class="h2-title">获得品牌曝光</h2>
+    <h1 dom-i18n='cyqy75'>参与合作，赞助商将获得以下权益</h1>
+    <h2 class="h2-title" dom-i18n='hdbg28'>获得品牌曝光</h2>
     <p>通过现场展览，让您的品牌形象遍布于各媒体网站及大会会场，有助于您提升品牌认知度。
 Finwise Summit MACAU 2018将全渠道、多媒体同步曝光合作伙伴，覆盖现场 3000+、全网 100万+ 区块链相关人士。同时社交媒体、SMS、EDM 等自有及合作媒体宣传渠道将于会前、会中、会后全方位传播大会及合作伙伴信息。
     </p>
-    <h2 class="h2-title">拓展潜在用户</h2>
+    <h2 class="h2-title" dom-i18n='tzyh30'>拓展潜在用户</h2>
     <p>
         通过展示您的优秀产品及服务，吸引用户使用，有助您提升品牌关注度。
 Finwise Global Summit 2017 共吸引超过80位行业大咖，2150名参会人员，50家赞助商及数十家媒体参与。Finwise Summit MACAU 2018将重新凝练区块链行业最热门、最具代表的行业企业资源，以全新的内容吸引区块链相关的交易所、矿机厂商、投资机构、海内外圈内自媒体、矿池、项目方等。
 
     </p>
-    <h2 class="h2-title">输出技术实力</h2>
+    <h2 class="h2-title" dom-i18n='scsl32'>输出技术实力</h2>
     <p>通过演讲分享您的项目进展，输出企业/团队技术实力，有利于您提升品牌认可度。
 Finwise Summit MACAU 2018 特设区块链项目方讲解专场、定制品牌分论坛，期待您推荐优秀讲师分享行业见解、解读项目优势、传播区块链行业技术和创新。
 </p>
@@ -142,11 +146,11 @@ Finwise Summit MACAU 2018 特设区块链项目方讲解专场、定制品牌分
         <div class="row">
             <h2 class="text-center contact-us">联系我们</h2>
             <div class="col-md-4">
-                <div class="">票务咨询</div>
+                <div class="" dom-i18n='pwzx23'>票务咨询</div>
                 <div class="contact-usstyle">
                     <p class="">ticket@finwisesummit.com</p>
                 </div>
-                <div style="margin-top: 20px;">赞助咨询</div>
+                <div style="margin-top: 20px;" dom-i18n='zzzx24'>赞助咨询</div>
                 <div class="contact-usstyle">
                     <p class="">TEL & Wechat 137 6459 5403</p>
                 </div>
@@ -302,6 +306,8 @@ Finwise Summit MACAU 2018 特设区块链项目方讲解专场、定制品牌分
 <script type="text/javascript" src="../js/main.js"></script>
 <script type="text/javascript" src="../js/w3.js"></script>
 <script type="text/javascript" src="../js/mini-nav.js"></script>
+<script src="../js/i18n.js"></script>
+
 <script>
     w3.includeHTML();
 </script>

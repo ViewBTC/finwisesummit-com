@@ -80,6 +80,7 @@ img, video {
 @media (min-width: 992px) {
   #topnav .navigation-menu > li > a {
     min-height: 62px;
+    display: inline-block;
   }
 }
 #topnav .navigation-menu > li .submenu li a i {
@@ -259,9 +260,14 @@ img, video {
 }
 
 #lang-switch{
-  left: 100px;
+  /*left: 100px;*/
+  left: 45px;
 }
 
+#lang-switch a{
+  padding: 0 8px !important
+}
+padding-right
 .purple-text{
   color: #70309f;
 }
@@ -825,6 +831,7 @@ img, video {
   #topnav #navigation {
     position: absolute;
     left: 0;
+    /*left: 80px;*/
     width: 100%;
     text-align: center;
     z-index: 10;

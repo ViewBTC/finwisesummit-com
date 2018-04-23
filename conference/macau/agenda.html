@@ -65,27 +65,31 @@
             </div>
             <div class="lang-select">
                 <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
-                <a href="https://msite.31huiyi.com/1097240309" class="fg-line" target="_blank">获取门票</a>    
+                <a href="https://msite.31huiyi.com/1097240309" class="fg-line" target="_blank" dom-i18n='hqmp6'>获取门票</a>    
             </div>
 
             <div id="navigation">
                 
                 <ul class="navigation-menu nav">
                     <li>
-                        <a href="./index.html">首页</a>
+                        <a href="./index.html" dom-i18n='seey1'>首页</a>
                     </li>
                     <li>
-                         <a href="./agenda.html" class="endingbtn" target="_blank">会议议程</a>
+                         <a href="./agenda.html" class="endingbtn" target="_blank" dom-i18n='hyyc2'>会议议程</a>
                     </li>
                     <li>
-                        <a href="./cooperation.html" class="endingbtn">赞助合作</a>
+                        <a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>
                     </li>
                     <li>
-                         <a href="./appc-index.html" class="endingbtn" target="_blank">往届回顾</a>
+                         <a href="./appc-index.html" class="endingbtn" target="_blank" dom-i18n='wjhg4'>往届回顾</a>
                     </li>
-                    <li id="lang-switch">
-                         <a href="./agenda-en.html" class="endingbtn">EN</a>
-                    </li>
+                    <li id="lang-switch" class="lang-switch">
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日本語</a>
+                        <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
+                        <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
+                   </li>
                 </ul>
             </div>
         </div>
@@ -95,7 +99,7 @@
     
 </div>
 <section class="fm-wrap spe-formwrap A-wrap container bg-white">
-    <h1>会议议程</h1>
+    <h1 dom-i18n='hyyc2' dom-i18n='hyyc2' dom-i18n='hyyc2'>会议议程</h1>
     
     <img src="../images/finwise/1.jpg" class="coop-table">
     <img src="../images/finwise/2.jpg" class="coop-table">
@@ -122,11 +126,11 @@
         <div class="row">
             <h2 class="text-center contact-us">联系我们</h2>
             <div class="col-md-4">
-                <div class="">票务咨询</div>
+                <div class="" dom-i18n='pwzx23'>票务咨询</div>
                 <div class="contact-usstyle">
                     <p class="">ticket@finwisesummit.com</p>
                 </div>
-                <div style="margin-top: 20px;">赞助咨询</div>
+                <div style="margin-top: 20px;" dom-i18n='zzzx24'>赞助咨询</div>
                 <div class="contact-usstyle">
                     <p class="">TEL & Wechat 137 6459 5403</p>
                 </div>
@@ -287,6 +291,8 @@
 <script type="text/javascript" src="../js/main.js"></script>
 <script type="text/javascript" src="../js/w3.js"></script>
 <script type="text/javascript" src="../js/mini-nav.js"></script>
+<script src="../js/i18n.js"></script>
+
 <script>
     w3.includeHTML();
 </script>

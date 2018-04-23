@@ -217,9 +217,12 @@
                         </a>
                     </li>
                     <li id="lang-switch" class="lang-switch">
-                         <a href="../index.html" class="endingbtn">中文</a>／
-                         <a href="#" class="endingbtn">EN</a>
-                    </li>
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日本語</a>
+                        <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
+                        <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
+                   </li>
                 </ul>
             </div>
         </div>
@@ -1123,7 +1126,7 @@
     <!--Partners begin-->
     <section class="container partner-wrap  union-wrap footer-wrap">
         <h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>
-        <h3 class="h2-title spe-tlh3 text-left">联合主办</h3>
+        <h3 class="h2-title spe-tlh3 text-left" dom-i18n='lhzb35'>联合主办</h3>
 
         <div class="swatch-a col-md-3 col-sm-3">
             <img data-original="../images/finwise/new/logo-jcba.png" alt="JCBA" class="lazy cc-border">
@@ -1149,7 +1152,7 @@
 <!--media begin-->
 <section class="container partner-wrap footer-wrap">
 
-    <h3 class="h2-title spe-tlh3 text-left">媒体协办</h3>
+    <h3 class="h2-title spe-tlh3 text-left" dom-i18n='mtxb21'>媒体协办</h3>
     <div class="swatch-a col-md-2">
         <img data-original="../images/finwise/logo_xy2.png" class="lazy cc-border">
     </div>
@@ -1258,7 +1261,7 @@
     <!--协办方 begin-->
     <section class="container  partner-wrap footer-wrap">
 
-        <h3 class="h2-title spe-tlh3 text-left">协办方</h3>
+        <h3 class="h2-title spe-tlh3 text-left" dom-i18n='xbfe22'>协办方</h3>
         <div class="swatch-a col-md-2">
             <img data-original="../images/finwise/new/SMBC.png" alt="SMBC" class="lazy cc-border">
         </div>
@@ -1475,51 +1478,64 @@
     </section>
     <!--协办方 end-->
 
-
     <!--footer begin-->
     <footer id="footer">
         <div class="container footer-spewrap">
-            <div class="row">
-                <!--<h2 class="text-center contact-us">联系我们</h2>-->
+            <div class="row" style="display: flex">
                 <div class="col-md-spe25 fcon-wrap">
-                    <h4 class="fim-tl">Ticket</h4>
+                    <h4 class="fim-tl" dom-i18n='pwzx23'>票务咨询</h4>
                     <div class="contact-usinfo">
-                        <p class="">ticket@finwisesummit.com</p>
+                        <p class="email">Email：ticket@finwisesummit.com</p>
                     </div>
                 </div>
                 <div class="col-md-6 social fcon-wrap">
-                    <h4 class="fim-tl">Sponsorship</h4>
+                    <h4 class="fim-tl" dom-i18n='zzzx24'>赞助咨询</h4>
                     <div class="contact-usinfo">
                         <!--<p class="">TEL & Wechat 137 6459 5403</p>-->
-                        <dl class="contact-ussty">
+                        <dl class="contact-ussty col-md-spe25">
                             <dt>Raymond HE</dt>
-                            <dd>TEL: 18817429015</dd>
+                            <dd>Tel: 18817429015</dd>
                             <dd>Wechat: rh12586</dd>
                             <dd>Email: raymond.he@finwisesummit.com</dd>
-                        </dl>
+                        <!-- </dl>
                         <dl class="contact-ussty">
                             <dt>Damian</dt>
-                            <dd>TEL: 18600936157</dd>
+                            <dd>Tel: 18600936157</dd>
+                            <dd>Wechat: qianjiexua3378</dd>
+                            <dd>Email: Damian@finwisesummit.com</dd>
+                        </dl> -->
+                    </div>
+                </div>
+                <div class="col-md-spe25 social fcon-wrap">
+                    <h4 class="fim-tl" style="border-bottom:0">　</h4>
+                    <div class="contact-usinfo">
+                        <dl class="contact-ussty">
+                            <dt>Damian</dt>
+                            <dd>Tel: 18600936157</dd>
                             <dd>Wechat: qianjiexua3378</dd>
                             <dd>Email: Damian@finwisesummit.com</dd>
                         </dl>
                     </div>
-                    <!-- <div>社交媒体</div>
-                    <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
-                        <img  src="../../../images/finwise/facebook.png" alt="facebook">
-                    </a>
-                    <a href="https://twitter.com/finwise_org">
-                        <img  src="../../../images/finwise/twitter.png" alt="twitter">
-                    </a> -->
                 </div>
-                <div class="col-md-spe25 social fcon-wrap">
-                    <h4 class="fim-tl">Focus us</h4>
-                    <div class="wechat-tl">WeChat Public</div>
-                    <img data-original="../images/finwise/Wechat.jpg" id="wechat-img" class="lazy">
+                <div class="col-md-spe25 social pc-hide fcon-wrap" style="display:none;">
+                    <h4 class="fim-tl" dom-i18n='gywm25'>关注我们</h4>
+                    <div class="wechat-tl">微信公众号</div>
+                    <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="lazy">
                 </div>
+
             </div>
 
         </div>
+
+        <div class="col-md-wap fcon-wrap wap-show clearfix">
+            <div class="col-md-6">
+                <img data-original="images/finwise-tokyo/logo-footer.png" class="logo-footer lazy">
+            </div>
+            <div class="col-md-6">
+                <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="wechat-img lazy">
+            </div>
+        </div>
+
     </footer>
     <!--footer end-->
 
