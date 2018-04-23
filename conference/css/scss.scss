@@ -28,6 +28,9 @@ a, a:link, a:visited, a:hover, a:active {
 body{
 	background: $gray-color;
 }
+.noneborder{
+	border: none !important;
+}
 .show-ft{
 	//display: block !important;
 	height: 780px;
@@ -3030,7 +3033,7 @@ body{
 			}
 			.col-md-6{
 				padding: 0 105px;
-				width: 70%;
+				width: 60%;
 			}
 			.fcon-wrap{
 				float: left;
@@ -3385,6 +3388,11 @@ body{
 
 	.about-deswrap.team-wrap .col-md-3 {
 		margin: 45px 0 0;
+	}
+
+	//footer
+	#footer .row{
+		display: flex;
 	}
 }
 @media(min-width: 992px){

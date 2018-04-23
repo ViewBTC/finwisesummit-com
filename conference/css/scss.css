@@ -35,6 +35,9 @@ a, a:link, a:visited, a:hover, a:active {
 body {
   background: #F0F0F0; }
 
+.noneborder {
+  border: none !important; }
+
 .show-ft {
   height: 780px;
   overflow: hidden; }
@@ -1462,7 +1465,7 @@ body {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .footer-spewrap .col-md-6 {
     padding: 0 105px;
-    width: 70%; }
+    width: 60%; }
   .footer-spewrap .fcon-wrap {
     float: left; } }
 .cooperation-wrap {
@@ -1666,7 +1669,10 @@ body {
     height: 68px; }
 
   .about-deswrap.team-wrap .col-md-3 {
-    margin: 45px 0 0; } }
+    margin: 45px 0 0; }
+
+  #footer .row {
+    display: flex; } }
 @media (max-width: 1200px) {
   #topnav .logo img {
     width: 180px !important; }
