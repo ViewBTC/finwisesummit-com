@@ -287,31 +287,7 @@ body{
 			margin-left: 0;
 		}
 
-		#topnav {
 
-			& .navigation-menu > li > a {
-				font-size: 14px;
-				line-height: 70px;
-				padding: 0 !important;
-				margin: 0 13px;
-				//margin-right: 25px;
-				//line-height: 55px;
-				//padding-left: 15px;
-				//padding-right: 15px;
-				&.active{
-					color: $red-color;
-				}
-			}
-			.fg-line{
-				margin: 0 25px 0 27px;
-			}
-			.lang-switch a{
-				margin-right: 0 !important;
-			}
-			.logo {
-				padding:  0;
-			}
-		}
 		.past-review{
 			position: relative;
 			color: #fff;
@@ -413,7 +389,64 @@ body{
 		}
 	}
 
+	@media (max-width: 1400px){
+
+		#topnav {
+
+			& .navigation-menu > li > a {
+				font-size: 13px;
+				line-height: 70px;
+				padding: 0 !important;
+				margin: 0 12px;
+				//margin-right: 25px;
+				//line-height: 55px;
+				//padding-left: 15px;
+				//padding-right: 15px;
+				&.active{
+					color: $red-color;
+				}
+			}
+
+
+			.logo img {
+				width: 160px !important;
+			}
+		}
+
+
+
+		.about-finwise.h2-tl, .guest-item .h2-tl {
+			font-size: 28px !important;
+			background-size: 90% !important;
+		}
+	}
 	@media (min-width: 1400px){
+
+		#topnav {
+
+			& .navigation-menu > li > a {
+				font-size: 14px;
+				line-height: 70px;
+				padding: 0 !important;
+				margin: 0 13px;
+				//margin-right: 25px;
+				//line-height: 55px;
+				//padding-left: 15px;
+				//padding-right: 15px;
+				&.active{
+					color: $red-color;
+				}
+			}
+			.fg-line{
+				margin: 0 25px 0 27px;
+			}
+			.lang-switch a{
+				margin-right: 0 !important;
+			}
+			.logo {
+				padding:  0;
+			}
+		}
 		#topnav > .container {
 			//position: relative;
 			width: 1400px;
@@ -867,6 +900,9 @@ body{
 			padding:45px 40px !important
 		}
 
+
+
+
 		.team-wrap{
 			.col-md-3 {
 				width:100%;
@@ -896,6 +932,23 @@ body{
 				padding:0 35px 45px !important
 			}
 		}
+
+
+		.about-deswrap.container {
+			.col-md-3{
+				height: 350px !important;
+			}
+			.team-bbox {
+				height: 350px !important;
+			}
+			.fd-member {
+				font-size: 18px;
+				margin: 15px 0 8px;
+				display: block;
+			}
+		}
+
+
 
 		.coreteam-wrap{
 			.h2-tlcom {
@@ -2169,7 +2222,14 @@ body{
 			//margin-bottom: 45px !important;
 			//margin-bottom: 30px;
 		}
-
+		.about-deswrap.container {
+			.col-md-3{
+				height: 350px !important;
+			}
+			.team-bbox {
+				height: 350px !important;
+			}
+		}
 
 		.team-wrap{
 			.h2-tlcom {
@@ -2357,6 +2417,9 @@ body{
 	}
 	.union-wrap{
 		padding-top: 20px;
+		img.cc-border{
+			height: 85px;
+		}
 
 	}
 	.partner-wrap{
@@ -2439,7 +2502,9 @@ body{
 			float: left;
 		}
 	}
-
+	.spe-stop{
+		margin-top: 70px;
+	}
 	.fim-tl{
 		font-size: 20px;
 		//color: #FFFFFF;
@@ -2482,6 +2547,9 @@ body{
 		.index-fwrap{
 			position: relative;
 		}
+
+
+
 		#topnav  {
 			height: 55px;
 			.toggle-inner{
@@ -2499,7 +2567,18 @@ body{
 
 			#navigation {
 				top: 55px;
+				margin-left: 0;
 			}
+
+
+			.navigation-menu > li > a {
+				font-size: 13px !important;;
+				line-height: 45px !important;;
+				padding: 0 20px !important;
+				margin: 0 !important;;
+			}
+
+
 		}
 
 
@@ -2976,7 +3055,9 @@ body{
 			}
 
 		}
-
+		.spe-stop{
+			margin-top: 20px;
+		}
 
 		//about begin
 
@@ -3329,6 +3410,35 @@ body{
 	}
 }
 @media (min-width: 1200px){
+
+
+	#topnav {
+
+		& .navigation-menu > li > a {
+			font-size: 14px;
+			line-height: 70px;
+			padding: 0 !important;
+			margin: 0 13px;
+			//margin-right: 25px;
+			//line-height: 55px;
+			//padding-left: 15px;
+			//padding-right: 15px;
+			&.active{
+				color: $red-color;
+			}
+		}
+		.fg-line{
+			margin: 0 25px 0 27px;
+		}
+		.lang-switch a{
+			margin-right: 0 !important;
+		}
+		.logo {
+			padding:  0;
+		}
+	}
+
+
 	.about-deswrap.container {
 		//width: 860px;
 		.h2-tlcom {
@@ -3336,13 +3446,28 @@ body{
 			//font-size: 28px;
 		}
 		.team-bbox{
-			height: 330px;
+			height: 390px;
 
+		}
+	}
+
+	.en-lang{
+		.about-deswrap.container {
+			//width: 860px;
+			.h2-tlcom {
+				//margin-bottom: 10px;
+				//font-size: 28px;
+			}
+			.team-bbox{
+				height: 390px;
+
+			}
 		}
 	}
 	.fd-member{
 		font-size: 22px;
-		margin: 15px 0 6px;
+		//margin: 15px 0 6px;
+		margin: 25px 0 15px;
 		display: block;
 	}
 	.co-sponsor-wrap .col-md-2.showimg {
@@ -3357,6 +3482,8 @@ body{
 	.h2-tlcom {
 		font-size: 28px;
 	}
+
+
 	.team-wrap{
 		.col-md-3 {
 			width: 25%;
@@ -3387,7 +3514,7 @@ body{
 
 
 	.about-deswrap.team-wrap .col-md-3 {
-		margin: 45px 0 0;
+		//margin: 45px 0 0;
 	}
 
 	//footer
@@ -3401,9 +3528,38 @@ body{
 }
 @media (max-width: 1200px){
 
-	#topnav .logo img {
-		width: 180px !important;
-	}
+
+
+
+	//.en-lang{
+
+		#topnav {
+
+			& .navigation-menu > li > a {
+				font-size: 12px;
+				line-height: 70px;
+				padding: 0;
+				margin: 0 7px;
+				//margin-right: 25px;
+				//line-height: 55px;
+				//padding-left: 15px;
+				//padding-right: 15px;
+				&.active{
+					color: $red-color;
+				}
+			}
+
+
+			.logo img {
+				width: 160px !important;
+			}
+		}
+
+	//}
+
+
+
+
 
 	.gettiketsbox {
 		padding-left:15px;

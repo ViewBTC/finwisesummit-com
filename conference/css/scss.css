@@ -176,20 +176,6 @@ body {
     float: right;
     margin-left: 0; }
 
-  #topnav .navigation-menu > li > a {
-    font-size: 14px;
-    line-height: 70px;
-    padding: 0 !important;
-    margin: 0 13px; }
-    #topnav .navigation-menu > li > a.active {
-      color: #FF1D92; }
-  #topnav .fg-line {
-    margin: 0 25px 0 27px; }
-  #topnav .lang-switch a {
-    margin-right: 0 !important; }
-  #topnav .logo {
-    padding: 0; }
-
   .past-review {
     position: relative;
     color: #fff; }
@@ -242,7 +228,35 @@ body {
 
   .mdpartner-wrap img {
     max-height: 65px; } }
+@media (max-width: 1400px) {
+  #topnav .navigation-menu > li > a {
+    font-size: 13px;
+    line-height: 70px;
+    padding: 0 !important;
+    margin: 0 12px; }
+    #topnav .navigation-menu > li > a.active {
+      color: #FF1D92; }
+  #topnav .logo img {
+    width: 160px !important; }
+
+  .about-finwise.h2-tl, .guest-item .h2-tl {
+    font-size: 28px !important;
+    background-size: 90% !important; } }
 @media (min-width: 1400px) {
+  #topnav .navigation-menu > li > a {
+    font-size: 14px;
+    line-height: 70px;
+    padding: 0 !important;
+    margin: 0 13px; }
+    #topnav .navigation-menu > li > a.active {
+      color: #FF1D92; }
+  #topnav .fg-line {
+    margin: 0 25px 0 27px; }
+  #topnav .lang-switch a {
+    margin-right: 0 !important; }
+  #topnav .logo {
+    padding: 0; }
+
   #topnav > .container {
     width: 1400px; }
 
@@ -470,6 +484,15 @@ body {
     font-size: 24px; }
   .team-wrap.pd-tb {
     padding: 0 35px 45px !important; }
+
+  .about-deswrap.container .col-md-3 {
+    height: 350px !important; }
+  .about-deswrap.container .team-bbox {
+    height: 350px !important; }
+  .about-deswrap.container .fd-member {
+    font-size: 18px;
+    margin: 15px 0 8px;
+    display: block; }
 
   .coreteam-wrap .h2-tlcom {
     margin-bottom: 25px; }
@@ -1070,6 +1093,11 @@ body {
   .h2-tlcom {
     font-size: 28px !important; }
 
+  .about-deswrap.container .col-md-3 {
+    height: 350px !important; }
+  .about-deswrap.container .team-bbox {
+    height: 350px !important; }
+
   .team-wrap .h2-tlcom {
     margin-bottom: 45px !important; }
   .team-wrap .col-md-3 {
@@ -1166,6 +1194,8 @@ body {
 
 .union-wrap {
   padding-top: 20px; }
+  .union-wrap img.cc-border, .union-wrap .partner-wrap .col-md-2 img, .partner-wrap .col-md-2 .union-wrap img {
+    height: 85px; }
 
 .partner-wrap .col-md-3 {
   margin-bottom: 30px; }
@@ -1184,6 +1214,9 @@ body {
   padding: 0 105px; }
 .footer-spewrap .fcon-wrap {
   float: left; }
+
+.spe-stop {
+  margin-top: 70px; }
 
 .fim-tl {
   font-size: 20px;
@@ -1229,7 +1262,13 @@ body {
       color: #FF1D92 !important;
       background-color: transparent; }
     #topnav #navigation {
-      top: 55px; }
+      top: 55px;
+      margin-left: 0; }
+    #topnav .navigation-menu > li > a {
+      font-size: 13px !important;
+      line-height: 45px !important;
+      padding: 0 20px !important;
+      margin: 0 !important; }
 
   .lang-select {
     right: 60px !important; }
@@ -1446,6 +1485,9 @@ body {
       #footer .col-md-wap .logo-footer {
         max-height: 100px; }
 
+  .spe-stop {
+    margin-top: 20px; }
+
   .about-fwrap {
     background-position: center 55px !important;
     height: 280px !important; } }
@@ -1642,14 +1684,31 @@ body {
   .time-historywrap .dl-tbox.last-actbox {
     width: 4.5%; } }
 @media (min-width: 1200px) {
+  #topnav .navigation-menu > li > a {
+    font-size: 14px;
+    line-height: 70px;
+    padding: 0 !important;
+    margin: 0 13px; }
+    #topnav .navigation-menu > li > a.active {
+      color: #FF1D92; }
+  #topnav .fg-line {
+    margin: 0 25px 0 27px; }
+  #topnav .lang-switch a {
+    margin-right: 0 !important; }
+  #topnav .logo {
+    padding: 0; }
+
   .about-deswrap.container .h2-tlcom {
     margin-bottom: 10px; }
   .about-deswrap.container .team-bbox {
-    height: 330px; }
+    height: 390px; }
+
+  .en-lang .about-deswrap.container .team-bbox {
+    height: 390px; }
 
   .fd-member {
     font-size: 22px;
-    margin: 15px 0 6px;
+    margin: 25px 0 15px;
     display: block; }
 
   .co-sponsor-wrap .col-md-2.showimg {
@@ -1668,14 +1727,18 @@ body {
   .co-sponsor-wrap.partner-wrap img {
     height: 68px; }
 
-  .about-deswrap.team-wrap .col-md-3 {
-    margin: 45px 0 0; }
-
   #footer .row {
     display: flex; } }
 @media (max-width: 1200px) {
+  #topnav .navigation-menu > li > a {
+    font-size: 12px;
+    line-height: 70px;
+    padding: 0;
+    margin: 0 7px; }
+    #topnav .navigation-menu > li > a.active {
+      color: #FF1D92; }
   #topnav .logo img {
-    width: 180px !important; }
+    width: 160px !important; }
 
   .gettiketsbox {
     padding-left: 15px;

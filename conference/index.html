@@ -244,9 +244,9 @@
                             </a>
                         </li>
                         <li id="lang-switch" class="lang-switch">
-                             <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
-                             <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
-                             <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日本語</a>
+                             <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
+                             <a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>／
+                             <a href="javascript:;" class="endingbtn jp-lang" onclick="i18n.setLang('jap')">日語</a>
                              <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
                              <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
                         </li>
@@ -1783,8 +1783,8 @@
                        </dl> -->
                     </div>
                 </div>
-                <div class="col-md-spe25 social fcon-wrap">
-                    <h4 class="fim-tl noneborder">　</h4>
+                <div class="col-md-spe25 social fcon-wrap spe-stop">
+                    <!--<h4 class="fim-tl noneborder">　</h4>-->
                     <div class="contact-usinfo">
                         <dl class="contact-ussty">
                             <dt>Damian</dt>
@@ -1838,6 +1838,12 @@
 <script>
 //    w3.includeHTML();
 
+
+$('.en-lang').click(function () {
+
+    $('body').addClass('en-lang');
+
+})
 
 
 //show or hide imgs begin

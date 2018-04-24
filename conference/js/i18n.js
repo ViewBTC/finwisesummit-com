@@ -105,20 +105,24 @@
 
         nameyd01:"杨东",
         positionyd01:"中国人民大学法学院教授、博导、副院长",
-          namewbs02:"王彬生",
-          positionwbs02:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
-          namezyh03:"张银海",
-          positionzyh03:"Lighting BTC中国区负责人",
-          namelf04:"刘飞",
+
+        namewbs02:"王彬生",
+        positionwbs02:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
+
+        namezyh03:"张银海",
+        positionzyh03:"Lighting BTC中国区负责人",
+
+        namelf04:"刘飞",
         positionlf04:"火币Pro运营总监",
-          namelj05:"刘劲",
-          positionlj05:"日中AI·IoT产业联盟会长",
-          namesf06:"宋斐",
+
+        namelj05:"刘劲",
+        positionlj05:"日中AI·IoT产业联盟会长",
+
+        namesf06:"宋斐",
         positionsf06:"海朴际诚基金执行合伙人",
 
-
           namerjh07:"任锦澔",
-        positionrjh07:"国泰君安上海财富中心副总经理",
+          positionrjh07:"国泰君安上海财富中心副总经理",
 
           namelzh08:"卢志怀",
           positionlzh08:"联合资信评级上海公司副总经理",
@@ -147,11 +151,8 @@
           namety16:"佟扬",
           positionty16:"金色财经合伙人",
 
-
           namericoni17:"Riconi You",
           positionriconi17:"纷智联合创始人兼执委会主席",
-
-
 
           namehjp18:"胡杰鹏",
           positionhjp18:"量子金亚洲市场负责人",
@@ -164,7 +165,6 @@
 
           namelmz21:"李明肇",
           positionlmz21:"小牛链 CEO",
-
 
           nametedlin22:"Ted Lin",
           positiontedlin22:"币安国际市场负责人",
@@ -190,7 +190,6 @@
           nameyxh29:"余晓菡",
           positionyxh29:"DataKYC时链创始人",
 
-
           namekr30:"Kilian Rausch",
           positionkr30:"Exchange Union Product Director",
 
@@ -203,7 +202,6 @@
           namecyq33:"蔡逸群",
           positioncyq33:"名资金融科技、名资创投、名资股份有限公司创始人、董事长兼首席资本家、元界基金会首席资本家",
 
-
           namesxh34:"石晓虹",
           positionsxh34:"UniGame CEO",
 
@@ -215,7 +213,6 @@
 
           namestg37:"尚币哥",
           positionstg37:"BTC123 董事长",
-
 
           nameemil38:"Emil",
           positionemil38:"Penta社区负责人",
@@ -240,7 +237,6 @@
 
           namehyq45:"胡园泉",
           positionhyq45:"BEPAL首席执行官、黑盾区块链安全研究中心联合创始人",
-
 
           namezh46:"曾豪",
           positionzh46:"蚂蚁区块链联盟创始人 福建区块链俱乐部发起人",
@@ -313,6 +309,13 @@
 
           namegyl69:"高泽龙",
           positiongyl69:"国际区块链与数字货币协会 副会长",
+
+          zzhz01:"赞助合作",
+          qdhz02:"渠道合作",
+          hwhz03:"海外合作",
+          mtsy04:"媒体事宜",
+          pwsy05:"票务事宜",
+
       },
 
 
@@ -455,11 +458,8 @@
           namety16:"Angela Tong",
           positionty16:"Partner of Jinse Finance",
 
-
           namericoni17:"Riconi You",
           positionriconi17:"Co-founder and Chairman of FINWISE Committee",
-
-
 
           namehjp18:"Jiepeng Hu",
           positionhjp18:"Asian Market Head of QTG",
@@ -472,7 +472,6 @@
 
           namelmz21:"李明肇",
           positionlmz21:"小牛链 CEO",
-
 
           nametedlin22:"Ted Lin",
           positiontedlin22:"Head of International Markets at Binance",
@@ -498,7 +497,6 @@
           nameyxh29:"Xiaohan Xu",
           positionyxh29:"Co-founder of DataKYC",
 
-
           namekr30:"Kilian Rausch",
           positionkr30:"Product Director of Exchange Union",
 
@@ -511,7 +509,6 @@
           namecyq33:"Yiqun Cai",
           positioncyq33:"Founder, Chairman and Chief Capitalist of MAS Capital,Chief Capitalist of Metaverse Funddation",
 
-
           namesxh34:"Sean Shek",
           positionsxh34:"CEO of UniGame",
 
@@ -523,7 +520,6 @@
 
           namestg37:"Xiaopeng Shang",
           positionstg37:"President of BTC123",
-
 
           nameemil38:"Emil",
           positionemil38:"Penta Community Leader",
@@ -548,7 +544,6 @@
 
           namehyq45:"Yuanquan Hu",
           positionhyq45:"CEO of BEPAL, Co-Founder of Heydun Chain Security Research Center",
-
 
           namezh46:"Hao Zen",
           positionzh46:"Founder of ANT Blockchain Alliance, Organizer of the Fujian Blockchain Club",
@@ -621,6 +616,12 @@
 
           namegyl69:"Zack_Gao",
           positiongyl69:"Co-Founder of  International Blockchain Application Federation",
+
+          zzhz01:"Sponsorship",
+          qdhz02:"Channel Cooperation",
+          hwhz03:"Overseas Cooperation",
+          mtsy04:"Ticket Information",
+          pwsy05:"Media Cooperation",
       },
       jap: {
         seey1: "トップページ",
