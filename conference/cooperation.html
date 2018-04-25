@@ -11,6 +11,119 @@
     <link rel="stylesheet" href="css/hody-icons.css">
     <link rel="stylesheet" href="css/xh-style.css">
     <link rel="stylesheet" href="css/scss.css">
+    <style type="text/css">
+        #topnav.stick .navigation-menu > li > a:hover{
+            color: #f9297d;
+        }
+
+        .foot-p p{
+            color: #fff;
+        }
+
+        .lang-select a:hover{
+            color: #fff;
+        }
+
+        #footer{
+            margin-top: 50px;
+        }
+
+        .fg-line{
+            margin: 0;
+        }
+
+        .lang-select {
+            background: #f9297d;
+            padding: 4px;
+            border-radius: 4px;
+            top: 12px;
+            font-size: 14px;
+            min-width: 100px;
+            text-align: center;
+        }
+
+        .get-btn, .corange-btn{
+            background: #f9297d;
+        }
+
+        .head-p{
+            background: none;
+        }
+
+        .i-cont .foot-p{
+            background: none;
+            padding-top: 0;
+            padding: 25px 40px 40px;
+        }
+
+        .head-p{
+            padding: 40px;
+        }
+
+        .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover {
+            background: #ff5599;
+        }
+
+        .xx-title-new{
+            font-size: 30px;
+            padding-bottom: 20px;
+        }
+
+        .get-btn, .corange-btn{
+            width: 120px;
+        }
+
+        .i-cont{
+            background: url(images/finwise/zanzhu.jpg);
+            background-attachment: fixed;
+        }
+
+        .h2-title {
+            margin: 40px 0 10px;
+            font-weight: 700;
+        }
+
+        #topnav .logo img{
+            width: 210px;
+        }
+
+        @media (max-width: 768px){
+            .clogo-img{
+                width: 230px;
+                margin: 60px 34px 10px 0;
+            }
+
+            .index-bgwrapnew {
+                background-position: center;
+                background-size: cover;
+            }
+
+            .i-cont .foot-p{
+                margin-top: 50px;
+            }
+
+            .head-p, .i-cont .foot-p{
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            #topnav .logo img{
+                width: 180px;
+            }
+
+
+        }
+
+        @media (max-width: 991px){
+            .lang-select {
+                right: 46px;
+                top: 10px;
+            }
+
+
+        }
+
+    </style>
     <script>
     var _hmt = _hmt || [];
     (function() {
@@ -102,11 +215,12 @@
                             <li><a href="./macau/index.html" class="endingbtn" target="_blank">澳门站</a></li>
                         </ul>
                     </li>
-
                     <li>
                         <a href="./about.html" class="about" dom-i18n='gywm5'>关于我们</a>
                     </li>
-
+                    <li>
+                        <a href="./help.html" class="help" dom-i18n='helpnav'>参会指南</a>
+                    </li>
                     <li class="tikets-box pc-hide">
                         <a href="https://msite.31huiyi.com/m/1323220912" target="_blank" class="fg-line">
                             <span class="gettiketsbox" dom-i18n='hqmp6'>
@@ -287,192 +401,16 @@
     </section>
 
 
+    <!--load common footer begin-->
+    <footer id="footer" class="load-footer"></footer>
+    <!--load common footer end-->
 
+    <div class="go-top">
+        <a href="#top">
+            <i class="hc-angle-up"></i>
+        </a>
+    </div>
 
-    <!--footer begin-->
-    <footer id="footer">
-        <div class="container footer-spewrap">
-            <div class="row">
-                <div class="col-md-spe25 fcon-wrap">
-                    <h4 class="fim-tl" dom-i18n='pwzx23'>票务咨询</h4>
-                    <div class="contact-usinfo">
-                        <p class="email">Email：ticket@finwisesummit.com</p>
-                    </div>
-                </div>
-                <div class="col-md-6 social fcon-wrap">
-                    <h4 class="fim-tl" dom-i18n='zzzx24'>赞助咨询</h4>
-                    <div class="contact-usinfo">
-                        <!--<p class="">TEL & Wechat 137 6459 5403</p>-->
-                        <dl class="contact-ussty col-md-spe25">
-                            <dt>Raymond HE</dt>
-                            <dd>Tel: 18817429015</dd>
-                            <dd>Wechat: rh12586</dd>
-                            <dd>Email: raymond.he@finwisesummit.com</dd>
-                        </dl>
-                        <!-- <dl class="contact-ussty">
-                            <dt>Damian</dt>
-                            <dd>Tel: 18600936157</dd>
-                            <dd>Wechat: qianjiexua3378</dd>
-                            <dd>Email: Damian@finwisesummit.com</dd>
-                        </dl> -->
-                    </div>
-                </div>
-                <div class="col-md-spe25 social fcon-wrap spe-stop">
-                    <!--<h4 class="fim-tl">　</h4>-->
-                    <div class="contact-usinfo">
-                        <dl class="contact-ussty">
-                            <dt>Damian</dt>
-                            <dd>Tel: 18600936157</dd>
-                            <dd>Wechat: qianjiexua3378</dd>
-                            <dd>Email: Damian@finwisesummit.com</dd>
-                        </dl>
-                    </div>
-                </div>
-                <div class="col-md-spe25 social pc-hide fcon-wrap" style="display:none;">
-                    <h4 class="fim-tl" dom-i18n='gywm25'>关注我们</h4>
-                    <div class="wechat-tl">微信公众号</div>
-                    <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="lazy">
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="col-md-wap fcon-wrap wap-show clearfix">
-            <div class="col-md-6">
-                <img data-original="images/finwise-tokyo/logo-footer.png" class="logo-footer lazy">
-            </div>
-            <div class="col-md-6">
-                <img data-original="images/finwise/Wechat.jpg" id="wechat-img" class="wechat-img lazy">
-            </div>
-        </div>
-
-    </footer>
-    <!--footer end-->
-
-
-
-<div class="go-top">
-    <a href="#top">
-        <i class="hc-angle-up"></i>
-    </a>
-</div>
-<style type="text/css">
-    #topnav.stick .navigation-menu > li > a:hover{
-        color: #f9297d;
-    }
-
-    .foot-p p{
-        color: #fff;
-    }
-
-    .lang-select a:hover{
-         color: #fff;
-    }
-
-    #footer{
-        margin-top: 50px;
-    }
-
-    .fg-line{
-        margin: 0;
-    }
-
-    .lang-select {
-        background: #f9297d;
-        padding: 4px;
-        border-radius: 4px;
-        top: 12px;
-        font-size: 14px;
-        min-width: 100px;
-        text-align: center;
-    }
-
-    .get-btn, .corange-btn{
-        background: #f9297d;
-    }
-
-    .head-p{
-        background: none;
-    }
-
-    .i-cont .foot-p{
-        background: none;
-        padding-top: 0;
-        padding: 25px 40px 40px;
-    }
-
-    .head-p{
-        padding: 40px;
-    }
-
-    .bz-btn.corange-btn:hover, .get-btn, .corange-btn:hover {
-        background: #ff5599;
-    }
-
-    .xx-title-new{
-        font-size: 30px;
-        padding-bottom: 20px;
-    }
-
-    .get-btn, .corange-btn{
-        width: 120px;
-    }
-
-    .i-cont{
-        background: url(images/finwise/zanzhu.jpg);
-        background-attachment: fixed;
-    }
-
-    .h2-title {
-        margin: 40px 0 10px;
-        font-weight: 700;
-    }
-
-    #topnav .logo img{
-        width: 210px;
-    }
-
-    @media (max-width: 768px){
-        .clogo-img{
-            width: 230px;
-            margin: 60px 34px 10px 0;
-        }
-
-        .index-bgwrapnew {
-            background-position: center;
-            background-size: cover;
-        }
-
-        .i-cont .foot-p{
-            margin-top: 50px;
-        }
-
-        .head-p, .i-cont .foot-p{
-            padding-left: 0;
-            padding-right: 0;
-        }
-
-        #topnav .logo img{
-            width: 180px;
-        }
-
-
-    }
-
-    @media (max-width: 991px){
-        .lang-select {
-            right: 46px;
-            top: 10px;
-        }
-
-
-    }
-
-
-        
-    
-</style>
 
 
 <script type="text/javascript" src="js/jquery.js"></script>

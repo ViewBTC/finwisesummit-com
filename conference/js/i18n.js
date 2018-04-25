@@ -3,11 +3,17 @@
     element: document,
     lang: (function() {
       var tyLang = localStorage.tyLang;
-      if (tyLang && tyLang.length > 0 && tyLang != "undefined") {
+
+        if (tyLang && tyLang.length > 0 && tyLang != "undefined") {
         return tyLang;
       }
       return "zh";
+
     })(), //en | jap,
+
+
+
+
     i18n: {
       //key编码规则：取前2个中文字符拼音+最后2个中文字符拼音
       //不满4个中文字符用e代表
@@ -239,7 +245,7 @@
           positionhyq45:"BEPAL首席执行官、黑盾区块链安全研究中心联合创始人",
 
           namezh46:"曾豪",
-          positionzh46:"蚂蚁区块链联盟创始人 福建区块链俱乐部发起人",
+          positionzh46:"蚂蚁区块链联盟创始人 蚂蚁联盟国际资本董事长",
 
           namesjl47:"邵建良",
           positionsjl47:"比升资本创始人 浙江省投融资协会常务副秘书长",
@@ -315,6 +321,9 @@
           hwhz03:"海外合作",
           mtsy04:"媒体事宜",
           pwsy05:"票务事宜",
+
+          tkaddr:"日本东京新高轮格兰王子酒店",
+          helpnav:"参会指南",
 
       },
 
@@ -622,6 +631,10 @@
           hwhz03:"Overseas Cooperation",
           mtsy04:"Ticket Information",
           pwsy05:"Media Cooperation",
+
+          tkaddr:"Grand Prince Hotel New Takanawa",
+          helpnav:"Guide",
+
       },
       jap: {
         seey1: "トップページ",
@@ -709,7 +722,8 @@
         zwhe73: "FINWISE組織委員会",
         hxcy74: "コアチームメンバー",
 
-        cyqy75: "参加合作のスポンサーは以下の権益を獲得できます。"
+        cyqy75: "参加合作のスポンサーは以下の権益を獲得できます。",
+        helpnav:"参会ガイド",
       }
     },
     dom: {
@@ -743,7 +757,20 @@
     },
     setLang: function(v) {
       opts.lang = v;
+
+      // 通过语言区分页面 begin
+        if(v == 'zh'){
+            $('body').addClass('zhlang');
+            $('body').removeClass('otherlang');
+        }else {
+            $('body').addClass('otherlang');
+            $('body').removeClass('zhlang');
+        }
+        // 通过语言区分页面 end
+
     },
+
+
     addListen: function() {
       Object.defineProperty(opts, "lang", {
         get: function() {
@@ -755,6 +782,7 @@
           localStorage.tyLang = v;
         }
       });
+
     },
     utils: {
       each: function(obj, callback) {
@@ -799,6 +827,20 @@
       }
     }
   };
+
   ins.init();
   win.i18n = ins;
+
 })(window);
+
+
+// 通过语言区分页面 begin
+var tyLang = localStorage.tyLang;
+if(tyLang == 'zh'){
+    $('body').addClass('zhlang');
+    $('body').removeClass('otherlang');
+}else {
+    $('body').addClass('otherlang');
+    $('body').removeClass('zhlang');
+}
+// 通过语言区分页面 end

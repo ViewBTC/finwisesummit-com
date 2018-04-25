@@ -34,3 +34,8 @@ if(screen_w>991){
 
 }
 
+// load common footer begin
+
+$(".load-footer").load("common/footer.html");
+
+// load common footer end
