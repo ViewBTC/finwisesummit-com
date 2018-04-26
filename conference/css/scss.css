@@ -235,11 +235,18 @@ body {
     font-size: 13px;
     line-height: 70px;
     padding: 0 !important;
-    margin: 0 12px; }
+    margin: 0 8px !important; }
     #topnav .navigation-menu > li > a.active {
       color: #FF1D92; }
   #topnav .logo img {
     width: 160px !important; }
+
+  .otherlang #topnav .navigation-menu > li > a {
+    font-size: 12px;
+    line-height: 70px;
+    margin: 0 4px !important; }
+  .otherlang #topnav .logo img {
+    width: 140px !important; }
 
   .about-finwise.h2-tl, .guest-item .h2-tl {
     font-size: 28px !important;
@@ -1400,7 +1407,7 @@ body {
   body.zhlang .social.hide.wechat-box {
     display: none !important; }
 
-  body.otherlang .footer-iminfo {
+  body.otherlang .wap-show, body.otherlang .footer-iminfo {
     display: none !important; }
 
   .count-wrap.wap-show {
@@ -1787,6 +1794,9 @@ body {
 
   body.zhlang .footer-spewrap .col-md-bl {
     width: 25%; } }
+@media (max-width: 991px) {
+  #topnav .navigation-menu {
+    max-height: 445px; } }
 @media (max-width: 1200px) {
   #topnav .navigation-menu > li > a {
     font-size: 12px;

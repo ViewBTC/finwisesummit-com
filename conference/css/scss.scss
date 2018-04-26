@@ -399,7 +399,7 @@ body{
 				font-size: 13px;
 				line-height: 70px;
 				padding: 0 !important;
-				margin: 0 12px;
+				margin: 0 8px !important;
 				//margin-right: 25px;
 				//line-height: 55px;
 				//padding-left: 15px;
@@ -415,6 +415,29 @@ body{
 			}
 		}
 
+		.otherlang{
+			#topnav {
+
+				& .navigation-menu > li > a {
+					font-size: 12px;
+					line-height: 70px;
+					//padding: 0 !important;
+					margin: 0 4px !important;
+					//margin-right: 25px;
+					//line-height: 55px;
+					//padding-left: 15px;
+					//padding-right: 15px;
+					//&.active{
+					//	color: $red-color;
+					//}
+				}
+
+
+				.logo img {
+					width: 140px !important;
+				}
+			}
+		}
 
 
 		.about-finwise.h2-tl, .guest-item .h2-tl {
@@ -2911,7 +2934,8 @@ body{
 		}
 
 		body.otherlang{
-			.footer-iminfo{
+
+			.wap-show, .footer-iminfo{
 				//display: block !important;
 				display: none !important;
 			}
@@ -3647,6 +3671,14 @@ body{
 
 
 }
+
+@media (max-width: 991px){
+	#topnav .navigation-menu {
+		//float: none;
+		max-height: 445px;
+	}
+}
+
 @media (max-width: 1200px){
 
 
