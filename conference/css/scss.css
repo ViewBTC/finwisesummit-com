@@ -2262,4 +2262,18 @@ body.zhlang .zh-hide-block {
   font-size: 16px;
   line-height: 2; }
 
+.zhlang .visatab {
+  display: inline-block !important; }
+
+.otherlang .visatab {
+  display: none; }
+.otherlang .nav-tabs > li > a {
+  background: #fff;
+  border-bottom: none;
+  color: #4F2F84; }
+.otherlang .visa-ncontent {
+  display: none; }
+.otherlang .hotel-content {
+  display: block; }
+
 /*# sourceMappingURL=scss.css.map */

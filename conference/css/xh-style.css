@@ -786,7 +786,9 @@ padding-right
 .guest-item .col-md-2{
   text-align: center;
 }
-
+.guest-item .col-md-2 .text-left{
+  text-align: center;
+}
 .guest-item img{
   border-radius: 50%;
   max-width: 70%;
@@ -1453,5 +1455,11 @@ h3.page-title span {
 
 
 
+body.zhlang .show-enblock{
+  display: none;
+}
+body.otherlang .show-zhblock{
+  display: none;
+}
 
 

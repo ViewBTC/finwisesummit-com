@@ -34,6 +34,21 @@
         chjb13: "参会嘉宾",
         tzjg14: "投资机构",
         mtbd15: "媒体参与报道",
+        adviceperson: "金融科技意见领袖",
+        perproject: " 国内外顶尖区块链项目",
+        chinamacau: " 中国澳门",
+        mcaddr: " 地址",
+        mcaddrdetail: " 中国澳门 路氹 路氹连贯公路 喜来登金沙城中心大酒店",
+        mctime: " 时间",
+        mctimedetail: " 2018年1月12日-13日",
+        fwmacaudes: " 2018年1月12日，Finwise Summit 纷智区块链峰会将在中国·澳门举办。此次峰会旨在加强全球金融行业从业者们的交流，推动全球金融科技的发展。峰会还将以目前金融科技领域最前沿的区块链技术为主导，集合全球优秀金融科技及区块链企业，对未来科技金融及区块链技术应用发展，进行展望和推进。",
+        mcflashbacks: " 精彩回顾",
+        contactus: " 联系我们",
+        wechatnum: " 微信公众号",
+        sponsorshipct: " 赞助联系人",
+
+
+
         qqgs16: "全球区块链公司",
         gydh17: "关于大会",
         fstj18:
@@ -55,6 +70,14 @@
         tgjl31:
           "通过展示您的优秀产品及服务，吸引用户使用，有助您提升品牌关注度。Finwise Summit Tokyo将重点关注、探讨行业的监管、各国对区块链的政策、日本交易所的合规性等热点问题，吸引更多区块链行业最热门、最具代表的行业企业资源到场参与，促进合作交流。",
         scsl32: "输出技术实力",
+
+        devctdes: "通过展示您的优秀产品及服务，吸引用户使用，有助您提升品牌关注度。 Finwise Global Summit 2017 共吸引超过80位行业大咖，2150名参会人员，50家赞助商及数十家媒体参与。Finwise Summit MACAU 2018将重新凝练区块链行业最热门、最具代表的行业企业资源，以全新的内容吸引区块链相关的交易所、矿机厂商、投资机构、海内外圈内自媒体、矿池、项目方等。",
+        hdbgdes: "通过现场展览，让您的品牌形象遍布于各媒体网站及大会会场，有助于您提升品牌认知度。 Finwise Summit MACAU 2018将全渠道、多媒体同步曝光合作伙伴，覆盖现场 3000+、全网 100万+ 区块链相关人士。同时社交媒体、SMS、EDM 等自有及合作媒体宣传渠道将于会前、会中、会后全方位传播大会及合作伙伴信息。",
+        techsdes: "通过演讲分享您的项目进展，输出企业/团队技术实力，有利于您提升品牌认可度。 Finwise Summit MACAU 2018 特设区块链项目方讲解专场、定制品牌分论坛，期待您推荐优秀讲师分享行业见解、解读项目优势、传播区块链行业技术和创新。",
+        sponsorshipcontactp: "赞助请联系",
+        mediacontactp: "媒体合作请联系",
+
+
         tgcx33:
           "通过演讲分享您的项目进展，输出企业/团队技术实力，有利于您提升品牌认可度。Finwise Summit Tokyo特设区块链项目方讲解专场、定制品牌分论坛，期待您推荐优秀讲师分享行业见解、解读项目优势、传播区块链行业技术和创新。",
         bzzs34: "标准展位招商",
@@ -326,6 +349,31 @@
           helpnav:"参会指南",
           grchEntrance:"个人参会",
           qychEntrance:"企业参会",
+          mediacover:"媒体覆盖",
+          chqyfw:"参会企业",
+
+          hotelab:"周边酒店",
+          hoteltips:"温馨提示：以下是主办方推荐的酒店，离会议中心比较近，不负责预定，如需预定请您直接联系您中意的酒店，请您理解！ 注：如有住宿需求，请尽快联系酒店方，以免人多预定不到您理想的酒店。",
+          hotelking01:"新高轮格兰王子大饭店",
+          hotelstar4:"四星级酒店",
+          hotelstar3:"三星级酒店",
+          hoteladdrtl:"地址",
+          hoteladdrgphnt:"108-8612 东京都, Minato-ku, Takanawa 3-13-1",
+          hotelfwhome:"大会举办场地酒店",
+
+          hotelstth01:"品川东武酒店",
+          hoteladdrsth:"108-0074 东京都, Minato-ku Takanawa 4-7-6",
+          hotelsthdistance:"距离会场 0.3 公里，步行 5 分钟到会场",
+
+          hotelkeit02:"高轮京急酒店",
+          hoteladdrkeit:"108-0074 东京都, Minato-ku Takanawa 4-10-8",
+          hotelkeitdistance:"距离会场 1 公里，步行 5-10 分钟到会场",
+
+          hotelex01:"品川京滨急EX酒店",
+          hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
+          hotelexdistance:"距离会场 1.5 公里，步行10 分钟到会场",
+
+
 
       },
 
@@ -348,6 +396,20 @@
         chjb13: "Participants",
         tzjg14: "Investmet Institutions",
         mtbd15: "Media and Reports",
+        adviceperson: "Industry Experts",
+        perproject: "Top Blockchain Projects",
+
+        chinamacau: " China Macau",
+        mcaddr: " Address",
+        mcaddrdetail: "Sheraton Grand Macao Hotel, Estrada do Istmo. s/n Cotai, Macau",
+        mctime: " Time",
+        mctimedetail: "2018/01/12-13",
+        fwmacaudes: "The Finwise Summit will be held in Macau, China in January 2018. The summit aims to encourage interaction among global fintech industry participants and to advocate global fintech developments. The event will feature the latest blockchain technologies, the best fintech enterprises, future financial blockchain applications, trends and progresses.",
+        mcflashbacks: " Flashbacks",
+        contactus: " Contact us",
+        wechatnum: " Wechat",
+        sponsorshipct: "Sponsorship Contact",
+
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About Finwise",
         fstj18:
@@ -361,13 +423,20 @@
         gywm25: "Follow Us",
 
         fzyc26: "Agenda for FINWISE Blockchain Summit Tokyo 2018",
-        hdbg28: "Get Brand Exposure",
+        hdbg28: "Gain brand exposure",
         tghb29:
           "Through on-site exhibitions, your brand image will be spread across media sites and conference venues, helping you to increase brand awareness. Finwise Summit Tokyo is expected to be attended by more than 2000 participants and over 8 million blockchain related practitioners in East Asia. The information of the Summit itself, sponsors and partners will be disseminated by Finwise official Facebook, Twitter, etc., before, during and after the conference. Immediate and tracking reports by kinds of news media in multiple dimensions will also be available including blockchain relevant industry’s corporate media and individual media.",
         tzyh30: "Expand Potential Users",
         tgjl31:
           "Users could be attracted by your outstanding products and services; thus, your brand awareness could be strengthened. With a focus on discussions on industry regulation, national policies on blockchain as well as compliance of Japanese exchanges, Finwise Summit Tokyo will attract the most authoritative  and representative industry resources for promoting cooperation and exchanges.",
         scsl32: "Demonstrate Technical Strength",
+
+        devctdes: "The exhibit is a stage to showcase your quality products and service, meet customers and raise brand attention. The Finwise Global Summit 2017 has attracted more than 80 industry experts, 2150 attendees, 50 sponsors and dozens of media partners. The 2018 summit aims to highlight the hottest and latest companies and blockchain developments so that exchanges, miner manufacturers, investment firms, industry media, mining pools and startups can participate.",
+        hdbgdes: "Exhibitors will gain brand exposure on extensive media and event on-site, with brand awareness increased. The Finwise Summit Macau 2018 will be covered by multiple media channels,. It will have access to 3000 attendees on-site and 1 million plus blockchain audience online. Social media, SMS/EDM tools will also cover the summit and sponsor news before, during and after the event.",
+        techsdes: "Speak to the audience on your project and demonstrate your technical advantages will help raise brand recognition for your company. The Finwise Summit Macau 2018 has special sessions and forums for blockchain projects and brands to share industry insights, project features and blockchain innovations.",
+        sponsorshipcontactp: "For sponsorship,please contact",
+        mediacontactp: "For media partner,please contact",
+
         tgcx33:
           "Sharing your project progress through speeches and presentations and demonstrating your company/team technical strengths will help you increase your brand recognition. Finwise Summit Tokyo specializes in blockchain project seminars and custom brand forums. We look forward to recommending excellent lecturers to share industry insights, interpret project advantages, and disseminate blockchain industry technology and innovation.",
         bzzs34: "Standard Booth Investment",
@@ -420,7 +489,7 @@
         zwhe73: "FINWISE Organizing Committee",
         hxcy74: "Core Team Members",
 
-        cyqy75: "Sponsors will obtain the following rights and interests",
+        cyqy75: "Sponsorship benefits",
 
         lysn76: "Allen Lau",
         lysd77: "Managing Director of Coloney Capital, Founder and CEO of WE+",
@@ -511,7 +580,7 @@
           namekr30:"Kilian Rausch",
           positionkr30:"Product Director of Exchange Union",
 
-          namekjx31:"Qulian Xi",
+          namekjx31:"Kenny Au",
           positionkjx31:"Co-Founder of LUXCHAIN, Blockchain and AI Columnist",
 
           namett32:"Talal Tabbaa",
@@ -635,9 +704,33 @@
           pwsy05:"Media Cooperation",
 
           tkaddr:"Grand Prince Hotel New Takanawa",
-          helpnav:"Guide",
-          grchEntrance:"个人参会",
-          qychEntrance:"企业参会",
+          helpnav:"Guidelines for participation",
+          qychEntrance:"Enterprise",
+          grchEntrance:"Individual",
+          mediacover:"Media",
+          chqyfw:"Enterprise",
+
+          hotelab:"Peripheral Hotel",
+          hoteltips:"Warm hint: the following is the hotel recommended by the sponsor. It is close to the conference center and is not responsible for the reservation. If you need to make a reservation, please contact your hotel, please understand it.Note: if there is a need for accommodation, please contact the hotel as soon as possible so as not to make any reservation for your ideal hotel.",
+          hotelking01:"Grand Prince Hotel New Takanawa",
+          hotelstar4:"Four star hotel",
+          hotelstar3:"Three star hotel",
+          hoteladdrtl:"Address",
+          hoteladdrgphnt:"108-8612 东京都, Minato-ku, Takanawa 3-13-1",
+          hotelfwhome:"Venue for the conference",
+
+          hotelstth01:"Shinagawa Tobu Hotel",
+          hoteladdrsth:"108-0074 东京都, Minato-ku Takanawa 4-7-6",
+          hotelsthdistance:"0.3 kilometers from the meeting, 5 minutes to the meeting",
+
+          hotelkeit02:"Keikyu EX Inn Takanawa",
+          hoteladdrkeit:"108-0074 东京都, Minato-ku Takanawa 4-10-8",
+          hotelkeitdistance:"It's 1 kilometers away from the venue and 5-10 minutes' walk to the venue.",
+
+          hotelex01:"Keikyu EX Inn Shinagawa",
+          hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
+          hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
+
 
 
       },
@@ -729,6 +822,33 @@
 
         cyqy75: "参加合作のスポンサーは以下の権益を獲得できます。",
         helpnav:"参会ガイド",
+        tkaddr:"グランドプリンスホテル新高輪",
+        grchEntrance:"個人が出席",
+        qychEntrance:"企業の参加",
+        mediacover:"マスコミに覆われ",
+        chqyfw:"参加企業",
+
+        hotelab:"周辺のホテル",
+        hoteltips:"こちらは、主催侧が推荐するホテルで、会议の中心から近くて、予定を担当しないようにしてください。予定通り、お気軽にお気軽にご连络下さい。ご理解をお愿いいたします。！注:宿泊の必要がある场合は、なるべく早くホテルの方に连络してください。お客様がご理想のホテルを予约できないようにしましょう。",
+        hotelking01:"グランドプリンスホテル新高輪",
+        hotelstar4:"4つ星级ホテル。",
+        hotelstar3:"3つ星のホテル",
+        hoteladdrtl:"住所",
+        hoteladdrgphnt:"〒108-8612 東京都, 港区高輪3-13-1 ",
+        hotelfwhome:"大会はホテルを開催する。",
+
+        hotelstth01:"品川東武ホテル",
+        hoteladdrsth:"〒108-0074 東京都, 港区高輪4-7-6 ",
+        hotelsthdistance:"会场から0.3キロ、徒歩5分で会场。",
+
+        hotelkeit02:"京急EXイン 高輪",
+        hoteladdrkeit:"〒108-0074 東京都, 港区高輪 4-10-8",
+        hotelkeitdistance:"会场から1キロ、徒歩5 ~ 10分で会场。",
+
+        hotelex01:"京急EXイン品川駅前",
+        hoteladdrex:"〒108-0074 東京都, ３－１３－３",
+        hotelexdistance:"会场から1.5キロ、徒歩10分で会场。",
+
       }
     },
     dom: {

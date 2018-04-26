@@ -80,13 +80,13 @@
                     <li>
                         <a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>
                     </li>
-                    <li>
-                         <a href="./appc-index.html" class="endingbtn" target="_blank" dom-i18n='wjhg4'>往届回顾</a>
-                    </li>
+                    <!--<li>-->
+                         <!--<a href="./appc-index.html" class="endingbtn" target="_blank" dom-i18n='wjhg4'>往届回顾</a>-->
+                    <!--</li>-->
                     <li id="lang-switch" class="lang-switch">
                         <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('zh')">中文</a>／
-                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>／
-                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日語</a>
+                        <a href="javascript:;" class="endingbtn" onclick="i18n.setLang('en')">EN</a>
+                        <!--<a href="javascript:;" class="endingbtn" onclick="i18n.setLang('jap')">日語</a>-->
                         <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
                         <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
                    </li>
@@ -120,7 +120,7 @@
             </ul>
             <ul class="swatch-b col-md-1">
                 <li class="number"> 80+ </li>
-                <li class="title"> 金融科技<br>意见领袖 </li>
+                <li class="title" dom-i18n='adviceperson'> 金融科技<br>意见领袖 </li>
             </ul>
             <ul class="swatch-c  col-md-1">
                 <li class="number"> 100+ </li>
@@ -132,25 +132,25 @@
             </ul>
             <ul class="swatch-e col-md-1">
                 <li class="number"> 60+ </li>
-                <li class="title"> 国内外顶尖<br>区块链项目 </li>
+                <li class="title" dom-i18n='perproject'> 国内外顶尖<br>区块链项目 </li>
             </ul>
         </div>
     </div>
     <!--end list-->
 
     <div class="ad-fimg ad-fimg-new">
-        <h2 class="ad-h2title">中国澳门<b class="and-cl">X</b>2018 FINWISE</h2>
+        <h2 class="ad-h2title" dom-i18n='chinamacau'>中国澳门<b class="and-cl">X</b>2018 FINWISE</h2>
     </div>
 
 
     <div class="contact-wrap">
-        <span class="h6-title">地址</span>
-        <p class="cm-ct">中国澳门 路氹 路氹连贯公路 喜来登金沙城中心大酒店</p>
-        <span class="h6-title">时间</span>
-        <p class="cm-ct">2018年1月12日-13日</p>
+        <span class="h6-title" dom-i18n='mcaddr'>地址</span>
+        <p class="cm-ct" dom-i18n='mcaddrdetail'>中国澳门 路氹 路氹连贯公路 喜来登金沙城中心大酒店</p>
+        <span class="h6-title" dom-i18n='mctime'>时间</span>
+        <p class="cm-ct" dom-i18n='mctimedetail'>2018年1月12日-13日</p>
 
         <div class="cm-ct">
-            <p class="fh-intro fh-top">2018年1月12日，Finwise Summit 纷智区块链峰会将在中国·澳门举办。此次峰会旨在加强全球金融行业从业者们的交流，推动全球金融科技的发展。峰会还将以目前金融科技领域最前沿的区块链技术为主导，集合全球优秀金融科技及区块链企业，对未来科技金融及区块链技术应用发展，进行展望和推进。</p>
+            <p class="fh-intro fh-top" dom-i18n='fwmacaudes'>2018年1月12日，Finwise Summit 纷智区块链峰会将在中国·澳门举办。此次峰会旨在加强全球金融行业从业者们的交流，推动全球金融科技的发展。峰会还将以目前金融科技领域最前沿的区块链技术为主导，集合全球优秀金融科技及区块链企业，对未来科技金融及区块链技术应用发展，进行展望和推进。</p>
         </div>
 
     </div>
@@ -206,7 +206,7 @@
         <!--</div>-->
     <!--</div>-->
     <div class="mar-auto container photo">
-        <h2 class="h2-title text-center">精彩回顾</h2>
+        <h2 class="h2-title text-center" dom-i18n='mcflashbacks'>精彩回顾</h2>
         <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-12">
                 <img src="../images/finwise-tokyo/review01.jpg">
@@ -1523,10 +1523,12 @@
 
     
 </section>
+
+
 <footer id="footer">
     <div class="container">
         <div class="row">
-            <h2 class="text-center contact-us">联系我们</h2>
+            <h2 class="text-center contact-us" dom-i18n='contactus'>联系我们</h2>
             <div class="col-md-4">
                 <div class="" dom-i18n='pwzx23'>票务咨询</div>
                 <div class="contact-usstyle">
@@ -1537,6 +1539,7 @@
                     <p class="">TEL & Wechat 137 6459 5403</p>
                 </div>
             </div>
+
             <div class="col-md-4 social">
                 <!-- <div>社交媒体</div>
                 <a href="https://www.facebook.com/Finwise-456119451417070/?ref=aymt_homepage_panel">
@@ -1546,12 +1549,27 @@
                     <img  src="../images/finwise/twitter.png" alt="twitter">
                 </a> -->
             </div>
-            <div class="col-md-4 social">
-                <div>微信公众号</div>
+
+            <div class="col-md-4 social show-zhblock">
+                <div dom-i18n='wechatnum'>微信公众号</div>
                 <img src="../images/finwise/Wechat.jpg" id="wechat-img">
             </div>
+
+            <div class="col-md-4 social show-enblock">
+                <div>Socail Media</div>
+                <a href="https://www.facebook.com/pg/Finwise-456119451417070/posts/">
+                    <img  src="../images/finwise/facebook-purple.png" alt="facebook">
+                </a>
+                <a href="https://twitter.com/finwise_org">
+                    <img  src="../images/finwise/twitter-purple.png" alt="twitter">
+                </a>
+                <a href="https://www.instagram.com/finwiseofficial/">
+                    <img  src="../images/finwise/instagram-purple.png" alt="instagram">
+                </a>
+            </div>
+
         </div>
-        
+
     </div>
 </footer>
 

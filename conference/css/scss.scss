@@ -4494,6 +4494,9 @@ body.zhlang {
 	//}
 
 }
+
+
+//help page begin
 .hotel-wrap{
 	.im-tips {
 		margin: 50px 0;
@@ -4544,8 +4547,8 @@ body.zhlang {
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
 	background: #fff;
 	border-bottom: none;
-	//border-radius: 0;
 	color: $purple-color;
+	//border-radius: 0;
 	//width: 275px;
 	//height: 50px;
 	//text-align: center;
@@ -4572,3 +4575,40 @@ body.zhlang {
 	font-size: 16px;
 	line-height: 2;
 }
+
+
+.zhlang{
+	.visatab{
+		display: inline-block !important;
+	}
+
+	//.visa-ncontent{
+	//	display: block;
+	//
+	//}
+	//.hotel-content{
+	//	display: none;
+	//
+	//}
+}
+
+.otherlang{
+	.visatab{
+		display: none;
+	}
+	.nav-tabs > li > a{
+		background: #fff;
+		border-bottom: none;
+		color: $purple-color;
+	}
+
+	.visa-ncontent{
+
+		display: none;
+	}
+	.hotel-content{
+		display: block;
+	}
+
+}
+

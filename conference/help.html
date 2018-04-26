@@ -251,16 +251,16 @@
     <div class="tab-ctwrap container">
         <h2 class="vs-h1 help-h1 text-center">参会指南</h2>
         <ul id="myTab11" class="nav nav-tabs nav-zdytabs text-center">
-            <li class="active">
+            <li class="visatab tabitem tabitemxyz hide active">
                 <a href="#home" data-toggle="tab">
                     签证指南
                 </a>
             </li>
-            <li><a href="#ios" data-toggle="tab">周边酒店</a></li>
+            <li class="tabitem"><a href="#ios" data-toggle="tab" dom-i18n='hotelab'>周边酒店</a></li>
 
         </ul>
         <div id="myTabContent" class="tab-content">
-            <div class="tab-pane fade in active" id="home">
+            <div class="tab-pane fade in active visa-ncontent" id="home">
                 <!--visa begin-->
                 <div class="visa-fwrap container">
 
@@ -317,11 +317,11 @@
                 </div>
                 <!--visa end-->
             </div>
-            <div class="tab-pane fade" id="ios">
+            <div class="tab-pane fade hotel-content" id="ios">
                 <!--hotel begin-->
                 <div class="hotel-wrap container">
                     <div class="im-tips">
-                        <strong>
+                        <strong  dom-i18n='hoteltips'>
                             温馨提示：以下是主办方推荐的酒店，离会议中心比较近，不负责预定，如需预定请您直接联系您中意的酒店，请您理解！
                             注：如有住宿需求，请尽快联系酒店方，以免人多预定不到您理想的酒店。
                         </strong>
@@ -329,7 +329,7 @@
 
 
                     <div class="ht-list mar-tb45">
-                        <h3 class="va-h3"> Grand Prince Hotel New Takanawa（新高轮格兰王子大饭店）</h3>
+                        <h3 class="va-h3" dom-i18n='hotelking01'> Grand Prince Hotel New Takanawa（新高轮格兰王子大饭店）</h3>
                         <div class="ht-imgs clearfix">
                             <div class="col-sm-3">
                                 <img data-original="images/hotel-imgs/ht15.png" class="ht-img lazy">
@@ -344,13 +344,16 @@
                                 <img data-original="images/hotel-imgs/ht16.png" class="ht-img lazy">
                             </div>
                         </div>
-                        <p class="ht-dt"> 四星级酒店 </p>
-                        <p class="ht-dt"> 地址：3-13-1 Takanawa Minato Tokyo Tokyo-to 108-0074 </p>
-                        <p class="ht-dt"> 大会举办场地酒店 </p>
+                        <p class="ht-dt" dom-i18n='hotelstar4'> 四星级酒店 </p>
+                        <div class="ht-dt">
+                            <span dom-i18n='hoteladdrtl'>地址：</span>
+                            <p dom-i18n='hoteladdrgphnt'>108-8612 东京都, Minato-ku, Takanawa 3-13-1</p>
+                        </div>
+                        <p class="ht-dt" dom-i18n='hotelfwhome'> 大会举办场地酒店 </p>
                     </div>
 
                     <div class="ht-list mar-tb45">
-                        <h3 class="va-h3">  Shinagawa Tobu Hotel（品川东武酒店）</h3>
+                        <h3 class="va-h3" dom-i18n='hotelstth01'>  Shinagawa Tobu Hotel（品川东武酒店）</h3>
                         <div class="ht-imgs clearfix">
                             <div class="col-sm-3">
                                 <img data-original="images/hotel-imgs/ht05.png" class="ht-img lazy">
@@ -365,13 +368,16 @@
                                 <img data-original="images/hotel-imgs/ht08.png" class="ht-img lazy">
                             </div>
                         </div>
-                        <p class="ht-dt"> 三星级酒店 </p>
-                        <p class="ht-dt"> 地址：108-0074 东京都, Minato-ku Takanawa 4-7-6</p>
-                        <p class="ht-dt"> 距离会场 0.3 公里，步行 5 分钟到会场 </p>
+                        <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
+                        <div class="ht-dt">
+                            <span dom-i18n='hoteladdrtl'>地址：</span>
+                            <p dom-i18n='hoteladdrsth'>108-0074 东京都, Minato-ku Takanawa 4-7-6</p>
+                        </div>
+                        <p class="ht-dt" dom-i18n='hotelsthdistance'> 距离会场 0.3 公里，步行 5 分钟到会场 </p>
                     </div>
 
                     <div class="ht-list mar-tb45">
-                        <h3 class="va-h3">  Keikyu EX Inn Takanawa（高轮京急酒店）</h3>
+                        <h3 class="va-h3" dom-i18n='hotelkeit02'>  Keikyu EX Inn Takanawa（高轮京急酒店）</h3>
                         <div class="ht-imgs clearfix">
                             <div class="col-sm-3">
                                 <img data-original="images/hotel-imgs/ht01.png" class="ht-img lazy">
@@ -386,13 +392,16 @@
                                 <img data-original="images/hotel-imgs/ht04.png" class="ht-img lazy">
                             </div>
                         </div>
-                        <p class="ht-dt"> 三星级酒店 </p>
-                        <p class="ht-dt"> 地址：108-0074 东京都, Minato-ku Takanawa 4-10-8  </p>
-                        <p class="ht-dt"> 距离会场 1 公里，步行 5-10 分钟到会场 </p>
+                        <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
+                        <div class="ht-dt">
+                            <span dom-i18n='hoteladdrtl'>地址：</span>
+                            <p dom-i18n='hoteladdrkeit'>108-0074 东京都, Minato-ku Takanawa 4-10-8</p>
+                        </div>
+                        <p class="ht-dt" dom-i18n='hotelkeitdistance'> 距离会场 1 公里，步行 5-10 分钟到会场 </p>
                     </div>
 
                     <div class="ht-list mar-tb45">
-                        <h3 class="va-h3">  Keikyu EX Inn Shinagawa（品川京滨急EX酒店）</h3>
+                        <h3 class="va-h3" dom-i18n='hotelex01'>  Keikyu EX Inn Shinagawa（品川京滨急EX酒店）</h3>
                         <div class="ht-imgs clearfix">
                             <div class="col-sm-3">
                                 <img data-original="images/hotel-imgs/ht09.png" class="ht-img lazy">
@@ -407,9 +416,12 @@
                                 <img data-original="images/hotel-imgs/ht12.png" class="ht-img lazy">
                             </div>
                         </div>
-                        <p class="ht-dt"> 三星级酒店 </p>
-                        <p class="ht-dt"> 地址：108-0074 东京都, Minato-ku Takanawa 3-13-3 </p>
-                        <p class="ht-dt"> 距离会场 1.5 公里，步行10 分钟到会场 </p>
+                        <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
+                        <div class="ht-dt">
+                            <span dom-i18n='hoteladdrtl'>地址：</span>
+                            <p dom-i18n='hoteladdrex'>108-0074 东京都, Minato-ku Takanawa 3-13-3</p>
+                        </div>
+                        <p class="ht-dt" dom-i18n='hotelexdistance'> 距离会场 1.5 公里，步行10 分钟到会场 </p>
                     </div>
                 </div>
                 <!--hotel end-->
@@ -445,6 +457,26 @@
 
 <script>
 //    w3.includeHTML();
+
+
+
+if($('.visa-body').hasClass('otherlang')){
+//    $('.tabitem').addClass('active');
+    $('.tabitemxyz').addClass('active');
+
+
+    $('.visa-ncontent').removeClass('active');
+    $('.hotel-content').addClass('in');
+    $('.hotel-content').addClass('active');
+}else{
+//    $('.tabitem').removeClass('active');
+
+    $('.tabitemxyz').removeClass('active');
+
+//    $('.visa-ncontent').removeClass('active');
+//    $('.hotel-content').removeClass('in');
+//    $('.hotel-content').removeClass('active');
+}
 
 
 //    img lazyload
