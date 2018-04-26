@@ -27,6 +27,7 @@ a, a:link, a:visited, a:hover, a:active {
 
 body{
 	background: $gray-color;
+	min-width: 300px;
 }
 .noneborder{
 	border: none !important;
@@ -39,6 +40,19 @@ body{
 		height: auto;
 		.col-md-2{
 			display: block !important;
+		}
+	}
+}
+.otherlang{
+	.show-ft{
+		//display: block !important;
+		height: 880px;
+		//overflow: hidden;
+		&.active{
+			height: auto;
+			.col-md-2{
+				display: block !important;
+			}
 		}
 	}
 }
@@ -581,7 +595,7 @@ body{
 		.lang-switch{
 			text-align: left;
 			//padding:0 20px 20px;
-			padding:15px 20px;
+			//padding:15px 20px;
 			a{
 				border-bottom: none !important;
 			}
@@ -1273,6 +1287,7 @@ body{
 			font-size: 14px !important;
 			padding: 8px 20px !important;
 			margin-right: 5px !important;
+			height: 40px;
 			//cursor:pointer;
 		}
 
@@ -1339,6 +1354,27 @@ body{
 	}
 }
 @media (width: 1024px){
+
+	.otherlang{
+		.guest-item .col-md-2 {
+			height: 280px;
+		}
+
+		.show-ft{
+			//display: block !important;
+			height: 880px;
+			//overflow: hidden;
+			&.active{
+				height: auto;
+				.col-md-2{
+					display: block !important;
+				}
+			}
+		}
+	}
+
+
+
 	.union-wrap{
 		img.lazy {
 			height: 70px !important;
@@ -1708,6 +1744,25 @@ body{
 				//color: #4F2F84;
 				width: 90% !important;
 				margin: 0 auto;
+			}
+		}
+
+
+		.otherlang{
+			.guest-item .col-md-2 {
+				height: 260px !important;
+			}
+
+			.show-ft{
+				//display: block !important;
+				height: 790px !important;
+				overflow: hidden;
+				&.active{
+					height: auto !important;
+					.col-md-2.showimg{
+						display: block;
+					}
+				}
 			}
 		}
 
@@ -2501,9 +2556,21 @@ body{
 			//color: #999;
 			font-size: 12px;
 			color: rgba(255,255,255,0.50);
+			margin-top: 10px;
+			overflow: hidden;
+			display: -webkit-box;
+			text-overflow: ellipsis;
+			-webkit-line-clamp: 6;
+			-webkit-box-orient: vertical;
 		}
 	}
 
+
+	.otherlang{
+		.guest-item .col-md-2 {
+			height: 295px;
+		}
+	}
 	.co-sponsor-wrap{
 		.col-md-2{
 			display: none;
@@ -2934,8 +3001,11 @@ body{
 		}
 
 		body.otherlang{
-
-			.wap-show, .footer-iminfo{
+			//.wap-show{
+			//	//display: block !important;
+			//	display: inline-block !important;
+			//}
+			.wap-show.footer-iminfo .footer-iminfo{
 				//display: block !important;
 				display: none !important;
 			}
@@ -3047,7 +3117,23 @@ body{
 			}
 		}
 
+		.otherlang{
+			.guest-item .col-md-2 {
+				height: 245px;
+			}
 
+			.show-ft{
+				//display: block !important;
+				height: 790px !important;
+				overflow: hidden;
+				&.active{
+					height: auto !important;
+					.col-md-2.showimg{
+						display: block;
+					}
+				}
+			}
+		}
 
 		//wap style begin
 		.entrance-wrap{
@@ -3188,6 +3274,15 @@ body{
 		.spe-stop{
 			margin-top: 0;
 		}
+
+.otherlang{
+	.load-footer{
+		.wap-show {
+			display: none !important;
+		}
+	}
+}
+
 
 		//about begin
 

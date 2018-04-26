@@ -324,6 +324,8 @@
 
           tkaddr:"日本东京新高轮格兰王子酒店",
           helpnav:"参会指南",
+          grchEntrance:"个人参会",
+          qychEntrance:"企业参会",
 
       },
 
@@ -634,6 +636,9 @@
 
           tkaddr:"Grand Prince Hotel New Takanawa",
           helpnav:"Guide",
+          grchEntrance:"个人参会",
+          qychEntrance:"企业参会",
+
 
       },
       jap: {
