@@ -264,9 +264,7 @@ img, video {
   left: 45px;
 }
 
-#lang-switch a{
-  padding: 0 8px !important
-}
+
 padding-right
 .purple-text{
   color: #70309f;
@@ -466,6 +464,11 @@ padding-right
   }
   #lang-switch{
     left: 0;
+    float: left !important;
+  }
+
+  #lang-switch a{
+    display:inline-block !important;
   }
 
 
@@ -530,6 +533,10 @@ padding-right
 }
 
 @media (min-width: 992px) {
+  #lang-switch a{
+    padding: 0 8px !important
+  }
+
   #topnav.stick .navigation-menu > li > a {
     color: #fff;
   }

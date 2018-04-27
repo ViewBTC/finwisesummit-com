@@ -2125,6 +2125,8 @@ body {
     font-size: 12px !important; } }
 .visa-body {
   background: #fff; }
+  .visa-body .visa-tips {
+    display: none; }
 
 .visa-tips {
   position: fixed;
@@ -2271,9 +2273,10 @@ body.zhlang .zh-hide-block {
   background: #fff;
   border-bottom: none;
   color: #4F2F84; }
-.otherlang .visa-ncontent {
+.otherlang .visa-ncontent, .otherlang .visa-tips {
   display: none; }
 .otherlang .hotel-content {
-  display: block; }
+  display: block !important;
+  opacity: 1; }
 
 /*# sourceMappingURL=scss.css.map */

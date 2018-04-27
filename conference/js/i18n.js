@@ -357,7 +357,7 @@
           hotelking01:"新高轮格兰王子大饭店",
           hotelstar4:"四星级酒店",
           hotelstar3:"三星级酒店",
-          hoteladdrtl:"地址",
+          hoteladdrtl:"地址：",
           hoteladdrgphnt:"108-8612 东京都, Minato-ku, Takanawa 3-13-1",
           hotelfwhome:"大会举办场地酒店",
 

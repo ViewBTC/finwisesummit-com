@@ -4361,6 +4361,9 @@ body{
 //visa begin
 .visa-body{
 	background: #fff;
+	.visa-tips{
+		display: none;
+	}
 }
 .visa-tips{
 	position: fixed;
@@ -4602,12 +4605,12 @@ body.zhlang {
 		color: $purple-color;
 	}
 
-	.visa-ncontent{
-
+	.visa-ncontent, .visa-tips{
 		display: none;
 	}
 	.hotel-content{
-		display: block;
+		display: block !important;
+		opacity: 1;
 	}
 
 }

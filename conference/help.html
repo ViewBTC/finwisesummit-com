@@ -249,7 +249,7 @@
 
     <!-- tab content begin-->
     <div class="tab-ctwrap container">
-        <h2 class="vs-h1 help-h1 text-center">参会指南</h2>
+        <h2 class="vs-h1 help-h1 text-center" dom-i18n='helpnav'>参会指南</h2>
         <ul id="myTab11" class="nav nav-tabs nav-zdytabs text-center">
             <li class="visatab tabitem tabitemxyz hide active">
                 <a href="#home" data-toggle="tab">
@@ -347,7 +347,7 @@
                         <p class="ht-dt" dom-i18n='hotelstar4'> 四星级酒店 </p>
                         <div class="ht-dt">
                             <span dom-i18n='hoteladdrtl'>地址：</span>
-                            <p dom-i18n='hoteladdrgphnt'>108-8612 东京都, Minato-ku, Takanawa 3-13-1</p>
+                            <span dom-i18n='hoteladdrgphnt'>108-8612 东京都, Minato-ku, Takanawa 3-13-1</span>
                         </div>
                         <p class="ht-dt" dom-i18n='hotelfwhome'> 大会举办场地酒店 </p>
                     </div>
@@ -371,7 +371,7 @@
                         <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
                         <div class="ht-dt">
                             <span dom-i18n='hoteladdrtl'>地址：</span>
-                            <p dom-i18n='hoteladdrsth'>108-0074 东京都, Minato-ku Takanawa 4-7-6</p>
+                            <span dom-i18n='hoteladdrsth'>108-0074 东京都, Minato-ku Takanawa 4-7-6</span>
                         </div>
                         <p class="ht-dt" dom-i18n='hotelsthdistance'> 距离会场 0.3 公里，步行 5 分钟到会场 </p>
                     </div>
@@ -395,7 +395,7 @@
                         <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
                         <div class="ht-dt">
                             <span dom-i18n='hoteladdrtl'>地址：</span>
-                            <p dom-i18n='hoteladdrkeit'>108-0074 东京都, Minato-ku Takanawa 4-10-8</p>
+                            <span dom-i18n='hoteladdrkeit'>108-0074 东京都, Minato-ku Takanawa 4-10-8</span>
                         </div>
                         <p class="ht-dt" dom-i18n='hotelkeitdistance'> 距离会场 1 公里，步行 5-10 分钟到会场 </p>
                     </div>
@@ -419,7 +419,7 @@
                         <p class="ht-dt" dom-i18n='hotelstar3'> 三星级酒店 </p>
                         <div class="ht-dt">
                             <span dom-i18n='hoteladdrtl'>地址：</span>
-                            <p dom-i18n='hoteladdrex'>108-0074 东京都, Minato-ku Takanawa 3-13-3</p>
+                            <span dom-i18n='hoteladdrex'>108-0074 东京都, Minato-ku Takanawa 3-13-3</span>
                         </div>
                         <p class="ht-dt" dom-i18n='hotelexdistance'> 距离会场 1.5 公里，步行10 分钟到会场 </p>
                     </div>
@@ -459,24 +459,6 @@
 //    w3.includeHTML();
 
 
-
-if($('.visa-body').hasClass('otherlang')){
-//    $('.tabitem').addClass('active');
-    $('.tabitemxyz').addClass('active');
-
-
-    $('.visa-ncontent').removeClass('active');
-    $('.hotel-content').addClass('in');
-    $('.hotel-content').addClass('active');
-}else{
-//    $('.tabitem').removeClass('active');
-
-    $('.tabitemxyz').removeClass('active');
-
-//    $('.visa-ncontent').removeClass('active');
-//    $('.hotel-content').removeClass('in');
-//    $('.hotel-content').removeClass('active');
-}
 
 
 //    img lazyload
