@@ -46,7 +46,8 @@
         contactus: " 联系我们",
         wechatnum: " 微信公众号",
         sponsorshipct: " 赞助联系人",
-
+        citysh: " 上海站",
+        citymacau: " 澳门站",
 
 
         qqgs16: "全球区块链公司",
@@ -409,6 +410,8 @@
         contactus: " Contact us",
         wechatnum: " Wechat",
         sponsorshipct: "Sponsorship Contact",
+        citysh: " ShangHai Station",
+        citymacau: " Macau Station",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About Finwise",
@@ -848,7 +851,10 @@
         hotelex01:"京急EXイン品川駅前",
         hoteladdrex:"〒108-0074 東京都, ３－１３－３",
         hotelexdistance:"会场から1.5キロ、徒歩10分で会场。",
+        sponsorshipct: "連絡先を助ける",
 
+        citysh: "上海駅",
+        citymacau: "マカオ駅",
       }
     },
     dom: {
@@ -884,6 +890,7 @@
       opts.lang = v;
 
       // 通过语言区分页面 begin
+      //   $('body').addClass('zhlang');
         if(v == 'zh'){
             $('body').addClass('zhlang');
             $('body').removeClass('otherlang');
@@ -960,6 +967,7 @@
 
 
 // 通过语言区分页面 begin
+// $('body').addClass('zhlang');
 var tyLang = localStorage.tyLang;
 if(tyLang == 'zh'){
     $('body').addClass('zhlang');

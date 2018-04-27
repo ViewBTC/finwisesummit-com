@@ -206,6 +206,7 @@ body{
 		}
 	}
 	@media (max-width: 992px){
+
 		.index-fwrap {
 			background: url(../images/finwise-tokyo/wap-bg.jpg) no-repeat;
 			background-position: center 10px;
@@ -328,6 +329,13 @@ body{
 				display: block;
 			}
 
+		}
+
+		.otherlang{
+			.past-review .review-old.active {
+				padding: 0 20px;
+				font-size: 12px;
+			}
 		}
 
 
@@ -2748,10 +2756,13 @@ body{
 
 
 			.navigation-menu > li > a {
-				font-size: 13px !important;;
-				line-height: 45px !important;;
+				font-size: 13px !important;
+				line-height: 45px !important;
 				padding: 0 20px !important;
-				margin: 0 !important;;
+				margin: 0 !important;
+				&.about{
+					 border-top: 1px solid #1b1b1b;
+				}
 			}
 
 
@@ -3186,7 +3197,7 @@ body{
 				z-index: 9999;
 				.gettiketsbox{
 					font-size: 12px;
-					width: 80px;
+					width: 90px;
 					height: 30px;
 					line-height: 30px;
 				}

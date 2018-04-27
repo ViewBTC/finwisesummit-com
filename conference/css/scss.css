@@ -203,6 +203,10 @@ body {
     .past-review.active .review-old {
       display: block; }
 
+  .otherlang .past-review .review-old.active {
+    padding: 0 20px;
+    font-size: 12px; }
+
   .des-get {
     max-width: 335px;
     height: 400px; }
@@ -1356,6 +1360,8 @@ body {
       line-height: 45px !important;
       padding: 0 20px !important;
       margin: 0 !important; }
+      #topnav .navigation-menu > li > a.about {
+        border-top: 1px solid #1b1b1b; }
 
   .lang-select {
     right: 60px !important; }
@@ -1540,7 +1546,7 @@ body {
     z-index: 9999; }
     #topnav .tikets-wapbox .gettiketsbox {
       font-size: 12px;
-      width: 80px;
+      width: 90px;
       height: 30px;
       line-height: 30px; }
 

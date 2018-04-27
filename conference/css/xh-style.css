@@ -49,6 +49,7 @@ img, video {
 #topnav .navigation-menu > li {
   display: inline-block;
   position: relative;
+  color: #fff;
 }
 #topnav .navigation-menu > li.menu-item-has-children > a:after {
   content: "\e00e";
@@ -494,7 +495,9 @@ padding-right
   .container.A-wrap {
     padding: 19px 15px 5px;
   }
-
+  .h1-title{
+    font-size: 24px;
+  }
   .h2, h2, .fh-intro {
     font-size: 18px !important;
 
@@ -738,6 +741,12 @@ padding-right
   color: #f9297d;
   margin: 10px 0;
 }
+.cont-im .contact-usstyle{
+  margin-bottom: 25px;
+}
+.h3-fl{
+  font-size: 16px;
+}
 .row-fbox{
   margin-top: 15px;
   overflow: hidden;
@@ -755,6 +764,9 @@ padding-right
   right: 0;
   top: 22px;
   z-index: 9999;
+  padding: 4px 14px !important;
+  height: 30px;
+  line-height: 22px;
 }
 .lang-select a{
   color: #fff;
@@ -1335,6 +1347,19 @@ h3.page-title span {
 }
 
 @media (max-width: 768px){
+
+  /*lang*/
+  .lang-select{
+    /*position: absolute;*/
+    /*right: 0;*/
+    /*top: 22px;*/
+    /*z-index: 9999;*/
+    /*padding: 4px 14px !important;*/
+    /*height: 30px;*/
+    /*line-height: 22px;*/
+    font-size: 12px !important;
+  }
+
   .index-bgwrap {
       background: url(../images/finwise/bg-big.jpg) no-repeat;
       width: 100%;

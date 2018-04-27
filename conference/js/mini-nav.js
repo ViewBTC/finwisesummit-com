@@ -37,5 +37,19 @@ if(screen_w>991){
 // load common footer begin
 
 $(".load-footer").load("common/footer.html");
+// $(".load-header").load("common/header.html");
 
 // load common footer end
+
+
+// $('body').addClass('zhlang');
+
+
+ // 判断当前是否是移动端访问
+$(function(){
+    if(navigator.userAgent.match(/mobile/i)) {
+
+        $('body a').attr('target','_self');
+
+    }
+});
