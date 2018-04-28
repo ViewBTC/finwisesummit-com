@@ -332,7 +332,7 @@
           positionybz66:"CEO, CoinBene",
 
           nametoni67:"Toni",
-          positiontoni67:"九个亿财经CEO",
+          positiontoni67:"sgamer ceo",
 
           nameljl68:"刘嘉陵",
           positionljl68:"比特股理事会理事、比特创业营创始成员、 YOYOW 联合创始人",
@@ -374,6 +374,8 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"距离会场 1.5 公里，步行10 分钟到会场",
 
+          namesupernova14:"Supernova",
+          positionsupernova14:"币快报联合创始人兼董事长",
 
 
       },
@@ -734,6 +736,8 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
 
+          namesupernova14:"Supernova",
+          positionsupernova14:"BKBT Co-founder And Chairman of the Board",
 
 
       },
