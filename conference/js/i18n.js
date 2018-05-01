@@ -334,11 +334,25 @@
           nametoni67:"Toni",
           positiontoni67:"sgamer ceo",
 
-          nameljl68:"刘嘉陵",
+          nameljl68:"刘嘉陵（巨蟹）",
           positionljl68:"比特股理事会理事、比特创业营创始成员、 YOYOW 联合创始人",
 
           namegyl69:"高泽龙",
           positiongyl69:"国际区块链与数字货币协会 副会长",
+
+          namesld70:"龙典",
+          positionsld70:"火讯财经创始人",
+
+          nameswj71:"無極",
+          positionswj71:"华迎控股集团 董事长",
+
+          nameswjz72:"吳傑莊博士",
+          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+
+
+          namehjl73:"黃俊瑯",
+          positionhjl73:"Goldford行政總裁",
+
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -374,8 +388,8 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"距离会场 1.5 公里，步行10 分钟到会场",
 
-          namesupernova14:"Supernova",
-          positionsupernova14:"币快报联合创始人兼董事长",
+          namesupernova14:"曾良",
+          positionsupernova14:"Supernova Chain董事长、币快报联合创始人",
 
 
       },
@@ -702,7 +716,21 @@
           namegyl69:"Zack_Gao",
           positiongyl69:"Co-Founder of  International Blockchain Application Federation",
 
-          zzhz01:"Sponsorship",
+
+          namesld70:"Longdns",
+          positionsld70:"Huoxun.com CEO",
+
+          nameswj71:"Jackie",
+          positionswj71:"HuaYing Holding Group Company",
+
+          nameswjz72:"Dr. Johnny Ng",
+          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+
+          namehjl73:"Caspar",
+          positionhjl73:"Goldford行政總裁",
+
+
+        zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
           mtsy04:"Ticket Information",
@@ -737,7 +765,7 @@
           hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
 
           namesupernova14:"Supernova",
-          positionsupernova14:"BKBT Co-founder And Chairman of the Board",
+          positionsupernova14:"Supernova Chain Chairman of the Board , BKBT Co-founder",
 
 
       },
