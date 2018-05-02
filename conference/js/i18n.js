@@ -351,8 +351,10 @@
 
 
           namehjl73:"黃俊瑯",
-          positionhjl73:"Goldford行政總裁",
+          positionhjl73:"Goldford 行政總裁",
 
+          namezhq74:"周宏骐",
+          positionzhq74:"新加坡国立大学教授, 香港科技大学管理学院兼任教授, 北京大学国家发展研究院特聘教授",
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -727,8 +729,10 @@
           positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
 
           namehjl73:"Caspar",
-          positionhjl73:"Goldford行政總裁",
+          positionhjl73:"Goldford 行政總裁",
 
+          namezhq74:"Chou Hung Chi",
+          positionzhq74:"Adjunct Associate Professor， National University of Singapore",
 
         zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",

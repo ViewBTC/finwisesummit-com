@@ -54,6 +54,12 @@ body {
     .otherlang .show-ft.active .col-md-2 {
       display: block !important; }
 
+.zhlang .zhshow, .otherlang .enshow {
+  display: inline-block !important; }
+
+.zhlang .enshow, .otherlang .zhshow {
+  display: none !important; }
+
 .co-sponsor-wrap .show-allimg {
   height: 575px;
   overflow: hidden; }
@@ -1007,7 +1013,12 @@ body {
     font-size: 14px; }
 
   .time-historywrap .tr-addr {
-    font-size: 14px !important; } }
+    font-size: 14px !important; }
+
+  .about-deswrap.container .team-bbox {
+    height: auto !important; }
+    .about-deswrap.container .team-bbox .foundername {
+      padding-bottom: 12px; } }
 .tiketsex {
   height: 260px;
   overflow: hidden; }

@@ -56,6 +56,19 @@ body{
 		}
 	}
 }
+
+//wap style begin
+
+//.wap-show,
+ .zhlang .zhshow, .otherlang  .enshow{
+	//display: block !important;
+	display: inline-block !important;
+}
+//.pc-hide,
+.zhlang .enshow, .otherlang  .zhshow{
+	display: none !important;
+}
+
 .co-sponsor-wrap{
 	.show-allimg {
 		height: 575px;
@@ -2037,6 +2050,15 @@ body{
 		//.city-lj.tr-date {
 		//	margin: 15px 10px 10px 8px !important;
 		//}
+
+
+		.about-deswrap.container .team-bbox {
+			height: auto !important;
+			.foundername{
+				padding-bottom: 12px;
+			}
+		}
+
 
 	}
 
