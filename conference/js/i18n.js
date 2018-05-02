@@ -356,6 +356,12 @@
           namezhq74:"周宏骐",
           positionzhq74:"新加坡国立大学教授, 香港科技大学管理学院兼任教授, 北京大学国家发展研究院特聘教授",
 
+          namejco75:"JC Oliver",
+          positionjco75:"Global Chief Creative Officer at Unlockd",
+
+          nameliuyang76:"刘洋",
+          positionliuyang76:"BITKAN 董事长",
+
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
           hwhz03:"海外合作",
@@ -734,7 +740,14 @@
           namezhq74:"Chou Hung Chi",
           positionzhq74:"Adjunct Associate Professor， National University of Singapore",
 
-        zzhz01:"Sponsorship",
+          namejco75:"JC Oliver",
+          positionjco75:"Global Chief Creative Officer at Unlockd",
+
+          nameliuyang76:"Leon",
+          positionliuyang76:"BITKAN Chairman",
+
+
+          zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
           mtsy04:"Ticket Information",
