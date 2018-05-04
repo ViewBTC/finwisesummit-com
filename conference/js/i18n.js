@@ -172,7 +172,7 @@
           positionzll12:"gate.io合伙人",
 
           nameylc13:"杨林科",
-          positionylc13:"比特币中国联合创始人、比特币钻石中国区顾问",
+          positionylc13:"比特币中国联合创始人、\u000d\u000a比特币钻石中国区顾问",
 
           namelbj14:"刘炳江",
           positionlbj14:"Digital Asset Co., Ltd 社长",
@@ -349,8 +349,8 @@
           nameswj71:"無極",
           positionswj71:"华迎控股集团 董事长",
 
-          nameswjz72:"吳傑莊博士",
-          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+          nameswjz72:"吴杰庄",
+          positionwjz72:"高峰集团董事局主席 全国政协委员、香港青年联会首席参事",
 
 
           namehjl73:"黃俊瑯",
@@ -407,7 +407,7 @@
           hotelexdistance:"距离会场 1.5 公里，步行10 分钟到会场",
 
           namesupernova14:"曾良",
-          positionsupernova14:"Supernova Chain董事长、币快报联合创始人",
+          positionsupernova14:"Supernova Chain董事长、\u000d\u000a 币快报联合创始人",
 
 
           citymacau:"澳门",
@@ -752,7 +752,7 @@
           positionswj71:"HuaYing Holding Group Company",
 
           nameswjz72:"Dr. Johnny Ng",
-          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+          positionwjz72:"Chairman of Goldford Group/Member of the national committee of CPPCC/Chief participant in the Youth Federation of Hongkong",
 
           namehjl73:"Caspar",
           positionhjl73:"Goldford 行政總裁",
@@ -808,8 +808,8 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
 
-          namesupernova14:"Supernova",
-          positionsupernova14:"Supernova Chain Chairman of the Board , BKBT Co-founder",
+          namesupernova14:"Liang  Zeng",
+          positionsupernova14:"Supernova Chain Chairman of the Board ,\u000d\u000a BKBT Co-founder",
 
           citymacau:"Macau",
           citytokyo:"Tokyo",
