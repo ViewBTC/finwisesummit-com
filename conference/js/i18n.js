@@ -346,7 +346,7 @@
           namesld70:"龙典",
           positionsld70:"火讯财经创始人",
 
-          nameswj71:"無極",
+          nameswj71:"无极",
           positionswj71:"华迎控股集团 董事长",
 
           nameswjz72:"吴杰庄",
