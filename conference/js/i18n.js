@@ -96,6 +96,8 @@
         bzzt46: "标准展台",
         wixz47: "VIP通行证",
         jeeg48: "价格",
+        bzzws40: "标准展位招商",
+        unitzhang: "张",
 
         dcqd50: "到场嘉宾签到",
         dhks51: "大会开始",
@@ -170,7 +172,7 @@
           positionzll12:"gate.io合伙人",
 
           nameylc13:"杨林科",
-          positionylc13:"比特币中国联合创始人、比特币钻石中国区顾问",
+          positionylc13:"比特币中国联合创始人、\u000d\u000a比特币钻石中国区顾问",
 
           namelbj14:"刘炳江",
           positionlbj14:"Digital Asset Co., Ltd 社长",
@@ -205,8 +207,8 @@
           nameyzy24:"叶祖研",
           positionyzy24:"链向财经联合创始人&CEO",
 
-          nameethanyu25:"Ethan Yu",
-          positionethanyu25:"BABI财经 运营总监",
+          nameethanyu25:"鱼文辉",
+          positionethanyu25:"CoinVoice创始人",
 
           namelyl26:"李一灵",
           positionlyl26:"Trinity创始人",
@@ -269,7 +271,8 @@
           positionhyq45:"BEPAL首席执行官、黑盾区块链安全研究中心联合创始人",
 
           namezh46:"曾豪",
-          positionzh46:"蚂蚁区块链联盟创始人 蚂蚁联盟国际资本董事长",
+          positionzh46:"蚂蚁区块链联盟创始人",
+          positionzh47:"蚂蚁联盟国际资本董事长",
 
           namesjl47:"邵建良",
           positionsjl47:"比升资本创始人 浙江省投融资协会常务副秘书长",
@@ -343,15 +346,43 @@
           namesld70:"龙典",
           positionsld70:"火讯财经创始人",
 
-          nameswj71:"無極",
+          nameswj71:"无极",
           positionswj71:"华迎控股集团 董事长",
 
-          nameswjz72:"吳傑莊博士",
-          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+          nameswjz72:"吴杰庄",
+          positionwjz72:"高峰集团董事局主席 全国政协委员、香港青年联会首席参事",
 
 
           namehjl73:"黃俊瑯",
-          positionhjl73:"Goldford行政總裁",
+          positionhjl73:"Goldford 行政總裁",
+
+          namezhq74:"周宏骐",
+          positionzhq74:"新加坡国立大学教授, 香港科技大学管理学院兼任教授, 北京大学国家发展研究院特聘教授",
+
+          namejco75:"JC Oliver",
+          positionjco75:"Global Chief Creative Officer at Unlockd",
+
+          nameliuyang76:"刘洋",
+          positionliuyang76:"BITKAN 董事长",
+
+          nameAdel77:"Adel",
+          positionAdel77:"ATN Co-Founder",
+
+          namedingyuan78:"丁元",
+          positiondingyuan78:"火币研究院首席分析师",
+
+          namezhouxun79:"周迅",
+          positionzhouxun79:"EKT通用积分CEO",
+
+          namezhaoqianjie80:"赵千捷",
+          positionzhaoqianjie80:"BTCC 高级副总裁",
+
+          nameviachesbobok81:"Viacheslav Bobok",
+          positionviachesbobok81:"BitRent platform CEO",
+
+          nameczr82:"陈樟荣",
+          positionczr82:"沃尔顿首席运营官",
+
 
 
           zzhz01:"赞助合作",
@@ -362,6 +393,7 @@
 
           tkaddr:"日本东京新高轮格兰王子酒店",
           helpnav:"参会指南",
+          helpGuides:"参会指南",
           grchEntrance:"个人参会",
           qychEntrance:"企业参会",
           mediacover:"媒体覆盖",
@@ -389,8 +421,15 @@
           hotelexdistance:"距离会场 1.5 公里，步行10 分钟到会场",
 
           namesupernova14:"曾良",
-          positionsupernova14:"Supernova Chain董事长、币快报联合创始人",
+          positionsupernova14:"Supernova Chain董事长、\u000d\u000a 币快报联合创始人",
 
+
+          citymacau:"澳门",
+          citytokyo:"东京",
+          citylsals:"洛杉矶",
+          cityhongkong:"香港",
+          citydubai:"迪拜",
+          cityBangkok:"曼谷",
 
       },
 
@@ -401,13 +440,12 @@
         zzhz3: "Sponsorship",
         wjhg4: "Flashbacks",
         gywm5: "About US",
-        hqmp6: "Tickets and Registration",
+        hqmp6: "Buy a ticket",
         qyyj7: "Exhibitors or Speakers",
-        wncp8:
-          "Provide you with an ideal platform to build brand awareness, form partnerships and launch new products.",
+        wncp8: "Become a sponsor",
         qybm9: "Exhibitor Registration",
         grbm10: "Individual Tickets",
-        xsly11: "Click the registrants,buy tickets for summit",
+        xsly11: "Buy a ticket",
         // xsly11: "Early Bird Registration 1588 ¥，2880  ¥ (Up to April 21)",
         grbm12: "Individual Registration",
         chjb13: "Participants",
@@ -430,13 +468,13 @@
         citymacau: " Macau Station",
 
         qqgs16: "Global Blockchain Corporation",
-        gydh17: "About Finwise",
+        gydh17: "About FINWISE",
         fstj18:
-          "Finwise Summit aims to strengthen networks among practitioners in the global financial industry and promote the development of global financial technology.  With a focus on cutting-edge blockchain technology, Finwise assembles outstanding fintech and blockchain companies to share and debate the application and development of fintech and blockchain technology.",
+          "FINWISE Summit aims to strengthen the communication among blockchain-related practitioners and promote the development of global financial technology. With a focus on cutting-edge blockchain technology, FINWISE Summit brings together top talents, industry elites and excellent enterprises, provides a reliable collaboration platform and a wide media coverage.",
         ckgd19: "View More",
-        lhzb20: "Co-sponsor",
-        mtxb21: "Media Association",
-        xbfe22: "Co-organizer",
+        lhzb20: "Co-organizer",
+        mtxb21: "Media Sponsor",
+        xbfe22: "Co-sponsor",
         pwzx23: "Tickets Consulting",
         zzzx24: "Sponsorship Consulting",
         gywm25: "Follow Us",
@@ -473,6 +511,9 @@
         bzzt46: "Standard Booth Investment",
         wixz47: "VIP Pass",
         jeeg48: "Price",
+        bzzws40: "Entitlements of Sponosr",
+        unitzhang: " ",
+
 
         dcqd50: "Sign-in",
         dhks51: "Commencement of the Summit ",
@@ -502,7 +543,7 @@
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
 
         fhfz71:
-          "FINWISE Summit is one of the most influential blockchain event in China. FINWEX is comprised of a team with rich experience in a wide range of industries including banking, blockchain, internet technology, consulting, and ratingbringing together top talents, industry elites and excellent enterprises. FINWISE Summit aims to strengthen the communication among blockchain-related practitioners and promote the development of global financial technology.",
+          "FINWISE Summit is one of the most influential blockchain events in the world, bringing together top talents, industry elites and excellent enterprises. FINWISE Summit aims to strengthen the communication among blockchain-related practitioners and promote the development of global financial technology. The core team consists of experienced experts from diversified backgrounds including banking, blockchain, consulting, rating and internet company.",
         cewl72:
           "FINWISE Summit has been held in Shanghai and Macau succesfully since 2017, involving 10,000 people attedning onsite and millions of people offsite, and it is reportedly by nearly 100 domstic and overseas medias. In 2018, FINWISE will be held in Tokyo, Dubai and Hong Kong. We invite you to witness a better future together.",
         zwhe73: "FINWISE Organizing Committee",
@@ -582,7 +623,7 @@
           positionyzy24:"Co-founder&CEO of Chainfor",
 
           nameethanyu25:"Ethan Yu",
-          positionethanyu25:"Operations Director of BABI Finance",
+          positionethanyu25:"Founder  of CoinVoice",
 
           namelyl26:"David Yiling Li ",
           positionlyl26:"Founder of Trinity",
@@ -645,7 +686,8 @@
           positionhyq45:"CEO of BEPAL, Co-Founder of Heydun Chain Security Research Center",
 
           namezh46:"Hao Zen",
-          positionzh46:"Founder of ANT Blockchain Alliance, Organizer of the Fujian Blockchain Club",
+          positionzh46:"Founder of ANT Blockchain Allianceb",
+          positionzh47:"Organizer of the Fujian Blockchain Club",
 
           namesjl47:"Jianliang Shao",
           positionsjl47:"Founder of Bitrise Capital, Deputy Secretary-General of the Investment and Finance Association of Zhejiang Province",
@@ -724,27 +766,54 @@
           positionswj71:"HuaYing Holding Group Company",
 
           nameswjz72:"Dr. Johnny Ng",
-          positionwjz72:"高鋒集團董事局主席 全國政協委員、香港青年聯會首席參事",
+          positionwjz72:"Chairman of Goldford Group/Member of the national committee of CPPCC/Chief participant in the Youth Federation of Hongkong",
 
           namehjl73:"Caspar",
-          positionhjl73:"Goldford行政總裁",
+          positionhjl73:"Goldford 行政總裁",
 
+          namezhq74:"Chou Hung Chi",
+          positionzhq74:"Adjunct Associate Professor， National University of Singapore",
 
-        zzhz01:"Sponsorship",
+          namejco75:"JC Oliver",
+          positionjco75:"Global Chief Creative Officer at Unlockd",
+
+          nameliuyang76:"Leon",
+          positionliuyang76:"BITKAN Chairman",
+
+          nameAdel77:"Adel",
+          positionAdel77:"ATN Co-Founder",
+
+          namedingyuan78:"Yuan ding",
+          positiondingyuan78:"Chief Analyst of  Huobi",
+
+          namezhouxun79:"Allen Zho",
+          positionzhouxun79:"CEO of EKT",
+
+          namezhaoqianjie80:"Denver Zhao",
+          positionzhaoqianjie80:"SVP of BTCC",
+
+          nameviachesbobok81:"Viacheslav Bobok",
+          positionviachesbobok81:"BitRent platform CEO",
+
+          nameczr82:"Monitor Chen",
+          positionczr82:"COO of Walton Chain",
+
+          zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
-          mtsy04:"Ticket Information",
-          pwsy05:"Media Cooperation",
+          mtsy04:"Media Cooperation",
+          pwsy05:"Ticket Information",
 
           tkaddr:"Grand Prince Hotel New Takanawa",
-          helpnav:"Guidelines for participation",
+          helpnav:"Guidelines",
+          helpGuides:"Guides for participants",
           qychEntrance:"Enterprise",
           grchEntrance:"Individual",
           mediacover:"Media",
           chqyfw:"Enterprise",
 
           hotelab:"Peripheral Hotel",
-          hoteltips:"Warm hint: the following is the hotel recommended by the sponsor. It is close to the conference center and is not responsible for the reservation. If you need to make a reservation, please contact your hotel, please understand it.Note: if there is a need for accommodation, please contact the hotel as soon as possible so as not to make any reservation for your ideal hotel.",
+          hoteltips:"Please kindly be noticed that the following hotel list is recommended by summit organizer according to the location convenience.  We do not responsible for accommodation services. Please contact hotel directly if you need make a room reservation.",
           hotelking01:"Grand Prince Hotel New Takanawa",
           hotelstar4:"Four star hotel",
           hotelstar3:"Three star hotel",
@@ -764,9 +833,15 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
 
-          namesupernova14:"Supernova",
-          positionsupernova14:"Supernova Chain Chairman of the Board , BKBT Co-founder",
+          namesupernova14:"Liang  Zeng",
+          positionsupernova14:"Supernova Chain Chairman of the Board ,\u000d\u000a BKBT Co-founder",
 
+          citymacau:"Macau",
+          citytokyo:"Tokyo",
+          citylsals:"Los Angeles",
+          cityhongkong:"Hong Kong",
+          citydubai:"Dubai",
+          cityBangkok:"Bangkok",
 
       },
       jap: {
@@ -824,6 +899,8 @@
         bzzt46: "標準ブース",
         wixz47: "VIPパスポート",
         jeeg48: "価格",
+        bzzws40: "標準ブースで商人を募集する",
+        unitzhang: " ",
 
         dcqd50: "来賓受付",
         dhks51: "大会開始",
@@ -857,6 +934,7 @@
 
         cyqy75: "参加合作のスポンサーは以下の権益を獲得できます。",
         helpnav:"参会ガイド",
+        helpGuides:"参会ガイド",
         tkaddr:"グランドプリンスホテル新高輪",
         grchEntrance:"個人が出席",
         qychEntrance:"企業の参加",
@@ -887,6 +965,13 @@
 
         citysh: "上海駅",
         citymacau: "マカオ駅",
+
+          citymacau:"マカオ",
+          citytokyo:"東京",
+          citylsals:"ロサンゼルス",
+          cityhongkong:"香港",
+          citydubai:"ドバイ",
+          cityBangkok:"バンコク",
       }
     },
     dom: {

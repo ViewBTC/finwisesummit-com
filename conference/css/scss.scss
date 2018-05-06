@@ -56,6 +56,19 @@ body{
 		}
 	}
 }
+
+//wap style begin
+
+//.wap-show,
+ .zhlang .zhshow, .otherlang  .enshow{
+	//display: block !important;
+	display: inline-block !important;
+}
+//.pc-hide,
+.zhlang .enshow, .otherlang  .zhshow{
+	display: none !important;
+}
+
 .co-sponsor-wrap{
 	.show-allimg {
 		height: 575px;
@@ -136,12 +149,14 @@ body{
 		//transition: all .4s ease;
 		position: fixed;
 		background: #0D0D0D;
+		//background: rgba(13, 13, 13, 0.95);
 		min-height: 70px;
 		height: 70px;
 
 		& .navigation-menu > li > a {
 			//line-height: 70px;
 			padding: 0 20px;
+			text-transform: uppercase;
 			//line-height: 55px;
 			//padding-left: 15px;
 			//padding-right: 15px;
@@ -735,7 +750,20 @@ body{
 			width: 45px !important;
 			//width: 4.5%;
 		}
+		.otherlang{
+			.time-historywrap{
 
+				.dl-tbox{
+					&.last-actbox{
+						//width: 4.5% !important;
+						width: 85px !important;
+						& .line-c{
+							display: none;
+						}
+					}
+				}
+			}
+		}
 
 		//help page
 		.nav-tabs>li>a, .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
@@ -1853,8 +1881,8 @@ body{
 
 		//about wap
 		.slideBox{
-			height: 160px !important;
-			line-height: 160px !important;
+			height: 130px !important;
+			line-height: 130px !important;
 		}
 		.plan-wrap .plan-img {
 			//margin: 50px 0 50px !important;
@@ -2037,6 +2065,15 @@ body{
 		//.city-lj.tr-date {
 		//	margin: 15px 10px 10px 8px !important;
 		//}
+
+
+		.about-deswrap.container .team-bbox {
+			height: auto !important;
+			.foundername{
+				padding-bottom: 12px;
+			}
+		}
+
 
 	}
 
@@ -3621,16 +3658,17 @@ body{
 	text-align: center;
 
 
-	height: 260px;
+	height: 230px;
 	display: table-cell;
 	vertical-align: middle;
 	margin: 0 auto;
 	text-align: center;
 
 
+
 	.slideBoxi{
 		width: 1140px;
-		height: 260px;
+		height: 230px;
 		display: table-cell !important;
 		vertical-align: middle;
 		//width: 100%;
@@ -3914,6 +3952,7 @@ body{
 	//margin-top: 50px;
 	width: 100%;
 	display: inline-block;
+	margin-top: 50px;
 	//display: inline-flex;
 	.dl-tbox{
 		//border-bottom: 4px solid #FFFFFF;
@@ -3958,7 +3997,10 @@ body{
 		&.last-actbox{
 			//width: 4.5% !important;
 		}
+
 	}
+
+
 	.ht-con{
 		position: absolute;
 		top: 0;
@@ -4310,7 +4352,7 @@ body{
 
 	.slideBox .slideBoxi {
 
-		height: 160px !important;
+		height: 130px !important;
 
 	}
 
@@ -4363,6 +4405,11 @@ body{
 
 	.visa-tips {
 		font-size: 12px !important;
+	}
+
+	.time-historywrap{
+
+		margin-top: 20px;
 	}
 }
 

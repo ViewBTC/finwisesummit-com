@@ -54,6 +54,12 @@ body {
     .otherlang .show-ft.active .col-md-2 {
       display: block !important; }
 
+.zhlang .zhshow, .otherlang .enshow {
+  display: inline-block !important; }
+
+.zhlang .enshow, .otherlang .zhshow {
+  display: none !important; }
+
 .co-sponsor-wrap .show-allimg {
   height: 575px;
   overflow: hidden; }
@@ -100,7 +106,8 @@ body {
   min-height: 70px;
   height: 70px; }
   #topnav .navigation-menu > li > a {
-    padding: 0 20px; }
+    padding: 0 20px;
+    text-transform: uppercase; }
   #topnav .logo {
     padding: 0; }
 
@@ -403,6 +410,11 @@ body {
 
   .time-historywrap .dl-tbox.last-actbox {
     width: 45px !important; }
+
+  .otherlang .time-historywrap .dl-tbox.last-actbox {
+    width: 85px !important; }
+    .otherlang .time-historywrap .dl-tbox.last-actbox .line-c {
+      display: none; }
 
   .nav-tabs > li > a, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
     width: 275px;
@@ -935,8 +947,8 @@ body {
     margin: 5px 0 10px 0; }
 
   .slideBox {
-    height: 160px !important;
-    line-height: 160px !important; }
+    height: 130px !important;
+    line-height: 130px !important; }
 
   .plan-wrap .plan-img {
     width: 80% !important; }
@@ -1007,7 +1019,12 @@ body {
     font-size: 14px; }
 
   .time-historywrap .tr-addr {
-    font-size: 14px !important; } }
+    font-size: 14px !important; }
+
+  .about-deswrap.container .team-bbox {
+    height: auto !important; }
+    .about-deswrap.container .team-bbox .foundername {
+      padding-bottom: 12px; } }
 .tiketsex {
   height: 260px;
   overflow: hidden; }
@@ -1781,14 +1798,14 @@ body {
 .slideBox {
   height: 260px;
   text-align: center;
-  height: 260px;
+  height: 230px;
   display: table-cell;
   vertical-align: middle;
   margin: 0 auto;
   text-align: center; }
   .slideBox .slideBoxi {
     width: 1140px;
-    height: 260px;
+    height: 230px;
     display: table-cell !important;
     vertical-align: middle;
     text-align: center;
@@ -1912,7 +1929,8 @@ body {
 
 .time-historywrap {
   width: 100%;
-  display: inline-block; }
+  display: inline-block;
+  margin-top: 50px; }
   .time-historywrap .dl-tbox {
     width: 16.67%;
     display: inline-block;
@@ -2099,7 +2117,7 @@ body {
       height: 50px !important; } }
 @media (max-width: 415px) {
   .slideBox .slideBoxi {
-    height: 160px !important; }
+    height: 130px !important; }
 
   .time-historywrap .ht-con {
     left: -10px !important; }
@@ -2128,7 +2146,10 @@ body {
     margin: 50px 35px 15px !important; }
 
   .visa-tips {
-    font-size: 12px !important; } }
+    font-size: 12px !important; }
+
+  .time-historywrap {
+    margin-top: 20px; } }
 .visa-body {
   background: #fff; }
   .visa-body .visa-tips {
