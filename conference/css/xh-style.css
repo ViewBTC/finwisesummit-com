@@ -1346,6 +1346,7 @@ h3.page-title span {
   }
 }
 
+
 @media (max-width: 768px){
 
   /*lang*/
@@ -1429,7 +1430,12 @@ h3.page-title span {
     margin: 0 auto;
   }
 }
-
+@media (max-width: 415px){
+  .guest-item .col-md-2 {
+    height: 185px;
+    padding: 4px;
+  }
+}
 @media only screen and (min-width: 300px) and (max-width: 575px) {
   .data-item .col-md-1{
     width: 50%;

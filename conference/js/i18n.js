@@ -47,7 +47,7 @@
         wechatnum: " 微信公众号",
         sponsorshipct: " 赞助联系人",
         citysh: " 上海站",
-        citymacau: " 澳门站",
+        citymacaustation: "澳门站",
 
 
         qqgs16: "全球区块链公司",
@@ -383,6 +383,20 @@
           nameczr82:"陈樟荣",
           positionczr82:"沃尔顿首席运营官",
 
+          namezkl83:"郑凯丽",
+          positionzkl83:"弗雷尔链 CMO",
+
+          namedc84:"邓柯",
+          positiondc84:"BitUN公司执行董事，Higgs Block 集团董事长",
+
+          namestormz85:"Storm Zhang",
+          positionstormz85:"InterValue核心架构师",
+
+          namelyq86:"连炜蔃",
+          positionlyq86:"Singapore CEO",
+
+          namekc87:"Keda Che",
+          positionkc87:"Universal Labs的创始人",
 
 
           zzhz01:"赞助合作",
@@ -465,7 +479,7 @@
         wechatnum: " Wechat",
         sponsorshipct: "Sponsorship Contact",
         citysh: " ShangHai Station",
-        citymacau: " Macau Station",
+        citymacaustation: " Macau Station",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -797,6 +811,22 @@
 
           nameczr82:"Monitor Chen",
           positionczr82:"COO of Walton Chain",
+
+          namezkl83:"Kaili Zheng",
+          positionzkl83:"CMO of Freyr",
+
+          namedc84:"Ken Dean",
+          positiondc84:"BitUN，Higgs Block Chairman",
+
+          namestormz85:"Storm Zhang",
+          positionstormz85:"Core Architect of InterValue",
+
+          namelyq86:"Anndy Lian",
+          positionlyq86:"Singapore CEO",
+
+          namekc87:"Keda Che",
+          positionkc87:"founder of Universal Labs",
+
 
           zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
