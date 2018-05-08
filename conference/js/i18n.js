@@ -401,6 +401,9 @@
           namezz88:"庄重",
           positionzz88:"全球最大矿池BTC.com负责人",
 
+          namecq89:"陈庆",
+          positioncq89:"Higgs Block 集团CEO",
+
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
           hwhz03:"海外合作",
@@ -832,7 +835,8 @@
           namezz88:"Jason",
           positionzz88:"Director of the No.1 Bitcoin mining pool BTC.com",
 
-
+          namecq89:"Ms. Karen Chen",
+          positioncq89:"CEO of Higgs Block",
 
           zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
