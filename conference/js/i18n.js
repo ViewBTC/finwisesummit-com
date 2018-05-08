@@ -398,6 +398,8 @@
           namekc87:"Keda Che",
           positionkc87:"Universal Labs的创始人",
 
+          namezz88:"庄重",
+          positionzz88:"全球最大矿池BTC.com负责人",
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -826,6 +828,10 @@
 
           namekc87:"Keda Che",
           positionkc87:"founder of Universal Labs",
+
+          namezz88:"Jason",
+          positionzz88:"Director of the No.1 Bitcoin mining pool BTC.com",
+
 
 
           zzhz01:"Sponsorship",
