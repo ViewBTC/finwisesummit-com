@@ -293,7 +293,7 @@
           positionpzx52:"国际区块链研究会&量子金创始人",
 
           namely53:"粱羽",
-          positionly53:"星链StarChain投资人、開拍網創始人&CEO",
+          positionly53:"星链StarChain投资人、开拍网创始人&CEO、竞创资本合伙人",
 
           namehm54:"Hassan Miah",
           positionhm54:"CTO and Co-Founder of Robin8",
@@ -403,6 +403,17 @@
 
           namecq89:"陈庆",
           positioncq89:"Higgs Block 集团CEO",
+
+          nameDenis90:"Denis",
+          positionDenis90:"Ecosystem Developer",
+
+          namesyj91:"孙颖俊",
+          positionsyj91:"ONEROOT CEO Tony Sun",
+
+          nameericyao92:"Eric Yao",
+          positionericyao92:"CTO of i-House.com (IHT)",
+
+
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -838,6 +849,17 @@
           namecq89:"Ms. Karen Chen",
           positioncq89:"CEO of Higgs Block",
 
+          nameDenis90:"Denis",
+          positionDenis90:"Ecosystem Developer",
+
+          namesyj91:"Tony Sun ",
+          positionsyj91:"ONEROOT CEO",
+
+          nameericyao92:"Eric Yao",
+          positionericyao92:"CTO of i-House.com (IHT)",
+
+
+
           zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
@@ -873,8 +895,8 @@
           hoteladdrex:"108-0074 东京都, Minato-ku Takanawa 3-13-3",
           hotelexdistance:"1.5 kilometers from the meeting, 10 minutes to the meeting",
 
-          namesupernova14:"Liang  Zeng",
-          positionsupernova14:"Supernova Chain Chairman of the Board ,\u000d\u000a BKBT Co-founder",
+          namesupernova14:"Liang Zeng",
+          positionsupernova14:"Supernova Chain Executive Chairman BeeNews CO-founder",
 
           citymacau:"Macau",
           citytokyo:"Tokyo",

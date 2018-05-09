@@ -1640,7 +1640,10 @@ body {
     padding: 0 105px;
     width: 60%; }
   .footer-spewrap .fcon-wrap {
-    float: left; } }
+    float: left; }
+
+  .guest-item .col-md-2 {
+    height: 265px; } }
 .cooperation-wrap {
   background: url(../images/finwise-tokyo/cbg.png);
   width: 100%;
