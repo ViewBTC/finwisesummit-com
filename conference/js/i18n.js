@@ -413,6 +413,26 @@
           nameericyao92:"Eric Yao",
           positionericyao92:"CTO of i-House.com (IHT)",
 
+          nameqzl93:"秦中陵",
+          positionqzl93:"日中AI·IoT联盟执行委员长/爱立信日本新技术开发部Director",
+
+          namezj94:"周金博士",
+          positionzj94:"华晋国际AI事业部本部长",
+
+          namedh95:"杜海",
+          positiondh95:"火币网区块链研究院数据负责人",
+
+          namehz96:"韩铮",
+          positionhz96:"AAC商务总监",
+
+          namepeteyu97:"Peter Yu",
+          positionpeteyu97:"CECECOCON首席执行官",
+
+          namebs97:"沈冰",
+          positionbs97:"TBT交易所CEO /三点钟社群西安站长/区块链项目天使投资人",
+
+
+
 
 
           zzhz01:"赞助合作",
@@ -590,7 +610,7 @@
           positionwbs02:"Blockchain Joint Development Organization Advisor, Special-term Professor of the Graduate School, Chinese Academy of Social Sciences",
           namezyh03:"Jack Zhang",
           positionzyh03:"Head of Lightning BTC China",
-          namelf04:"Fei Liu",
+          namelf04:"MIKE Liu",
           positionlf04:"Operations Director of Huobipro",
           namelj05:"Jin liu",
           positionlj05:"President of Japan-China AI.IoT Association",
@@ -857,6 +877,25 @@
 
           nameericyao92:"Eric Yao",
           positionericyao92:"CTO of i-House.com (IHT)",
+
+
+          nameqzl93:"Zhongling Qin",
+          positionqzl93:"President of Japan-China AI.IoT Association/New technology RDC Director of Ericsson",
+
+          namezj94:"Jin Zhou",
+          positionzj94:"International AI Minister of Hua jinlu",
+
+          namedh95:"Hai Du",
+          positiondh95:"Chief Data Officer of Huobi",
+
+          namehz96:"John Han",
+          positionhz96:"Business Development Director",
+
+          namepeteyu97:"Peter Yu",
+          positionpeteyu97:"CEO CECECOCON of CyteCoin",
+
+          namebs97:"Bing Shen",
+          positionbs97:"CEO of TBT/Blackchain Angel Investor",
 
 
 
