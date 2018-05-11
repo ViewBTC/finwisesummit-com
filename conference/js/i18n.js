@@ -426,7 +426,7 @@
           positionhz96:"AAC商务总监",
 
           namepeteyu97:"Peter Yu",
-          positionpeteyu97:"CECECOCON首席执行官",
+          positionpeteyu97:"CEO 首席执行官",
 
           namebs97:"沈冰",
           positionbs97:"TBT交易所CEO /三点钟社群西安站长/区块链项目天使投资人",
@@ -892,7 +892,7 @@
           positionhz96:"Business Development Director",
 
           namepeteyu97:"Peter Yu",
-          positionpeteyu97:"CEO CECECOCON of CyteCoin",
+          positionpeteyu97:"CEO of CyteCoin",
 
           namebs97:"Bing Shen",
           positionbs97:"CEO of TBT/Blackchain Angel Investor",
