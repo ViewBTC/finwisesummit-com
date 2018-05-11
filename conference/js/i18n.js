@@ -431,8 +431,17 @@
           namebs97:"沈冰",
           positionbs97:"TBT交易所CEO /三点钟社群西安站长/区块链项目天使投资人",
 
+          namezzh98:"赵子惠",
+          positionzzh98:"PUNCPH亚洲区发起人",
 
+          namezll99:"张李楠",
+          positionzll99:"OEX CEO",
 
+          namesmw100:"孙明伟",
+          positionsmw100:"18区联合创始人",
+
+          namejgp101:"姜光璞",
+          positionjgp101:"黄金链项目运营经理",
 
 
           zzhz01:"赞助合作",
@@ -897,9 +906,21 @@
           namebs97:"Bing Shen",
           positionbs97:"CEO of TBT/Blackchain Angel Investor",
 
+          namezzh98:"JONNA ZHAO",
+          positionzzh98:"Asia Founder of PUNCPH ",
+
+          namezll99:"Linan Zhang",
+          positionzll99:"OEX CEO ",
+          
+          namesmw100:"Mingwei Sun",
+          positionsmw100:"Co-Founder of 18",
+
+          namejgp101:"William Jiang ",
+          positionjgp101:"Project Operations Manager of Zengold",
 
 
-          zzhz01:"Sponsorship",
+
+        zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
           mtsy04:"Media Cooperation",
