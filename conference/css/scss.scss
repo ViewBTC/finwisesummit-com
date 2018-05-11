@@ -4499,29 +4499,38 @@ body{
 		//font-weight: lighter;
 		width: 100%;
 		text-align: center;
-		outline: 1px solid #333;
+		//outline: 1px solid #333;
 		margin-bottom: 20px;
-		.t-ftime{
+		.t-ftime, .ht-cgray{
 			background: #b9b9b9;
 			color: #000;
 			font-size: 14px;
 		}
 		td{
-			border: 1px solid #ccc;
+			//border: 1px solid #ccc;
 			text-align: left;
 			padding: 5px 10px;
 			font-size: 14px;
 			&:nth-child(1){
 				//background: #b9b9b9;
-				width: 45%;
+				//width: 45%;
+				//width: 45%;
 			}
 		}
 	}
-	.age-thead{
+	.ht-cgray{
+		background: #b9b9b9;
+		color: #000;
+		font-size: 14px;
+		td{
+			font-weight: 700;
+		}
+	}
+	.age-thead, .ht-cooom{
 		font-size: 14px;
 		background: #444;
 		color: #FFFFFF;
-
+		text-align: center;
 		height: 32px;
 		line-height:  32px;
 	th{

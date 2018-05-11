@@ -2207,26 +2207,29 @@ body {
   .agenda-wrap .age-tbox {
     width: 100%;
     text-align: center;
-    outline: 1px solid #333;
     margin-bottom: 20px; }
-    .agenda-wrap .age-tbox .t-ftime {
+    .agenda-wrap .age-tbox .t-ftime, .agenda-wrap .age-tbox .ht-cgray {
       background: #b9b9b9;
       color: #000;
       font-size: 14px; }
     .agenda-wrap .age-tbox td {
-      border: 1px solid #ccc;
       text-align: left;
       padding: 5px 10px;
       font-size: 14px; }
-      .agenda-wrap .age-tbox td:nth-child(1) {
-        width: 45%; }
-  .agenda-wrap .age-thead {
+  .agenda-wrap .ht-cgray {
+    background: #b9b9b9;
+    color: #000;
+    font-size: 14px; }
+    .agenda-wrap .ht-cgray td {
+      font-weight: 700; }
+  .agenda-wrap .age-thead, .agenda-wrap .ht-cooom {
     font-size: 14px;
     background: #444;
     color: #FFFFFF;
+    text-align: center;
     height: 32px;
     line-height: 32px; }
-    .agenda-wrap .age-thead th {
+    .agenda-wrap .age-thead th, .agenda-wrap .ht-cooom th {
       padding: 0 10px; }
 
 body.zhlang .hide.wechat-box {
