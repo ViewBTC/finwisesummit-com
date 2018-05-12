@@ -498,6 +498,8 @@
 
 
 
+          namemeetingdate521:"第一天（2018年5月21日）",
+          namemeetingdate522:"第二天（2018年5月22日）",
 
           namehcA:"会场Ａ",
           namehcB:"会场Ｂ",
@@ -532,14 +534,14 @@
           nameVincentliang:"梁羽 | 星链StarChain投资人、開拍網創始人&CEO",
           nameAllenZhoupspeakct:"搭建一个可大规模商用的区块链开发平台",
           nameJackieWu:"無極 | 华迎控股集团 董事长",
-          nameDennisSarkar:"Dennis Sarkar  |  Genexi Ecosystem Developer",
+          nameDennisSarkar:"Dennis Sarkar  |  GENEXI生态系统开发者",
 
           nameblockchaindrive:"解构 区块链+驱动的商业模式创新",
 
           namezhoujin:"周金 | 人工智能工学博士，華晋国际AI事业部 本部长",
           nameblockchaintech:"人工智能与区块链技术",
 
-          nameKedaChe:"Keda Che | Universal Labs Founder",
+          nameKedaChe:"Keda Che | 万能实验室创始人",
           nameModeratorren:"主持 - 任锦澔 | 国泰君安上海财富中心副总经理",
           nameZhonglingQin:"秦中陵 | 日中AI·IoT联盟执行委员长，爱立信日本新技术开发部Director",
 
@@ -554,7 +556,7 @@
           nameMonitorChen:"陈樟荣 | 沃尔顿链科技有限公司COO",
           nameKailiZheng:"郑凯丽 | 弗雷尔链 CMO",
           nameDavidYli:"李一灵 | Trinity创始人",
-          nameDavidYlisays:"Thoughts on Blockchain Gaming",
+          nameDavidYlisays:"关于B连锁游戏的思考",
           nameAnndyLian:"连炜蔃 | Linfinity 新加坡CEO",
           nameShenBing:"沈冰 |  TBT交易所CEO",
           nameLiufei:"刘飞 | 火币Pro运营总监",
@@ -569,7 +571,7 @@
           nameJialingLiu:"刘嘉陵（巨蟹） | 比特股理事会理事、比特创业营创始成员",
           nameJackZhang:"张银海 | Lighting BTC中国区负责人, 千家资本创始人",
           nameBlockchainlogic:"区块链投资逻辑",
-          nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
+          nameHowBLAI:"如何利用Basic链培育人工智能（AI）",
           nameAdelATN:"Adel | ATN联合创始人",
           nameStormZhang:"Storm Zhang |  InterValue 核心架构师",
           nameInterValueBL:"InterValue：构建下一代全球价值互联网的区块链4.0基础设施",
@@ -585,10 +587,7 @@
           nameEBCsp:"EBC演讲嘉宾",
           nameHyperPaysp:"HyperPay演讲嘉宾",
           nameXiaohanXu:"余晓菡 | DataKYC时链创始人",
-          namedipuliansp:"德扑链演讲嘉宾",
-          nameAVHsp:"AVH演讲嘉宾",
-          nameEBCsp:"EBC演讲嘉宾",
-          nameHyperPaysp:"HyperPay演讲嘉宾",
+
           nameModeratorKennyAu:"主持 - 區鍵禧 | LUXCHAIN联合创始人, 区块链及人工智能领域专栏作家",
           nameCharlesXue:"薛蛮子｜天使投资人",
           nameEricGu:"初夏虎｜ 维优CEO",
@@ -1093,12 +1092,14 @@
           citydubai:"Dubai",
           cityBangkok:"Bangkok",
 
+          namemeetingdate521:"Day 1 (May 21, 2018)",
+          namemeetingdate522:"Day 2 (May 22, 2018)",
 
           namehcA:"Conference Hall Ａ",
 
           namehcB:"Conference Hall Ｂ",
 
-          namezbzhc:"转播主会场",
+          namezbzhc:"Rebroadcast the main venue",
 
           nametime:"Time",
 
@@ -1197,9 +1198,9 @@
 
           nameZhangLiaoliao:"Zhang Liaoliao | Partner of gate.io",
 
-          nameBTCCHead:"BTCC交易所负责人",
+          nameBTCCHead:"BTCC Head of the exchange",
 
-          nameLiuHaidong:"Liu Haidong | Tulipex首席信息官",
+          nameLiuHaidong:"Liu Haidong | Tulipex CIO",
 
           nameFutureExchanges:"Future of exchanges",
 
@@ -1227,7 +1228,7 @@
 
           nameStormZhang:"Storm Zhang | InterValue Core Architect ",
 
-          nameInterValueBL:"InterValue：构建下一代全球价值互联网的区块链4.0基础设施",
+          nameInterValueBL:"InterValue：Building the next generation global value Internet block chain 4 infrastructure",
 
           nameJasonzhuang:"Jason | Director of the No.1 Bitcoin mining pool BTC.com",
 
@@ -1242,6 +1243,11 @@
           nameViacheslavBK:"Viacheslav Bobok | BitRent platform CEO",
 
           nameTonySun:"Tony Sun | ONEROOT CEO",
+
+          namedipuliansp:"DePuLian Guest speaker",
+          nameAVHsp:"AVH Guest speaker",
+          nameEBCsp:"EBC Guest speaker",
+          nameHyperPaysp:"HyperPay Guest speaker",
 
           nameXiaohanXu:"Xiaohan Xu | Co-founder of DataKYC",
           nameModeratorKennyAu:"Moderator - Kenny Au | Co-founder LUXCHAIN, Blockchain & AI Journalist",
@@ -1270,13 +1276,13 @@
 
           nameBlockchainRole:"The Role that Media Plays in Blockchain and Digital Currency Sector",
 
-          nameBlockchain3media:"区块链3.0时代的新媒体 — 智能信息流和数字货币价值发现平台",
+          nameBlockchain3media:"New media in the era of block chain 3 -- intelligent information flow and digital currency value discovery platform",
 
           nameKenDean:"Ken Dean | Executive Director of BitUN ",
 
-          nameocspeaker:"oc演讲嘉宾",
+          nameocspeaker:"oc Guest speaker",
 
-          nameosaspeaker:"osa演讲嘉宾",
+          nameosaspeaker:"osa Guest speaker",
 
           nameZhangTao:"Zhang Tao | Angel Investor, coinegg.com Co-founder",
 
