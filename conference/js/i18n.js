@@ -507,6 +507,7 @@
           namestheme:"演讲主题",
           nameAM:"上午",
           namePM:"下午",
+          nameyuanzhou:"圆桌",
           nameqdrc:"签到入场",
           namemeetingopen:"大会开始",
           nameRiconiinfo:"尤立 | FINWISE创始人兼执委会主席",
@@ -528,6 +529,7 @@
           namezhouhongqi:"周宏骐 | 新加坡国立大学教授, 北京大学国家发展研究院特聘教授",
           nameLianghongFei:"费良宏 |  亚马逊云首席云计算技术顾问",
           nameAllenZhou:"周迅 |  EKT通用积分CEO",
+          nameVincentliang:"梁羽 | 星链StarChain投资人、開拍網創始人&CEO",
           nameAllenZhoupspeakct:"搭建一个可大规模商用的区块链开发平台",
           nameJackieWu:"無極 | 华迎控股集团 董事长",
           nameDennisSarkar:"Dennis Sarkar  |  Genexi Ecosystem Developer",
@@ -548,72 +550,48 @@
           nameChenHaocto:"陈浩 | 元界CTO ",
           nameOKEXReserved:"OKEX Reserved",
           nameKarenChen:"陈庆 | Higgs Block 集团CEO",
-
           nameEricYao:"Eric Yao |  CTO of i-House.com (IHT)",
           nameMonitorChen:"陈樟荣 | 沃尔顿链科技有限公司COO",
-
           nameKailiZheng:"郑凯丽 | 弗雷尔链 CMO",
           nameDavidYli:"李一灵 | Trinity创始人",
-
-
           nameDavidYlisays:"Thoughts on Blockchain Gaming",
           nameAnndyLian:"连炜蔃 | Linfinity 新加坡CEO",
           nameShenBing:"沈冰 |  TBT交易所CEO",
           nameLiufei:"刘飞 | 火币Pro运营总监",
           nameZhangLiaoliao:"张了了 | gate.io合伙人",
-
           nameBTCCHead:"BTCC交易所负责人",
           namePunchRESERVED:"punch foundation RESERVED",
-
           nameLiuHaidong:"刘海东｜TULIPEX CIO",
           nameFutureExchanges:"交易所的未来",
-
-
           namePeterYu:"Peter Yu |  CyteCoin首席执行官",
           namecaohuining:"曹辉宁  | Usechain创始人&CEO",
-
           nameSelfBL:"全球唯一有共识算法革命的实名链",
           nameJialingLiu:"刘嘉陵（巨蟹） | 比特股理事会理事、比特创业营创始成员",
           nameJackZhang:"张银海 | Lighting BTC中国区负责人, 千家资本创始人",
-
           nameBlockchainlogic:"区块链投资逻辑",
           nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
           nameAdelATN:"Adel | ATN联合创始人",
           nameStormZhang:"Storm Zhang |  InterValue 核心架构师",
-
           nameInterValueBL:"InterValue：构建下一代全球价值互联网的区块链4.0基础设施",
           nameJasonzhuang:"庄重 | 全球最大矿池BTC.com负责人",
-
-          nameBTCCHead:"赵千捷 |  BTCC 高级副总裁  ",
+          nameBTCCHeadZhao:"赵千捷 |  BTCC 高级副总裁  ",
           nameHaiDu:"杜海 |  火币区块链研究院 数据负责人",
           nameblockchainmining:"区块链矿池和挖矿行业的未来",
           nameLeonLiu:"刘洋  |  BITKAN 董事长",
           nameViacheslavBK:"Viacheslav Bobok | BitRent首席执行官",
           nameTonySun:"孙颖俊 | ONEROOT首席执行官",
-
           namedipuliansp:"德扑链演讲嘉宾",
-
           nameAVHsp:"AVH演讲嘉宾",
-
           nameEBCsp:"EBC演讲嘉宾",
-
           nameHyperPaysp:"HyperPay演讲嘉宾",
-
-
-
           nameXiaohanXu:"余晓菡 | DataKYC时链创始人",
-
           namedipuliansp:"德扑链演讲嘉宾",
-
           nameAVHsp:"AVH演讲嘉宾",
           nameEBCsp:"EBC演讲嘉宾",
-
           nameHyperPaysp:"HyperPay演讲嘉宾",
           nameModeratorKennyAu:"主持 - 區鍵禧 | LUXCHAIN联合创始人, 区块链及人工智能领域专栏作家",
-
           nameCharlesXue:"薛蛮子｜天使投资人",
           nameEricGu:"初夏虎｜ 维优CEO",
-
           nameKarenChen:"陈庆 | Higgs Block 集团CEO",
           nameDigitalIdentity3:"数字身份和数字资产网络３.0时代",
           nameAngelaTong:"佟扬 | 金色财经合伙人",
@@ -638,47 +616,6 @@
           nameZeroGao:"高泽龙 | 国际区块链应用联合会副主席",
           nameModeratorchangxi:"主持 - 常梓 | FINWEX孵化器执行董事",
 
-
-
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
-
-          namePM:"下午",
-          namePM:"PM",
       },
 
 
@@ -1172,6 +1109,9 @@
           nameAM:"AM",
 
           namePM:"PM",
+
+          nameyuanzhou:"Panel",
+
           nameqdrc:"Registration",
 
           namemeetingopen:"Opening",
@@ -1205,6 +1145,9 @@
           namezhouhongqi:"Chou Hung Chi | Adjunct Associate Professor, National University of Singapore",
 
           nameLianghongFei:"Lianghong Fei | Chief Technical Evangelist, Amazon Web Services",
+
+          nameVincentliang:"Vincent Leung | StarChain Investor、KAIPAI Founder＆CEO",
+
 
           nameAllenZhou:"Allen Zhou | EKT CEO ",
 
@@ -1277,13 +1220,10 @@
           nameJackZhang:"Jack Zhang | Head of Lighting BTC China, Founder of Chain+",
 
           nameBlockchainlogic:"Blockchain investment logic",
-
-
+          
           nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
 
-
           nameAdelATN:"Adel | ATN Co-Founder",
-
 
           nameStormZhang:"Storm Zhang | InterValue Core Architect ",
 
@@ -1291,7 +1231,7 @@
 
           nameJasonzhuang:"Jason | Director of the No.1 Bitcoin mining pool BTC.com",
 
-          nameBTCCHead:"Denver Zhao |  SVP of BTCC ",
+          nameBTCCHeadZhao:"Denver Zhao |  SVP of BTCC ",
 
           nameHaiDu:"Hai Du  |  Chief Data Officer of Huobi Research",
 
@@ -1314,7 +1254,6 @@
 
           nameDigitalIdentity3:"Digital Identity and Digital Assets Disruption In Web 3.0",
 
-
           nameAngelaTong:"Angela Tong | Partner of Jinse Finance",
 
           nameLiangZeng :"Liang Zeng | Supernova Chain Chairman, BeeNews Co-founder, Former VP of Microsoft GC, Baidu Nuomi CEO",
@@ -1323,10 +1262,7 @@
 
           nameYeZuyan:"Ye Zuyan | Co-founder & COO of Chainfor",
 
-
           nameJohnHan:"John Han  |  Business Development Director",
-
-
 
           nameAngelaTongModerator:"Moderator - Angela Tong | Partner of Jinse Finance",
 
@@ -1350,20 +1286,13 @@
 
           nameModeratorchangxi:"Moderator - Ted Chang | Managing Director of FINWEXLABS",
 
-
           nameZeroGao:"Zero Gao | Vice Chairman of IBAF",
-
 
           nameSimonJE:"Simon JE | CEO of Galaxy Treasure Financial Group Holdings Limited",
 
-
-
           nameYiqunCai:"Yiqun Cai | Founder and Chairman of MAS Capital,Chief Capitalist of Metaverse Foundation",
 
-
-
           nameCasparHuang:"Caspar  | Goldford Chief executive",
-
 
           nameblockchainchange:"The change of block chain technology to the future finance",
       },
