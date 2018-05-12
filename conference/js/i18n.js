@@ -187,7 +187,7 @@
           positionriconi17:"纷智联合创始人兼执委会主席",
 
           namehjp18:"胡杰鹏",
-          positionhjp18:"量子金亚洲市场负责人",
+          positionhjp18:"香港区块链金融总会联合发起人&量子金市场顾问",
 
           namelqw19:"林琪武",
           positionlqw19:"知产链IPChain联合创始人",
@@ -443,6 +443,9 @@
           namejgp101:"姜光璞",
           positionjgp101:"黄金链项目运营经理",
 
+          nameSIMON102:"余駿劻",
+          positionSIMON102:"香港国际区块链金融总会创始人",
+
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -490,6 +493,192 @@
           citydubai:"迪拜",
           cityBangkok:"曼谷",
 
+
+
+
+
+
+
+          namehcA:"会场Ａ",
+          namehcB:"会场Ｂ",
+          namespeakers:"嘉宾",
+          namezbzhc:"转播主会场",
+          nametime:"时间",
+          namestheme:"演讲主题",
+          nameAM:"上午",
+          namePM:"下午",
+          nameqdrc:"签到入场",
+          namemeetingopen:"大会开始",
+          nameRiconiinfo:"尤立 | FINWISE创始人兼执委会主席",
+          namewelSpeech:"大会揭幕致辞",
+          nameJCOliverinfo:"JC Oliver | Unlockd全球首席创意官，前微软全球创新总监",
+          namewangbinshenginfo:"王彬生｜区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
+          nameNicWatsoninfo:"主持－Nic Watson | Naseba董事总经理",
+          nameAhmedinfo:"柏亚德 | 维优迪拜董事总经理",
+          nameHowfinancialdes:"金融科技浪潮如何引领全球企业发展",
+
+
+          nameModeratorRiconi:"主持 - 尤立 | FINWISE创始人兼执委会主席",
+          nameliujin:"刘劲 |  日中AI·IoT产业联盟会长",
+
+          nameAllenLiu:"刘彦燊  | Colony Capital柯罗尼资本亚太区董事总经理 WE+创始人兼首席执行官",
+          nameFerdiSong:"宋斐 | 海朴际诚执行合伙人、前摩根大通亚太区董事总经理",
+          nameRichardWang:"王岳华 | 德丰杰龙脉创新基金 合伙人",
+          nameBlockchainsv:"区块链和金融服务的融合",
+          namezhouhongqi:"周宏骐 | 新加坡国立大学教授, 北京大学国家发展研究院特聘教授",
+          nameLianghongFei:"费良宏 |  亚马逊云首席云计算技术顾问",
+          nameAllenZhou:"周迅 |  EKT通用积分CEO",
+          nameAllenZhoupspeakct:"搭建一个可大规模商用的区块链开发平台",
+          nameJackieWu:"無極 | 华迎控股集团 董事长",
+          nameDennisSarkar:"Dennis Sarkar  |  Genexi Ecosystem Developer",
+
+          nameblockchaindrive:"解构 区块链+驱动的商业模式创新",
+
+          namezhoujin:"周金 | 人工智能工学博士，華晋国际AI事业部 本部长",
+          nameblockchaintech:"人工智能与区块链技术",
+
+          nameKedaChe:"Keda Che | Universal Labs Founder",
+          nameModeratorren:"主持 - 任锦澔 | 国泰君安上海财富中心副总经理",
+          nameZhonglingQin:"秦中陵 | 日中AI·IoT联盟执行委员长，爱立信日本新技术开发部Director",
+
+          nameYuanDing:"丁元 | 火币研究院首席分析师",
+          nameblockchainyinyong:"区块链技术的落地应用",
+
+
+          nameChenHaocto:"陈浩 | 元界CTO ",
+          nameOKEXReserved:"OKEX Reserved",
+          nameKarenChen:"陈庆 | Higgs Block 集团CEO",
+
+          nameEricYao:"Eric Yao |  CTO of i-House.com (IHT)",
+          nameMonitorChen:"陈樟荣 | 沃尔顿链科技有限公司COO",
+
+          nameKailiZheng:"郑凯丽 | 弗雷尔链 CMO",
+          nameDavidYli:"李一灵 | Trinity创始人",
+
+
+          nameDavidYlisays:"Thoughts on Blockchain Gaming",
+          nameAnndyLian:"连炜蔃 | Linfinity 新加坡CEO",
+          nameShenBing:"沈冰 |  TBT交易所CEO",
+          nameLiufei:"刘飞 | 火币Pro运营总监",
+          nameZhangLiaoliao:"张了了 | gate.io合伙人",
+
+          nameBTCCHead:"BTCC交易所负责人",
+          namePunchRESERVED:"punch foundation RESERVED",
+
+          nameLiuHaidong:"刘海东｜TULIPEX CIO",
+          nameFutureExchanges:"交易所的未来",
+
+
+          namePeterYu:"Peter Yu |  CyteCoin首席执行官",
+          namecaohuining:"曹辉宁  | Usechain创始人&CEO",
+
+          nameSelfBL:"全球唯一有共识算法革命的实名链",
+          nameJialingLiu:"刘嘉陵（巨蟹） | 比特股理事会理事、比特创业营创始成员",
+          nameJackZhang:"张银海 | Lighting BTC中国区负责人, 千家资本创始人",
+
+          nameBlockchainlogic:"区块链投资逻辑",
+          nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
+          nameAdelATN:"Adel | ATN联合创始人",
+          nameStormZhang:"Storm Zhang |  InterValue 核心架构师",
+
+          nameInterValueBL:"InterValue：构建下一代全球价值互联网的区块链4.0基础设施",
+          nameJasonzhuang:"庄重 | 全球最大矿池BTC.com负责人",
+
+          nameBTCCHead:"赵千捷 |  BTCC 高级副总裁  ",
+          nameHaiDu:"杜海 |  火币区块链研究院 数据负责人",
+          nameblockchainmining:"区块链矿池和挖矿行业的未来",
+          nameLeonLiu:"刘洋  |  BITKAN 董事长",
+          nameViacheslavBK:"Viacheslav Bobok | BitRent首席执行官",
+          nameTonySun:"孙颖俊 | ONEROOT首席执行官",
+
+          namedipuliansp:"德扑链演讲嘉宾",
+
+          nameAVHsp:"AVH演讲嘉宾",
+
+          nameEBCsp:"EBC演讲嘉宾",
+
+          nameHyperPaysp:"HyperPay演讲嘉宾",
+
+
+
+          nameXiaohanXu:"余晓菡 | DataKYC时链创始人",
+
+          namedipuliansp:"德扑链演讲嘉宾",
+
+          nameAVHsp:"AVH演讲嘉宾",
+          nameEBCsp:"EBC演讲嘉宾",
+
+          nameHyperPaysp:"HyperPay演讲嘉宾",
+          nameModeratorKennyAu:"主持 - 區鍵禧 | LUXCHAIN联合创始人, 区块链及人工智能领域专栏作家",
+
+          nameCharlesXue:"薛蛮子｜天使投资人",
+          nameEricGu:"初夏虎｜ 维优CEO",
+
+          nameKarenChen:"陈庆 | Higgs Block 集团CEO",
+          nameDigitalIdentity3:"数字身份和数字资产网络３.0时代",
+          nameAngelaTong:"佟扬 | 金色财经合伙人",
+          nameLiangZeng:"曾良 | Supernova Chain董事长、币快报联合创始人、前微软大中华区副总裁、百度糯米CEO",
+          nameEthanYu:"鱼文辉 | CoinVoice创始人",
+          nameYeZuyan:"叶祖研 | 链向财经联合创始人兼COO",
+          nameJohnHan:"韩铮  |  AAC商务总监",
+          nameAngelaTongModerator:"主持 - 佟扬 | 金色财经合伙人",
+          nameLongdns:"龙典 | 火讯财经创始人",
+          nameBlockchainRole:"区块链媒体在数字时代的角色定位",
+          nameBlockchain3media:"区块链3.0时代的新媒体 — 智能信息流和数字货币价值发现平台",
+          nameKenDean:"邓柯 |  BitUN公司执行董事",
+          nameocspeaker:"oc演讲嘉宾",
+          nameosaspeaker:"osa演讲嘉宾",
+          nameZhangTao:"张涛 | 天使投资人，coinegg.com 创始合伙人",
+          nameHugoHu:"胡园泉 | BEPAL首席执行官",
+          nameZongxinPeng:"彭宗欣 | 量子金创始人",
+          nameSimonJE:"余駿劻  | 行政總裁 富盈金融集團有限公司",
+          nameYiqunCai:"蔡逸群 |  名资金融科技、名资股份创始人、董事长、元界基金会首席资本家",
+          nameCasparHuang:"黃俊瑯 | Goldford 行政總裁",
+          nameblockchainchange:"区块链技术对未来金融的变革",
+          nameZeroGao:"高泽龙 | 国际区块链应用联合会副主席",
+          nameModeratorchangxi:"主持 - 常梓 | FINWEX孵化器执行董事",
+
+
+
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
+
+          namePM:"下午",
+          namePM:"PM",
       },
 
 
@@ -918,6 +1107,8 @@
           namejgp101:"William Jiang ",
           positionjgp101:"Project Operations Manager of Zengold",
 
+          nameSIMON102:"SIMON JE",
+          positionSIMON102:"HK international blockchain&financial association",
 
 
         zzhz01:"Sponsorship",
@@ -965,6 +1156,216 @@
           citydubai:"Dubai",
           cityBangkok:"Bangkok",
 
+
+          namehcA:"Conference Hall Ａ",
+
+          namehcB:"Conference Hall Ｂ",
+
+          namezbzhc:"转播主会场",
+
+          nametime:"Time",
+
+          namespeakers:"Speaker",
+
+          namestheme:"Topic",
+
+          nameAM:"AM",
+
+          namePM:"PM",
+          nameqdrc:"Registration",
+
+          namemeetingopen:"Opening",
+
+          nameRiconiinfo:"Riconi You | Founder and Executive Chairman of FINWISE",
+
+          namewelSpeech:" Welcome Speech",
+
+          nameJCOliverinfo:"JC Oliver | Global Chief Creative Officer at Unlockd, Former Global Head of Innovation from Microsoft",
+
+          namewangbinshenginfo:"Wang Binsheng | Advisor of Blockchain Joint Development Organization, Professor of Graduate School of China Academy of Social Sciences",
+
+          nameNicWatsoninfo:"Moderator: Nic Watson | Managing Director of Naseba",
+
+          nameAhmedinfo:"Ahmed Al-Balaghi | Managing Director of Viewfin Dubai",
+
+          nameHowfinancialdes:"How financial science and technology tide leads the development of global enterprises",
+
+          nameModeratorRiconi:"Moderator - Riconi You | Founder and Executive Chairman of FINWISE",
+
+          nameliujin:"Jin liu  |  President of Japan-China AI.IoT Association ",
+
+          nameAllenLiu:"Allen Lau | Managing Director of Coloney Capital, Founder and CEO of WE+ ",
+
+          nameFerdiSong:"Ferdi Song | Co-founder of Haipujicheng Fund, Former Managing Director of JP Morgan Chase Asia Division",
+
+          nameRichardWang:"Richard Wang | Partner of DFJ DragonFund",
+
+          nameBlockchainsv:"Blockchain and financial services",
+
+          namezhouhongqi:"Chou Hung Chi | Adjunct Associate Professor, National University of Singapore",
+
+          nameLianghongFei:"Lianghong Fei | Chief Technical Evangelist, Amazon Web Services",
+
+          nameAllenZhou:"Allen Zhou | EKT CEO ",
+
+          nameAllenZhoupspeakct:"Creating a scalable, commercial-grade blockchain programming platform ",
+
+          nameJackieWu:"Jackie Wu | Chairman of HuaYing Holding Group",
+
+          nameDennisSarkar:"Dennis Sarkar  |  Genexi Ecosystem Developer",
+
+          nameblockchaindrive:"Business model innovation of deconstructing block chain + drive",
+
+          namezhoujin:"Dr. Zhou Jin | PhD A.I., Director of Hua Jin International A.I. Section",
+
+          nameblockchaintech:"Artificial intelligence and block chain technology",
+
+          nameKedaChe:"Keda Che | Universal Labs Founder",
+
+          nameModeratorren:"Moderator - Nicolas Ren | DGM of Guotai Junan Shanghai Wealth Management Center",
+
+          nameZhonglingQin:"Zhongling Qin | President of Japan-China AI.IoT Association/ New Technology RDC Director of Ericsson",
+
+          nameYuanDing:"Yuan Ding | Chief Analyst of Huobi Researsh Center",
+
+          nameblockchainyinyong:"Ground application of block chain technology",
+
+          nameChenHaocto:"Chen Hao | CTO of Metaverse",
+
+          nameOKEXReserved:"OKEX Reserved",
+
+          nameKarenChen:"Karen Chen | CEO of Higgs Block",
+
+          nameEricYao:"Eric Yao |  CTO of i-House.com (IHT)",
+
+          nameMonitorChen:"Monitor Chen | COO of Waltonchain",
+
+          nameKailiZheng:"Kaili Zheng | CMO of Freyr",
+
+          nameDavidYli:"David Yiling Li | Founder of Trinity",
+
+          nameDavidYlisays:"Thoughts on Blockchain Gaming",
+
+          nameAnndyLian:"Anndy Lian｜CEO of Linfinity Singapore ",
+
+          nameShenBing:"Shen Bing | CEO of TBT Exchange",
+
+          nameLiufei:"Make | COO of Huobi",
+
+          nameZhangLiaoliao:"Zhang Liaoliao | Partner of gate.io",
+
+          nameBTCCHead:"BTCC交易所负责人",
+
+          nameLiuHaidong:"Liu Haidong | Tulipex首席信息官",
+
+          nameFutureExchanges:"Future of exchanges",
+
+          namePeterYu:"Peter Yu |  CEO  of CyteCoin",
+
+          namecaohuining:"Founder &CEO of Usechain",
+
+
+          nameSelfBL:"The First Self-Sovereign Identity Blockchain",
+
+
+          namePunchRESERVED:"punch foundation RESERVED",
+
+
+          nameJialingLiu:"Jialing Liu | Director of BTS, Co-Founder of BTC Venture Camp",
+
+
+          nameJackZhang:"Jack Zhang | Head of Lighting BTC China, Founder of Chain+",
+
+          nameBlockchainlogic:"Blockchain investment logic",
+
+
+          nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
+
+
+          nameAdelATN:"Adel | ATN Co-Founder",
+
+
+          nameStormZhang:"Storm Zhang | InterValue Core Architect ",
+
+          nameInterValueBL:"InterValue：构建下一代全球价值互联网的区块链4.0基础设施",
+
+          nameJasonzhuang:"Jason | Director of the No.1 Bitcoin mining pool BTC.com",
+
+          nameBTCCHead:"Denver Zhao |  SVP of BTCC ",
+
+          nameHaiDu:"Hai Du  |  Chief Data Officer of Huobi Research",
+
+          nameblockchainmining:"The future of blockchain mining",
+
+          nameLeonLiu:"Leon | BITKAN Chairman",
+
+          nameViacheslavBK:"Viacheslav Bobok | BitRent platform CEO",
+
+          nameTonySun:"Tony Sun | ONEROOT CEO",
+
+          nameXiaohanXu:"Xiaohan Xu | Co-founder of DataKYC",
+          nameModeratorKennyAu:"Moderator - Kenny Au | Co-founder LUXCHAIN, Blockchain & AI Journalist",
+
+          nameCharlesXue:"Charles Xue | Angel Investor",
+
+          nameEricGu:"Eric Gu｜CEO of Viewfin",
+
+          nameKarenChen:"Karen Chen | CEO of Higgs Block",
+
+          nameDigitalIdentity3:"Digital Identity and Digital Assets Disruption In Web 3.0",
+
+
+          nameAngelaTong:"Angela Tong | Partner of Jinse Finance",
+
+          nameLiangZeng :"Liang Zeng | Supernova Chain Chairman, BeeNews Co-founder, Former VP of Microsoft GC, Baidu Nuomi CEO",
+
+          nameEthanYu:"Ethan Yu | Founder  of CoinVoice",
+
+          nameYeZuyan:"Ye Zuyan | Co-founder & COO of Chainfor",
+
+
+          nameJohnHan:"John Han  |  Business Development Director",
+
+
+
+          nameAngelaTongModerator:"Moderator - Angela Tong | Partner of Jinse Finance",
+
+          nameLongdns:"Longdns | Huoxun.com CEO ",
+
+          nameBlockchainRole:"The Role that Media Plays in Blockchain and Digital Currency Sector",
+
+          nameBlockchain3media:"区块链3.0时代的新媒体 — 智能信息流和数字货币价值发现平台",
+
+          nameKenDean:"Ken Dean | Executive Director of BitUN ",
+
+          nameocspeaker:"oc演讲嘉宾",
+
+          nameosaspeaker:"osa演讲嘉宾",
+
+          nameZhangTao:"Zhang Tao | Angel Investor, coinegg.com Co-founder",
+
+          nameHugoHu:"Hugo Hu | BEPAL CEO",
+
+          nameZongxinPeng:"Zongxin Peng | Founder of QTG",
+
+          nameModeratorchangxi:"Moderator - Ted Chang | Managing Director of FINWEXLABS",
+
+
+          nameZeroGao:"Zero Gao | Vice Chairman of IBAF",
+
+
+          nameSimonJE:"Simon JE | CEO of Galaxy Treasure Financial Group Holdings Limited",
+
+
+
+          nameYiqunCai:"Yiqun Cai | Founder and Chairman of MAS Capital,Chief Capitalist of Metaverse Foundation",
+
+
+
+          nameCasparHuang:"Caspar  | Goldford Chief executive",
+
+
+          nameblockchainchange:"The change of block chain technology to the future finance",
       },
       jap: {
         seey1: "トップページ",
