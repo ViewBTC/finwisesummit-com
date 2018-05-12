@@ -1220,7 +1220,7 @@
           nameJackZhang:"Jack Zhang | Head of Lighting BTC China, Founder of Chain+",
 
           nameBlockchainlogic:"Blockchain investment logic",
-          
+
           nameHowBLAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
 
           nameAdelATN:"Adel | ATN Co-Founder",
