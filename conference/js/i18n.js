@@ -18,6 +18,13 @@
       //key编码规则：取前2个中文字符拼音+最后2个中文字符拼音
       //不满4个中文字符用e代表
       zh: {
+
+        webtitle1:"纷智峰会 · 东京",
+        webvisa2:"纷智峰会-签证指南",
+        webcooperation3:"纷智峰会-赞助合作",
+        webabout4:"纷智峰会-关于我们",
+        webagenda5:"纷智峰会 · 东京议程",
+
         seey1: "首页",
         hyyc2: "会议议程",
         zzhz3: "赞助合作",
@@ -446,6 +453,29 @@
           nameSIMON102:"余駿劻",
           positionSIMON102:"香港国际区块链金融总会创始人",
 
+          nameAlex103:"Alex Isaiev",
+          positionAlex103:"业务拓展 联合创始人",
+
+          namenick104:"李珩",
+          positionnick104:"Ocean chain联合创始人",
+
+          nameMiao105:"缪可言",
+          positionMiao105:"Hyperpay CMO",
+
+          namechenyuming106:"陈玉明",
+          positionchenyuming106:"EBC 首席执行官",
+
+          nameARATA107:"ARATA",
+          positionARATA107:"AVHのCTO，⽇日本の仮想通貨メディア CRYPTO TIMESもプロデュース",
+
+          nameduboyuan108:"杜博源",
+          positionduboyuan108:"OK 投资人",
+
+
+
+
+
+
 
           zzhz01:"赞助合作",
           qdhz02:"渠道合作",
@@ -619,6 +649,12 @@
 
 
       en: {
+        webtitle1:"FINWISESUMMIT · Tokyo",
+        webvisa2:"FINWISESUMMIT · Visa",
+        webcooperation3:"FINWISESUMMIT · Cooperation",
+        webabout4:"FINWISESUMMIT · About",
+        webagenda5:"FINWISESUMMIT · Agenda",
+
         seey1: "Home",
         hyyc2: "Agenda",
         zzhz3: "Sponsorship",
@@ -1046,8 +1082,29 @@
           nameSIMON102:"SIMON JE",
           positionSIMON102:"HK international blockchain&financial association",
 
+          nameAlex103:"Alex Isaiev",
+          positionAlex103:"Co-founder of Business Development Lead",
 
-        zzhz01:"Sponsorship",
+          namenick104:"Nick Lee",
+          positionnick104:"co-founder of Ocean chain",
+
+          nameMiao105:"Keyan Miao",
+          positionMiao105:"Hyperpay CMO",
+
+          namechenyuming106:"Tony Chen",
+          positionchenyuming106:"Agent Chief Executive of EBC",
+
+          nameARATA107:"ARATA",
+          positionARATA107:"AVHのCTO，⽇日本の仮想通貨メディア CRYPTO TIMESもプロデュース",
+
+          nameduboyuan108:"Estrella",
+          positionduboyuan108:"OK Investor",
+
+
+
+
+
+          zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
           hwhz03:"Overseas Cooperation",
           mtsy04:"Media Cooperation",
