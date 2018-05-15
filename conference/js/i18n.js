@@ -472,7 +472,7 @@
           positionduboyuan108:"OK 投资人",
 
           nameTonyEvans109:"Tony Evans",
-          positionTonyEvans109:"环球顾问公司联合创始人、副总裁兼亚洲连锁集团中东总经理",
+          positionTonyEvans109:"亚洲及中东地区的副董事长兼董事总经理、金融科技全球顾问公司创始人",
 
           nameEric110:"Eric",
           positionEric110:"维优CEO 初夏虎",
