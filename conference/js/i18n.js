@@ -400,7 +400,7 @@
           positionstormz85:"InterValue核心架构师",
 
           namelyq86:"连炜蔃",
-          positionlyq86:"Singapore CEO",
+          positionlyq86:"Linfinity Singapore CEO",
 
           namekc87:"Keda Che",
           positionkc87:"Universal Labs的创始人",
@@ -442,7 +442,7 @@
           positionzzh98:"PUNCPH亚洲区发起人",
 
           namezll99:"张李楠",
-          positionzll99:"OEX CEO",
+          positionzll99:"知名数字加密货币交易平台OEX 联合创始人＆CEO",
 
           namesmw100:"孙明伟",
           positionsmw100:"18区联合创始人",
@@ -471,7 +471,11 @@
           nameduboyuan108:"杜博源",
           positionduboyuan108:"OK 投资人",
 
+          nameTonyEvans109:"Tony Evans",
+          positionTonyEvans109:"环球顾问公司联合创始人、副总裁兼亚洲连锁集团中东总经理",
 
+          nameEric110:"Eric",
+          positionEric110:"维优CEO 初夏虎",
 
 
 
@@ -577,6 +581,7 @@
 
           nameYuanDing:"丁元 | 火币研究院首席分析师",
           nameblockchainyinyong:"区块链技术的落地应用",
+
 
 
           nameChenHaocto:"陈浩 | 元界CTO ",
@@ -1028,7 +1033,7 @@
           positionstormz85:"Core Architect of InterValue",
 
           namelyq86:"Anndy Lian",
-          positionlyq86:"Singapore CEO",
+          positionlyq86:"Linfinity Singapore CEO",
 
           namekc87:"Keda Che",
           positionkc87:"founder of Universal Labs",
@@ -1071,7 +1076,7 @@
           positionzzh98:"Asia Founder of PUNCPH ",
 
           namezll99:"Linan Zhang",
-          positionzll99:"OEX CEO ",
+          positionzll99:"Well-known digital encrypted currency trading platform OEX co-founder＆CEO ",
 
           namesmw100:"Mingwei Sun",
           positionsmw100:"Co-Founder of 18",
@@ -1100,7 +1105,11 @@
           nameduboyuan108:"Estrella",
           positionduboyuan108:"OK Investor",
 
+          nameTonyEvans109:"Tony Evans",
+          positionTonyEvans109:"Vice-Chairman and Managing Director of Asia and the Middle East of Blockchain Industries, Inc.,Co Founder of Fintech Global Consultant’s",
 
+          nameEric110:"Eric",
+          positionEric110:"Viewfin CEO 初夏虎",
 
 
 

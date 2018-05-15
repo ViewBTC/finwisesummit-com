@@ -1252,7 +1252,7 @@ body {
 .guest-item .col-md-2 {
   text-align: center;
   margin-bottom: 20px;
-  height: 240px;
+  height: 262px;
   display: none; }
   .guest-item .col-md-2.showimg {
     display: block; }
@@ -1283,7 +1283,7 @@ body {
   overflow: hidden;
   display: -webkit-box;
   text-overflow: ellipsis;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 7;
   -webkit-box-orient: vertical; }
 
 .otherlang .guest-item .col-md-2 {
