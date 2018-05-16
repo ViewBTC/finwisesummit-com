@@ -469,7 +469,7 @@
           positionARATA107:"AVHのCTO，⽇日本の仮想通貨メディア CRYPTO TIMESもプロデュース",
 
           nameduboyuan108:"杜博源",
-          positionduboyuan108:"OK 投资人",
+          positionduboyuan108:"OK 资本投资人",
 
           nameTonyEvans109:"Tony Evans",
           positionTonyEvans109:"亚洲及中东地区的副董事长兼董事总经理、金融科技全球顾问公司创始人",
@@ -597,7 +597,7 @@
           nameLiufei:"刘飞 | 火币Pro运营总监",
           nameZhangLiaoliao:"张了了 | gate.io合伙人",
           nameBTCCHead:"BTCC交易所负责人",
-          namePunchRESERVED:"punch foundation RESERVED",
+          namePunchZhao:"Jonna Zhao | Punch Foundation Asia Founder",
           nameLiuHaidong:"刘海东｜TULIPEX CIO",
           nameFutureExchanges:"交易所的未来",
           namePeterYu:"Peter Yu |  CyteCoin首席执行官",
@@ -649,6 +649,39 @@
           nameblockchainchange:"区块链技术对未来金融的变革",
           nameZeroGao:"高泽龙 | 国际区块链应用联合会副主席",
           nameModeratorchangxi:"主持 - 常梓 | FINWEX孵化器执行董事",
+
+          namewangbinshengsay:"区块链市场投资逻辑及演进方向",
+          nameVincentliangsay:"区块链革命 让Token走进生活",
+          nameLianghongFeisay:"AWS上的区块链",
+          nameAVHspk:"AVH形象代言人",
+          nameTonychen:"陈玉明 | CEO代理 ",
+          nameTonychensay:" 关于帝国区块链中心的成立 ",
+          nameHansHenrik:"汉斯 亨瑞 克里斯滕森 | 迪拜市政府-金融科技管理局企业家中心主管",
+          nameHansHenriksay:"迪拜政府对区块链企业家的支持",
+          namePeterYusay:"CyteCoin 分散式AR/VR／360广告平台",
+          namewangjianlan:"王建楠 | 资深天使投资人",
+          namewangjianlansay:"打造弱中心化的德扑应用生态链 ----THPC",
+          nameTonySunsay:"亚太区块链中心",
+          nameblockchaindevdt:"区块链的发展趋势",
+          nameTonyEvanspk:"Tony Evans  |  Vice-环球顾问公司联合创始人、副总裁兼亚洲连锁集团中东总经理",
+          nameTonyEvanspksay:"帮助投资者通过负责任的渠道获得最好的交易",
+          nameSongYang:"宋阳  | “乐块”制作人",
+          nameSongYangsay:"链上游戏新形态：乐块，区块链上的虚拟乐高",
+          nameduboyuanspk:"杜博源 |  OK 资本 投资人",
+          namesunmingwei:"孙明伟 | 新加坡18区联合创始人",
+          namesunmingweisay:"高效搭建覆盖全球的区块链社区",
+          nameYeZuyansay:"区块链趋势下的思考",
+          nameWentaojing:"荆文涛 |  超级支付亚洲市场负责人",
+          nameWentaojingsay:"高质量的数字货币世界的工具箱",
+          nameJohnHansay:"从端到云，拨云见雾",
+          nameNickLee:"李珩 | OC创始合伙人 ",
+          nameNickLeesay:"Ocean Chain 在海上链接世界",
+          nameAlexIsaiev:"Alex Isaiev  | 联合创始人，OSA业务发展领头羊",
+          nameAlexIsaievsay:"AI & 区域块零售业",
+          nameblockchainprojects:"区块链项目未来发展的五大建议",
+          nameguoshunri:"郭舜日  ParcelX CEO & 联合创始人",
+          nameWilliamJianginfo:"姜光璞  |  ZENGOLD 项目运营经理",
+          nameblockchainappfinance:"区块链应用金融展望",
 
       },
 
@@ -1278,7 +1311,7 @@
           nameSelfBL:"The First Self-Sovereign Identity Blockchain",
 
 
-          namePunchRESERVED:"punch foundation RESERVED",
+          namePunchRESERVED:"Jonna Zhao | Punch Foundation Asia Founder",
 
 
           nameJialingLiu:"Jialing Liu | Director of BTS, Co-Founder of BTC Venture Camp",
@@ -1317,56 +1350,66 @@
 
           nameXiaohanXu:"Xiaohan Xu | Co-founder of DataKYC",
           nameModeratorKennyAu:"Moderator - Kenny Au | Co-founder LUXCHAIN, Blockchain & AI Journalist",
-
+          
           nameCharlesXue:"Charles Xue | Angel Investor",
-
           nameEricGu:"Eric Gu｜CEO of Viewfin",
-
           nameKarenChen:"Karen Chen | CEO of Higgs Block",
-
           nameDigitalIdentity3:"Digital Identity and Digital Assets Disruption In Web 3.0",
-
           nameAngelaTong:"Angela Tong | Partner of Jinse Finance",
-
           nameLiangZeng :"Liang Zeng | Supernova Chain Chairman, BeeNews Co-founder, Former VP of Microsoft GC, Baidu Nuomi CEO",
-
           nameEthanYu:"Ethan Yu | Founder  of CoinVoice",
-
           nameYeZuyan:"Ye Zuyan | Co-founder & COO of Chainfor",
-
           nameJohnHan:"John Han  |  Business Development Director",
-
           nameAngelaTongModerator:"Moderator - Angela Tong | Partner of Jinse Finance",
-
           nameLongdns:"Longdns | Huoxun.com CEO ",
-
           nameBlockchainRole:"The Role that Media Plays in Blockchain and Digital Currency Sector",
-
           nameBlockchain3media:"New media in the era of block chain 3 -- intelligent information flow and digital currency value discovery platform",
-
           nameKenDean:"Ken Dean | Executive Director of BitUN ",
-
           nameocspeaker:"oc Guest speaker",
-
           nameosaspeaker:"osa Guest speaker",
-
           nameZhangTao:"Zhang Tao | Angel Investor, coinegg.com Co-founder",
-
           nameHugoHu:"Hugo Hu | BEPAL CEO",
-
           nameZongxinPeng:"Zongxin Peng | Founder of QTG",
-
           nameModeratorchangxi:"Moderator - Ted Chang | Managing Director of FINWEXLABS",
-
           nameZeroGao:"Zero Gao | Vice Chairman of IBAF",
-
           nameSimonJE:"Simon JE | CEO of Galaxy Treasure Financial Group Holdings Limited",
-
           nameYiqunCai:"Yiqun Cai | Founder and Chairman of MAS Capital,Chief Capitalist of Metaverse Foundation",
-
           nameCasparHuang:"Caspar  | Goldford Chief executive",
-
           nameblockchainchange:"The change of block chain technology to the future finance",
+          namewangbinshengsay:"The investment logic and evolution direction of block chain Market",
+          nameVincentliangsay:"Blockchain revolution let Token walk into life",
+          nameLianghongFeisay:"Blockchain on AWS ",
+          nameAVHspk:"AVH spokesperson",
+          nameTonychen:"Tony Chen |  Agent Chief Executive ofEmpire Blockchain Center",
+          nameTonychensay:" About Empire Blockchain Center ",
+          nameHansHenrik:"Hans Henrik Christensen | Director ‑ DTEC & SOF, Dubai Silicon Oasis Authority, Government of Dubai",
+          nameHansHenriksay:"Blockchain-Dubai government entrepreneurial activities",
+          namePeterYusay:"CyteCoin Dispersive AR/VR／360 Advertising platform",
+          namewangjianlan:"Jiannan Wang | Angel Investor",
+          namewangjianlansay:"Building a weak centralization of the applied ecological chain of Germany ----THPC",
+          nameTonySunsay:"Asia Pacific blockchain center",
+          nameblockchaindevdt:"Development trend of block chain",
+          nameTonyEvanspk:"Tony Evans  |  Vice-Chairman and Managing Director of Asia and the Middle East of Blockchain Industries, Inc.,Co Founder of Fintech Global Consultant’s",
+          nameTonyEvanspksay:"Helping investors access the best deals through accountable source",
+          nameSongYang:"Song Yang | TonArts CEO Leblock Producer, CEO of TonArts",
+          nameSongYangsay:"New form of game on Chain: Lok block, virtual Lego on blockchain",
+          nameduboyuanspk:"Estrella |  OKBlockchain Capital investor",
+          namesunmingwei:"Taro | Co-FounderBlock 18 Singapore",
+          namesunmingweisay:"Building block chain communities over the world with high efficiency",
+          nameYeZuyansay:"Thinking under the trend of block chain",
+          nameWentaojing:"Wentao Jing |   HyperPay Asian Market Director",
+          nameWentaojingsay:"A high quality digital currency world toolbox",
+          nameJohnHansay:"From the end to the cloud, the cloud sees the fog",
+          nameNickLee:"Nick Lee  | OC co-founder ",
+          nameNickLeesay:"Ocean Chain Link the world at sea",
+          nameAlexIsaiev:" Alex Isaiev  | Co-founder, Business Development Lead of osa",
+          nameAlexIsaievsay:"AI & Blockchain in Retail",
+          nameblockchainprojects:"Five suggestions for the future development of blockchain projects",
+          nameguoshunri:"郭舜日  CEO & Co-Founder at ParcelX",
+          nameWilliamJianginfo:"William Jiang  |  ZENGOLD Project Operations Manager",
+          nameblockchainappfinance:"Prospect of blockchain application finance",
+
+
       },
       jap: {
         seey1: "トップページ",
@@ -1496,6 +1539,9 @@
           cityhongkong:"香港",
           citydubai:"ドバイ",
           cityBangkok:"バンコク",
+
+
+          nameAVHspk:"CTOアラタ",
       }
     },
     dom: {
