@@ -477,7 +477,8 @@
           nameEric110:"Eric",
           positionEric110:"维优CEO 初夏虎",
 
-
+          nameShunriGuo111:"郭舜日",
+          positionShunriGuo111:"ParcelX CEO & 联合创始人",
 
 
 
@@ -1144,6 +1145,9 @@
           nameEric110:"Eric",
           positionEric110:"Viewfin CEO 初夏虎",
 
+          nameShunriGuo111:"Shunri Guo",
+          positionShunriGuo111:"CEO & Co-Founder at ParcelX",
+
 
 
           zzhz01:"Sponsorship",
@@ -1350,7 +1354,7 @@
 
           nameXiaohanXu:"Xiaohan Xu | Co-founder of DataKYC",
           nameModeratorKennyAu:"Moderator - Kenny Au | Co-founder LUXCHAIN, Blockchain & AI Journalist",
-          
+
           nameCharlesXue:"Charles Xue | Angel Investor",
           nameEricGu:"Eric Gu｜CEO of Viewfin",
           nameKarenChen:"Karen Chen | CEO of Higgs Block",
