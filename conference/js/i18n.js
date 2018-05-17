@@ -480,6 +480,15 @@
           nameShunriGuo111:"郭舜日",
           positionShunriGuo111:"ParcelX CEO & 联合创始人",
 
+          nameNicWatson112:"Nic Watson",
+          positionNicWatson112:"Naseba董事总经理",
+
+          nameOlivier113:"楚维",
+          positionOlivier113:"复旦区块链协会主席",
+
+          nameEricFang114:"方天叶",
+          positionEricFang114:"离子链联合创始人，时点资本合伙人 上海区块链产业联盟国际交流委员会主席",
+
 
 
           zzhz01:"赞助合作",
@@ -569,7 +578,7 @@
           nameVincentliang:"梁羽 | 星链StarChain投资人、開拍網創始人&CEO",
           nameAllenZhoupspeakct:"搭建一个可大规模商用的区块链开发平台",
           nameJackieWu:"無極 | 华迎控股集团 董事长",
-          nameDennisSarkar:"Dennis Sarkar  |  GENEXI生态系统开发者",
+          nameDennisSarkar:"Dennis Sarkar  |  Genexi生态系统开发者",
 
           nameblockchaindrive:"解构 区块链+驱动的商业模式创新",
 
@@ -646,7 +655,7 @@
           nameZongxinPeng:"彭宗欣 | 量子金创始人",
           nameSimonJE:"余駿劻  | 行政總裁 富盈金融集團有限公司",
           nameYiqunCai:"蔡逸群 |  名资金融科技、名资股份创始人、董事长、元界基金会首席资本家",
-          nameCasparHuang:"黃俊瑯 | Goldford 行政總裁",
+          nameCasparHuang:"黃俊瑯 | 高鋒創新金融行政總裁 香港青年專業聯盟區塊鏈委員會主席",
           nameblockchainchange:"区块链技术对未来金融的变革",
           nameZeroGao:"高泽龙 | 国际区块链应用联合会副主席",
           nameModeratorchangxi:"主持 - 常梓 | FINWEX孵化器执行董事",
@@ -655,7 +664,7 @@
           nameVincentliangsay:"区块链革命 让Token走进生活",
           nameLianghongFeisay:"AWS上的区块链",
           nameAVHspk:"AVH形象代言人",
-          nameTonychen:"陈玉明 | CEO代理 ",
+          nameTonychen:"陈玉明  |  帝国区块链代理CEO",
           nameTonychensay:" 关于帝国区块链中心的成立 ",
           nameHansHenrik:"汉斯 亨瑞 克里斯滕森 | 迪拜市政府-金融科技管理局企业家中心主管",
           nameHansHenriksay:"迪拜政府对区块链企业家的支持",
@@ -677,12 +686,43 @@
           nameJohnHansay:"从端到云，拨云见雾",
           nameNickLee:"李珩 | OC创始合伙人 ",
           nameNickLeesay:"Ocean Chain 在海上链接世界",
-          nameAlexIsaiev:"Alex Isaiev  | 联合创始人，OSA业务发展领头羊",
-          nameAlexIsaievsay:"AI & 区域块零售业",
+          nameAlexIsaiev:"Alex Isaiev |OSA联合创始人 OSA业务拓展主管 ",
+          nameAlexIsaievsay:"零售业中的AI和区块链",
           nameblockchainprojects:"区块链项目未来发展的五大建议",
-          nameguoshunri:"郭舜日  ParcelX CEO & 联合创始人",
+          nameguoshunri:"郭舜日 | ParcelX联合创始人兼CEO",
           nameWilliamJianginfo:"姜光璞  |  ZENGOLD 项目运营经理",
           nameblockchainappfinance:"区块链应用金融展望",
+          
+          nameblockchaindrive:"解构区块链+驱动的商业模式创新",
+          nameviachesbobokinfo:"Viacheslav Bobok | BitRent首席执行官",
+          nameblockchainBiotech:"利用链加速生物技术",
+          nameblockchainpast:"过去三年的区块链实践",
+          nameAboutBitRent:"关于BitRent",
+          nameblockchainrevolution:"区块链时代的物联网革命",
+          nameblockchainArts:"艺术品与区块链",
+          nameblockchainEvolution:"数字货币的进化",
+          nameblockchainIntro:"标记链供应链介绍",
+          nameMonaPRM:"Mona | Trinity 国际社区主管",
+          nameblockchainGaming:"关于区块链游戏的思考",
+          nameEricFanginfo:"方天叶 | 离子链联合创始人，时点资本合伙人 上海区块链产业联盟国际交流委员会主席",
+          nameIONChain:"离子链：一种基于区块链和边缘计算的新型物联网基础平台",
+          nameblockchainCornerstone:"区块链基石：矿池生态的演进",
+          nameBitsharesfuture:"比特股的未来",
+          namePunchRedefines:"Punch解放创作生产力，定义文创新生态",
+          nameblockchainAI:"人工智能和区块链",
+          nameJohnHan:"韩铮  |  锐角云商务总监",
+          nameHelpingsource:"如何帮助投资者通过可靠来源完成最佳投资",
+          nameOlivierinfo:"楚维 | 复旦区块链协会主席 ",
+          nameTobiokaKen:"飞冈 健 | 金泽工业大学客座教授",
+          nameblockchainThings:"物联网区块链",
+          nameblockchainefficiently:"“区块链+”风口之中的TBT交易所",
+          nameblockchainBank:"区块链银行-数字金融市场的基础设施和服务",
+          nameParcelXnetworks:"ParcelX：去中心化跨境包裹配送网络",
+          nameblockchainindustry:"区块链在黄金行业生态的应用",
+          nameZeroGaoModerator:"主持-高泽龙 | 国际区块链应用联合会副主席 ",
+
+
+
 
       },
 
@@ -1122,7 +1162,7 @@
           positionSIMON102:"HK international blockchain&financial association",
 
           nameAlex103:"Alex Isaiev",
-          positionAlex103:"Co-founder of Business Development Lead",
+          positionAlex103:"OSA Decentralized Co-Founder",
 
           namenick104:"Nick Lee",
           positionnick104:"co-founder of Ocean chain",
@@ -1148,6 +1188,14 @@
           nameShunriGuo111:"Shunri Guo",
           positionShunriGuo111:"CEO & Co-Founder at ParcelX",
 
+          nameNicWatson112:"Nic Watson",
+          positionNicWatson112:"Managing Director of Naseba",
+
+          nameOlivier113:"Olivier Truquet",
+          positionOlivier113:" President and Co-Founder of the Fudan Blockchain Association",
+
+          nameEricFang114:"Eric Fang",
+          positionEricFang114:"Co-founder of IONChain",
 
 
           zzhz01:"Sponsorship",
@@ -1384,7 +1432,7 @@
           nameVincentliangsay:"Blockchain revolution let Token walk into life",
           nameLianghongFeisay:"Blockchain on AWS ",
           nameAVHspk:"AVH spokesperson",
-          nameTonychen:"Tony Chen |  Agent Chief Executive ofEmpire Blockchain Center",
+          nameTonychen:"Tony Chen |  Agent CEO of Empire Blockchain Center",
           nameTonychensay:" About Empire Blockchain Center ",
           nameHansHenrik:"Hans Henrik Christensen | Director ‑ DTEC & SOF, Dubai Silicon Oasis Authority, Government of Dubai",
           nameHansHenriksay:"Blockchain-Dubai government entrepreneurial activities",
@@ -1406,12 +1454,42 @@
           nameJohnHansay:"From the end to the cloud, the cloud sees the fog",
           nameNickLee:"Nick Lee  | OC co-founder ",
           nameNickLeesay:"Ocean Chain Link the world at sea",
-          nameAlexIsaiev:" Alex Isaiev  | Co-founder, Business Development Lead of osa",
+          nameAlexIsaiev:" Alex Isaiev | Co-founder, Business Development Lead of OSA",
           nameAlexIsaievsay:"AI & Blockchain in Retail",
           nameblockchainprojects:"Five suggestions for the future development of blockchain projects",
-          nameguoshunri:"郭舜日  CEO & Co-Founder at ParcelX",
+          nameguoshunri:"Guo Shunri | CEO & Co-Founder at ParcelX",
           nameWilliamJianginfo:"William Jiang  |  ZENGOLD Project Operations Manager",
           nameblockchainappfinance:"Prospect of blockchain application finance",
+
+
+
+          nameblockchaindrive:"Business model innovation of deconstructing blockchain + drive",
+          nameviachesbobokinfo:"Viacheslav Bobok | BitRent platform CEO",
+          nameblockchainBiotech:"Accelerating Biotech using Blockchain",
+          nameblockchainpast:"Blockchain and Me for the past 3 years ",
+          nameAboutBitRent:"About BitRent",
+          nameblockchainrevolution:"The revolution of Internet of Things in blockchain era",
+          nameblockchainArts:"Arts and Blockchain",
+          nameblockchainEvolution:"Evolution of Crypto currency",
+          nameblockchainIntro:"Introduction to a tokenized blockchain supply chain",
+          nameMonaPRM:"Mona |  PR Manager of Trinity ",
+          nameblockchainGaming:"Thoughts on Blockchain Gaming",
+          nameEricFanginfo:"Eric Fang | Co-founder of ION Chain, Partner of Ontime Capital",
+          nameIONChain:"IONChain - A New IoT Infrastructure Based on Blockchain and Edge Computing",
+          nameblockchainCornerstone:"Blockchain's Cornerstone: The Evolution of the Mining Pool Ecosystem",
+          nameBitsharesfuture:"The future of Bitshares",
+          namePunchRedefines:"Punch Redefines Cultural Ecosystem, Liberating Creative Productivity",
+          nameblockchainAI:"How to Nurture Artificial Intelligence (AI) with Blockchain",
+          nameJohnHan:"John Han  |  Business Development Director of AAC",
+          nameHelpingsource:"Helping investors access the best deals through accountable source",
+          nameOlivierinfo:"Olivier Truquet | President and Co-Founder of the Fudan Blockchain Association",
+          nameTobiokaKen:"Tobioka Ken | Professor of  Kanazawa Institute of Technology",
+          nameblockchainThings:"Blockchain of Things",
+          nameblockchainefficiently:"How to build a global blockchain community efficiently",
+          nameblockchainBank:"Blockchain Bank-Infrastructure and Service for Digital Financial Market",
+          nameParcelXnetworks:"ParcelX：Centralization of cross border parcels and distribution networks",
+          nameblockchainindustry:"Blockchain application in Gold industry",
+          nameZeroGaoModerator:"Moderator -Zero Gao | Vice Chairman of IBAF",
 
 
       },
