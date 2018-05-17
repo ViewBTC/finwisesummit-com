@@ -692,7 +692,7 @@
           nameguoshunri:"郭舜日 | ParcelX联合创始人兼CEO",
           nameWilliamJianginfo:"姜光璞  |  ZENGOLD 项目运营经理",
           nameblockchainappfinance:"区块链应用金融展望",
-          
+
           nameblockchaindrive:"解构区块链+驱动的商业模式创新",
           nameviachesbobokinfo:"Viacheslav Bobok | BitRent首席执行官",
           nameblockchainBiotech:"利用链加速生物技术",
