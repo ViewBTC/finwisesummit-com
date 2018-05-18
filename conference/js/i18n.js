@@ -558,7 +558,8 @@
           namemeetingopen:"大会开始",
           nameRiconiinfo:"尤立 | FINWISE创始人兼执委会主席",
           namewelSpeech:"大会揭幕致辞",
-          nameJCOliverinfo:"JC Oliver | Unlockd全球首席创意官，前微软全球创新总监",
+          nameJCOliverinfo:"JC Oliver | Bankex, Moviecoin & Ai-X首席执行官, 前微软全球创新官",
+          nameJCOliverB:"JC Oliver | Unlockd全球首席创意官，前微软全球创新总监",
           namewangbinshenginfo:"王彬生｜区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
           nameNicWatsoninfo:"主持－Nic Watson | Naseba董事总经理",
           nameAhmedinfo:"柏亚德 | 维优迪拜董事总经理",
@@ -613,6 +614,7 @@
           namePeterYu:"Peter Yu |  CyteCoin首席执行官",
           namecaohuining:"曹辉宁  | Usechain创始人&CEO",
           nameSelfBL:"全球唯一有共识算法革命的实名链",
+          namePunchRESERVED:"赵子惠  | Punch Foundation 亚洲区发起人",
           nameJialingLiu:"刘嘉陵（巨蟹） | 比特股理事会理事、比特创业营创始成员",
           nameJackZhang:"张银海 | Lighting BTC中国区负责人, 千家资本创始人",
           nameBlockchainlogic:"区块链投资逻辑",
@@ -639,9 +641,9 @@
           nameKarenChen:"陈庆 | Higgs Block 集团CEO",
           nameDigitalIdentity3:"数字身份和数字资产网络３.0时代",
           nameAngelaTong:"佟扬 | 金色财经合伙人",
-          nameLiangZeng:"曾良 | Supernova Chain董事长、币快报联合创始人、前微软大中华区副总裁、百度糯米CEO",
+          nameLiangZeng:"曾良 |Supernova Chain董事长、币快报天使投资人",
           nameEthanYu:"鱼文辉 | CoinVoice创始人",
-          nameYeZuyan:"叶祖研 | 链向财经联合创始人兼COO",
+          nameYeZuyan:"叶祖研 | 链向财经联合创始人兼CEO",
           nameJohnHan:"韩铮  |  AAC商务总监",
           nameAngelaTongModerator:"主持 - 佟扬 | 金色财经合伙人",
           nameLongdns:"龙典 | 火讯财经创始人",
@@ -673,7 +675,7 @@
           namewangjianlansay:"打造弱中心化的德扑应用生态链 ----THPC",
           nameTonySunsay:"亚太区块链中心",
           nameblockchaindevdt:"区块链的发展趋势",
-          nameTonyEvanspk:"Tony Evans  |  Vice-环球顾问公司联合创始人、副总裁兼亚洲连锁集团中东总经理",
+          nameTonyEvanspk:"Tony Evans | Blockchain Industries Inc亚洲和中东区副主席兼执行董事",
           nameTonyEvanspksay:"帮助投资者通过负责任的渠道获得最好的交易",
           nameSongYang:"宋阳  | “乐块”制作人",
           nameSongYangsay:"链上游戏新形态：乐块，区块链上的虚拟乐高",
@@ -722,7 +724,14 @@
           nameZeroGaoModerator:"主持-高泽龙 | 国际区块链应用联合会副主席 ",
 
 
-
+          nameBiggerBetter:"更大更好 ",
+          nameGarryZhang:"張軍 | Higgs Block 集团CTO ",
+          nameZengHaoSPK:"曾豪 | 蚂蚁区块链联盟创始人 ",
+          nameBlockchainFuture:"“区块链+”的 趋势与未来 ",
+          nameGenadiMan:"企业家，Telesens KSCL AG 创始人 ",
+          nameInsuranceRevolution:"连锁经营保险革命 ",
+          nameMinchenkoM:"米科拉·明琴科 | Mykola Minchenko 首席执行官 ",
+          nameBCcloudplatform:"基于区块链的个人分布式计算机云平台 ",
 
       },
 
@@ -1272,7 +1281,9 @@
 
           namewelSpeech:" Welcome Speech",
 
-          nameJCOliverinfo:"JC Oliver | Global Chief Creative Officer at Unlockd, Former Global Head of Innovation from Microsoft",
+          nameJCOliverinfo:"JC Oliver | Executive of Bankex, Moviecoin & Ai-X, Former Global Head of Innovation from Microsoft",
+
+          nameJCOliverB:"JC Oliver | Global Chief Creative Officer at Unlockd, Former Global Head of Innovation from Microsoft",
 
           namewangbinshenginfo:"Wang Binsheng | Advisor of Blockchain Joint Development Organization, Professor of Graduate School of China Academy of Social Sciences",
 
@@ -1366,6 +1377,7 @@
           namePunchRESERVED:"Jonna Zhao | Punch Foundation Asia Founder",
 
 
+
           nameJialingLiu:"Jialing Liu | Director of BTS, Co-Founder of BTC Venture Camp",
 
 
@@ -1408,9 +1420,9 @@
           nameKarenChen:"Karen Chen | CEO of Higgs Block",
           nameDigitalIdentity3:"Digital Identity and Digital Assets Disruption In Web 3.0",
           nameAngelaTong:"Angela Tong | Partner of Jinse Finance",
-          nameLiangZeng :"Liang Zeng | Supernova Chain Chairman, BeeNews Co-founder, Former VP of Microsoft GC, Baidu Nuomi CEO",
+          nameLiangZeng :"Tony Zen  | Supernova Chain Chairman, BeeNews Co-founder, Former VP of Microsoft GC, Baidu Nuomi CEO",
           nameEthanYu:"Ethan Yu | Founder  of CoinVoice",
-          nameYeZuyan:"Ye Zuyan | Co-founder & COO of Chainfor",
+          nameYeZuyan:"Ye Zuyan | Co-founder & CEO of Chainfor",
           nameJohnHan:"John Han  |  Business Development Director",
           nameAngelaTongModerator:"Moderator - Angela Tong | Partner of Jinse Finance",
           nameLongdns:"Longdns | Huoxun.com CEO ",
@@ -1491,6 +1503,14 @@
           nameblockchainindustry:"Blockchain application in Gold industry",
           nameZeroGaoModerator:"Moderator -Zero Gao | Vice Chairman of IBAF",
 
+          nameBiggerBetter:"The Bigger The Better",
+          nameGarryZhang:"Garry Zhang | CTO of Higgs Block ",
+          nameZengHaoSPK:"Zeng Hao | Founder of ANT Blockchain Alliance ",
+          nameBlockchainFuture:"Future of Blockchain+ ",
+          nameGenadiMan:"Genadi Man :Entrepreneur, founder of Telesens KSCL AG ",
+          nameInsuranceRevolution:"Insurance  revolution with blockchain ",
+          nameMinchenkoM:"Mykola Minchenko | SIXA CEO ",
+          nameBCcloudplatform:"Personal distributed computer cloud platform based on block chain",
 
       },
       jap: {
