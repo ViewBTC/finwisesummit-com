@@ -12,6 +12,9 @@
   color: #fff;
   font-size: 14px; }
 
+.font20 {
+  font-size: 20px !important; }
+
 .font24 {
   font-size: 24px !important; }
 
@@ -899,11 +902,11 @@ body {
     font-size: 14px !important; }
 
   .show-ft {
-    height: 680px !important;
+    height: 702px !important;
     overflow: hidden; }
 
   .guest-item .col-md-2 {
-    height: 210px !important; }
+    height: 220px !important; }
     .guest-item .col-md-2 .pl-info {
       width: 90% !important;
       margin: 0 auto; }
@@ -1249,7 +1252,7 @@ body {
 .guest-item .col-md-2 {
   text-align: center;
   margin-bottom: 20px;
-  height: 240px;
+  height: 262px;
   display: none; }
   .guest-item .col-md-2.showimg {
     display: block; }
@@ -1280,7 +1283,7 @@ body {
   overflow: hidden;
   display: -webkit-box;
   text-overflow: ellipsis;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 7;
   -webkit-box-orient: vertical; }
 
 .otherlang .guest-item .col-md-2 {
@@ -1640,7 +1643,10 @@ body {
     padding: 0 105px;
     width: 60%; }
   .footer-spewrap .fcon-wrap {
-    float: left; } }
+    float: left; }
+
+  .guest-item .col-md-2 {
+    height: 265px; } }
 .cooperation-wrap {
   background: url(../images/finwise-tokyo/cbg.png);
   width: 100%;
@@ -2194,7 +2200,8 @@ body {
   background: #FFFFFF;
   color: #000;
   margin: 120px auto 50px;
-  padding: 50px; }
+  padding: 50px;
+  font-size: 14px; }
   .agenda-wrap .day-plan {
     margin: 15px 0; }
   .agenda-wrap .plan-h2box {
@@ -2204,26 +2211,29 @@ body {
   .agenda-wrap .age-tbox {
     width: 100%;
     text-align: center;
-    outline: 1px solid #333;
     margin-bottom: 20px; }
-    .agenda-wrap .age-tbox .t-ftime {
+    .agenda-wrap .age-tbox .t-ftime, .agenda-wrap .age-tbox .ht-cgray {
       background: #b9b9b9;
       color: #000;
       font-size: 14px; }
     .agenda-wrap .age-tbox td {
-      border: 1px solid #ccc;
       text-align: left;
       padding: 5px 10px;
       font-size: 14px; }
-      .agenda-wrap .age-tbox td:nth-child(1) {
-        width: 45%; }
-  .agenda-wrap .age-thead {
+  .agenda-wrap .ht-cgray {
+    background: #b9b9b9;
+    color: #000;
+    font-size: 14px; }
+    .agenda-wrap .ht-cgray td {
+      font-weight: 700; }
+  .agenda-wrap .age-thead, .agenda-wrap .ht-cooom {
     font-size: 14px;
     background: #444;
     color: #FFFFFF;
+    text-align: center;
     height: 32px;
     line-height: 32px; }
-    .agenda-wrap .age-thead th {
+    .agenda-wrap .age-thead th, .agenda-wrap .ht-cooom th {
       padding: 0 10px; }
 
 body.zhlang .hide.wechat-box {
