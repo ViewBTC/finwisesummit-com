@@ -1433,7 +1433,7 @@ body {
   .ot-listwrap .colorful-border {
     margin: 30px auto;
     max-width: 420px;
-    height: auto; }
+    height: auto  !important; }
   .ot-listwrap .des-get {
     line-height: 26px;
     padding: 35px 25px; }
@@ -1634,8 +1634,11 @@ body {
   .mr-btsapace {
     margin-bottom: 100px; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  .colorful-border {
-    height: 615px !important; }
+  .zhlang .colorful-border {
+    height: 425px !important; }
+
+  .otherlang .colorful-border {
+    height: 650px !important; }
 
   .en .colorful-border, .en .en .des-get {
     height: 530px; } }
@@ -1667,8 +1670,10 @@ body {
   color: #fff;
   border: 1px solid #ad339b;
   max-width: 335px;
-  height: 535px;
   display: block; }
+
+.otherlang .colorful-border {
+  height: 535px; }
 
 .cc-bg {
   padding: 45px 25px; }

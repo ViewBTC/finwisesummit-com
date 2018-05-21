@@ -2922,7 +2922,7 @@ body{
 				margin:30px auto;
 				max-width: 420px;
 				//min-height: 440px;
-				height: auto;
+				height: auto  !important;
 				//height: 440px;
 			}
 			.des-get {
@@ -3370,10 +3370,11 @@ body{
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
 
 
-
-	.colorful-border {
-
-		height: 615px !important;
+	.zhlang .colorful-border {
+		height: 425px !important;
+	}
+	.otherlang .colorful-border {
+		height: 650px !important;
 	}
 
 	.en {
@@ -3443,12 +3444,15 @@ body{
 		border: 1px solid #ad339b;
 		max-width: 335px;
 		//height: 400px;
-		height: 535px;
+		//height: 535px;
 		display: block;
 		//padding: 2px;
 		//background: -webkit-linear-gradient( right, #fff 0%, #fff 100%), -webkit-linear-gradient( right, #4E0695 0%, #A3198F 100%);
 		//background-clip: content-box, padding-box;
 
+	}
+	.otherlang .colorful-border{
+		height: 535px;
 	}
 	.cc-bg{
 		//background: rgba(255,255,255,0.05);
