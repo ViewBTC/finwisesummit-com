@@ -2068,7 +2068,7 @@ body{
 
 
 		.about-deswrap.container .team-bbox {
-			height: auto !important;
+			height: 325px !important;
 			.foundername{
 				padding-bottom: 12px;
 			}
@@ -2435,9 +2435,9 @@ body{
 			.col-md-3{
 				height: 350px !important;
 			}
-			.team-bbox {
-				height: 350px !important;
-			}
+			//.team-bbox {
+			//	height: 350px !important;
+			//}
 		}
 
 		.team-wrap{
@@ -2471,6 +2471,10 @@ body{
 		}
 	}
 	@media only screen and (min-width: 1000px) and (max-width: 1199px) {
+
+		.about-deswrap.container .team-bbox {
+			height: 315px;
+		}
 
 		//about begin
 		.team-wrap{
@@ -3727,8 +3731,7 @@ body{
 			//font-size: 28px;
 		}
 		.team-bbox{
-			height: 390px;
-
+			height: 350px;
 		}
 	}
 
@@ -4413,6 +4416,20 @@ body{
 	.time-historywrap{
 
 		margin-top: 20px;
+	}
+
+
+	.zhlang .about-deswrap.container .team-bbox {
+		height: 315px !important;
+		//.foundername{
+		//	padding-bottom: 12px;
+		//}
+	}
+	.otherlang .about-deswrap.container .team-bbox {
+		height: auto !important;
+		//.foundername{
+		//	padding-bottom: 12px;
+		//}
 	}
 }
 

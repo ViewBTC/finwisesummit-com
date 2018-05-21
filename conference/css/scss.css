@@ -1025,7 +1025,7 @@ body {
     font-size: 14px !important; }
 
   .about-deswrap.container .team-bbox {
-    height: auto !important; }
+    height: 325px !important; }
     .about-deswrap.container .team-bbox .foundername {
       padding-bottom: 12px; } }
 .tiketsex {
@@ -1197,8 +1197,6 @@ body {
 
   .about-deswrap.container .col-md-3 {
     height: 350px !important; }
-  .about-deswrap.container .team-bbox {
-    height: 350px !important; }
 
   .team-wrap .h2-tlcom {
     margin-bottom: 45px !important; }
@@ -1219,6 +1217,9 @@ body {
         .team-wrap .col-md-3 .team-bbox .foundername .position-info {
           font-size: 14px; } }
 @media only screen and (min-width: 1000px) and (max-width: 1199px) {
+  .about-deswrap.container .team-bbox {
+    height: 315px; }
+
   .team-wrap .col-md-3 {
     width: 33.33%; }
     .team-wrap .col-md-3 .team-bbox {
@@ -1841,7 +1842,7 @@ body {
   .about-deswrap.container .h2-tlcom {
     margin-bottom: 10px; }
   .about-deswrap.container .team-bbox {
-    height: 390px; }
+    height: 350px; }
 
   .en-lang .about-deswrap.container .team-bbox {
     height: 390px; }
@@ -2155,7 +2156,13 @@ body {
     font-size: 12px !important; }
 
   .time-historywrap {
-    margin-top: 20px; } }
+    margin-top: 20px; }
+
+  .zhlang .about-deswrap.container .team-bbox {
+    height: 315px !important; }
+
+  .otherlang .about-deswrap.container .team-bbox {
+    height: auto !important; } }
 .visa-body {
   background: #fff; }
   .visa-body .visa-tips {
