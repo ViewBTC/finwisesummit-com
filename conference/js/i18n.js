@@ -61,7 +61,7 @@
         gydh17: "关于大会",
         fstj18:
           "Finwise Summit 纷智区块链峰会，旨在加强全球金融行业从业者们的交流，推动全球金融科技的发展，我们将以目前金融科技领域最前沿的区块链技术为主导，集合全球优秀企业内企业，对未来科技金融及区块链技术应用发展，进行展望和推进。",
-        ckgd19: "查看更多",
+        ckgd19: "查看更多 ↓",
         lhzb20: "联合主办",
         mtxb21: "媒体协办",
         xbfe22: "协办方",
@@ -783,7 +783,7 @@
         gydh17: "About FINWISE",
         fstj18:
           "FINWISE Summit aims to strengthen the communication among blockchain-related practitioners and promote the development of global financial technology. With a focus on cutting-edge blockchain technology, FINWISE Summit brings together top talents, industry elites and excellent enterprises, provides a reliable collaboration platform and a wide media coverage.",
-        ckgd19: "View More",
+        ckgd19: "View More ↓",
         lhzb20: "Co-organizer",
         mtxb21: "Media Sponsor",
         xbfe22: "Co-sponsor",
