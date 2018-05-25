@@ -484,7 +484,7 @@
           positionNicWatson112:"Naseba董事总经理",
 
           nameOlivier113:"楚维",
-          positionOlivier113:"复旦MBA区块链协会主席",
+          positionOlivier113:"复旦学生",
 
           nameEricFang114:"方天叶",
           positionEricFang114:"离子链联合创始人，时点资本合伙人 上海区块链产业联盟国际交流委员会主席",
@@ -1205,7 +1205,7 @@
           positionNicWatson112:"Managing Director of Naseba",
 
           nameOlivier113:"Olivier Truquet",
-          positionOlivier113:"President and Co-Founder of the Fudan MBA Blockchain Association",
+          positionOlivier113:"Student of Fudan University",
 
           nameEricFang114:"Eric Fang",
           positionEricFang114:"Co-founder of IONChain",
