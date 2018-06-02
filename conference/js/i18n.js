@@ -20,6 +20,10 @@
       zh: {
 
         webtitle1:"纷智峰会 · 东京",
+          webtitle_Hk:"纷智峰会 · 香港",
+
+
+
         webvisa2:"纷智峰会-签证指南",
         webcooperation3:"纷智峰会-赞助合作",
         webabout4:"纷智峰会-关于我们",
@@ -55,6 +59,7 @@
         sponsorshipct: " 赞助联系人",
         citysh: " 上海站",
         citymacaustation: "澳门站",
+        cityJapanstation: "日本站",
 
 
         qqgs16: "全球区块链公司",
@@ -737,11 +742,17 @@
           nameMinchenkoM:"米科拉·明琴科 | Mykola Minchenko 首席执行官 ",
           nameBCcloudplatform:"基于区块链的个人分布式计算机云平台 ",
 
+          HK_addr:"香港荃湾如心海景酒店",
+          HK_fwDes:"Finwise Summit 纷智全球峰会，汇集金融科技行业的优秀企业、行业专家、投资机构，共同交流探讨未来金融科技的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进金融科技及区块链行业的长期稳健发展。",
+
+
       },
 
 
       en: {
         webtitle1:"FINWISESUMMIT · Tokyo",
+          webtitle_Hk:"FINWISESUMMIT · HONGKONG",
+
         webvisa2:"FINWISESUMMIT · Visa",
         webcooperation3:"FINWISESUMMIT · Cooperation",
         webabout4:"FINWISESUMMIT · About",
@@ -778,6 +789,7 @@
         sponsorshipct: "Sponsorship Contact",
         citysh: " ShangHai Station",
         citymacaustation: " Macau Station",
+          cityJapanstation: "Japan Station",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",

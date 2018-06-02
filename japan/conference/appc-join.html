@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>成为赞助商</title>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="finwise global summit, viewfin, blockchain, metaverse">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/bundle.css">
+    <link rel="stylesheet" href="css/hody-icons.css">
+    <link rel="stylesheet" href="css/xh-style.css">
+
+    <!--[if lt IE 9]->
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+<!-- Preloader-->
+<div id="loader">
+    <div class="centrize">
+        <div class="v-center">
+            <div id="mask">
+                <span></span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Preloader-->
+<div class="index-bgwrap">
+    <!--<div w3-include-html="top.html"></div>-->
+    <!-- header-->
+    <header id="topnav">
+        <div class="container">
+            <!-- Logo container-->
+            <div class="logo">
+                <a href="./appc-index.html">
+                    <img class="logo-light" src="images/finwise/logo.png" alt="">
+                    <img class="logo-dark" src="images/finwise/logo.png" alt="">
+                </a>
+            </div>
+            <!-- End Logo container-->
+            <div class="menu-extras">
+                <div class="menu-item toggle-nav">
+                    <!-- Mobile menu toggle-->
+                    <a class="menu-toggle" href="#" onclick="mininav()">
+                        <div class="toggle-inner"></div>
+                    </a>
+                    <!-- End mobile menu toggle-->
+                </div>
+            </div>
+            <div class="lang-select"><a href="/appc-join.html">中文</a><span class="fg-line">/</span><a href="/appc-join-en.html">English</a></div>
+            <div id="navigation">
+                <ul class="navigation-menu nav">
+                    <li>
+                        <a href="/appc-index.html" dom-i18n='seey1'>首页</a>
+                    </li>
+                    <li>
+                        <a href="/appc-join.html">成为演讲嘉宾</a>
+                    </li>
+                    <li>
+                        <a href="/appc.html">成为赞助商</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- header end-->
+</div>
+
+
+<section class="fm-wrap spe-formwrap A-wrap container bg-white">
+    <h2 class="h2-title">申请成为演讲嘉宾</h2>
+    <form role="form" action="/speech" method="POST">
+        <div class="form-group">
+            <label>姓名<em class="im-h">*</em></label>
+            <input type="text" class="form-control" id="A-name" name="lastName" placeholder="请输入姓名" required="required">
+        </div>
+        <div class="form-group">
+            <label>公司名称<em class="im-h">*</em></label>
+            <input type="text" class="form-control" id="A-company" name="company" placeholder="请输入公司名称" required="required">
+        </div>
+        <div class="form-group">
+            <label>职衔<em class="im-h">*</em></label>
+            <input type="text" class="form-control" id="A-zw" name="position" placeholder="请输入职衔" required="required">
+        </div>
+        <div class="form-group">
+            <label>电邮<em class="im-h">*</em></label>
+            <input type="email" class="form-control" id="A-email" name="email" placeholder="请输入电邮" required="required">
+        </div>
+        <div class="form-group">
+            <label>联系电话<em class="im-h">*</em></label>
+            <input type="tel" class="form-control" id="A-tel" name="telphone" placeholder="请输入电话" required="required">
+        </div>
+        <div class="form-group">
+            <label>对您个人的最佳描述？<em class="im-h">*</em></label>
+            <select class="form-control" name="personalProfile" required="required">
+                <option value="Null"></option>
+                <option value="Attorney">律师</option>
+                <option value="Data provider">数据提供商</option>
+                <option value="Educator">教育者</option>
+                <option value="Family office investor">家族办公室投资人</option>
+                <option value="Financial adviser">理财顾问</option>
+                <option value="Individual investor">个人投资者</option>
+                <option value="Institutional investor">机构投资者</option>
+                <option value="Investment banker">投资银行家</option>
+                <option value="Press">新闻机构／媒体</option>
+                <option value="Regulator/Legislator">监管机构／立法机构</option>
+
+                <option value="Traditional bank or other financial firm">传统银行及其他金融企业</option>
+                <option value="Venture Capitalist">风险投资者</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>您希望对哪些话题发表演讲？请具体描述。<em class="im-h">*</em></label>
+            <div class="fk-textarea">
+                <textarea name="topic" placeholder="" name="topic" class="form-control" required="required"></textarea>
+            </div>
+        </div>
+        <div class="form-group">
+            <label>请具体描述您认为自己是该话题的最佳人选的原因<em class="im-h">*</em></label>
+            <textarea type="tel" class="form-control" name="bestPersonReason" placeholder="" required="required"></textarea>
+        </div>
+        <div class="form-group">
+            <label>请提供您的个人简历（字数150左右）<em class="im-h">*</em></label>
+            <textarea type="tel" class="form-control" name="resume" placeholder="" required="required"></textarea>
+        </div>
+        <div class="form-group">
+            <label>如适用，请您提供以往发表演讲的视频链接</label>
+            <textarea type="tel" class="form-control" name="videoUrl" placeholder=""></textarea>
+        </div>
+        <div class="form-group text-center">
+            <button type="submit" class="btn btn-default cc-btn">提交</button>
+        </div>
+    </form>
+</section>
+
+
+<!--footer begin-->
+<div w3-include-html="bottom.html"></div>
+<!--footer end-->
+
+
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/bundle.js"></script>
+<script type="text/javascript" src="js/SmoothScroll.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/w3.js"></script>
+<script type="text/javascript" src="js/mini-nav.js"></script>
+<script src="js/i18n.js"></script>
+
+<script>
+    w3.includeHTML();
+</script>
+
+</body>
+</html>
