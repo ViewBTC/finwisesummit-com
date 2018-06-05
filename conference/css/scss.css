@@ -1497,8 +1497,6 @@ body {
   body.zhlang .social.hide.wechat-box {
     display: none !important; }
 
-  body.otherlang .wap-show {
-    display: none !important; }
   body.otherlang .wap-show.footer-iminfo .footer-iminfo {
     display: none !important; }
 
