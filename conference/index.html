@@ -150,6 +150,11 @@
                 margin: 0 0 10px;
             }
 
+            .tips-price{
+                font-size: 14px !important;
+                /*margin: 55px auto 50px;*/
+            }
+
         }
 
         @media (max-width: 991px){
@@ -180,6 +185,19 @@
             .cont-cm:nth-child(2){
                 padding-top: 20px !important;
             }
+
+            .tb-qywrap table th,  .tb-qywrap table td{
+                /*line-height: 1.5 !important;*/
+                /*height: 70px;*/
+                /*display: table-cell;*/
+            }
+            .otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {
+                line-height: 1.5 !important;
+                padding: 7px !important;
+                /*display: table-cell;*/
+                display: table;
+            }
+
 
         }
         @media only screen and (max-width: 735px) and (min-width: 300px){
@@ -230,6 +248,15 @@
             .HK-fwDes-wrap.container {
                 width: 920px
             }
+
+            .Co-organizerBox .Co_con{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                /*font-size: 16px !important;*/
+                height: 74px !important;
+                line-height: 1.2;
+             }
         }
 
         @media only screen and (max-width: 1450px) and (min-width: 992px){
@@ -451,6 +478,10 @@
         }
 
         @media (min-width: 992px){
+            #topnav .lang-switch a{
+                padding: 0 8px !important;
+                margin: 0 13px !important;
+            }
             .count-wrap .col-md-1 {
                 width: 20%;
             }
@@ -534,6 +565,13 @@
                 display: inline-block !important;
 
             }
+            #topnav .tikets-wapbox {
+                position: absolute;
+                top: 10px;
+                right: 60px;
+                z-index: 9999;
+            }
+        }
         @media only screen and (max-width: 528px){
             .cont-cm .fl {
                 float: none !important;
@@ -581,6 +619,9 @@
             .de-count {
                 font-size: 12px !important;
             }
+            .Co-organizerBox .Co_con{
+                line-height: 1.2;
+            }
         }
         @media only screen and (max-width: 1200px) and (min-width: 998px){
             .cont-cm {
@@ -600,6 +641,12 @@
             }
         }
 
+
+
+        .tips-price{
+            font-size: 18px;
+            margin: 55px auto 50px;
+        }
 
     </style>
 
@@ -675,10 +722,10 @@
                     <!--</span>-->
                 <!--</a>-->
 
-                <!--<div class="lang-select gray-nouse">-->
-                    <!--&lt;!&ndash; <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> &ndash;&gt;-->
-                    <!--<a href="#" class="fg-line">获取门票</a>-->
-                <!--</div>-->
+
+                <a href="javascript:;" target="_self" class="lang-select fg-line tikets-wapbox wap-show" >
+                    <span class="gettiketsbox gray-nouse" dom-i18n='hqmprg66' style="width: auto;">获取门票</span>
+                </a>
 
                 <div id="navigation">
                     <ul class="navigation-menu nav">
@@ -707,17 +754,17 @@
                         <!--</li>-->
                         <li class="tikets-box pc-hide">
                             <a href="javascript:;" target="_blank" class="fg-line">
-                                <span class="gettiketsbox gray-nouse" dom-i18n='hqmp6'>
+                                <span class="gettiketsbox gray-nouse" dom-i18n='hqmprg66'>
                                     <!-- <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> -->
                                    获取门票
                                 </span>
                             </a>
                         </li>
-                        <!--<li id="lang-switch" class="lang-switch">-->
-                             <!--<a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>-->
-                             <!--／<a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>-->
+                        <li id="lang-switch" class="lang-switch">
+                             <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
+                             <a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>
                              <!--<a href="javascript:;" class="endingbtn jp-lang" onclick="i18n.setLang('jap')">日語</a>-->
-                        <!--</li>-->
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -733,7 +780,7 @@
             <div class="index-bg">
                 <img data-original="./images/HongKong/il.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy pc-hide">
                 <img data-original="./images/HongKong/il.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy wap-show">
-                <p class="beginning-time  beginning-timeinfo mar-left">10-11 August , 2018 </p>
+                <p class="beginning-time  beginning-timeinfo mar-left" dom-i18n='HK_fwTime'>10-11 August , 2018 </p>
                 <p class="beginning-time mar-left mr-btsapace" dom-i18n='HK_addr'>香港荃湾如心海景酒店 </p>
                 <!--<a href="./cooperation.html" target="_blank" class="red-btn wap-show mar-left" dom-i18n='qychEntrance'>企业参会<i class="s-icon"></i></a>-->
                 <!--<img src="images/finwise-tokyo/fiwise.png" alt="" class="clogo-img">-->
@@ -865,12 +912,12 @@
             <!--<h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>-->
             <h3 class="h2-title spe-tlh3 text-left"  dom-i18n='HK_chqt'>参会群体</h3>
             <div class="Co-organizerBoxlist mar-bt30 clearfix">
-                <div class="col-md-4"><div class="Co_con">金融科技行业领袖企业</div></div>
-                <div class="col-md-4"><div class="Co_con">金融业风险投资机构</div></div>
-                <div class="col-md-4"><div class="Co_con">互联网数据中心</div></div>
-                <div class="col-md-4"><div class="Co_con">网络安全</div></div>
-                <div class="col-md-4"><div class="Co_con">物联网</div></div>
-                <div class="col-md-4"><div class="Co_con">知名区块链项目</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_pr'>金融科技行业领袖企业</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_jg'>金融业风险投资机构</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_center'>互联网数据中心</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_websafe'>网络安全</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_wlw'>物联网</div></div>
+                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_BLC'>知名区块链项目</div></div>
             </div>
         </section>
         <!--参会群体 end-->
@@ -880,7 +927,7 @@
 
     <!--Partners begin-->
     <section class="container partner-wrap  footer-wrap ">
-        <h3 class="h2-title spe-tlh3 text-left">合作伙伴</h3>
+        <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_tl'>合作伙伴</h3>
         <div class="mar-bt30 clearfix">
             <div class="swatch-a col-md-2 col-sm-2">
                 <img data-original="./images/HongKong/GOLDFORD.png" alt="IBAF" class="lazy">
@@ -932,7 +979,7 @@
     <section class=" footer-wrap bg-white">
         <div class="container">
             <!--<h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>-->
-            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='HK_fwchoosetl' dom-i18n='lhzb20'>FINWISE香港站参会选择</h3>
+            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='HK_FWChoose'>FINWISE香港站参会选择</h3>
 
 
             <!--get detail begin-->
@@ -940,17 +987,17 @@
                 <table>
                     <thead>
                     <tr class="zz-tb">
-                        <th class="wh30 type-sv" dom-i18n='bzzws40'>标准展位招商</th>
-                        <th class="wh14" dom-i18n='lhzb35'>联合主办</th>
-                        <th class="wh14" dom-i18n='zsxb36'>钻石级协办</th>
-                        <th class="wh14" dom-i18n='jpzz37'>金牌赞助</th>
-                        <th class="wh14" dom-i18n='ypzz38'>银牌赞助</th>
-                        <th class="wh14" dom-i18n='tpzz39'>铜牌赞助</th>
+                        <th class="wh30 type-sv"><span class="type-sv" dom-i18n='bzzws40'>标准展位招商</span></th>
+                        <th class="wh14" ><span dom-i18n='lhzb35'>联合主办</span></th>
+                        <th class="wh14" ><span dom-i18n='zsxb36'>钻石级协办</span></th>
+                        <th class="wh14" ><span dom-i18n='jpzz37'>金牌赞助</span></th>
+                        <th class="wh14" ><span dom-i18n='ypzz38'>银牌赞助</span></th>
+                        <th class="wh14" ><span dom-i18n='tpzz39'>铜牌赞助</span></th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td class="type-sv" dom-i18n='gwms40'>官网显示企业Logo及企业描述</td>
+                        <td class="type-sv" ><span dom-i18n='gwms40'>官网显示企业Logo及企业描述</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
@@ -958,7 +1005,7 @@
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='fhpp41'>峰会展商手册 展示企业品牌</td>
+                        <td class="type-sv"><span dom-i18n='fhpp41'>峰会展商手册 展示企业品牌</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
@@ -966,7 +1013,7 @@
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='fhbf42'>峰会暖场期间企业视频的播放</td>
+                        <td class="type-sv"><span dom-i18n='fhbf42'>峰会暖场期间企业视频的播放</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td></td>
@@ -974,7 +1021,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td class="type-sv"  dom-i18n='fhgm43'>分会场冠名</td>
+                        <td class="type-sv"><span  dom-i18n='fhgm43'>分会场冠名</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td></td>
                         <td></td>
@@ -982,7 +1029,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='mtzf44'>媒体专访</td>
+                        <td class="type-sv"><span dom-i18n='mtzf44'>媒体专访</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td></td>
@@ -990,7 +1037,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='esyj45'>20分钟独立演讲</td>
+                        <td class="type-sv"><span dom-i18n='esyj45'>20分钟独立演讲</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
@@ -998,7 +1045,7 @@
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='bzzt46'>标准展台 (规格: 3m*3m)</td>
+                        <td class="type-sv"><span dom-i18n='bzzt46'>标准展台 (规格: 3m*3m)</span></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
                         <td><img class="check-i" src="./images/HongKong/check-w.png" alt=""></td>
@@ -1006,7 +1053,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td class="type-sv" dom-i18n='wixz47'>VIP通行证</td>
+                        <td class="type-sv" ><span dom-i18n='wixz47'>VIP通行证</span></td>
                         <td class="de-count">8 <span dom-i18n='unitzhang'>张</span></td>
                         <td class="de-count">4 <span dom-i18n='unitzhang'>张</span></td>
                         <td class="de-count">3 <span dom-i18n='unitzhang'>张</span></td>
@@ -1014,7 +1061,7 @@
                         <td class="de-count">1 <span dom-i18n='unitzhang'>张</span></td>
                     </tr>
                     <tr class="last-tr">
-                        <td class="type-sv" dom-i18n='jeeg48'>价格</td>
+                        <td class="type-sv" ><span dom-i18n='jeeg48'>价格</span></td>
                         <td class="de-count">8 BTC</td>
                         <td class="de-count">6.5 BTC</td>
                         <td class="de-count">4.5 BTC</td>
@@ -1026,27 +1073,28 @@
             </div>
             <!--get detail end-->
 
+            <p class="tips-price gray-font" dom-i18n='Price_tips'>注：由于数字货币波动较大，此价格仅限于6月20日之前有效，6月20日官网更新最新价格。</p>
             <!--contact us begin-->
-            <div class="cont-imwrap row">
-                    <div class="col-md-6 cont-cm">
-                        <p class="contact-tl">For sponsorship</p>
-                        <span class="im-contact fl"><b>Raymond HE</b></span>
-                        <div class="ct-lists fl">
-                            <p> Tel: 18817429015</p>
-                            <p>  Wechat: rh12586</p>
-                            <p>  Email: raymond.he@finwisesummit.com</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 cont-cm">
-                        <p class="contact-tl">For media</p>
-                        <span class="im-contact fl"><b>Damian</b></span>
-                        <div class="ct-lists fl">
-                            <p> Tel: 18600936157</p>
-                            <p> Wechat: qianjiexua3378</p>
-                            <p> Email:  Damian@finwisesummit.com</p>
-                        </div>
-                    </div>
-            </div>
+            <!--<div class="cont-imwrap row">-->
+                    <!--<div class="col-md-6 cont-cm">-->
+                        <!--<p class="contact-tl">For sponsorship</p>-->
+                        <!--<span class="im-contact fl"><b>Raymond HE</b></span>-->
+                        <!--<div class="ct-lists fl">-->
+                            <!--<p> Tel: 18817429015</p>-->
+                            <!--<p>  Wechat: rh12586</p>-->
+                            <!--<p>  Email: raymond.he@finwisesummit.com</p>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                    <!--<div class="col-md-6 cont-cm">-->
+                        <!--<p class="contact-tl">For media</p>-->
+                        <!--<span class="im-contact fl"><b>Damian</b></span>-->
+                        <!--<div class="ct-lists fl">-->
+                            <!--<p> Tel: 18600936157</p>-->
+                            <!--<p> Wechat: qianjiexua3378</p>-->
+                            <!--<p> Email:  Damian@finwisesummit.com</p>-->
+                        <!--</div>-->
+                    <!--</div>-->
+            <!--</div>-->
             <!--contact us end-->
         </div>
     </section>

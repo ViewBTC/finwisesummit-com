@@ -477,7 +477,6 @@ body {
     width: 65%; }
 
   .tb-qywrap table .type-sv {
-    padding-left: 10px !important;
     font-size: 13px !important;
     line-height: 28px !important; }
 
@@ -806,9 +805,10 @@ body {
   .geth2-title {
     font-size: 16px !important; }
 
-  .tb-qywrap table th {
+  .tb-qywrap table th span {
     line-height: 1.8 !important;
-    padding: 7px !important; }
+    padding: 7px !important;
+    display: table-cell; }
 
   .cont-cm .ct-lists {
     font-size: 13px !important;
@@ -868,7 +868,6 @@ body {
   .tb-qywrap table {
     font-size: 12px !important; }
     .tb-qywrap table .type-sv {
-      padding-left: 5px !important;
       font-size: 12px !important;
       line-height: 20px !important; }
 
@@ -1757,8 +1756,17 @@ body {
     .tb-qywrap table td {
       border: 1px solid #473c54; }
     .tb-qywrap table .type-sv {
-      text-align: left;
-      padding-left: 20px; }
+      text-align: left; }
+  .tb-qywrap table th.type-sv span, .tb-qywrap table td.type-sv span {
+    display: table;
+    margin-left: 5px;
+    line-height: 1.8; }
+
+.otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {
+  line-height: 1.5 !important;
+  padding: 7px !important;
+  /* display: table-cell; */
+  display: table; }
 
 .en .tb-qywrap table .wh14 {
   line-height: 2; }
@@ -1864,7 +1872,7 @@ body {
   #topnav .fg-line {
     margin: 0 25px 0 27px; }
   #topnav .lang-switch a {
-    margin-right: 0 !important; }
+    margin: 0 13px !important; }
   #topnav .logo {
     padding: 0; }
 

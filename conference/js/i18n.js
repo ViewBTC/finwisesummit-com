@@ -742,8 +742,21 @@
           nameMinchenkoM:"米科拉·明琴科 | Mykola Minchenko 首席执行官 ",
           nameBCcloudplatform:"基于区块链的个人分布式计算机云平台 ",
 
+          hqmprg66: "获取门票",
           HK_addr:"香港荃湾如心海景酒店",
           HK_fwDes:"Finwise Summit 纷智全球峰会，汇集金融科技行业的优秀企业、行业专家、投资机构，共同交流探讨未来金融科技的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进金融科技及区块链行业的长期稳健发展。",
+          HK_fwTime:"2018年8月10-11日",
+          HK_chqt:"参会群体",
+          Attend_pr:"金融科技行业领袖企业",
+          Attend_jg:"金融业风险投资机构",
+          Attend_center:"互联网数据中心",
+          Attend_websafe:"网络安全",
+          Attend_wlw:"物联网",
+          Attend_BLC:"知名区块链项目",
+          Partner_tl:"合作伙伴",
+          HK_FWChoose:"FINWISE香港站参会选择",
+          Price_tips:"注：由于数字货币波动较大，此价格仅限于6月20日之前有效，6月20日官网更新最新价格。",
+
 
 
       },
@@ -764,11 +777,14 @@
         wjhg4: "Flashbacks",
         gywm5: "About US",
         hqmp6: "Buy a ticket",
+        // hqmp6: "Tickets and Registration",
+        hqmprg66: "Tickets and Registration",
         qyyj7: "Exhibitors or Speakers",
         wncp8: "Become a sponsor",
         qybm9: "Exhibitor Registration",
         grbm10: "Individual Tickets",
         xsly11: "Buy a ticket",
+        // xsly11: "Tickets and Registration",
         // xsly11: "Early Bird Registration 1588 ¥，2880  ¥ (Up to April 21)",
         grbm12: "Individual Registration",
         chjb13: "Participants",
@@ -832,10 +848,10 @@
         fhgm43: "Title Sponsorship of Sub-venues",
         mtzf44: "Exclusive Interview",
         esyj45: "20 mins Independent Speech",
-        bzzt46: "Standard Booth Investment",
+        bzzt46: "Standard Booth",
         wixz47: "VIP Pass",
         jeeg48: "Price",
-        bzzws40: "Entitlements of Sponosr",
+        bzzws40: "Standard Booth Investment",
         unitzhang: " ",
 
 
@@ -1530,6 +1546,25 @@
           nameInsuranceRevolution:"Insurance  revolution with blockchain ",
           nameMinchenkoM:"Mykola Minchenko | SIXA CEO ",
           nameBCcloudplatform:"Personal distributed computer cloud platform based on block chain",
+
+
+
+          // HK i18n begin
+
+          HK_addr:"L'hotel Nina et Convention Centre",
+          HK_fwDes:"Finwise Summit aims to strengthen networks among practitioners in the global financial industry and promote the development of global financial technology.  With a focus on cutting-edge blockchain technology, Finwise assembles outstanding fintech and blockchain companies to share and debate the application and development of fintech and blockchain technology.",
+          HK_fwTime:"10-11 August , 2018",
+          HK_chqt:"WHO SHOULD ATTEND？",
+          Attend_pr:"Fintech",
+          Attend_jg:"Financial Industry",
+          Attend_center:"Data Center",
+          Attend_websafe:"Internet Security",
+          Attend_wlw:"IOT",
+          Attend_BLC:"Blockchain Service provider",
+          Partner_tl:"PARTNER",
+          HK_FWChoose:"Get Involved In",
+          Price_tips:"Notice: Because of the large fluctuation of digital money, this price is only valid until June 20th, and the official website updates the latest price in June 20th.",
+
 
       },
       jap: {
