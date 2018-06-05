@@ -445,7 +445,11 @@ body {
 
   .nav-tabs > li > a, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
     width: 275px;
-    height: 50px; } }
+    height: 50px; }
+
+  .tb-qywrap table th span {
+    text-align: center;
+    display: block !important; } }
 @media (max-width: 768px) {
   .show-ft {
     padding: 0 18px; }
