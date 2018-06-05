@@ -3096,6 +3096,10 @@ body{
 			//	//display: block !important;
 			//	display: inline-block !important;
 			//}
+			.wap-show{
+				//display: block !important;
+				display: none !important;
+			}
 			.wap-show.footer-iminfo .footer-iminfo{
 				//display: block !important;
 				display: none !important;
@@ -3595,7 +3599,9 @@ body{
 			margin-left: 5px;
 			line-height: 1.8;
 		}
-
+		table td.de-count{
+			display: table-cell;
+		}
 
 	}
 	.otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {
