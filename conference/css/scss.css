@@ -275,7 +275,10 @@ body {
     padding-top: 160px; }
 
   .mdpartner-wrap img {
-    max-height: 65px; } }
+    max-height: 65px; }
+
+  .load-footer .wap-show {
+    display: none !important; } }
 @media (max-width: 1400px) {
   #topnav .navigation-menu > li > a {
     font-size: 13px;
