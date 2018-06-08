@@ -3608,9 +3608,11 @@ body{
 			line-height: 1.8;
 		}
 		table td.de-count{
-			display: table-cell;
+			//display: table-cell;
+			justify-content: center;
+			align-items: center;
 			& span{
-				display: inline-table;
+				//display: inline-table;
 			}
 		}
 

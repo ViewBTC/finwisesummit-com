@@ -1769,9 +1769,8 @@ body {
     margin-left: 5px;
     line-height: 1.8; }
   .tb-qywrap table td.de-count {
-    display: table-cell; }
-    .tb-qywrap table td.de-count span {
-      display: inline-table; }
+    justify-content: center;
+    align-items: center; }
 
 .otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {
   line-height: 1.5 !important;
