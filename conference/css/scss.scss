@@ -1612,7 +1612,10 @@ body{
 			//height: 40px;
 			line-height: 1.8 !important;
 			padding: 7px !important;
-			display: table-cell;
+			//display: table-cell;
+			display: flex;
+			justify-content: center;
+			align-items: center;
 		}
 
 		.cont-cm .ct-lists {
