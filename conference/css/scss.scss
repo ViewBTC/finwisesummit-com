@@ -3607,7 +3607,7 @@ body{
 			margin-left: 5px;
 			line-height: 1.8;
 		}
-		table td.de-count{
+		table td.de-count *{
 			//display: table-cell;
 			justify-content: center;
 			align-items: center;
@@ -3621,7 +3621,7 @@ body{
 		line-height: 1.5 !important;
 		padding: 7px !important;
 		/* display: table-cell; */
-		display: table;
+		//display: table;
 	}
 
 	.en{
