@@ -815,6 +815,7 @@ body {
   .tb-qywrap table th span {
     line-height: 1.8 !important;
     padding: 7px !important;
+    display: inline;
     display: flex;
     justify-content: center;
     align-items: center; }
