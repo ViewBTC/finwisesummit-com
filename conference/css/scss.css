@@ -37,7 +37,8 @@ a, a:link, a:visited, a:hover, a:active {
 
 body {
   background: #F0F0F0;
-  min-width: 300px; }
+  min-width: 300px;
+  font-family: 'Montserrat', sans-serif; }
 
 *, :after, :before, input[type=checkbox], input[type=radio] {
   -webkit-box-sizing: border-box;
