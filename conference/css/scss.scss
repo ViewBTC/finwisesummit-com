@@ -3607,14 +3607,14 @@ body{
 			margin-left: 5px;
 			line-height: 1.8;
 		}
-		table td.de-count *{
-			//display: table-cell;
-			justify-content: center;
-			align-items: center;
-			& span{
-				//display: inline-table;
-			}
-		}
+		//table td.de-count *{
+		//	display: table-cell;
+		//	justify-content: center;
+		//	align-items: center;
+		//	& span{
+		//		display: inline-table;
+		//	}
+		//}
 
 	}
 	.otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {

@@ -1768,9 +1768,6 @@ body {
     display: table;
     margin-left: 5px;
     line-height: 1.8; }
-  .tb-qywrap table td.de-count * {
-    justify-content: center;
-    align-items: center; }
 
 .otherlang .tb-qywrap table th span, .otherlang .tb-qywrap table td span {
   line-height: 1.5 !important;
