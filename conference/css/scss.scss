@@ -3609,6 +3609,9 @@ body{
 		}
 		table td.de-count{
 			display: table-cell;
+			& span{
+				display: inline-table;
+			}
 		}
 
 	}
