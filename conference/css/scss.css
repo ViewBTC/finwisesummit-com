@@ -83,7 +83,7 @@ body {
       display: block !important; }
 
 .zhlang .zhshow, .otherlang .enshow {
-  display: inline-block !important; }
+  display: block !important; }
 
 .zhlang .enshow, .otherlang .zhshow {
   display: none !important; }

@@ -105,7 +105,36 @@
             background-color: #D8D8D8;;
         }
 
+        @media (width: 768px){
+            .beginning-time {
+                 font-size: 24px;
+                /* color: #FFFFFF; */
+                /* font-weight: lighter; */
+                /*font-weight: 400 !important;*/
+            }
+            .HK-fwDes{
+                width: 580px;
+                margin: 0 auto;
+            }
+        }
+        @media (min-width: 768px){
+            .count-wrap.wapshow{
+                display: none !important;
+            }
+
+            .partner-wrap .col-md-2 img.lazy {
+                height: 86px;
+            }
+        }
         @media (max-width: 768px){
+
+            .beginning-time {
+                /*font-size: 20px;*/
+                /*color: #FFFFFF;*/
+                /*font-weight: lighter;*/
+                font-weight: 400 !important;
+            }
+
             .clogo-img{
                 /*width: 230px;*/
                 /*margin: 120px 34px 10px 0;*/
@@ -132,11 +161,17 @@
 
             .HK-fwDes {
                 font-size: 14px !important;
-                padding: 25px 30px !important;
+                padding: 20px 25px !important;
                 line-height: 1.8 !important;
                 margin-bottom: 20px !important;
             }
-
+            .zhlang  .HK-fwDes {
+             text-align: justify;
+                /*letter-spacing: 0.4px;*/
+            }
+             .HK-fwDes {
+                /*letter-spacing: 0.4px;*/
+            }
             .spe-tlh3 {
                 font-size: 22px !important;
                 margin: 35px auto 25px  !important;
@@ -153,6 +188,12 @@
             .tips-price{
                 font-size: 14px !important;
                 /*margin: 55px auto 50px;*/
+            }
+
+
+            .partner-wrap .col-md-2, .partner-wrap .col-md-3 {
+                padding: 0 15px !important;
+                /*width: 33.33%;*/
             }
 
         }
@@ -210,18 +251,19 @@
             .Co-organizerBoxlist .col-md-4{
                 width:50% !important;
                 float: left;
-                padding: 0 18px !important;
+                padding: 0 10px !important;
                 margin-bottom: 15px !important;
                 /*height: 74px;*/
                 /*display: table-cell;*/
                 /*vertical-align: middle;*/
             }
             .Co_con{
-                font-size: 15px !important;
-                padding: 15px !important;
-                height: 74px;
+                font-size: 12px !important;
+                /*padding: 15px !important;*/
+                padding: 0 !important;
+                height: 45px;
                 letter-spacing: .8px !important;
-
+                border-radius: 5px !important;
                 /*vertical-align: middle;*/
 
                 display: flex;
@@ -240,7 +282,7 @@
                 display: flex;
                 justify-content:center;
                 align-items: center;
-                font-size: 16px !important;
+                font-size: 15px !important;
                 height: 74px !important;
             }
         }
@@ -285,6 +327,9 @@
         }
         .gray-font{
             color: #999999 !important;
+        }
+        .beginning-time {
+            font-weight: 400;
         }
         .Bg-fwwrap {
             background: #F9F9F9;
@@ -484,6 +529,14 @@
             border: none;
         }
 
+        @media (max-width: 992px){
+            .index-fwrap {
+                background: url(./images/HongKong/index-bgwap.png) no-repeat;
+                background-position: center 10px;
+                /*height: 500px;*/
+                background-size: cover;
+            }
+        }
         @media (min-width: 992px){
             #topnav .lang-switch a{
                 padding: 0 8px !important;
@@ -521,6 +574,11 @@
 
         }
         @media only screen and (max-width: 991px) and (min-width: 300px){
+            .clogo-img {
+                /*margin: 50px 0 50px;*/
+                width: 68% !important;
+            }
+
             .past-review {
                 height: 185px;
                 display: inline-block;
@@ -575,6 +633,8 @@
                 right: 35px !important;
                 z-index: 9999;
             }
+
+
         }
         @media only screen and (max-width: 528px){
             .cont-cm .fl {
@@ -594,16 +654,37 @@
                 margin-left: 0 !important;
             }
         }
+
         @media only screen and (max-width: 415px) and (min-width: 300px){
-            .index-fwrap {
-                height: 400px !important;
-                padding-top: 60px;
-                margin-top: 45px !important;
+
+            .mar-left {
+                margin-left: 0 !important;
             }
+
+            .index-fwrap {
+                /*height: 400px !important;*/
+                height: 520px !important;
+                padding-top: 60px;
+                /*margin-top: 25px !important;*/
+            }
+
+            .HK-fwDes {
+                /* text-align: left; */
+                font-size: 13px !important;
+            }
+
             .beginning-timeinfo {
                 font-size: 24px !important;
+                font-weight: 400 !important;
             }
-            .clogo-img{  width: 80% !important;  }
+            .beginning-timeaddr {
+                font-size: 18px !important;
+                color: #FFFFFF;
+                font-weight: lighter;
+            }
+            /*.clogo-img{ */
+                /*width: 80% !important; */
+            /*}*/
 
 
             /*count num*/
@@ -626,6 +707,73 @@
             .Co-organizerBox .Co_con{
                 line-height: 1.2;
             }
+            body .wap-show {
+                display: inline-block !important;
+            }
+            .clogo-img{
+                margin-left: -45px !important;
+
+            }
+        }
+
+        @media  (width: 320px){
+
+        }
+        @media  (width: 375px){
+            .index-fwrap {
+                /* height: 400px !important; */
+                height: 550px !important;
+                /*padding-top: 60px;*/
+                /*margin-top: 25px !important;*/
+            }
+            .clogo-img {
+                /* margin: 50px 0 50px; */
+                width: 55% !important;
+            }
+            .beginning-timeaddr{
+                font-size: 15px !important;
+                font-weight: 400 !important;
+            }
+            .HK-fwDes {
+                /*text-align: left;*/
+                margin-top: -160px !important;
+            }
+            .beginning-timeinfo {
+                font-size: 20px !important;
+                font-weight: 400 !important;
+            }
+            .mar-left{
+                margin-left: 0 !important;
+
+            }
+        }
+        @media  (width: 414px){
+            /*.index-fwrap {*/
+                /*!* height: 400px !important; *!*/
+                /*height: 480px !important;*/
+                /*!*padding-top: 60px;*!*/
+                /*margin-top: 25px !important;*/
+            /*}*/
+            /*.clogo-img {*/
+                /*!* margin: 50px 0 50px; *!*/
+                /*width: 55% !important;*/
+            /*}*/
+            /*.beginning-timeaddr{*/
+                /*font-size: 15px !important;*/
+                /*font-weight: 400 !important;*/
+            /*}*/
+            /*.HK-fwDes {*/
+                /*!*text-align: left;*!*/
+                /*margin-top: -160px !important;*/
+            /*}*/
+            /*.beginning-timeinfo {*/
+                /*font-size: 20px !important;*/
+                /*font-weight: 400 !important;*/
+            /*}*/
+            /*.mar-left{*/
+                /*margin-left: 0 !important;*/
+
+            /*}*/
         }
         @media only screen and (max-width: 1200px) and (min-width: 998px){
             .cont-cm {
@@ -641,9 +789,59 @@
         }
         @media only screen and (max-width: 767px) and (min-width: 416px){
             .index-fwrap {
-                height: 450px !important;
+                /*height: 450px !important;*/
             }
         }
+
+        @media  (max-width: 767px){
+
+            body, .Bg-fwwrap, .copartner-wrap {
+
+                background: #fff !important;
+
+            }
+            .Bg-fwwrap{
+                margin: 20px 0 35px;
+
+            }
+            .partner-wrap {
+
+                background: #F9F9F9; !important;
+
+            }
+
+            .HK-fwDes-wrap{
+                padding: 0 35px;
+            }
+            body .count-wrap.wapshow {
+                /*display: block !important;*/
+                width: 85%;
+                margin: 0 auto;
+            }
+            body.zhlang .count-pc-show {
+                /*display: none !important;*/
+            }
+
+            body .count-wrap.wapshow {
+                /*display: block !important;*/
+            }
+
+            body .count-pc-show  {
+                display: none !important;
+            }
+
+            .HK-fwDes{
+                text-align: left;
+                margin-top: -150px !important;
+                /*margin-top: -6rem !important;*/
+
+            }
+
+            .Co-organizerBoxlist{
+                margin-bottom: 20px !important;
+            }
+        }
+
 
 
         .otherlang .about-wrap .count-wrap .title {
@@ -787,9 +985,9 @@
         <section class="im-welbox index-bgdd text-center container">
             <div class="index-bg">
                 <img data-original="./images/HongKong/il.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy pc-hide">
-                <img data-original="./images/HongKong/il.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy wap-show">
+                <img data-original="./images/HongKong/HK-logowap.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy wap-show">
                 <p class="beginning-time  beginning-timeinfo mar-left" dom-i18n='HK_fwTime'>10-11 August , 2018 </p>
-                <p class="beginning-time mar-left mr-btsapace" dom-i18n='HK_addr'>香港荃湾如心海景酒店 </p>
+                <p class="beginning-time beginning-timeaddr mar-left mr-btsapace" dom-i18n='HK_addr'>香港荃湾如心海景酒店 </p>
                 <!--<a href="./cooperation.html" target="_blank" class="red-btn wap-show mar-left" dom-i18n='qychEntrance'>企业参会<i class="s-icon"></i></a>-->
                 <!--<img src="images/finwise-tokyo/fiwise.png" alt="" class="clogo-img">-->
                 <!--<img src="images/finwise-tokyo/slg.png" alt="" class="clogo-img">-->
@@ -857,8 +1055,17 @@
     <!--purple bg content begin-->
     <section class="Bg-fwwrap">
 
+
+
+            <img src="./images/HongKong/fw-hk.png" alt="" class="count-wrap wapshow zhshow">
+            <img src="./images/HongKong/fw-hk-en.png" alt="" class="count-wrap wapshow enshow">
+
+
+
         <!--about begin-->
-        <div class="about-wrap container">
+        <div class="about-wrap container count-pc-show">
+
+
             <div class="clearfix">
 
                 <div class="row count-wrap data-item">
@@ -914,9 +1121,10 @@
     <!--purple bg content end-->
 
 
-    <section class="bg-white">
-        <!--参会群体 begin-->
-        <section class="container partner-wrap  Co-organizerBox footer-wrap">
+
+    <!--参会群体 begin-->
+    <section class="partner-wrap  Co-organizerBox footer-wrap bg-white">
+        <div class="container">
             <!--<h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>-->
             <h3 class="h2-title spe-tlh3 text-left"  dom-i18n='HK_chqt'>参会群体</h3>
             <div class="Co-organizerBoxlist mar-bt30 clearfix">
@@ -927,14 +1135,15 @@
                 <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_wlw'>物联网</div></div>
                 <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_BLC'>知名区块链项目</div></div>
             </div>
-        </section>
-        <!--参会群体 end-->
+        </div>
     </section>
+    <!--参会群体 end-->
+
 
 
 
     <!--Partners begin-->
-    <section class="container partner-wrap  footer-wrap ">
+    <section class="container partner-wrap copartner-wrap  footer-wrap ">
         <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_tl'>合作伙伴</h3>
         <div class="mar-bt30 clearfix">
             <div class="swatch-a col-md-2 col-sm-2">
