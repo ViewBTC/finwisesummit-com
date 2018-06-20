@@ -2691,6 +2691,7 @@ body{
 		margin: 30px auto 35px;
 		font-weight: 700;
 		text-align: center;
+		text-transform: uppercase;
 	}
 	.union-wrap{
 		padding-top: 20px;
@@ -2707,6 +2708,8 @@ body{
 		.col-md-2 img{
 			@extend .cc-border;
 			margin-bottom: 30px;
+			max-width: 100%;
+			height: auto;
 		}
 		.cc-border{
 			//background: #F0F0F0;
