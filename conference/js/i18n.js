@@ -756,7 +756,7 @@
           Partner_tl:"合作伙伴",
           Partner_GDtl:"钻石协办",
           HK_FWChoose:"FINWISE香港站参会选择",
-          Price_tips:"注：由于数字货币波动较大，此价格仅限于6月20日之前有效，6月20日官网更新最新价格。",
+          Price_tips:"注：由于数字货币波动较大，此价格仅限于7月1日之前有效，7月1日官网更新最新价格。",
 
 
 
@@ -1565,7 +1565,7 @@
           Partner_tl:"PARTNER",
           Partner_GDtl:"Diamond Sponsor",
           HK_FWChoose:"Get Involved In",
-          Price_tips:"Notice: Because of the large fluctuation of digital money, this price is only valid until June 20th, and the official website updates the latest price in June 20th.",
+          Price_tips:"Notice: Because of the large fluctuation of digital money, this price is only valid until July 1st, and the official website updates the latest price in July 1st.",
 
 
       },
