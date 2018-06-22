@@ -105,7 +105,7 @@
         fhgm43: "分会场冠名",
         mtzf44: "媒体专访",
         esyj45: "20分钟独立演讲",
-        bzzt46: "标准展台",
+        bzzt46: "标准展台(规格: 3m*3m)",
         wixz47: "VIP通行证",
         jeeg48: "价格",
         bzzws40: "标准展位招商",
@@ -428,8 +428,8 @@
           nameqzl93:"秦中陵",
           positionqzl93:"日中AI·IoT联盟执行委员长/爱立信日本新技术开发部Director",
 
-          namezj94:"周金博士",
-          positionzj94:"华晋国际AI事业部本部长",
+          namezj94:"周金",
+          positionzj94:"人工智能工学博士，華晋国际AI事业部 本部长",
 
           namedh95:"杜海",
           positiondh95:"火币网区块链研究院数据负责人",
@@ -756,10 +756,41 @@
           Partner_tl:"合作伙伴",
           Partner_GDtl:"钻石协办",
           HK_FWChoose:"FINWISE香港站参会选择",
+          HK_FWChooseTK:"赞助条款",
           Price_tips:"注：由于数字货币波动较大，此价格仅限于7月1日之前有效，7月1日官网更新最新价格。",
 
 
+          namexmz_info:"薛蛮子",
+          positionxmz:"天使投资人",
 
+
+          nameHans:"汉斯 哼瑞",
+          positionHans:"迪拜市政府-金融科技管理局企业家中心副总裁",
+
+
+          nameHanFeng_info:"韩锋",
+          positionHanFeng:"哥伦比亚大学访问研究员，亦来云联合创始人",
+
+
+          nameDujun_info:"杜均",
+          positionDujun:"金色财经 CEO",
+
+          nameCaoNH_info:"曹辉宁",
+          positionCaoNH:"曹辉宁 | 中欧商学院教授、Usechain 创始人 &CEO ",
+
+          nameFLH_info:"费良宏",
+          positionFLH:"亚马逊云首席云计算技术顾问 ",
+
+          nameWuJi:"無極",
+          positionWuJi:"华迎控股集团 董事长",
+
+          nameYangNK:"杨林科",
+          positionYangNK:"比特币钻石中国区顾问",
+
+          ATFuest_tl:"往届演讲嘉宾",
+          Agenda_tl:"香港议程",
+
+          organisers:"主办方",
       },
 
 
@@ -849,7 +880,7 @@
         fhgm43: "Title Sponsorship of Sub-venues",
         mtzf44: "Exclusive Interview",
         esyj45: "20 mins Independent Speech",
-        bzzt46: "Standard Booth",
+        bzzt46: "Standard Booth(3m*3m)",
         wixz47: "VIP Pass",
         jeeg48: "Price",
         bzzws40: "Standard Booth Investment",
@@ -1565,8 +1596,42 @@
           Partner_tl:"PARTNER",
           Partner_GDtl:"Diamond Sponsor",
           HK_FWChoose:"Get Involved In",
+          HK_FWChooseTK:"Sponsorship clause",
           Price_tips:"Notice: Because of the large fluctuation of digital money, this price is only valid until July 1st, and the official website updates the latest price in July 1st.",
 
+
+
+
+          namexmz_info:"Charles Xue",
+          positionxmz:"Angel Investor",
+
+          nameHans:"Hans Henrik Christensen",
+          positionHans:"Dubai Silicon Oasis Authortiy, VP - Dtec",
+
+
+          nameHanFeng_info:"Feng Han",
+          positionHanFeng:"Founder of ELA",
+
+
+          nameDujun_info:"Du Jun",
+          positionDujun:"Jinse CEO",
+
+          nameCaoNH:"Cao Hui Ning",
+          positionCaoNH:"Professor of CEIBS, Founder &CEO of Usechain ",
+
+          nameFLH_info:"Lianghong Fei ",
+          positionFLH:"Chief Technical Evangelist, Amazon Web Services",
+
+          nameWuJi:"Jackie Wu",
+          positionWuJi:"Chairman of HuaYing Holding Group",
+
+          nameYangNK:"linke Yang",
+          positionYangNK:"Consultant of BTC Diamond",
+
+          ATFuest_tl:"Past Guest speaker",
+          Agenda_tl:"HongKong Agenda",
+
+          organisers:"Organisers",
 
       },
       jap: {

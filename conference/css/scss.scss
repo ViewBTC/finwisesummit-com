@@ -96,9 +96,11 @@ body{
 //wap style begin
 
 //.wap-show,
- .zhlang .zhshow, .otherlang  .enshow{
-	display: block !important;
-	//display: inline-block !important;
+// .zhlang .zhshow ,
+ .otherlang  .enshow{
+	 display: inline-block !important;
+	//display: block !important;
+
 }
 //.pc-hide,
 .zhlang .enshow, .otherlang  .zhshow{
@@ -122,6 +124,10 @@ body{
 
 .bg-white {
 	background-color: #fff;
+}
+
+.bg-gray {
+	background-color: #F9F9F9;
 }
 
 .cc-border{
@@ -2804,7 +2810,11 @@ body{
 		*{
 			font-weight: lighter;
 			line-height: 2.2;
+			//display: inline-block;
 		}
+	}
+	.left-emailbox{
+		width: 248px;
 	}
 	.contact-ussty{
 		margin-bottom: 20px;
@@ -4785,4 +4795,6 @@ body.zhlang {
 	}
 
 }
-
+.footer-spewrap *{
+	letter-spacing: 1px;
+}

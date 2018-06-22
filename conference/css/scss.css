@@ -82,8 +82,8 @@ body {
     .otherlang .show-ft.active .col-md-2 {
       display: block !important; }
 
-.zhlang .zhshow, .otherlang .enshow {
-  display: block !important; }
+.otherlang .enshow {
+  display: inline-block !important; }
 
 .zhlang .enshow, .otherlang .zhshow {
   display: none !important; }
@@ -98,6 +98,9 @@ body {
 
 .bg-white {
   background-color: #fff; }
+
+.bg-gray {
+  background-color: #F9F9F9; }
 
 .cc-border, .partner-wrap .col-md-2 img {
   background: #F0F0F0;
@@ -1383,6 +1386,9 @@ body {
     font-weight: lighter;
     line-height: 2.2; }
 
+.left-emailbox {
+  width: 248px; }
+
 .contact-ussty {
   margin-bottom: 20px; }
   .contact-ussty dt {
@@ -2371,5 +2377,8 @@ body.zhlang .zh-hide-block {
 .otherlang .hotel-content {
   display: block !important;
   opacity: 1; }
+
+.footer-spewrap * {
+  letter-spacing: 1px; }
 
 /*# sourceMappingURL=scss.css.map */

@@ -1,0 +1,85 @@
+.zhlang .zhshow {
+  display: inline-block !important; }
+
+.otherlang .enshow {
+  display: inline-block !important; }
+
+.text-uppercase {
+  text-transform: uppercase; }
+
+.otherlang * {
+  letter-spacing: .6px; }
+
+@media (width: 414px) {
+  .zbf-tl {
+    margin: 50px 0 30px !important; } }
+@media (max-width: 375px) {
+  .otherlang #topnav .logo img {
+    width: 120px !important; } }
+@media (max-width: 474px) {
+  .btn-demo {
+    height: 32px;
+    line-height: 32px;
+    padding: 0 25px;
+    border-radius: 84px;
+    display: inline-block;
+    font-size: 12px; } }
+@media (min-width: 475px) {
+  .btn-demo {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 50px;
+    border-radius: 84px;
+    display: inline-block; } }
+@media (max-width: 768px) {
+  .pc-show {
+    display: none !important; }
+
+  .wap-show {
+    display: block !important; }
+
+  .HK-fwDes-wrap.bg-gray {
+    background-color: #fff !important; }
+
+  .otherlang .guest-item .col-md-2 {
+    height: 285px !important; } }
+@media (min-width: 769px) {
+  .pc-show {
+    display: block !important; }
+
+  .wap-show {
+    display: none !important; } }
+@media (max-width: 991px) {
+  .Agenda-cont .lazy {
+    margin-bottom: 25px; } }
+@media (min-width: 992px) {
+  .clogo-img {
+    width: 785px; }
+
+  .Agenda-cont .lazy {
+    max-width: 380px; } }
+.font32 {
+  font-size: 32px !important; }
+
+.zbf-tl {
+  margin: 90px 0 30px; }
+  .zbf-tl .ZBF-tl {
+    margin: 0 8px; }
+  .zbf-tl .lr-icon {
+    width: 22px;
+    height: 9px; }
+
+.zbf-img {
+  width: 90px;
+  height: 30px; }
+  .zbf-img:nth-child(1), .zbf-img.first-ch {
+    margin-right: 40px; }
+  .zbf-img:first-child {
+    margin-right: 40px; }
+
+.AT-group .AT-Groupimg {
+  max-width: 760px;
+  width: 100%;
+  margin: 20px  0 80px 0; }
+
+/*# sourceMappingURL=HK-common.css.map */

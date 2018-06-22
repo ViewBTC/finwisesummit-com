@@ -15,14 +15,57 @@
     <link rel="apple-touch-icon" sizes="152x152" href="images/logo-icon/finwise152.png">
     <link rel="stylesheet" href="css/bundle.css">
     <link rel="stylesheet" href="css/xh-style.css">
-    <link rel="stylesheet" href="css/scss.min.css">
+    <link rel="stylesheet" href="css/scss.css">
+    <!--<link rel="stylesheet" href="css/scss.min.css">-->
+    <link rel="stylesheet" href="css/HK-common.css">
     <style type="text/css">
         #topnav.stick .navigation-menu > li > a:hover{
             color: #f9297d;
         }
 
-        .foot-p p{
-            color: #fff;
+        /*.foot-p p{*/
+            /*color: #fff;*/
+        /*}*/
+        .guest-item .pl-info {
+            font-size: 14px;
+            color: rgba(51,51,51,0.50);
+            letter-spacing: .4px;
+            /*margin-top: 10px;*/
+            /*overflow: hidden;*/
+            /*display: -webkit-box;*/
+            /*text-overflow: ellipsis;*/
+            /*-webkit-line-clamp: 7;*/
+            /*-webkit-box-orient: vertical;*/
+        }
+
+        .guest-item .col-md-2.showimg {
+            /*display: block;*/
+            padding: 0 8px;
+        }
+
+        .guest-item .photo-dbbox {
+            /*border-radius: 50%;*/
+            /*max-width: 100%;*/
+            /*width: 126px;*/
+            padding: 0;
+            /*margin: 0 auto;*/
+            border: 4px solid rgb(105, 152, 255);
+
+        }
+
+        .guest-item img {
+            border: none;
+            /*max-width: inherit;*/
+            width: 100%;
+        }
+        .guest-item .col-md-2 {
+            /*text-align: center;*/
+            /*margin-bottom: 20px;*/
+            /*height: 262px;*/
+            display: block;
+        }
+        .otherlang .guest-item .col-md-2 {
+            height: 315px;
         }
 
         .lang-select a:hover{
@@ -106,23 +149,44 @@
         }
 
         @media (width: 768px){
+            .index-fwrap {
+                height: 1000px !important;
+                /*padding-top: 120px !important;*/
+            }
+
             .beginning-time {
                  font-size: 24px;
                 /* color: #FFFFFF; */
                 /* font-weight: lighter; */
                 /*font-weight: 400 !important;*/
             }
-            .HK-fwDes{
-                width: 580px;
-                margin: 0 auto;
-            }
+            /*.HK-fwDes{*/
+                /*width: 580px;*/
+                /*margin: 0 auto;*/
+            /*}*/
             .partner-wrap .col-md-2 img.lazy {
                 height: 86px;
+            }
+
+            .spe-tlh3 {
+                font-size: 24px !important;
+                margin: 45px auto 40px  !important;
             }
         }
         @media (min-width: 768px){
             .count-wrap.wapshow{
                 display: none !important;
+            }
+
+
+
+            .tb-qywrap table tr td:first-child{
+                /*border-left: none;*/
+                padding-left: 15px;
+            }
+
+            .tb-qywrap table .type-sv {
+                padding-left: 8px;
             }
 
         }
@@ -161,9 +225,10 @@
 
             .HK-fwDes {
                 font-size: 14px !important;
-                padding: 20px 25px !important;
+                padding: 20px 0px !important;
                 line-height: 1.8 !important;
-                margin-bottom: 20px !important;
+                /*margin-bottom: 20px !important;*/
+                margin:  0!important;
             }
             .zhlang  .HK-fwDes {
              text-align: justify;
@@ -172,11 +237,11 @@
              .HK-fwDes {
                 /*letter-spacing: 0.4px;*/
             }
-            .spe-tlh3 {
-                font-size: 22px !important;
-                margin: 35px auto 25px  !important;
-            }
 
+
+            .HK-fwDes-wrap .spe-tlh3 {
+                margin-bottom: 0 !important;
+            }
             .tb-qywrap, .cont-imwrap {
                 margin: 0px 0 !important;
             }
@@ -292,9 +357,9 @@
                 font-size: 16px !important;
 
             }
-            .HK-fwDes-wrap.container {
-                width: 920px
-            }
+            /*.HK-fwDes-wrap.container {*/
+                /*width: 920px*/
+            /*}*/
 
             .Co-organizerBox .Co_con{
                 display: flex;
@@ -304,6 +369,23 @@
                 height: 74px !important;
                 line-height: 1.2;
              }
+
+
+            .HK-fwDes{
+                /*font-size: 18px;*/
+                /*color: rgba(102,102,102,0.99);*/
+                /*text-align: center;*/
+                /*line-height: 34px;*/
+                padding:0  50px;
+                /*margin:35px 0 ;*/
+                /*background:  #FFFFFF;*/
+                /*margin-top: -110px;*/
+                /*margin-bottom: 40px;*/
+                /*box-shadow: 0 2px 14px 0 rgba(0,0,0,0.17);*/
+                /*border-radius: 8px;*/
+                /*position: relative;*/
+                /*z-index: 1000;*/
+            }
         }
 
         @media only screen and (max-width: 1450px) and (min-width: 992px){
@@ -321,7 +403,8 @@
         body {
             /*background: #F0F0F0;*/
             min-width: 300px;
-            background: #F9F9F9;
+            background: #fff;
+            /*background: #F9F9F9;*/
             /*line-height: 1;*/
             /*font-family: 'Montserrat', sans-serif;*/
         }
@@ -340,23 +423,25 @@
         .index-fwrap {
             background: url(./images/HongKong/index-bg.jpg) no-repeat;
             background-position: center 10px;
-            height: 765px;
+            /*height: 765px;*/
+            height: 875px;
             background-size: cover;
             margin-top: 60px;
         }
         .HK-fwDes{
             font-size: 18px;
             color: rgba(102,102,102,0.99);
-            text-align: center;
+            /*text-align: center;*/
             line-height: 34px;
-            padding: 35px 50px;
-            background:  #FFFFFF;
-            margin-top: -110px;
-            margin-bottom: 40px;
-            box-shadow: 0 2px 14px 0 rgba(0,0,0,0.17);
-            border-radius: 8px;
-            position: relative;
-            z-index: 1000;
+            /*padding:0  50px;*/
+            margin:35px 0 ;
+            /*background:  #FFFFFF;*/
+            /*margin-top: -110px;*/
+            /*margin-bottom: 40px;*/
+            /*box-shadow: 0 2px 14px 0 rgba(0,0,0,0.17);*/
+            /*border-radius: 8px;*/
+            /*position: relative;*/
+            /*z-index: 1000;*/
         }
 
 
@@ -393,8 +478,12 @@
 
         }
 
+        /*.tb-qywrap table .type-sv {*/
+            /*padding-left: 8px;*/
+        /*}*/
         .tb-qywrap table tr td:first-child{
             border-left: none;
+            /*padding-left: 15px;*/
         }
         .tb-qywrap table tr.last-tr td{
             border-bottom: none;
@@ -459,6 +548,10 @@
              margin: 0;
             overflow: hidden;
             width: 100%;
+            overflow: hidden;
+            max-width: 1030px;
+            /*text-align: center;*/
+            margin: 0 auto;
         }
 
         .about-wrap .count-wrap .title {
@@ -491,10 +584,22 @@
         .spe-tlh3 {
             color: #4F2F84;
             margin: 55px auto 50px;
-            font-weight: 700;
+            font-weight: 500;
             text-align: center;
             font-size: 32px;
             color: #4A556D;
+
+        }
+        .HK-fwDes-wrap .spe-tlh3 {
+            /*color: #4F2F84;*/
+            margin: 55px auto 0;
+            /*font-weight: 500;*/
+            /*text-align: center;*/
+            /*font-size: 32px;*/
+            /*color: #4A556D;*/
+        }
+        .about-wrap{
+            margin:15px auto 65px;
         }
 
         .mar-bt30{
@@ -531,13 +636,17 @@
 
         @media (max-width: 992px){
             .index-fwrap {
-                background: url(./images/HongKong/index-bgwap.png) no-repeat;
+                background: url(./images/HongKong/index-bgwap.jpg) no-repeat;
                 background-position: center 10px;
                 /*height: 500px;*/
                 background-size: cover;
             }
         }
         @media (min-width: 992px){
+            /*.clogo-img {*/
+                /*width: 750px;*/
+            /*}*/
+
             #topnav .lang-switch a{
                 padding: 0 8px !important;
                 margin: 0 13px !important;
@@ -578,9 +687,13 @@
 
         }
         @media only screen and (max-width: 991px) and (min-width: 300px){
+            body.zhlang .wap-show {
+                /*display: none !important;*/
+            }
+
             .clogo-img {
                 /*margin: 50px 0 50px;*/
-                width: 68% !important;
+                width: 80% !important;
             }
 
             .past-review {
@@ -627,10 +740,9 @@
                 height: 70px;
             }
 
-            body .wap-show {
-                display: inline-block !important;
-
-            }
+            /*body .wap-show {*/
+                /*display: inline-block !important;*/
+            /*}*/
             #topnav .tikets-wapbox {
                 position: absolute;
                 top: 10px;
@@ -667,7 +779,7 @@
 
             .index-fwrap {
                 /*height: 400px !important;*/
-                height: 520px !important;
+                height: 610px !important;
                 padding-top: 60px;
                 /*margin-top: 25px !important;*/
             }
@@ -714,9 +826,16 @@
             body .wap-show {
                 display: inline-block !important;
             }
-            .clogo-img{
-                margin-left: -45px !important;
+            /*.clogo-img{*/
+                /*margin-left: -45px !important;*/
 
+            /*}*/
+
+
+
+            .guest-item .guest-itembox .col-md-2 {
+                width: 50%;
+                height: 262px !important;
             }
         }
 
@@ -747,7 +866,7 @@
             }
             .HK-fwDes {
                 /*text-align: left;*/
-                margin-top: -160px !important;
+                /*margin-top: -160px !important;*/
             }
             .beginning-timeinfo {
                 font-size: 20px !important;
@@ -802,9 +921,14 @@
                 padding: 40px 25px;
             }
         }
+        @media only screen and (max-width: 767px) and (min-width: 552px){
+            .index-fwrap {
+                height:780px !important;
+            }
+        }
         @media only screen and (max-width: 767px) and (min-width: 416px){
             .index-fwrap {
-                /*height: 450px !important;*/
+                /*height:690px !important;*/
             }
         }
 
@@ -826,11 +950,11 @@
             }
 
             .HK-fwDes-wrap{
-                padding: 0 35px;
+                /*padding: 0 35px;*/
             }
             body .count-wrap.wapshow {
                 /*display: block !important;*/
-                width: 85%;
+                width: 95%;
                 margin: 0 auto;
             }
             body.zhlang .count-pc-show {
@@ -847,7 +971,7 @@
 
             .HK-fwDes{
                 text-align: left;
-                margin-top: -150px !important;
+                /*margin-top: -150px !important;*/
                 /*margin-top: -6rem !important;*/
 
             }
@@ -859,6 +983,17 @@
 
             .Co-organizerBoxlist{
                 margin-bottom: 20px !important;
+            }
+
+
+            .spe-tlh3 {
+                font-size: 20px !important;
+                margin: 45px auto 40px  !important;
+            }
+
+
+            .guest-item .pl-info {
+                font-size: 12px !important;
             }
         }
 
@@ -1011,10 +1146,35 @@
         <!--welcome begin-->
         <section class="im-welbox index-bgdd text-center container">
             <div class="index-bg">
-                <img data-original="./images/HongKong/il.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy pc-hide">
-                <img data-original="./images/HongKong/HK-logowap.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy wap-show">
-                <p class="beginning-time  beginning-timeinfo mar-left" dom-i18n='HK_fwTime'>10-11 August , 2018 </p>
-                <p class="beginning-time beginning-timeaddr mar-left mr-btsapace" dom-i18n='HK_addr'>香港荃湾如心海景酒店 </p>
+                <div class="pc-show">
+                    <img data-original="./images/HongKong/PC-zh-logo-slogan.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy zhshow">
+                    <img data-original="./images/HongKong/PC-en-logo-slogan.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy enshow">
+                </div>
+
+                <div class="wap-show">
+                    <img data-original="./images/HongKong/WAP-zh-logo-slogan.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy zhshow">
+                    <img data-original="./images/HongKong/WAP-en-logo-slogan.png" alt="2018纷智区块链峰会-东京" class="clogo-img lazy enshow">
+                </div>
+
+                <!--<a href="javascript:;" target="_self" class="lang-select fg-line tikets-wapbox" >-->
+                    <!--<span class="gettiketsbox gray-nouse" dom-i18n='hqmprg66' style="width: auto;">获取门票</span>-->
+                <!--</a>-->
+
+                <a href="javascript:;" target="_blank" class="fg-line">
+                    <span class="gettiketsbox btn-demo" dom-i18n="hqmprg66">获取门票</span>
+                </a>
+
+                <div class="zbf-tl">
+                    <img src="./images/HongKong/left-icon.png" class="lr-icon">
+                    <span class="color-white text-uppercase ZBF-tl" dom-i18n='organisers'>主办方</span>
+                    <img src="./images/HongKong/right-icon.png"  class="lr-icon">
+
+                </div>
+                <img data-original="./images/HongKong/FINWEXl.png" alt="" class="zbf-img lazy first-ch">
+                <img data-original="./images/HongKong/GOLDFORDFH.png" alt="" class="zbf-img lazy">
+                <!--<p class="beginning-time  beginning-timeinfo mar-left" dom-i18n='HK_fwTime'>10-11 August , 2018 </p>-->
+                <!--<p class="beginning-time beginning-timeaddr mar-left mr-btsapace" dom-i18n='HK_addr'>香港荃湾如心海景酒店 </p>-->
+
                 <!--<a href="./cooperation.html" target="_blank" class="red-btn wap-show mar-left" dom-i18n='qychEntrance'>企业参会<i class="s-icon"></i></a>-->
                 <!--<img src="images/finwise-tokyo/fiwise.png" alt="" class="clogo-img">-->
                 <!--<img src="images/finwise-tokyo/slg.png" alt="" class="clogo-img">-->
@@ -1071,241 +1231,481 @@
 
 
 
-<!--HK finwise Des begin-->
-<div class="HK-fwDes-wrap container clearfix">
-    <p class="HK-fwDes" dom-i18n='HK_fwDes'>
-        Finwise Summit 纷智全球峰会，汇集金融科技行业的优秀企业、行业专家、投资机构，共同交流探讨未来金融科技的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进金融科技及区块链行业的长期稳健发展。
-    </p>
-</div>
-<!--HK finwise Des end-->
-
-    <!--purple bg content begin-->
-    <section class="Bg-fwwrap text-center">
-
-        <img src="./images/HongKong/fw-hk.png" alt="" class="count-wrap wapshow zhshow">
-        <img src="./images/HongKong/fw-hk-en.png" alt="" class="count-wrap wapshow enshow">
-
-        <!--about begin-->
-        <div class="about-wrap container count-pc-show">
+    <!--HK finwise Des begin-->
+    <div class="HK-fwDes-wrap bg-gray clearfix">
+        <div class="container">
+            <h2 class="about-fw h2-Ctl spe-tlh3 text-center font32" dom-i18n="gydh17">关于大会</h2>
+            <p class="HK-fwDes" dom-i18n='HK_fwDes'>
+                Finwise Summit 纷智全球峰会，汇集金融科技行业的优秀企业、行业专家、投资机构，共同交流探讨未来金融科技的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进金融科技及区块链行业的长期稳健发展。
+            </p>
 
 
-            <div class="clearfix">
+            <!--count begin-->
+            <div class="Bg-fwwrap text-center">
 
-                <div class="row count-wrap data-item">
-                    <ul class="swatch-a col-md-1">
-                        <!--<li class="number"> 3,000+ </li>-->
-                        <li class="title" dom-i18n='chjb13'> 参会嘉宾 </li>
-                        <li class="number"> 3000+ </li>
-                        <!--<li class="number"> <img src="images/finwise-tokyo/2500.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/2500.png"> </li>-->
-                    </ul>
-                    <ul class="swatch-a col-md-1">
-                        <!--<li class="number"> 3,000+ </li>-->
-                        <li class="title" dom-i18n='adviceperson'> 意见领袖 </li>
-                        <li class="number"> 80+ </li>
-                        <!--<li class="number"> <img src="images/finwise-tokyo/2500.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/2500.png"> </li>-->
-                    </ul>
-                    <!--<ul class="swatch-a col-md-1">-->
-                        <!--&lt;!&ndash;<li class="number"> 80+ </li>&ndash;&gt;-->
-                        <!--<li class="number"> <img src="images/finwise-tokyo/80.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/80.png"> </li>-->
-                        <!--<li class="title"> 金融科技意见领袖 </li>-->
-                    <!--</ul>-->
-                    <ul class="swatch-a  col-md-1">
-                        <!--<li class="number"> 100+ </li>-->
-                        <li class="title" dom-i18n='tzjg14'> 投资机构 </li>
-                        <li class="number"> 100+</li>
-                        <!--<li class="number"> <img src="images/finwise-tokyo/100.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/100.png"> </li>-->
-                    </ul>
-                    <ul class="swatch-d col-md-1">
-                        <!--<li class="number"> 70+ </li>-->
-                        <li class="title" dom-i18n='mtbd15'>媒体参与报道 </li>
-                        <li class="number"> 70+ </li>
-                        <!--<li class="number"> <img src="images/finwise-tokyo/70.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/70.png"> </li>-->
-                    </ul>
-                    <ul class="swatch-e col-md-1">
-                        <!--<li class="number"> 60+ </li>-->
-                        <li class="title" dom-i18n='qqgs16'> 全球区块链公司 </li>
-                        <li class="number">60+ </li>
-                        <!--<li class="number"> <img src="images/finwise-tokyo/60.png"> </li>-->
-                        <!--<li class="number wap-num"> <img src="images/finwise-tokyo/number/60.png"> </li>-->
-                    </ul>
+                <img src="./images/HongKong/fw-WAPzh.png" alt="" class="count-wrap wapshow zhshow">
+                <img src="./images/HongKong/fw-WAPen.jpg" alt="" class="count-wrap wapshow enshow">
+
+                <!--about begin-->
+                <div class="about-wrap container count-pc-show">
+
+
+                    <div class="clearfix">
+
+                        <div class="row count-wrap data-item">
+                            <img src="./images/HongKong/fw-PCzh.png" alt="" class="count-wrap  zhshow">
+                            <img src="./images/HongKong/fw-PCen.jpg" alt="" class="count-wrap  enshow">
+
+                            <!--<ul class="swatch-a col-md-1">-->
+                                <!--&lt;!&ndash;<li class="number"> 3,000+ </li>&ndash;&gt;-->
+                                <!--<li class="title" dom-i18n='chjb13'> 参会嘉宾 </li>-->
+                                <!--<li class="number"> 3000+ </li>-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/2500.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/2500.png"> </li>&ndash;&gt;-->
+                            <!--</ul>-->
+                            <!--<ul class="swatch-a col-md-1">-->
+                                <!--&lt;!&ndash;<li class="number"> 3,000+ </li>&ndash;&gt;-->
+                                <!--<li class="title" dom-i18n='adviceperson'> 意见领袖 </li>-->
+                                <!--<li class="number"> 80+ </li>-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/2500.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/2500.png"> </li>&ndash;&gt;-->
+                            <!--</ul>-->
+                            <!--&lt;!&ndash;<ul class="swatch-a col-md-1">&ndash;&gt;-->
+                                <!--&lt;!&ndash;&lt;!&ndash;<li class="number"> 80+ </li>&ndash;&gt;&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/80.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/80.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="title"> 金融科技意见领袖 </li>&ndash;&gt;-->
+                            <!--&lt;!&ndash;</ul>&ndash;&gt;-->
+                            <!--<ul class="swatch-a  col-md-1">-->
+                                <!--&lt;!&ndash;<li class="number"> 100+ </li>&ndash;&gt;-->
+                                <!--<li class="title" dom-i18n='tzjg14'> 投资机构 </li>-->
+                                <!--<li class="number"> 100+</li>-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/100.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/100.png"> </li>&ndash;&gt;-->
+                            <!--</ul>-->
+                            <!--<ul class="swatch-d col-md-1">-->
+                                <!--&lt;!&ndash;<li class="number"> 70+ </li>&ndash;&gt;-->
+                                <!--<li class="title" dom-i18n='mtbd15'>媒体参与报道 </li>-->
+                                <!--<li class="number"> 70+ </li>-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/70.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/70.png"> </li>&ndash;&gt;-->
+                            <!--</ul>-->
+                            <!--<ul class="swatch-e col-md-1">-->
+                                <!--&lt;!&ndash;<li class="number"> 60+ </li>&ndash;&gt;-->
+                                <!--<li class="title" dom-i18n='qqgs16'> 全球区块链公司 </li>-->
+                                <!--<li class="number">60+ </li>-->
+                                <!--&lt;!&ndash;<li class="number"> <img src="images/finwise-tokyo/60.png"> </li>&ndash;&gt;-->
+                                <!--&lt;!&ndash;<li class="number wap-num"> <img src="images/finwise-tokyo/number/60.png"> </li>&ndash;&gt;-->
+                            <!--</ul>-->
+                        </div>
+                    </div>
+                    <!--end list-->
+
                 </div>
-            </div>
-            <!--end list-->
+                <!--about end-->
+
+              </div>
+            <!--count end-->
 
         </div>
-        <!--about end-->
-
-      </section>
-    <!--purple bg content end-->
-
+    </div>
+    <!--HK finwise Des end-->
 
 
     <!--参会群体 begin-->
-    <section class="partner-wrap  Co-organizerBox footer-wrap bg-white">
+    <section class="AT-group Co-organizerBox footer-wrap bg-white text-center">
         <div class="container">
             <!--<h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>-->
             <h3 class="h2-title spe-tlh3 text-left"  dom-i18n='HK_chqt'>参会群体</h3>
-            <div class="Co-organizerBoxlist mar-bt30 clearfix">
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_pr'>金融科技行业领袖企业</div></div>
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_jg'>金融业风险投资机构</div></div>
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_center'>互联网数据中心</div></div>
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_websafe'>网络安全</div></div>
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_wlw'>物联网</div></div>
-                <div class="col-md-4"><div class="Co_con" dom-i18n='Attend_BLC'>知名区块链项目</div></div>
-            </div>
+            <!--<div class="Co-organizerBoxlist mar-bt30 clearfix">-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_pr'>金融科技行业领袖企业</div></div>-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_jg'>金融业风险投资机构</div></div>-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_center'>互联网数据中心</div></div>-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_websafe'>网络安全</div></div>-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_wlw'>物联网</div></div>-->
+                <!--<div class="col-md-4"><div class="Co_con" dom-i18n='Attend_BLC'>知名区块链项目</div></div>-->
+            <!--</div>-->
+            <img data-original="./images/HongKong/AT-Group.png" alt="" class="lazy AT-Groupimg">
+
         </div>
     </section>
     <!--参会群体 end-->
 
 
     <!--GOlD Partners begin-->
-    <section class="container partner-wrap copartner-wrap  footer-wrap ">
-        <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_GDtl'>钻石协办</h3>
-        <div class="Partner_GDtl mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Tencent.png" alt="Tencent" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/PINGAN.png" alt="PINGAN" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Huobilogo.png" alt="Huobi" class="lazy">
+    <section class="partner-wrap copartner-wrap  footer-wrap bg-gray">
+        <div class="container">
+            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_GDtl'>钻石协办</h3>
+            <div class="Partner_GDtl mar-bt30 clearfix">
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Tencent.png" alt="Tencent" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/PINGAN.png" alt="PINGAN" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Huobilogo.png" alt="Huobi" class="lazy">
+                </div>
             </div>
         </div>
     </section>
     <!--GOlD Partners end-->
 
     <!--Partners begin-->
-    <section class="container partner-wrap copartner-wrap  footer-wrap ">
-        <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_tl'>合作伙伴</h3>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/CCBClogo.png" alt="CCBC" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/PWC.png" alt="PWC" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/ColonyCapitallogo.png" alt="ColonyCapital" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/UBS.png" alt="UBS" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Canaan.png" alt="Canaan" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/BTC.png" alt="BTC" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Huobib.png" alt="Huobi" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/BTCC.png" alt="BTCC" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Bian.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/jscj.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Preangel.png" alt="Preangel" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/BITKAN.png" alt="BITKAN" class="lazy">
-            </div>
+    <section class="partner-wrap copartner-wrap  footer-wrap bg-gray">
+        <div class="container">
+            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_tl'>合作伙伴</h3>
+            <div class="mar-bt30 clearfix">
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/CCBClogo.png" alt="CCBC" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/PWC.png" alt="PWC" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/ColonyCapitallogo.png" alt="ColonyCapital" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/UBS.png" alt="UBS" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Canaan.png" alt="Canaan" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/BTC.png" alt="BTC" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Huobib.png" alt="Huobi" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/BTCC.png" alt="BTCC" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Bian.png" alt="" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/jscj.png" alt="" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Preangel.png" alt="Preangel" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/BITKAN.png" alt="BITKAN" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/FINWEX.png" alt="FINWEX" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/onetv.png" alt="onetv" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/FINWEX.png" alt="FINWEX" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/onetv.png" alt="onetv" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/wewe.png" alt="we" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/wewe.png" alt="we" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/aws.png" alt="aws" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/bikuaibao.png" alt="bikuaibao" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/hxcj.png" alt="" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/aws.png" alt="aws" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/bikuaibao.png" alt="bikuaibao" class="lazy">
+                </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/hxcj.png" alt="" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/DEDINGG.png" alt="DEDING" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/DEDINGG.png" alt="DEDING" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/LiangX.png" alt="LiangX" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/LiangX.png" alt="LiangX" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/Chain.png" alt="Chain" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/Chain.png" alt="Chain" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/18qu.png" alt="18qu" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/18qu.png" alt="18qu" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/HH.png" alt="HH" class="lazy">
-            </div>
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/HH.png" alt="HH" class="lazy">
+                </div>
 
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/HongKong/coinegg.png" alt="coinegg" class="lazy">
-            </div>
-
-
+                <div class="swatch-a col-md-2 col-sm-2">
+                    <img data-original="./images/HongKong/coinegg.png" alt="coinegg" class="lazy">
+                </div>
 
 
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/InvestHK.png" alt="InvestHK" class="lazy">-->
+
+
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/InvestHK.png" alt="InvestHK" class="lazy">-->
+                <!--</div>-->
+
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/Huobi.png" alt="Huobi" class="lazy">-->
+                <!--</div>-->
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/coinegg.png" alt="coinegg" class="lazy">-->
+                <!--</div>-->
+
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/Canaan.png" alt="Canaan" class="lazy">-->
+                <!--</div>-->
+
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/jinsecaijin.png" alt="jinsecaijin" class="lazy">-->
+                <!--</div>-->
+                <!--<div class="swatch-a col-md-2 col-sm-2">-->
+                    <!--<img data-original="./images/HongKong/BITKAN.png" alt="BITKAN" class="lazy">-->
+                <!--</div>-->
+
+            </div>
+            <!--<div class="swatch-a col-md-3 col-sm-3">-->
+                <!--<img data-original="images/finwise/new/ibca-zh.png" alt="IBCA" class="lazy zhshow">-->
+                <!--<img data-original="images/finwise/new/ibca-en.png" alt="IBCA" class="lazy enshow">-->
             <!--</div>-->
-
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/Huobi.png" alt="Huobi" class="lazy">-->
-            <!--</div>-->
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/coinegg.png" alt="coinegg" class="lazy">-->
-            <!--</div>-->
-
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/Canaan.png" alt="Canaan" class="lazy">-->
-            <!--</div>-->
-
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/jinsecaijin.png" alt="jinsecaijin" class="lazy">-->
-            <!--</div>-->
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/HongKong/BITKAN.png" alt="BITKAN" class="lazy">-->
-            <!--</div>-->
-
         </div>
-        <!--<div class="swatch-a col-md-3 col-sm-3">-->
-            <!--<img data-original="images/finwise/new/ibca-zh.png" alt="IBCA" class="lazy zhshow">-->
-            <!--<img data-original="images/finwise/new/ibca-en.png" alt="IBCA" class="lazy enshow">-->
-        <!--</div>-->
-
     </section>
     <!--Partners end-->
+
+    <!--往届演讲嘉宾 begin-->
+
+
+
+    <!--参会嘉宾 begin-->
+    <section class="xh-container guest-item bg-white">
+        <div class="container">
+            <!--<div class="text-center">-->
+                <!--<h2 class="h2-tl text-center"><span class="h2-tlgt" dom-i18n='chjb13'>参会嘉宾</span></h2>-->
+            <!--</div>-->
+            <h3 class="h2-title spe-tlh3 text-left" dom-i18n="ATFuest_tl">往届演讲嘉宾</h3>
+
+            <div class="guest-itembox row">
+
+                    <div class="col-md-2">
+                        <div class="photo-dbbox">
+                            <img data-original="../images/finwise/speaker/liuyanshen.png" alt="刘彦燊" class="lazy party-pl">
+                        </div>
+                        <div class="foot-p">
+                            <p class="plname-info" dom-i18n='lysn76'>刘彦燊</p>
+                            <p class="pl-info" dom-i18n='lysd77'>Colony Capital柯罗尼资本亚太区董事总经理 WE+创始人兼首席执行官CEO </p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-2">
+                        <div class="photo-dbbox">
+                            <img data-original="images/finwise/xuemanzi.jpg" alt="JC Oliver" class="lazy party-pl">
+                        </div>
+                        <div class="foot-p">
+                            <p class="plname-info" dom-i18n='namexmz_info'>薛蛮子</p>
+                            <p class="pl-info" dom-i18n='positionxmz'>天使投资人</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-2">
+                        <div class="photo-dbbox">
+                            <img data-original="./images/finwise/speaker/JC-Oliver.png" alt="JC Oliver" class="lazy party-pl">
+                        </div>
+                        <div class="foot-p">
+                            <p class="plname-info" dom-i18n='namejco75'>JC Oliver</p>
+                            <p class="pl-info" dom-i18n='positionjco75'>Global Chief Creative Officer at Unlockd</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-2">
+                        <div class="photo-dbbox">
+                            <img data-original="../images/finwise/speaker/Johnny.png" alt="" class="lazy party-pl">
+                        </div>
+                        <div class="foot-p">
+                            <p class="plname-info" dom-i18n='nameswjz72'>吴杰庄</p>
+                            <p class="pl-info" dom-i18n='positionwjz72'>高峰集团董事局主席 全国政协委员、香港青年联会首席参事</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-2">
+                        <div class="photo-dbbox">
+                            <img data-original="../images/finwise/speaker/Marwan.jpg" alt="Marwan" class="lazy party-pl">
+                        </div>
+                        <div class="foot-p">
+                            <p class="plname-info" dom-i18n='nameMarwan115'>Marwan</p>
+                            <p class="pl-info" dom-i18n='positionMarwan115'>Dr. Marwan Al-Zarooni | Founder and CEO of Dubai Blockchain Centr</p>
+                        </div>
+                    </div>
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/HongKong/guests/Hans.png" alt="Marwan" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameHans'>汉斯 亨瑞 克里斯滕森</p>
+                        <p class="pl-info" dom-i18n='positionHans'>迪拜市政府-金融科技管理局企业家中心副总裁</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="images/finwise/dujun.jpg" alt="Marwan" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameDujun_info'>杜均</p>
+                        <p class="pl-info" dom-i18n='positionDujun'>金色财经 CEO</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/speaker/zhouhongqi.png" alt="Chou Hung Chi" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namezhq74'>周宏骐</p>
+                        <p class="pl-info" dom-i18n='positionzhq74'>新加坡国立大学教授, 香港科技大学管理学院兼任教授, 北京大学国家发展研究院特聘教授</p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/hanfeng.jpg" alt="Hanfeng" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameHans'>韩锋</p>
+                        <p class="pl-info" dom-i18n='positionHans'>哥伦比亚大学访问研究员，亦来云联合创始人</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="/images/HongKong/guests/CaoNH.png" alt="Marwan" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameCaoNH'>曹辉宁</p>
+                        <p class="pl-info" dom-i18n='positionCaoNH'>长江商学院教授、Usechain创始人&CEO</p>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/speaker/zhougjin.png" alt="Jin Zhou" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namezj94'>周金博士</p>
+                        <p class="pl-info" dom-i18n='positionzj94'>华晋国际AI事业部本部长</p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/HongKong/guests/Feilanghong.png" alt="Marwan" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameFLH_info'>费良宏</p>
+                        <p class="pl-info" dom-i18n='positionFLH'>亚马逊云首席云计算技术顾问 </p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/speaker/Supernova.png" alt="Liang  Zeng" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namesupernova14'>曾良</p>
+                        <p class="pl-info" dom-i18n='positionsupernova14'>Supernova Chain董事长、币快报联合创始人</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/wangyuehua.jpg" alt="王岳华" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namewyh10'>王岳华</p>
+                        <p class="pl-info" dom-i18n='positionwyh10'>德丰杰龙脉创新基金 合伙人</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="./images/finwise/speaker/wuji.png" alt="Marwan" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameWuJi'>無極</p>
+                        <p class="pl-info" dom-i18n='positionWuJi'>华迎控股集团 董事长</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/speaker/chenqin.png" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namecq89'>陈庆</p>
+                        <p class="pl-info" dom-i18n='positioncq89'>Higgs Block 集团CEO</p>
+                    </div>
+                </div>
+
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="images/finwise/yanglinke.jpg" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='nameYangNK'>杨林科</p>
+                        <p class="pl-info" dom-i18n='positionYangNK'>比特币钻石中国区顾问</p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="photo-dbbox">
+                        <img data-original="../images/finwise/speaker/wangbingsheng.png" alt="王彬生" class="lazy party-pl">
+                    </div>
+                    <div class="foot-p">
+                        <p class="plname-info" dom-i18n='namewbs02'>王彬生</p>
+                        <p class="pl-info" dom-i18n='positionwbs02'>区块链联合发展组织顾问、中国社会科学院研究生院特聘教授</p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!--往届演讲嘉宾 end-->
+
+<!--香港议程 begin-->
+<section class=" footer-wrap bg-white">
+    <div class="container">
+        <h3 class="h2-title spe-tlh3 text-center" dom-i18n='Agenda_tl'>香港议程</h3>
+
+        <div class="Agenda-cont text-center">
+            <div class="col-sm-6">
+                <img data-original="./images/HongKong/Agenda/Agenda_zh01.png"  class="lazy zhshow" style="display: inline;">
+                <img data-original="./images/HongKong/Agenda/Agenda_en01.png"  class="lazy enshow" style="display: inline;">
+            </div>
+            <div class="col-sm-6">
+                <img data-original="./images/HongKong/Agenda/Agenda_zh02.png"  class="lazy zhshow" style="display: inline;">
+                <img data-original="./images/HongKong/Agenda/Agenda_en02.png"  class="lazy enshow" style="display: inline;">
+            </div>
+            <!--<img data-original="./images/HongKong/Agenda.jpg"  class="lazy" style="display: inline;width: 900px;">-->
+        </div>
+    </div>
+    </section>
+        <!--香港议程 end-->
 
 
     <!--FINWISE香港站参会选择 begin-->
     <section class=" footer-wrap bg-white">
         <div class="container">
             <!--<h2 class="h2-tl spe-cltl text-center">合作伙伴</h2>-->
-            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='HK_FWChoose'>FINWISE香港站参会选择</h3>
+            <h3 class="h2-title spe-tlh3 text-left" dom-i18n='HK_FWChooseTK'>赞助条款</h3>
 
 
             <!--get detail begin-->
@@ -1457,7 +1857,56 @@
 <script>
 //    w3.includeHTML();
 
+//show or hide imgs begin
+$('.show-ft .col-md-2:lt(18)') .addClass('showimg');
+$('.show-all').click(function () {
 
+
+    $('.show-ft').addClass('active');
+
+    if($(this).hasClass('active')){
+        $('.show-ft').removeClass('active');
+
+        $(this).removeClass('active');
+        $('.show-all').html('查看更多 ↓');
+
+
+    }else{
+        $('.show-ft').addClass('active');
+
+        $(this).addClass('active');
+        $('.show-all').html('收起↑')
+
+    }
+
+})
+
+
+//$('.show-allimg .col-md-2:lt(36)') .addClass('showimg');
+//$('.show-hide').click(function () {
+//
+//
+//    $('.show-allimg').addClass('active');
+//
+//    if($(this).hasClass('active')){
+//        $('.show-allimg').removeClass('active');
+//
+//        $(this).removeClass('active');
+//        $('.show-hide').html('查看更多 ↓');
+//
+//
+//    }else{
+//        $('.show-allimg').addClass('active');
+//
+//        $(this).addClass('active');
+//        $('.show-hide').html('收起↑')
+//
+//    }
+//
+//})
+
+
+//show or hide imgs end
 
 //  img lazyload
     $(function() {

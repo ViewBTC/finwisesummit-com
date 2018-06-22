@@ -1,0 +1,183 @@
+
+
+//.wap-show,
+.zhlang .zhshow{
+	display: inline-block !important;
+	//display: block !important;
+
+}
+
+
+.otherlang  .enshow{
+	display: inline-block !important;
+}
+
+
+//英文全大写
+.text-uppercase{
+	text-transform: uppercase;
+}
+
+
+.otherlang * {
+	letter-spacing: .6px;
+}
+
+@media (width: 414px){
+	.zbf-tl {
+		margin: 50px 0 30px !important;
+	}
+}
+
+@media (max-width: 375px){
+	.otherlang{
+		#topnav .logo img {
+			width: 120px !important;
+		}
+	}
+}
+@media (max-width: 474px){
+	.btn-demo{
+		//width: 212px;
+		//width: 212px;
+		height: 32px;
+		line-height: 32px;
+		padding: 0 25px;
+		border-radius: 84px;
+		display: inline-block;
+		font-size: 12px;
+	}
+}
+
+@media (min-width: 475px){
+	.btn-demo{
+		//width: 212px;
+		//width: 212px;
+		height: 40px;
+		line-height: 40px;
+		padding: 0 50px;
+		border-radius: 84px;
+		display: inline-block;
+	}
+}
+@media (max-width: 768px){
+
+	//pc and wap show or hide begin
+
+	.pc-show{
+		display: none !important;
+	}
+	.wap-show{
+		display: block !important;
+	}
+
+	//pc and wap show or hide end
+
+
+	.HK-fwDes-wrap.bg-gray{
+		background-color: #fff !important;
+	}
+
+
+
+	.otherlang .guest-item .col-md-2 {
+		height: 285px !important;
+	}
+
+
+}
+
+@media (min-width: 769px){
+
+	.pc-show{
+		display: block !important;
+	}
+	.wap-show{
+		display: none !important;
+	}
+}
+
+
+@media (max-width: 991px){
+	.clogo-img {
+		//width:785px;
+	}
+
+
+
+
+	//Agenda begin
+	.Agenda-cont{
+		.lazy{
+			//max-width: 380px;
+			margin-bottom: 25px;
+		}
+	}
+
+}
+@media (min-width: 992px){
+
+
+
+
+	.clogo-img {
+		width:785px;
+	}
+
+
+	//Agenda begin
+	.Agenda-cont{
+		.lazy{
+			max-width: 380px;
+		}
+	}
+}
+.font32{
+	font-size: 32px !important;
+}
+
+
+
+
+//header
+
+	.zbf-tl{
+
+		margin: 90px 0 30px;
+
+		.ZBF-tl{
+			margin: 0 8px;
+		}
+		.lr-icon{
+			width: 22px;
+			height: 9px;
+		}
+
+		//&:before{
+			//width: 44px;
+			//height: 18px;
+			//background: url("../images/HongKong/left-icon.png");
+			//content: "x";
+			//display: block;
+			//background-size: contain;
+			//background: url("./images/HongKong/right-icon.png");
+		//}
+	}
+.zbf-img{
+	width: 90px;
+	height: 30px;
+	&:nth-child(1), &.first-ch{
+		margin-right: 40px;
+	}
+	&:first-child{
+		margin-right: 40px;
+	}
+}
+
+
+.AT-group .AT-Groupimg{
+	max-width: 760px;
+	width: 100%;
+	margin: 20px  0 80px 0;
+}
+
