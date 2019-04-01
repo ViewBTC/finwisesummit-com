@@ -60,6 +60,7 @@
         citysh: " 上海站",
         citymacaustation: "澳门站",
         cityJapanstation: "日本站",
+          cityHongKongstation:'香港站',
 
 
         qqgs16: "全球区块链公司",
@@ -70,9 +71,11 @@
         lhzb20: "联合主办",
         mtxb21: "媒体协办",
         xbfe22: "协办方",
-        pwzx23: "票务咨询",
-        zzzx24: "赞助咨询",
-        gywm25: "关注我们",
+        pwzx23: "联系我们",
+        zzzx24: "商务合作",
+        gywm25: "媒体合作",
+        zzzxMrW:"王先生",
+        zzzxMrsZ:"周小姐",
 
         fzyc26: "2018 纷智区块链峰会 东京站 大会议程  ",
         hdbg28: "获得品牌曝光",
@@ -150,11 +153,29 @@
         nameyd01:"杨东",
         positionyd01:"中国人民大学法学院教授、博导、副院长",
 
+        namechongge:"虫哥",
+        positionchongge:"原壹比特联合创始人、爱思社群创始人",
+
+        namemaqianli:"马千里",
+        positionmaqianli:"巴比特副总监、比特链运营总监",
+
+        nameydshentuchunchun:"申屠青春",
+        positionydshentuchunchun:"银链科技 CEO",
+
+        nameliuguanhua:"刘关华",
+        positionliuguanhua:"澳门贸易投资促进代主席",
+
         namewbs02:"王彬生",
         positionwbs02:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
 
         namezyh03:"张银海",
         positionzyh03:"Lighting BTC中国区负责人",
+
+        namezss0333:"张寿松",
+        positionzss0333:"比特币交易网CEO",
+
+        namezss03333:"李启元",
+        positionzss03333:"比特币中国 联合创始人",
 
         namelf04:"刘飞",
         positionlf04:"火币Pro运营总监",
@@ -382,6 +403,8 @@
           positionwjz72new:"全国政协委员、香港青年联会首席参事、高峰集团董事局主席",
 
 
+
+
           namehjl73:"黃俊瑯",
           positionhjl73:"Goldford 行政總裁",
 
@@ -497,7 +520,13 @@
           positionTonyEvans109:"亚洲及中东地区的副董事长兼董事总经理、金融科技全球顾问公司创始人",
 
           nameEric110:"Eric",
-          positionEric110:"维优CEO 初夏虎",
+          positionEric110:"元界基金会创始人、以太坊天使投资人、比特币基金会终身会员",
+
+          nameEric1100:"赵长鹏",
+          positionEric1100:"币安CEO",
+
+          nameChangjia:"长铗",
+          positionChangjia:"巴比特CEO",
 
           nameShunriGuo111:"郭舜日",
           positionShunriGuo111:"ParcelX CEO & 联合创始人",
@@ -513,6 +542,16 @@
 
           nameMarwan115:"Dr. Marwan Al-Zarooni",
           positionMarwan115:"迪拜区块链中心创始人兼首席执行官",
+
+          namescxh116:"初夏虎",
+          positioncxh116:"元界基金会创始人、以太坊天使投资人、比特币基金会终身会员",
+          nameszh117:"曾豪",
+          positionzh117:"中高会区块链产业联盟副理事长、蚂蚁节点联盟创始人、蚂蚁联盟国际资本创始人",
+          namesyzw118:"杨志文",
+          positionyzw118:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
+          namescxh119:"张敬唯",
+          positioncxh119:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
+
 
 
           zzhz01:"赞助合作",
@@ -553,7 +592,7 @@
           namesupernova14:"曾良",
           positionsupernova14:"Supernova Chain董事长、\u000d\u000a 币快报联合创始人",
 
-
+          cityshanghai:"上海",
           citymacau:"澳门",
           citytokyo:"东京",
           citylsals:"洛杉矶",
@@ -584,6 +623,9 @@
           nameNicWatsoninfo:"主持－Nic Watson | Naseba董事总经理",
           nameAhmedinfo:"柏亚德 | 维优迪拜董事总经理",
           nameHowfinancialdes:"金融科技浪潮如何引领全球企业发展",
+
+          nameAhmedAl:"柏亚德",
+          postionAhmedAl:"复旦区块链协会联合创始人&主席",
 
 
           nameModeratorRiconi:"主持 - 尤立 | FINWISE创始人兼执委会主席",
@@ -770,7 +812,7 @@
           HK_FWChooseTK:"赞助条款",
           Price_tips:"注：由于数字货币波动较大，此价格仅限于7月1日之前有效，7月1日官网更新最新价格。",
 
-
+          FINWISE_Detail:'finwise组委会由政界、金融科技领域及区块链行业顶尖企业家组成，组委会的职责是把握行业风向，以专业和发展的眼光，联合行业头部企业，发现并挖掘最具潜力的区块链项目，整合并聚集行业一线资源，打造最具行业影响力的区块链峰会品牌。',
           namexmz_info:"薛蛮子",
           positionxmz:"天使投资人",
 
@@ -786,6 +828,9 @@
           nameDujun_info:"杜均",
           positionDujun:"金色财经 CEO",
 
+          nameSyc001:"孙宇晨",
+          positionSyc001:"TRON 创始人兼CEO",
+
           nameCaoNH_info:"曹辉宁",
           positionCaoNH:"曹辉宁 | 中欧商学院教授、Usechain 创始人 &CEO ",
 
@@ -796,7 +841,7 @@
           positionWuJi:"华迎控股集团 董事长",
 
           nameYangNK:"杨林科",
-          positionYangNK:"比特币钻石中国区顾问",
+          positionYangNK:"比特币中国联合创始人、ICOCOIN创始人",
 
 
 
@@ -807,6 +852,7 @@
           Agenda_tl:"香港议程",
 
           organisers:"主办方",
+          othersers:"承办方",
 
       },
 
@@ -855,6 +901,7 @@
         citysh: " ShangHai Station",
         citymacaustation: " Macau Station",
           cityJapanstation: "Japan Station",
+          cityHongKongstation: " Hong Kong Station",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -864,9 +911,11 @@
         lhzb20: "Co-organizer",
         mtxb21: "Media Sponsor",
         xbfe22: "Co-sponsor",
-        pwzx23: "Tickets Consulting",
-        zzzx24: "Sponsorship Consulting",
-        gywm25: "Follow Us",
+        pwzx23: "Contact Us",
+        zzzx24: "Business Cooperation",
+        gywm25: "Media Cooperation",
+        zzzxMrW:"Mr.Wang",
+        zzzxMrsZ:"Mrs.Zhou",
 
         fzyc26: "Agenda for FINWISE Blockchain Summit Tokyo 2018",
         hdbg28: "Gain brand exposure",
@@ -932,9 +981,9 @@
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
 
         fhfz71:
-          "FINWISE Summit is one of the most influential blockchain events in the world, bringing together top talents, industry elites and excellent enterprises. FINWISE Summit aims to strengthen the communication among blockchain-related practitioners and promote the development of global financial technology. The core team consists of experienced experts from diversified backgrounds including banking, blockchain, consulting, rating and internet company.",
+          "FINWISE is one of the most influential Blockchain Summits in China. The team is composed of experienced financial market experts and blockchain industry elites. It aims to strengthen the communications among industry practitioners and promote the development of global financial technology. In this historical moment when the industry is in the transition of the bulls and bears, the Summit is obliged to aggregate the resources of all parties in the industry to create a new era of the blockchain industry.",
         cewl72:
-          "FINWISE Summit has been held in Shanghai and Macau succesfully since 2017, involving 10,000 people attedning onsite and millions of people offsite, and it is reportedly by nearly 100 domstic and overseas medias. In 2018, FINWISE will be held in Tokyo, Dubai and Hong Kong. We invite you to witness a better future together.",
+          "From 2017 to 2018, FINWISE was held in Shanghai, Macau, Tokyo and Hong Kong. Since the first meeting in 2017, the well-known projects such as the Binance Exchange, Jinse Finance and TRON debuted at the Summit, and quickly developed into industry leaders. Futhermore, many well-known big names in the field also made a great show at the Summit, and obtained investment and cooperation opportunities. The FINWISE Summit has led the development of the blockchain industry community, and at the same time it achieved to be the most influential Blockchain Summit brand.",
         zwhe73: "FINWISE Organizing Committee",
         hxcy74: "Core Team Members",
 
@@ -1291,6 +1340,37 @@
           nameEric110:"Eric",
           positionEric110:"Viewfin CEO 初夏虎",
 
+          nameEric1100:"CZ",
+          positionEric1100:"Founder and CEO of Binance",
+
+          namezss0333:"Shousong Zhang",
+          positionzss0333:"CEO of BTCtrade",
+
+          nameSyc001:"Justin Sun",
+          positionSyc001:"Founder and CEO of TRON",
+
+          nameChangjia:'Jia Chang',
+          positionChangjia:"Founder and CEO of 8btc",
+
+          namechongge:'Chong ge',
+          positionchongge:'Founder of YiBite.com and Aisi wechat group',
+
+          nameydshentuchunchun:'Qingchun Shentu',
+          positionydshentuchunchun:'CEO of Silver Chain Technology',
+
+          namemaqianli:'Qianli Ma',
+          positionmaqianlie:'Vice President of 8btc and Bytom(BTM) Operation Director',
+
+          nameAhmedAl:'Ahmed Al-Balaghi',
+          postionAhmedAl:'Co-Founder and President of Fudan BLockchain Association (F6S) Qianli Ma Vice President of 8btc and Bytom(BTM) Operation Director',
+
+
+          nameliuguanhua:'Guanhua Liu',
+          positionliuguanhua:'Irene Va Kuan Lau Acting President of Macau Trade and Investment Promotion Istitute (IPIM)',
+
+          namezss03333:"Qiyuan Li",
+          positionzss03333:"CEO of BTCChina",
+
           nameShunriGuo111:"Shunri Guo",
           positionShunriGuo111:"CEO & Co-Founder at ParcelX",
 
@@ -1305,6 +1385,15 @@
 
           nameMarwan115:"Dr. Marwan Al-Zarooni",
           positionMarwan115:"Founder and CEO of Dubai Blockchain Centr",
+
+          namescxh116:"Eric Gu",
+          positioncxh116:"Founder of the Metaverse foundation",
+          nameszh117:"Hao Zeng",
+          positionzh117:"Founder of Ant Node Alliance",
+          namesyzw118:"ZhiWenYang",
+          positionyzw118:"Ant Node Alliance Co-founder",
+          namescxh119:"JingWeiZhang",
+          positioncxh119:"Ant Node Alliance Co-founder",
 
 
           zzhz01:"Sponsorship",
@@ -1345,6 +1434,7 @@
           namesupernova14:"Liang Zeng",
           positionsupernova14:"Supernova Chain Executive Chairman BeeNews CO-founder",
 
+          cityshanghai:"ShangHai",
           citymacau:"Macau",
           citytokyo:"Tokyo",
           citylsals:"Los Angeles",
@@ -1611,7 +1701,7 @@
           nameInsuranceRevolution:"Insurance  revolution with blockchain ",
           nameMinchenkoM:"Mykola Minchenko | SIXA CEO ",
           nameBCcloudplatform:"Personal distributed computer cloud platform based on block chain",
-
+          FINWISE_Detail:"The Finwise committee is composed of top entrepreneurs in the political, financial and technological fields and the blockchain industry. The role of the committee is to grasp the industry trend, and to combine the industry leading enterprises with professional and developmental vision to discover and tap the most potential blockchain project. The committee integrates and gathers the industry front-line resources to create the most influential blockchain summit brand.",
 
 
           // HK i18n begin
@@ -1667,6 +1757,7 @@
           positionHanFengInfo:"Founder of ELA",
 
           organisers:"Organisers",
+          othersers:"ORGANIZER",
 
       },
       jap: {
