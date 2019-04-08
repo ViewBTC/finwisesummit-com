@@ -138,10 +138,12 @@
         xyqs70: "新一代矿池的发展趋势",
 
         fhfz71:
-          "FINWISE峰会是中国最具影响的区块链峰会之一，团队由经验丰富的金融市场专家和区块链行业精英组成，核心成员均来自知名银行、区块链、咨询、金融、互联网公司，汇集时代最强大脑，集合优秀企业，旨在加强行业从业者们的交流，推动全球金融科技的发展。",
+          "FINWISE纷智峰会是中国最具影响的区块链峰会之一，团队由经验丰富的金融市场专家和区块链行业精英组成，旨在加强行业从业者们的交流，推动全球金融科技的发展。在行业处于牛熊转换的历史时刻，纷智会议有义务聚合行业各方资源，共创区块链行业的新纪元。",
         cewl72:
-          "从2017起，FINWISE先后在上海和澳门两地举办，共吸引近万人现场参与，数百万人在线参与，近百家国内外媒体报道。2018年FINWISE将在东京、迪拜、香港等地陆续举办，我们邀请一起见证更美好的未来。",
-        zwhe73: "FINWISE组委会",
+          "2017年-2018年，FINWISE先后在上海、澳门、东京、香港四地举办，从2017年纷智第一场会议起，币安交易所、金色财经、波场TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了区块链行业的会议热，同时也成就了纷智品牌在行业的影响力。",
+          fhfz711:'本次会议主题全球科技金融高峰论坛，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域传统金融投资领域等企业嘉宾参与。',
+
+          zwhe73: "FINWISE组委会",
         hxcy74: "核心团队成员",
 
         cyqy75: "参与合作，赞助商将获得以下权益",
@@ -812,7 +814,7 @@
           HK_FWChooseTK:"赞助条款",
           Price_tips:"注：由于数字货币波动较大，此价格仅限于7月1日之前有效，7月1日官网更新最新价格。",
 
-          FINWISE_Detail:'finwise组委会由政界、金融科技领域及区块链行业顶尖企业家组成，组委会的职责是把握行业风向，以专业和发展的眼光，联合行业头部企业，发现并挖掘最具潜力的区块链项目，整合并聚集行业一线资源，打造最具行业影响力的区块链峰会品牌。',
+          FINWISE_Detail:'Finwise组委会由政界、科技金融先锋企业家组成，组委会的职责是着眼科技金融领域，聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，以专业和发展的眼光，聚焦行业一线资源，打造最具行业影响力的科技金融峰会品牌。',
           namexmz_info:"薛蛮子",
           positionxmz:"天使投资人",
 
@@ -979,7 +981,7 @@
         qkzn68: "Blockchain and Artificial Intelligence",
         qkfz69: "New Development of Blockchain on the Mobile Devices",
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
-
+          fhfz711:'Join us and embrace the TechFin future with ABCDI (Artificial Intelligence, Blockchain, Cloud Computing, Big Data, Internet of Things) field pioneer enterprises, and top investment companies. Uncovering the TechFin industry hot spot, disrupting the barrier between technology/investment and ecosystem, together we hold this forward-thinking summit, and empower the FINWISE branding in the TechFind field. Thus we promote the industry to go through the bearish period and ensure a healthy development. There will be over 150 enterprises guests from TechFin and traditional investment fields companies. ',
         fhfz71:
           "FINWISE is one of the most influential Blockchain Summits in China. The team is composed of experienced financial market experts and blockchain industry elites. It aims to strengthen the communications among industry practitioners and promote the development of global financial technology. In this historical moment when the industry is in the transition of the bulls and bears, the Summit is obliged to aggregate the resources of all parties in the industry to create a new era of the blockchain industry.",
         cewl72:
@@ -1701,7 +1703,7 @@
           nameInsuranceRevolution:"Insurance  revolution with blockchain ",
           nameMinchenkoM:"Mykola Minchenko | SIXA CEO ",
           nameBCcloudplatform:"Personal distributed computer cloud platform based on block chain",
-          FINWISE_Detail:"The Finwise committee is composed of top entrepreneurs in the political, financial and technological fields and the blockchain industry. The role of the committee is to grasp the industry trend, and to combine the industry leading enterprises with professional and developmental vision to discover and tap the most potential blockchain project. The committee integrates and gathers the industry front-line resources to create the most influential blockchain summit brand.",
+          FINWISE_Detail:"The Finwise committee is composed of pioneer entrepreneurs in the political, TechFin industry fields. The role of the committee is to grasp the TechFin industry trend, and to combine the ABCDI (Artificial Intelligence, Blockchain, Cloud Computing, Big Data, Internet of Things) fields pioneer enterprises with investment field leading companies.The committee integrates and gathers the industry front-line resources to create the most influential TechFin summit brand.",
 
 
           // HK i18n begin
