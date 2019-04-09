@@ -159,7 +159,7 @@
         positionchongge:"原壹比特联合创始人、爱思社群创始人",
 
         namemaqianli:"马千里",
-        positionmaqianli:"巴比特副总监、比特链运营总监",
+        positionmaqianlie:"巴比特副总监、比特链运营总监",
 
         nameydshentuchunchun:"申屠青春",
         positionydshentuchunchun:"银链科技 CEO",
@@ -850,8 +850,8 @@
           nameHanFeng:"韩峰",
           positionHanFengInfo:"哥伦比亚大学访问研究员、华为中央研究院区块链顾问、亚洲区块链DACA协会秘书长、亦来云基金会理事",
 
-          ATFuest_tl:"往届演讲嘉宾",
-          Agenda_tl:"香港议程",
+          ATFuest_tl:"往届嘉宾",
+          Agenda_tl:"议程",
 
           organisers:"主办方",
           othersers:"联合主办",
@@ -1751,8 +1751,8 @@
           nameYangNK:"linke Yang",
           positionYangNK:"Consultant of BTC Diamond",
 
-          ATFuest_tl:"Past Guest speaker",
-          Agenda_tl:"HongKong Agenda",
+          ATFuest_tl:"Past Guest",
+          Agenda_tl:"Agenda",
 
 
           nameHanFeng:"Feng Han",
