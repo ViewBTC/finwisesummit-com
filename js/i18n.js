@@ -854,7 +854,7 @@
           Agenda_tl:"香港议程",
 
           organisers:"主办方",
-          othersers:"承办方",
+          othersers:"联合主办",
 
       },
 
@@ -1759,7 +1759,8 @@
           positionHanFengInfo:"Founder of ELA",
 
           organisers:"Organisers",
-          othersers:"ORGANIZER",
+          othersers:"Co-hosted",
+
 
       },
       jap: {
