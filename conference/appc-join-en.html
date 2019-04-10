@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Become sponsors</title>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="finwise global summit, viewfin, blockchain, metaverse">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/bundle.css">
+    <link rel="stylesheet" href="css/hody-icons.css">
+    <link rel="stylesheet" href="css/xh-style.css">
+
+    <!--[if lt IE 9]->
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- Preloader-->
+    <div id="loader">
+        <div class="centrize">
+            <div class="v-center">
+                <div id="mask">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Preloader-->
+    <div class="index-bgwrap">
+        <!--<div w3-include-html="top.html"></div>-->
+        <!-- header-->
+        <header id="topnav">
+            <div class="container">
+                <!-- Logo container-->
+                <div class="logo">
+                    <a href="./appc-index-en.html">
+                        <img class="logo-light" src="images/finwise/logo.png" alt="">
+                        <img class="logo-dark" src="images/finwise/logo.png" alt="">
+                    </a>
+                </div>
+                <!-- End Logo container-->
+                <div class="menu-extras">
+                    <div class="menu-item toggle-nav">
+                        <!-- Mobile menu toggle-->
+                        <a class="menu-toggle" href="#" onclick="mininav()">
+                            <div class="toggle-inner"></div>
+                        </a>
+                        <!-- End mobile menu toggle-->
+                    </div>
+                </div>
+                <div class="lang-select"><a href="/appc-join.html">Chinese</a><span class="fg-line">/</span><a href="/appc-join-en.html">English</a></div>
+                  <div id="navigation" class="en-lspe">
+                    <ul class="navigation-menu nav">
+                        <li>
+                            <a href="/appc-index-en.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="/appc-join-en.html">Become A Speaker</a>
+                        </li>
+                        <li>
+                            <a href="/appc-en.html">Become A Sponsor</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!-- header end-->
+    </div>
+
+    <!--xiaohuan-->
+    <section class="fm-wrap spe-formwrap A-wrap container bg-white">
+        <h2 class="h2-title">Become A Speaker</h2>
+        <form role="form" action="/speech" method="POST">
+            <div class="form-group">
+                <label>Name<em class="im-h">*</em></label>
+                <input type="text" class="form-control" id="A-name" name="lastName" placeholder="Name" required="required">
+            </div>
+            <div class="form-group">
+                <label>Company Name<em class="im-h">*</em></label>
+                <input type="text" class="form-control" id="A-company" name="company" placeholder="Company Name" required="required">
+            </div>
+            <div class="form-group">
+                <label>Position<em class="im-h">*</em></label>
+                <input type="text" class="form-control" id="A-zw" name="position" placeholder="Position" required="required">
+            </div>
+            <div class="form-group">
+                <label>Email<em class="im-h">*</em></label>
+                <input type="email" class="form-control" id="A-email" name="email" placeholder="E-mail" required="required">
+            </div>
+            <div class="form-group">
+                <label>Contact number<em class="im-h">*</em></label>
+                <input type="tel" class="form-control" id="A-tel" name="telphone" placeholder="Contact Number" required="required">
+            </div>
+            <div class="form-group">
+                <label>Best Job Description<em class="im-h">*</em></label>
+                <select class="form-control" name="personalProfile" required="required">
+                    <option value="Attorney">Lawyer</option>
+                    <option value="Data provider">Data Provider</option>
+                    <option value="Educator">Educator</option>
+                    <option value="Family office investor">Family Office Investor</option>
+                    <option value="Financial adviser">Financial Adviser</option>
+                    <option value="Individual investor">Individual Investor</option>
+                    <option value="Institutional investor">Corporate Investor</option>
+                    <option value="Investment banker">Investment Banker</option>
+                    <option value="Press">News Agency／Media</option>
+                    <option value="Regulator/Legislator">Regulatory Authority／Legislature</option>
+                    <option value="Traditional bank or other financial firm">Traditional Banks And Other Financial Enterprises</option>
+                    <option value="Venture Capitalist">Venture Capital</option>
+                    <option value="Venture Capitalist">Other</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>What topics do you would to speak on? Please describe in detail.<em class="im-h">*</em></label>
+                <div class="fk-textarea">
+                    <textarea name="topic" placeholder="" name="topic" class="form-control" required="required"></textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Please describe the reason why you think you are the best person for the topic<em class="im-h">*</em></label>
+                <textarea type="tel" class="form-control" name="bestPersonReason" placeholder="" required="required"></textarea>
+            </div>
+            <div class="form-group">
+                <label>Please provide your resume (about 150 words)<em class="im-h">*</em></label>
+                <textarea type="tel" class="form-control" name="resume" placeholder="" required="required"></textarea>
+            </div>
+            <div class="form-group">
+                <label>If applicable, please provide a video link of your previous presentation</label>
+                <textarea type="tel" class="form-control" name="videoUrl" placeholder="" ></textarea>
+            </div>
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default cc-btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </section>
+    <!--xiaohuan end-->
+
+    <!--footer begin-->
+    <div w3-include-html="bottom-en.html"></div>
+    <!--footer end-->
+
+
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bundle.js"></script>
+    <script type="text/javascript" src="js/SmoothScroll.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/w3.js"></script>
+    <script type="text/javascript" src="js/mini-nav.js"></script>
+    <script>
+        w3.includeHTML();
+    </script>
+
+</body>
+</html>
