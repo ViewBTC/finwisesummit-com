@@ -851,7 +851,7 @@
           positionHanFengInfo:"哥伦比亚大学访问研究员、华为中央研究院区块链顾问、亚洲区块链DACA协会秘书长、亦来云基金会理事",
 
           ATFuest_tl:"往届嘉宾",
-          Agenda_tl:"议程",
+          Agenda_tl:"会议议程",
 
           organisers:"主办方",
           othersers:"联合主办",
