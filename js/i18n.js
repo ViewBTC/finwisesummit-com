@@ -71,8 +71,9 @@
         lhzb20: "联合主办",
         mtxb21: "媒体协办",
         xbfe22: "协办方",
-        pwzx23: "联系我们",
+        pwzx23: "国内合作",
         zzzx24: "商务合作",
+        zzzx2444:"商务媒体合作",
         gywm25: "媒体合作",
         zzzxMrW:"王先生",
         zzzxMrsZ:"周小姐",
@@ -554,6 +555,8 @@
           namescxh119:"张敬唯",
           positioncxh119:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
 
+          GaHwHz:"港澳及海外合作",
+
 
 
           zzhz01:"赞助合作",
@@ -913,8 +916,9 @@
         lhzb20: "Co-organizer",
         mtxb21: "Media Sponsor",
         xbfe22: "Co-sponsor",
-        pwzx23: "Contact Us",
+        pwzx23: "Contact us (Mainland China)",
         zzzx24: "Business Cooperation",
+        zzzx2444:'Cooperation',
         gywm25: "Media Cooperation",
         zzzxMrW:"Mr.Wang",
         zzzxMrsZ:"Mrs.Zhou",
@@ -1411,6 +1415,7 @@
           grchEntrance:"Individual",
           mediacover:"Media",
           chqyfw:"Enterprise",
+          GaHwHz:"ontact us(Outside Mainland China)",
 
           hotelab:"Peripheral Hotel",
           hoteltips:"Please kindly be noticed that the following hotel list is recommended by summit organizer according to the location convenience.  We do not responsible for accommodation services. Please contact hotel directly if you need make a room reservation.",
