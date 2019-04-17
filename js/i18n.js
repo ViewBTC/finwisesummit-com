@@ -254,7 +254,7 @@
           positiontedlin22:"币安国际市场负责人",
 
           namedxx23:"段新星",
-          positiondxx23:"比原链 创始人",
+          positiondxx23:"巴比特执行总裁",
 
           nameyzy24:"叶祖研",
           positionyzy24:"链向财经联合创始人&CEO",
@@ -1001,7 +1001,7 @@
           nameyd01:"Dong Yang",
           positionyd01:"Professor, Doctoral Tutuor and Vice-President of the Law School of Renmin University of China",
           namewbs02:"Binsheng Wang",
-          positionwbs02:"Blockchain Joint Development Organization Advisor, Special-term Professor of the Graduate School, Chinese Academy of Social Sciences",
+          positionwbs02:"Wang Binsheng  Consultant of Organization of Blockchain Associations for Development  Distinguished professor of graduate school at Chinese Academy Social Sciences",
           namezyh03:"Jack Zhang",
           positionzyh03:"Head of Lightning BTC China",
           namelf04:"MIKE Liu",
@@ -1022,10 +1022,10 @@
           positionfj09:" Banyan Capital",
 
           namewyh10:"Yuehua Wang",
-          positionwyh10:"Partner of DFJ DragonFund",
+          positionwyh10:"Partner of DFJ DragonFund China ",
 
-          nameghc11:"Hongcai Guo",
-          positionghc11:"BTC Angel Investor",
+          nameghc11:"Chandler Guo",
+          positionghc11:"Bitcoin Angle Investor",
 
           namezll12:"Liaoliao Zhang",
           positionzll12:"Partner of gate.io",
@@ -1055,7 +1055,7 @@
           positionlsf15:"CEO of OKEx",
 
           namety16:"Angela Tong",
-          positionty16:"Partner of Jinse Finance",
+          positionty16:"Jinse Finance Partner",
 
           namericoni17:"Riconi You",
           positionriconi17:"Co-founder and Chairman of FINWISE Committee",
@@ -1076,7 +1076,7 @@
           positiontedlin22:"Head of International Markets at Binance",
 
           namedxx23:"Xinxin Duan",
-          positiondxx23:"Founder of BTM",
+          positiondxx23:"CEO of 8BTC.com",
 
           nameyzy24:"Zuyan Ye",
           positionyzy24:"Co-founder&CEO of Chainfor",
@@ -1127,7 +1127,7 @@
           positionlxy39:"Co-Founder & COO of NEM China",
 
           nameldw40:"Dawei Li",
-          positionldw40:"Founder of ZB.COM",
+          positionldw40:" Co-founder of ZB.com",
 
           namemark41:"Mark",
           positionmark41:"Founder of BlockchainCasnio ",
@@ -1158,13 +1158,13 @@
           positionxyq49:"Founder and CEO of MeshBox",
 
           nameszy50:"Zeyu Sun",
-          positionszy50:"Co-Founder and Brand Director of Coldlar",
+          positionszy50:"Co-founder and Brand Director of Coldlar",
 
           namepl51:"Paul Liu",
           positionpl51:"FAB Chairman Chief Blockchain Specialist",
 
-          namepzx52:"Zongxin Peng",
-          positionpzx52:"Founder of International Blockchain Research Association and QTG",
+          namepzx52:"Steve Pang",
+          positionpzx52:"Convener of International Blockchain Association, Founder of QTG",
 
           namely53:"Yu liang",
           positionly53:"StarChain Investor, Founder and CEO of Kaipai",
@@ -1211,8 +1211,8 @@
           nametoni67:"Toni",
           positiontoni67:"CEO of sgamer",
 
-          nameljl68:"Jialing  Liu",
-          positionljl68:"Director of BTS,Co-Founder of BTC venture camp, Co-Founder of YOYOW",
+          nameljl68:" Bitcrab(Liu Jialing)",
+          positionljl68:"BitShares Committee member, BitsClub co-founder, YOYOW co-founder",
 
           namegyl69:"Zack_Gao",
           positiongyl69:"Co-Founder of  International Blockchain Application Federation",
@@ -1222,7 +1222,7 @@
           positionsld70:"Huoxun.com CEO",
 
           nameswj71:"Jackie",
-          positionswj71:"HuaYing Holding Group Company",
+          positionswj71:" President of Huaying Holdings Group",
 
           nameswjz72:"Dr. Johnny Ng",
           positionwjz72:"Chairman of Goldford Group/Member of the national committee of CPPCC/Chief participant in the Youth Federation of Hongkong",
@@ -1343,8 +1343,8 @@
           nameTonyEvans109:"Tony Evans",
           positionTonyEvans109:"Vice-Chairman and Managing Director of Asia and the Middle East of Blockchain Industries, Inc.,Co Founder of Fintech Global Consultant’s",
 
-          nameEric110:"Eric",
-          positionEric110:"Viewfin CEO 初夏虎",
+          nameEric110:"Eric Gu",
+          positionEric110:"Viewfin CEO",
 
           nameEric1100:"CZ",
           positionEric1100:"Founder and CEO of Binance",
@@ -1371,8 +1371,8 @@
           postionAhmedAl:'Co-Founder and President of Fudan BLockchain Association (F6S) Qianli Ma Vice President of 8btc and Bytom(BTM) Operation Director',
 
 
-          nameliuguanhua:'Guanhua Liu',
-          positionliuguanhua:'Irene Va Kuan Lau Acting President of Macau Trade and Investment Promotion Istitute (IPIM)',
+          nameliuguanhua:'Irene Va Kuan Lau',
+          positionliuguanhua:'Acting President of Macau Trade and Investment Promotion Istitute (IPIM)',
 
           namezss03333:"Qiyuan Li",
           positionzss03333:"CEO of BTCChina",
@@ -1742,7 +1742,7 @@
 
 
           nameDujun_info:"Du Jun",
-          positionDujun:"Jinse CEO",
+          positionDujun:" CEO of Jinse Finance",
 
           nameCaoNH:"Cao Hui Ning",
           positionCaoNH:"Professor of CEIBS, Founder &CEO of Usechain ",
@@ -1754,7 +1754,7 @@
           positionWuJi:"Chairman of HuaYing Holding Group",
 
           nameYangNK:"linke Yang",
-          positionYangNK:"Consultant of BTC Diamond",
+          positionYangNK:"Co-founder of BTCChina",
 
           ATFuest_tl:"Past Guest",
           Agenda_tl:"Agenda",
