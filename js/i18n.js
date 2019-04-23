@@ -846,19 +846,120 @@
           positionWuJi:"华迎控股集团 董事长",
 
           nameYangNK:"杨林科",
-          positionYangNK:"比特币中国联合创始人、ICOCOIN创始人",
+          positionYangNK:"比特币中国联合创始人",
 
 
 
           nameHanFeng:"韩峰",
           positionHanFengInfo:"哥伦比亚大学访问研究员、华为中央研究院区块链顾问、亚洲区块链DACA协会秘书长、亦来云基金会理事",
 
-          ATFuest_tl:"往届嘉宾",
+          ATFuest_tl:"拟邀嘉宾",
           Agenda_tl:"会议议程",
 
           organisers:"主办方",
           othersers:"联合主办",
 
+
+          NameNew01:"Vitalik",
+          positionNew01:"以太坊创始人",
+
+          NameNew02:"徐小平",
+          positionNew02:"真格基金创始人、著名天使投资人",
+
+          NameNew03:"赵长鹏",
+          positionNew03:"币安CEO",
+
+          NameNew04:"赵东",
+          positionNew04:"著名天使投资人、DGroup创始人",
+
+          NameNew05:"吴杰庄",
+          positionNew05:"全国政协委员、香港青年联会顾问",
+
+          NameNew06:"初夏虎",
+          positionNew06:"维优 CEO、元界基金会主席",
+
+          NameNew07:"郭宏才",
+          positionNew07:"著名天使投资人",
+
+          NameNew08:"李林",
+          positionNew08:"火币创始人兼董事长",
+
+          NameNew09:"杜均",
+          positionNew09:"金色财经创始人、节点资本创始合伙人",
+
+          NameNew10:"吴忌寒",
+          positionNew10:"比特大陆CEO",
+
+          NameNew11:"达鸿飞",
+          positionNew11:"NEO创始人",
+          NameNew12:"王岳华",
+          positionNew12:"德丰杰龙脉创新基金合伙人",
+          NameNew13:"邓迪",
+          positionNew13:"太一云 董事长",
+          NameNew14:"杨林科",
+          positionNew14:"比特币中国创始人兼CEO",
+          NameNew15:"于佳宁",
+          positionNew15:"火币大学校长",
+          NameNew16:"长铗",
+          positionNew16:"巴比特 CEO",
+          NameNew17:"孙宇晨",
+          positionNew17:"TRON创始人兼CEO",
+          NameNew18:"薛蛮子",
+          positionNew18:"著名天使投资人",
+          NameNew19:"虫哥",
+          positionNew19:"POC生态布道者、Hpool矿池创始人",
+          NameNew20:"安鑫鑫",
+          positionNew20:"金色财经合伙人、金色学院创始人",
+          NameNew21:"刘嘉陵(巨蟹)",
+          positionNew21:"比特股理事会理事、比特创业营联合创始人",
+          NameNew22:"帅初",
+          positionNew22:"Qtum创始人",
+          NameNew23:"Ahmed Al-Balaghi",
+          positionNew23:"复旦区块链协会联合创始人&主席",
+          NameNew24:"李大伟",
+          positionNew24:"ZB联合创始人、引力波动量化创始人",
+          NameNew25:"曾豪",
+          positionNew25:"蚂蚁节点联盟创始人",
+          NameNew26:"申屠青春",
+          positionNew26:"银联科技 CEO",
+          NameNew27:"王彬生",
+          positionNew27:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
+          NameNew28:"黄连金",
+          positionNew28:"核聚链首席科学家、中国电子学会区块链分会专家委员",
+          NameNew29:"兰波",
+          positionNew29:"SWFTC 创始人、北美区块链协会(NABA)创始人",
+          NameNew30:"卢亮",
+          positionNew30:"CyberMiles创始人、手机淘宝首任总经理、兰亭集势联合创始人",
+          NameNew31:"黄俊瑯",
+          positionNew31:"高锋创新金融行政总裁",
+          NameNew32:"蔡栋",
+          positionNew32:"麦当劳中国首席数据智能官、INFINVISION深见ABC实验室创始人",
+          NameNew33:"赵胜",
+          positionNew33:"WBF纽约世界区块链大会纽约Digital USD创始人、硅谷创客资本创始人",
+          NameNew34:"Aurora",
+          positionNew34:"ZB集团副总裁、加密资本创始人",
+          NameNew35:"郑晓军",
+          positionNew35:"加勒比区块链研究院院长、世界区块链组织总干事",
+          NameNew36:"黄敏强",
+          positionNew36:"公信宝创始人",
+          NameNew37:"冯发展",
+          positionNew37:"IDA资产数字化项目COO、DAppLabs 实验室合伙人",
+          NameNew38:"宗华",
+          positionNew38:"粤港澳大湾区区块链产业联盟发起人、深圳前海汇潮投资有限公司创始人",
+          NameNew39:"林大亮",
+          positionNew39:"初链基金会理事",
+          NameNew40:"黄胜",
+          positionNew40:"优币创投 创始人、YOEX 优网 联合创始人",
+          NameNew41:"张建国",
+          positionNew41:"币快财经总裁、中国区块链创投联盟主席",
+          NameNew42:"高泽龙",
+          positionNew42:"国际区块链与数字货币协会 副会长、GVE基金会联合创始人",
+          NameNew43:"蔡志川",
+          positionNew43:"亚洲区块链学会 会长、香港区块链资产管理有限公司总裁",
+          NameNew44:"江标",
+          positionNew44:"中国区块链沙盒研究中心专家委员",
+          NameNew45:"王峰",
+          positionNew45:"火星财经发起人、共识实验室发起人、蓝港互动集团董事长",
       },
 
 
@@ -1756,7 +1857,7 @@
           nameYangNK:"linke Yang",
           positionYangNK:"Co-founder of BTCChina",
 
-          ATFuest_tl:"Past Guest",
+          ATFuest_tl:"Guest",
           Agenda_tl:"Agenda",
 
 
@@ -1765,6 +1866,165 @@
 
           organisers:"Organisers",
           othersers:"Co-hosted",
+
+          NameNew01:"Vitalik Buterin",
+          positionNew01:"Founder of Ethereum",
+
+          NameNew02:"Bob Xu",
+          positionNew02:"Angle Investor\n" +
+              "Founder of ZhenFund",
+
+          NameNew03:"CZ",
+          positionNew03:"CEO of Binance",
+
+          NameNew04:"Zhao Dong",
+          positionNew04:"Angle Investor\n" +
+              "Founder of DGroup",
+
+          NameNew05:"Dr.Johnny Ng",
+          positionNew05:"Member of CPPCC and consultant of Hong Kong United Youth Association" ,
+
+          NameNew06:"Eric Gu",
+          positionNew06:"Founder of the\n" +
+              "Metaverse foundation\n" +
+              "Ethereum Angel Investor",
+
+          NameNew07:"Chandler Guo",
+          positionNew07:"Angel Investor",
+
+          NameNew08:"Li Lin",
+          positionNew08:"Founder and CEO\n" +
+              "of Huobi",
+
+          NameNew09:"Du Jun",
+          positionNew09:"Founder and CEO of\n" +
+              "Jinse Finance Co-founder\n" +
+              "of Node Capital",
+
+          NameNew10:"Wu Jihan",
+          positionNew10:"Co-founder of BITMAIN",
+
+          NameNew11:"Da Hongfei",
+          positionNew11:"Founder of NEO",
+          NameNew12:"Richard Wang",
+          positionNew12:"Partner of DFJ\n" +
+              "DragonFund China",
+          NameNew13:"Deng Di",
+          positionNew13:"Chairman of TaiYiYun",
+          NameNew14:"Yang Linke",
+          positionNew14:"Co-founder of BTCChina",
+          NameNew15:"Yu Jianing",
+          positionNew15:"President of\n" +
+              "Huobi University",
+          NameNew16:"Change Jia",
+          positionNew16:"Founder and CEO\n" +
+              "of 8btc",
+          NameNew17:"Justin Sun",
+          positionNew17:"Founder and CEO\n" +
+              "of TRON",
+          NameNew18:"Charle Xue",
+          positionNew18:"Angel Investor",
+          NameNew19:"Chong ge",
+          positionNew19:"POC ecology\n" +
+              "advocate, Founder of Hpool",
+          NameNew20:"An xinxin",
+          positionNew20:"Partner of Jinse Finance\n" +
+              "Founder of Jinse Academy",
+          NameNew21:"BitCrab(Liu Jialing)",
+          positionNew21:"BitShares Committe member\n" +
+              "BitsClub co-founder",
+          NameNew22:"Patrick Shuai",
+          positionNew22:"Founder of QTUM",
+          NameNew23:"Ahmed AI-Balaghi",
+          positionNew23:"Co-founder and\n" +
+              "President of Fudan\n" +
+              "Blockchain Association",
+          NameNew24:"Li Dawei",
+          positionNew24:"Co-founder of zb.com",
+          NameNew25:"Zeng Hao",
+          positionNew25:"Founder of Ant\n" +
+              "Node Alliance",
+          NameNew26:"Shentu Qingchun",
+          positionNew26:"CEO of Silver Chain Technology",
+          NameNew27:"Wang Binsheng",
+          positionNew27:"Consultant of Organization of\n" +
+              " Blockchain Associations for\n" +
+              "development Distinguished\n" +
+              "Professor of Chinese\n" +
+              "Academy Social Sciences",
+          NameNew28:"Ken Huang",
+          positionNew28:"Chief blockchain architect\n" +
+              "for Nuclear chain\n" +
+              "member of Chinese\n" +
+              "Electric Academy\n" +
+              "Blockchain Expert Committee",
+          NameNew29:"Ramble",
+          positionNew29:"Founder of SWFTC\n" +
+              "Founder of North America\n" +
+              "Blockchain Association\n" +
+              "(NABA)",
+          NameNew30:"Lucas Lu",
+          positionNew30:"Founder of CyberMiles\n" +
+              "First GM of Alibaba’s Taobao\n" +
+              "Mobile platform\n" +
+              "Co-founder of LightInTheBox",
+          NameNew31:"Caspar WONG",
+          positionNew31:"CEO of\n" +
+              "Goldford Fintech",
+          NameNew32:"Charles Cai",
+          positionNew32:"Mcdonald’s China CIO\n" +
+              "Co-founder and President \n" +
+              "at InfiniVision iABC Labs",
+          NameNew33:"Zhao Sheng",
+          positionNew33:"CEO and Founder\n" +
+              "of GXChain",
+          NameNew34:"Aurora Wong",
+          positionNew34:"Vice president of ZB Group\n" +
+              "Founding Partner of\n" +
+              "Crypto Capital",
+          NameNew35:"Frank Zheng",
+          positionNew35:"Dean of the Caribbean\n" +
+              "Blockchain Research Institute\n" +
+              "Director of Wolrd\n" +
+              "Blockchain Organization",
+          NameNew36:"Vincent Huang",
+          positionNew36:"CEO and Founder\n" +
+              "of GXChain",
+          NameNew37:"Feng Fazhan",
+          positionNew37:"IDA Digital asset management\n" +
+              "PTY, LTD COO\n" +
+              "Partner of  DAppLabs",
+          NameNew38:"Zong Hua",
+          positionNew38:"Initiator of The Greater\n" +
+              "bay area blockchain\n" +
+              "industry association",
+          NameNew39:"Larry Lin",
+          positionNew39:"Director of\n" +
+              "TrueChain foundation",
+          NameNew40:"Podsen Huang",
+          positionNew40:"Founder of UB.vc\n" +
+              "co-founder of YOEx.com",
+          NameNew41:"Zhang Jianguo",
+          positionNew41:"President of \n" +
+              "Bikuai Finance\n" +
+              "Chairman of China\n" +
+              "Blockchain VC Association",
+          NameNew42:"Raymond GAO",
+          positionNew42:"Vice President of International\n" +
+              "BlockChain and\n" +
+              "CryptoCurrency Assocaition, \n" +
+              "Co-founder of\n" +
+              "GVE foundation",
+          NameNew43:"Cheney Tsoi",
+          positionNew43:"Founding President of Asia\n" +
+              "Blockchain Society\n" +
+              "CEO of Hong Kong\n" +
+              "Blockchain Asset\n" +
+              "Management Company",
+          NameNew44:"Jiang Biao",
+          positionNew44:"Expert member of the China blockchain sandbox research center",
+          NameNew45:"Fred Wang",
+          positionNew45:"Founder of Mars Finance and Consensus Lab Chairman of Linekong Interactive Group",
 
 
       },
