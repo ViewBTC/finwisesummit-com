@@ -139,9 +139,9 @@
         xyqs70: "新一代矿池的发展趋势",
 
         fhfz71:
-          "FINWISE纷智峰会是中国最具影响的区块链峰会之一，团队由经验丰富的金融市场专家和区块链行业精英组成，旨在加强行业从业者们的交流，推动全球金融科技的发展。在行业处于牛熊转换的历史时刻，纷智会议有义务聚合行业各方资源，共创区块链行业的新纪元。",
+          " FINWISE纷智峰会是全球最具影响的科技金融峰会之一，会议旨在汇 集科技金融行业的优秀企业、行业专家、投资机构，共同交流探讨未来科 技金融的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进科技金融及区块链行业的长期稳健发展。",
         cewl72:
-          "2017年-2018年，FINWISE先后在上海、澳门、东京、香港四地举办，从2017年纷智第一场会议起，币安交易所、金色财经、波场TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了区块链行业的会议热，同时也成就了纷智品牌在行业的影响力。",
+          "2017年-2018年，FINWISE纷智峰会先后在上海、澳门、东京、香 港四地举办。2017年纷智第一场会议，币安交易所、金色财经、波场 TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了科技金融行业的会议热，同时也成就了纷智品牌在行业的影响力。",
           fhfz711:'香港是“粤港澳大湾区”发展规划大局中的前沿阵地。2019年5月28日-5月29日，纷智顺应国家新经济发展的政策号召，将峰会再次放在香港。会议主题为“全球科技金融高峰论坛”，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域及传统金融投资领域等企业嘉宾参与',
 
           zwhe73: "FINWISE组委会",
@@ -1090,9 +1090,9 @@
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
           fhfz711:'Hong Kong has always been at the forefront in The Greater Bay Area Plan (the development plan for the Guangdong-Hong Kong-Macau Greater Bay Area). In May 28th-29th 2019, FINWISE will embrace the national economic development policy and hold the FINWISE Summit in Hong Kong.Join us and embrace the future of financial technology with industry pioneers in the emerging technologies industries (Artificial Intelligence, Blockchain Technology, Cloud Computing, Big Data, and Internet of Things), along with top investment companies that will be in attendance.',
         fhfz71:
-          "FINWISE is one of the most influential Blockchain Summits in China. The team is composed of experienced financial market experts and blockchain industry elites. It aims to strengthen the communications among industry practitioners and promote the development of global financial technology. In this historical moment when the industry is in the transition of the bulls and bears, the Summit is obliged to aggregate the resources of all parties in the industry to create a new era of the blockchain industry.",
+          "FINWISE is one of the most influential brands in the blockchain event industry. The FINWISE Summit gathers a group of experienced experts and entrepreneurs from the financial services and blockchain industries, and together we discuss the development of FinTech and blockchain technology for applications in the now and the future. The goals of FINWISE are to share state of the art trends in blockchain technology and to create a trustworthy collaboration platform. We cooperate with national regulatory authorities around the world to ensure the healthy development of FinTech and blockchain industries in the long term.",
         cewl72:
-          "From 2017 to 2018, FINWISE was held in Shanghai, Macau, Tokyo and Hong Kong. Since the first meeting in 2017, the well-known projects such as the Binance Exchange, Jinse Finance and TRON debuted at the Summit, and quickly developed into industry leaders. Futhermore, many well-known big names in the field also made a great show at the Summit, and obtained investment and cooperation opportunities. The FINWISE Summit has led the development of the blockchain industry community, and at the same time it achieved to be the most influential Blockchain Summit brand.",
+          "From 2017 to 2018, FINWISE held summits in Shanghai, Macau, Tokyo, and Hong Kong. Since the first summit in 2017, well-known projects such as the Binance Exchange, Jinse Finance, and TRON have debuted at FINWISE and quickly developed into industry leaders. Furthermore, many renowned names in the industry have also participated in the Summit, and obtained investment and partnership opportunities as a result. The FINWISE Summit has been at the forefront of developing the community for the blockchain technology industry, and has driven the hosting of conferences trend in the sector. FINWISE has created a robust space to unify projects and blockchain enthusiasts, therefore making it one of the most influential events in the blockchain technology industry.",
         zwhe73: "FINWISE Organizing Committee",
         hxcy74: "Core Team Members",
 
