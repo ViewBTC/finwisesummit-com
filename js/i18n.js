@@ -142,7 +142,7 @@
           "FINWISE纷智峰会是中国最具影响的区块链峰会之一，团队由经验丰富的金融市场专家和区块链行业精英组成，旨在加强行业从业者们的交流，推动全球金融科技的发展。在行业处于牛熊转换的历史时刻，纷智会议有义务聚合行业各方资源，共创区块链行业的新纪元。",
         cewl72:
           "2017年-2018年，FINWISE先后在上海、澳门、东京、香港四地举办，从2017年纷智第一场会议起，币安交易所、金色财经、波场TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了区块链行业的会议热，同时也成就了纷智品牌在行业的影响力。",
-          fhfz711:'本次会议主题全球科技金融高峰论坛，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域传统金融投资领域等企业嘉宾参与。',
+          fhfz711:'香港是“粤港澳大湾区”发展规划大局中的前沿阵地。2019年5月28日-5月29日，纷智顺应国家新经济发展的政策号召，将峰会再次放在香港。会议主题为“全球科技金融高峰论坛”，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域及传统金融投资领域等企业嘉宾参与',
 
           zwhe73: "FINWISE组委会",
         hxcy74: "核心团队成员",
@@ -811,7 +811,8 @@
           Attend_websafe:"网络安全",
           Attend_wlw:"物联网",
           Attend_BLC:"知名区块链项目",
-          Partner_tl:"合作伙伴",
+          Partner_tl:"支持媒体",
+          Partner_tl1:"战略合作",
           Partner_GDtl:"钻石协办",
           HK_FWChoose:"FINWISE香港站参会选择",
           HK_FWChooseTK:"赞助条款",
@@ -858,6 +859,7 @@
 
           organisers:"主办方",
           othersers:"联合主办",
+          djiaguanming:"独家冠名赞助商",
 
 
           NameNew01:"Vitalik",
@@ -1086,7 +1088,7 @@
         qkzn68: "Blockchain and Artificial Intelligence",
         qkfz69: "New Development of Blockchain on the Mobile Devices",
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
-          fhfz711:'Join us and embrace the TechFin future with ABCDI (Artificial Intelligence, Blockchain, Cloud Computing, Big Data, Internet of Things) field pioneer enterprises, and top investment companies. Uncovering the TechFin industry hot spot, disrupting the barrier between technology/investment and ecosystem, together we hold this forward-thinking summit, and empower the FINWISE branding in the TechFind field. Thus we promote the industry to go through the bearish period and ensure a healthy development. There will be over 150 enterprises guests from TechFin and traditional investment fields companies. ',
+          fhfz711:'Hong Kong has always been at the forefront in The Greater Bay Area Plan (the development plan for the Guangdong-Hong Kong-Macau Greater Bay Area). In May 28th-29th 2019, FINWISE will embrace the national economic development policy and hold the FINWISE Summit in Hong Kong.Join us and embrace the future of financial technology with industry pioneers in the emerging technologies industries (Artificial Intelligence, Blockchain Technology, Cloud Computing, Big Data, and Internet of Things), along with top investment companies that will be in attendance.',
         fhfz71:
           "FINWISE is one of the most influential Blockchain Summits in China. The team is composed of experienced financial market experts and blockchain industry elites. It aims to strengthen the communications among industry practitioners and promote the development of global financial technology. In this historical moment when the industry is in the transition of the bulls and bears, the Summit is obliged to aggregate the resources of all parties in the industry to create a new era of the blockchain industry.",
         cewl72:
@@ -1824,7 +1826,8 @@
           Attend_websafe:"Internet Security",
           Attend_wlw:"IOT",
           Attend_BLC:"Blockchain Service provider",
-          Partner_tl:"PARTNER",
+          Partner_tl:"SUPPORT MEDIA",
+          Partner_tl1:"STRATEGIC PARTNERS",
           Partner_GDtl:"Diamond Sponsor",
           HK_FWChoose:"Get Involved In",
           HK_FWChooseTK:"Sponsorship clause",
@@ -1866,6 +1869,7 @@
 
           organisers:"Organisers",
           othersers:"Co-hosted",
+          djiaguanming:"Premium Title Sponsorship",
 
           NameNew01:"Vitalik Buterin",
           positionNew01:"Founder of Ethereum",
