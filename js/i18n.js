@@ -71,8 +71,9 @@
         lhzb20: "联合主办",
         mtxb21: "媒体协办",
         xbfe22: "协办方",
-        pwzx23: "联系我们",
+        pwzx23: "国内合作",
         zzzx24: "商务合作",
+        zzzx2444:"商务媒体合作",
         gywm25: "媒体合作",
         zzzxMrW:"王先生",
         zzzxMrsZ:"周小姐",
@@ -138,10 +139,10 @@
         xyqs70: "新一代矿池的发展趋势",
 
         fhfz71:
-          "FINWISE纷智峰会是中国最具影响的区块链峰会之一，团队由经验丰富的金融市场专家和区块链行业精英组成，旨在加强行业从业者们的交流，推动全球金融科技的发展。在行业处于牛熊转换的历史时刻，纷智会议有义务聚合行业各方资源，共创区块链行业的新纪元。",
+          " FINWISE纷智峰会是全球最具影响的科技金融峰会之一，会议旨在汇 集科技金融行业的优秀企业、行业专家、投资机构，共同交流探讨未来科 技金融的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进科技金融及区块链行业的长期稳健发展。",
         cewl72:
-          "2017年-2018年，FINWISE先后在上海、澳门、东京、香港四地举办，从2017年纷智第一场会议起，币安交易所、金色财经、波场TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了区块链行业的会议热，同时也成就了纷智品牌在行业的影响力。",
-          fhfz711:'本次会议主题全球科技金融高峰论坛，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域传统金融投资领域等企业嘉宾参与。',
+          "2017年-2018年，FINWISE纷智峰会先后在上海、澳门、东京、香 港四地举办。2017年纷智第一场会议，币安交易所、金色财经、波场 TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了科技金融行业的会议热，同时也成就了纷智品牌在行业的影响力。",
+          fhfz711:'香港是“粤港澳大湾区”发展规划大局中的前沿阵地。2019年5月28日-5月29日，纷智顺应国家新经济发展的政策号召，将峰会再次放在香港。会议主题为“全球科技金融高峰论坛”，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域及传统金融投资领域等企业嘉宾参与',
 
           zwhe73: "FINWISE组委会",
         hxcy74: "核心团队成员",
@@ -253,7 +254,7 @@
           positiontedlin22:"币安国际市场负责人",
 
           namedxx23:"段新星",
-          positiondxx23:"比原链 创始人",
+          positiondxx23:"巴比特执行总裁",
 
           nameyzy24:"叶祖研",
           positionyzy24:"链向财经联合创始人&CEO",
@@ -554,6 +555,8 @@
           namescxh119:"张敬唯",
           positioncxh119:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
 
+          GaHwHz:"港澳及海外合作",
+
 
 
           zzhz01:"赞助合作",
@@ -808,7 +811,8 @@
           Attend_websafe:"网络安全",
           Attend_wlw:"物联网",
           Attend_BLC:"知名区块链项目",
-          Partner_tl:"合作伙伴",
+          Partner_tl:"支持媒体",
+          Partner_tl1:"战略合作",
           Partner_GDtl:"钻石协办",
           HK_FWChoose:"FINWISE香港站参会选择",
           HK_FWChooseTK:"赞助条款",
@@ -843,19 +847,121 @@
           positionWuJi:"华迎控股集团 董事长",
 
           nameYangNK:"杨林科",
-          positionYangNK:"比特币中国联合创始人、ICOCOIN创始人",
+          positionYangNK:"比特币中国联合创始人",
 
 
 
           nameHanFeng:"韩峰",
           positionHanFengInfo:"哥伦比亚大学访问研究员、华为中央研究院区块链顾问、亚洲区块链DACA协会秘书长、亦来云基金会理事",
 
-          ATFuest_tl:"往届嘉宾",
+          ATFuest_tl:"拟邀嘉宾",
           Agenda_tl:"会议议程",
 
           organisers:"主办方",
           othersers:"联合主办",
+          djiaguanming:"独家冠名赞助商",
 
+
+          NameNew01:"Vitalik",
+          positionNew01:"以太坊创始人",
+
+          NameNew02:"徐小平",
+          positionNew02:"真格基金创始人、著名天使投资人",
+
+          NameNew03:"赵长鹏",
+          positionNew03:"币安CEO",
+
+          NameNew04:"赵东",
+          positionNew04:"著名天使投资人、DGroup创始人",
+
+          NameNew05:"吴杰庄",
+          positionNew05:"全国政协委员、香港青年联会顾问",
+
+          NameNew06:"初夏虎",
+          positionNew06:"维优 CEO、元界基金会主席",
+
+          NameNew07:"郭宏才",
+          positionNew07:"著名天使投资人",
+
+          NameNew08:"李林",
+          positionNew08:"火币创始人兼董事长",
+
+          NameNew09:"杜均",
+          positionNew09:"金色财经创始人、节点资本创始合伙人",
+
+          NameNew10:"吴忌寒",
+          positionNew10:"比特大陆CEO",
+
+          NameNew11:"达鸿飞",
+          positionNew11:"NEO创始人",
+          NameNew12:"王岳华",
+          positionNew12:"德丰杰龙脉创新基金合伙人",
+          NameNew13:"邓迪",
+          positionNew13:"太一云 董事长",
+          NameNew14:"杨林科",
+          positionNew14:"比特币中国创始人兼CEO",
+          NameNew15:"于佳宁",
+          positionNew15:"火币大学校长",
+          NameNew16:"长铗",
+          positionNew16:"巴比特 CEO",
+          NameNew17:"孙宇晨",
+          positionNew17:"TRON创始人兼CEO",
+          NameNew18:"薛蛮子",
+          positionNew18:"著名天使投资人",
+          NameNew19:"虫哥",
+          positionNew19:"POC生态布道者、Hpool矿池创始人",
+          NameNew20:"安鑫鑫",
+          positionNew20:"金色财经合伙人、金色学院创始人",
+          NameNew21:"刘嘉陵(巨蟹)",
+          positionNew21:"比特股理事会理事、比特创业营联合创始人",
+          NameNew22:"帅初",
+          positionNew22:"Qtum创始人",
+          NameNew23:"Ahmed Al-Balaghi",
+          positionNew23:"复旦区块链协会联合创始人&主席",
+          NameNew24:"李大伟",
+          positionNew24:"ZB联合创始人、引力波动量化创始人",
+          NameNew25:"曾豪",
+          positionNew25:"蚂蚁节点联盟创始人",
+          NameNew26:"申屠青春",
+          positionNew26:"银联科技 CEO",
+          NameNew27:"王彬生",
+          positionNew27:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
+          NameNew28:"黄连金",
+          positionNew28:"核聚链首席科学家、中国电子学会区块链分会专家委员",
+          NameNew29:"兰波",
+          positionNew29:"SWFTC 创始人、北美区块链协会(NABA)创始人",
+          NameNew30:"卢亮",
+          positionNew30:"CyberMiles创始人、手机淘宝首任总经理、兰亭集势联合创始人",
+          NameNew31:"黄俊瑯",
+          positionNew31:"高锋创新金融行政总裁",
+          NameNew32:"蔡栋",
+          positionNew32:"麦当劳中国首席数据智能官、INFINVISION深见ABC实验室创始人",
+          NameNew33:"赵胜",
+          positionNew33:"WBF纽约世界区块链大会纽约Digital USD创始人、硅谷创客资本创始人",
+          NameNew34:"Aurora",
+          positionNew34:"ZB集团副总裁、加密资本创始人",
+          NameNew35:"郑晓军",
+          positionNew35:"加勒比区块链研究院院长、世界区块链组织总干事",
+          NameNew36:"黄敏强",
+          positionNew36:"公信宝创始人",
+          NameNew37:"冯发展",
+          positionNew37:"IDA资产数字化项目COO、DAppLabs 实验室合伙人",
+          NameNew38:"宗华",
+          positionNew38:"粤港澳大湾区区块链产业联盟发起人、深圳前海汇潮投资有限公司创始人",
+          NameNew39:"林大亮",
+          positionNew39:"初链基金会理事",
+          NameNew40:"黄胜",
+          positionNew40:"优币创投 创始人、YOEX 优网 联合创始人",
+          NameNew41:"张建国",
+          positionNew41:"币快财经总裁、中国区块链创投联盟主席",
+          NameNew42:"高泽龙",
+          positionNew42:"国际区块链与数字货币协会 副会长、GVE基金会联合创始人",
+          NameNew43:"蔡志川",
+          positionNew43:"亚洲区块链学会 会长、香港区块链资产管理有限公司总裁",
+          NameNew44:"江标",
+          positionNew44:"中国区块链沙盒研究中心专家委员",
+          NameNew45:"王峰",
+          positionNew45:"火星财经发起人、共识实验室发起人、蓝港互动集团董事长",
       },
 
 
@@ -913,8 +1019,9 @@
         lhzb20: "Co-organizer",
         mtxb21: "Media Sponsor",
         xbfe22: "Co-sponsor",
-        pwzx23: "Contact Us",
+        pwzx23: "Contact us (Mainland China)",
         zzzx24: "Business Cooperation",
+        zzzx2444:'Cooperation',
         gywm25: "Media Cooperation",
         zzzxMrW:"Mr.Wang",
         zzzxMrsZ:"Mrs.Zhou",
@@ -981,11 +1088,11 @@
         qkzn68: "Blockchain and Artificial Intelligence",
         qkfz69: "New Development of Blockchain on the Mobile Devices",
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
-          fhfz711:'Join us and embrace the TechFin future with ABCDI (Artificial Intelligence, Blockchain, Cloud Computing, Big Data, Internet of Things) field pioneer enterprises, and top investment companies. Uncovering the TechFin industry hot spot, disrupting the barrier between technology/investment and ecosystem, together we hold this forward-thinking summit, and empower the FINWISE branding in the TechFind field. Thus we promote the industry to go through the bearish period and ensure a healthy development. There will be over 150 enterprises guests from TechFin and traditional investment fields companies. ',
+          fhfz711:'Hong Kong has always been at the forefront in The Greater Bay Area Plan (the development plan for the Guangdong-Hong Kong-Macau Greater Bay Area). In May 28th-29th 2019, FINWISE will embrace the national economic development policy and hold the FINWISE Summit in Hong Kong.Join us and embrace the future of financial technology with industry pioneers in the emerging technologies industries (Artificial Intelligence, Blockchain Technology, Cloud Computing, Big Data, and Internet of Things), along with top investment companies that will be in attendance.',
         fhfz71:
-          "FINWISE is one of the most influential Blockchain Summits in China. The team is composed of experienced financial market experts and blockchain industry elites. It aims to strengthen the communications among industry practitioners and promote the development of global financial technology. In this historical moment when the industry is in the transition of the bulls and bears, the Summit is obliged to aggregate the resources of all parties in the industry to create a new era of the blockchain industry.",
+          "FINWISE is one of the most influential brands in the blockchain event industry. The FINWISE Summit gathers a group of experienced experts and entrepreneurs from the financial services and blockchain industries, and together we discuss the development of FinTech and blockchain technology for applications in the now and the future. The goals of FINWISE are to share state of the art trends in blockchain technology and to create a trustworthy collaboration platform. We cooperate with national regulatory authorities around the world to ensure the healthy development of FinTech and blockchain industries in the long term.",
         cewl72:
-          "From 2017 to 2018, FINWISE was held in Shanghai, Macau, Tokyo and Hong Kong. Since the first meeting in 2017, the well-known projects such as the Binance Exchange, Jinse Finance and TRON debuted at the Summit, and quickly developed into industry leaders. Futhermore, many well-known big names in the field also made a great show at the Summit, and obtained investment and cooperation opportunities. The FINWISE Summit has led the development of the blockchain industry community, and at the same time it achieved to be the most influential Blockchain Summit brand.",
+          "From 2017 to 2018, FINWISE held summits in Shanghai, Macau, Tokyo, and Hong Kong. Since the first summit in 2017, well-known projects such as the Binance Exchange, Jinse Finance, and TRON have debuted at FINWISE and quickly developed into industry leaders. Furthermore, many renowned names in the industry have also participated in the Summit, and obtained investment and partnership opportunities as a result. The FINWISE Summit has been at the forefront of developing the community for the blockchain technology industry, and has driven the hosting of conferences trend in the sector. FINWISE has created a robust space to unify projects and blockchain enthusiasts, therefore making it one of the most influential events in the blockchain technology industry.",
         zwhe73: "FINWISE Organizing Committee",
         hxcy74: "Core Team Members",
 
@@ -997,7 +1104,7 @@
           nameyd01:"Dong Yang",
           positionyd01:"Professor, Doctoral Tutuor and Vice-President of the Law School of Renmin University of China",
           namewbs02:"Binsheng Wang",
-          positionwbs02:"Blockchain Joint Development Organization Advisor, Special-term Professor of the Graduate School, Chinese Academy of Social Sciences",
+          positionwbs02:"Wang Binsheng  Consultant of Organization of Blockchain Associations for Development  Distinguished professor of graduate school at Chinese Academy Social Sciences",
           namezyh03:"Jack Zhang",
           positionzyh03:"Head of Lightning BTC China",
           namelf04:"MIKE Liu",
@@ -1018,10 +1125,10 @@
           positionfj09:" Banyan Capital",
 
           namewyh10:"Yuehua Wang",
-          positionwyh10:"Partner of DFJ DragonFund",
+          positionwyh10:"Partner of DFJ DragonFund China ",
 
-          nameghc11:"Hongcai Guo",
-          positionghc11:"BTC Angel Investor",
+          nameghc11:"Chandler Guo",
+          positionghc11:"Bitcoin Angle Investor",
 
           namezll12:"Liaoliao Zhang",
           positionzll12:"Partner of gate.io",
@@ -1051,7 +1158,7 @@
           positionlsf15:"CEO of OKEx",
 
           namety16:"Angela Tong",
-          positionty16:"Partner of Jinse Finance",
+          positionty16:"Jinse Finance Partner",
 
           namericoni17:"Riconi You",
           positionriconi17:"Co-founder and Chairman of FINWISE Committee",
@@ -1072,7 +1179,7 @@
           positiontedlin22:"Head of International Markets at Binance",
 
           namedxx23:"Xinxin Duan",
-          positiondxx23:"Founder of BTM",
+          positiondxx23:"CEO of 8BTC.com",
 
           nameyzy24:"Zuyan Ye",
           positionyzy24:"Co-founder&CEO of Chainfor",
@@ -1123,7 +1230,7 @@
           positionlxy39:"Co-Founder & COO of NEM China",
 
           nameldw40:"Dawei Li",
-          positionldw40:"Founder of ZB.COM",
+          positionldw40:" Co-founder of ZB.com",
 
           namemark41:"Mark",
           positionmark41:"Founder of BlockchainCasnio ",
@@ -1154,13 +1261,13 @@
           positionxyq49:"Founder and CEO of MeshBox",
 
           nameszy50:"Zeyu Sun",
-          positionszy50:"Co-Founder and Brand Director of Coldlar",
+          positionszy50:"Co-founder and Brand Director of Coldlar",
 
           namepl51:"Paul Liu",
           positionpl51:"FAB Chairman Chief Blockchain Specialist",
 
-          namepzx52:"Zongxin Peng",
-          positionpzx52:"Founder of International Blockchain Research Association and QTG",
+          namepzx52:"Steve Pang",
+          positionpzx52:"Convener of International Blockchain Association, Founder of QTG",
 
           namely53:"Yu liang",
           positionly53:"StarChain Investor, Founder and CEO of Kaipai",
@@ -1207,8 +1314,8 @@
           nametoni67:"Toni",
           positiontoni67:"CEO of sgamer",
 
-          nameljl68:"Jialing  Liu",
-          positionljl68:"Director of BTS,Co-Founder of BTC venture camp, Co-Founder of YOYOW",
+          nameljl68:" Bitcrab(Liu Jialing)",
+          positionljl68:"BitShares Committee member, BitsClub co-founder, YOYOW co-founder",
 
           namegyl69:"Zack_Gao",
           positiongyl69:"Co-Founder of  International Blockchain Application Federation",
@@ -1218,7 +1325,7 @@
           positionsld70:"Huoxun.com CEO",
 
           nameswj71:"Jackie",
-          positionswj71:"HuaYing Holding Group Company",
+          positionswj71:" President of Huaying Holdings Group",
 
           nameswjz72:"Dr. Johnny Ng",
           positionwjz72:"Chairman of Goldford Group/Member of the national committee of CPPCC/Chief participant in the Youth Federation of Hongkong",
@@ -1339,8 +1446,8 @@
           nameTonyEvans109:"Tony Evans",
           positionTonyEvans109:"Vice-Chairman and Managing Director of Asia and the Middle East of Blockchain Industries, Inc.,Co Founder of Fintech Global Consultant’s",
 
-          nameEric110:"Eric",
-          positionEric110:"Viewfin CEO 初夏虎",
+          nameEric110:"Eric Gu",
+          positionEric110:"Viewfin CEO",
 
           nameEric1100:"CZ",
           positionEric1100:"Founder and CEO of Binance",
@@ -1367,8 +1474,8 @@
           postionAhmedAl:'Co-Founder and President of Fudan BLockchain Association (F6S) Qianli Ma Vice President of 8btc and Bytom(BTM) Operation Director',
 
 
-          nameliuguanhua:'Guanhua Liu',
-          positionliuguanhua:'Irene Va Kuan Lau Acting President of Macau Trade and Investment Promotion Istitute (IPIM)',
+          nameliuguanhua:'Irene Va Kuan Lau',
+          positionliuguanhua:'Acting President of Macau Trade and Investment Promotion Istitute (IPIM)',
 
           namezss03333:"Qiyuan Li",
           positionzss03333:"CEO of BTCChina",
@@ -1411,6 +1518,7 @@
           grchEntrance:"Individual",
           mediacover:"Media",
           chqyfw:"Enterprise",
+          GaHwHz:"ontact us(Outside Mainland China)",
 
           hotelab:"Peripheral Hotel",
           hoteltips:"Please kindly be noticed that the following hotel list is recommended by summit organizer according to the location convenience.  We do not responsible for accommodation services. Please contact hotel directly if you need make a room reservation.",
@@ -1718,7 +1826,8 @@
           Attend_websafe:"Internet Security",
           Attend_wlw:"IOT",
           Attend_BLC:"Blockchain Service provider",
-          Partner_tl:"PARTNER",
+          Partner_tl:"SUPPORT MEDIA",
+          Partner_tl1:"STRATEGIC PARTNERS",
           Partner_GDtl:"Diamond Sponsor",
           HK_FWChoose:"Get Involved In",
           HK_FWChooseTK:"Sponsorship clause",
@@ -1737,7 +1846,7 @@
 
 
           nameDujun_info:"Du Jun",
-          positionDujun:"Jinse CEO",
+          positionDujun:" CEO of Jinse Finance",
 
           nameCaoNH:"Cao Hui Ning",
           positionCaoNH:"Professor of CEIBS, Founder &CEO of Usechain ",
@@ -1749,9 +1858,9 @@
           positionWuJi:"Chairman of HuaYing Holding Group",
 
           nameYangNK:"linke Yang",
-          positionYangNK:"Consultant of BTC Diamond",
+          positionYangNK:"Co-founder of BTCChina",
 
-          ATFuest_tl:"Past Guest",
+          ATFuest_tl:"Guest",
           Agenda_tl:"Agenda",
 
 
@@ -1760,6 +1869,166 @@
 
           organisers:"Organisers",
           othersers:"Co-hosted",
+          djiaguanming:"Premium Title Sponsorship",
+
+          NameNew01:"Vitalik Buterin",
+          positionNew01:"Founder of Ethereum",
+
+          NameNew02:"Bob Xu",
+          positionNew02:"Angle Investor\n" +
+              "Founder of ZhenFund",
+
+          NameNew03:"CZ",
+          positionNew03:"CEO of Binance",
+
+          NameNew04:"Zhao Dong",
+          positionNew04:"Angle Investor\n" +
+              "Founder of DGroup",
+
+          NameNew05:"Dr.Johnny Ng",
+          positionNew05:"Member of CPPCC and consultant of Hong Kong United Youth Association" ,
+
+          NameNew06:"Eric Gu",
+          positionNew06:"Founder of the\n" +
+              "Metaverse foundation\n" +
+              "Ethereum Angel Investor",
+
+          NameNew07:"Chandler Guo",
+          positionNew07:"Angel Investor",
+
+          NameNew08:"Li Lin",
+          positionNew08:"Founder and CEO\n" +
+              "of Huobi",
+
+          NameNew09:"Du Jun",
+          positionNew09:"Founder and CEO of\n" +
+              "Jinse Finance Co-founder\n" +
+              "of Node Capital",
+
+          NameNew10:"Wu Jihan",
+          positionNew10:"Co-founder of BITMAIN",
+
+          NameNew11:"Da Hongfei",
+          positionNew11:"Founder of NEO",
+          NameNew12:"Richard Wang",
+          positionNew12:"Partner of DFJ\n" +
+              "DragonFund China",
+          NameNew13:"Deng Di",
+          positionNew13:"Chairman of TaiYiYun",
+          NameNew14:"Yang Linke",
+          positionNew14:"Co-founder of BTCChina",
+          NameNew15:"Yu Jianing",
+          positionNew15:"President of\n" +
+              "Huobi University",
+          NameNew16:"Change Jia",
+          positionNew16:"Founder and CEO\n" +
+              "of 8btc",
+          NameNew17:"Justin Sun",
+          positionNew17:"Founder and CEO\n" +
+              "of TRON",
+          NameNew18:"Charle Xue",
+          positionNew18:"Angel Investor",
+          NameNew19:"Chong ge",
+          positionNew19:"POC ecology\n" +
+              "advocate, Founder of Hpool",
+          NameNew20:"An xinxin",
+          positionNew20:"Partner of Jinse Finance\n" +
+              "Founder of Jinse Academy",
+          NameNew21:"BitCrab(Liu Jialing)",
+          positionNew21:"BitShares Committe member\n" +
+              "BitsClub co-founder",
+          NameNew22:"Patrick Shuai",
+          positionNew22:"Founder of QTUM",
+          NameNew23:"Ahmed AI-Balaghi",
+          positionNew23:"Co-founder and\n" +
+              "President of Fudan\n" +
+              "Blockchain Association",
+          NameNew24:"Li Dawei",
+          positionNew24:"Co-founder of zb.com",
+          NameNew25:"Zeng Hao",
+          positionNew25:"Founder of Ant\n" +
+              "Node Alliance",
+          NameNew26:"Shentu Qingchun",
+          positionNew26:"CEO of Silver Chain Technology",
+          NameNew27:"Wang Binsheng",
+          positionNew27:"Consultant of Organization of\n" +
+              " Blockchain Associations for\n" +
+              "development Distinguished\n" +
+              "Professor of Chinese\n" +
+              "Academy Social Sciences",
+          NameNew28:"Ken Huang",
+          positionNew28:"Chief blockchain architect\n" +
+              "for Nuclear chain\n" +
+              "member of Chinese\n" +
+              "Electric Academy\n" +
+              "Blockchain Expert Committee",
+          NameNew29:"Ramble",
+          positionNew29:"Founder of SWFTC\n" +
+              "Founder of North America\n" +
+              "Blockchain Association\n" +
+              "(NABA)",
+          NameNew30:"Lucas Lu",
+          positionNew30:"Founder of CyberMiles\n" +
+              "First GM of Alibaba’s Taobao\n" +
+              "Mobile platform\n" +
+              "Co-founder of LightInTheBox",
+          NameNew31:"Caspar WONG",
+          positionNew31:"CEO of\n" +
+              "Goldford Fintech",
+          NameNew32:"Charles Cai",
+          positionNew32:"Mcdonald’s China CIO\n" +
+              "Co-founder and President \n" +
+              "at InfiniVision iABC Labs",
+          NameNew33:"Zhao Sheng",
+          positionNew33:"CEO and Founder\n" +
+              "of GXChain",
+          NameNew34:"Aurora Wong",
+          positionNew34:"Vice president of ZB Group\n" +
+              "Founding Partner of\n" +
+              "Crypto Capital",
+          NameNew35:"Frank Zheng",
+          positionNew35:"Dean of the Caribbean\n" +
+              "Blockchain Research Institute\n" +
+              "Director of Wolrd\n" +
+              "Blockchain Organization",
+          NameNew36:"Vincent Huang",
+          positionNew36:"CEO and Founder\n" +
+              "of GXChain",
+          NameNew37:"Feng Fazhan",
+          positionNew37:"IDA Digital asset management\n" +
+              "PTY, LTD COO\n" +
+              "Partner of  DAppLabs",
+          NameNew38:"Zong Hua",
+          positionNew38:"Initiator of The Greater\n" +
+              "bay area blockchain\n" +
+              "industry association",
+          NameNew39:"Larry Lin",
+          positionNew39:"Director of\n" +
+              "TrueChain foundation",
+          NameNew40:"Podsen Huang",
+          positionNew40:"Founder of UB.vc\n" +
+              "co-founder of YOEx.com",
+          NameNew41:"Zhang Jianguo",
+          positionNew41:"President of \n" +
+              "Bikuai Finance\n" +
+              "Chairman of China\n" +
+              "Blockchain VC Association",
+          NameNew42:"Raymond GAO",
+          positionNew42:"Vice President of International\n" +
+              "BlockChain and\n" +
+              "CryptoCurrency Assocaition, \n" +
+              "Co-founder of\n" +
+              "GVE foundation",
+          NameNew43:"Cheney Tsoi",
+          positionNew43:"Founding President of Asia\n" +
+              "Blockchain Society\n" +
+              "CEO of Hong Kong\n" +
+              "Blockchain Asset\n" +
+              "Management Company",
+          NameNew44:"Jiang Biao",
+          positionNew44:"Expert member of the China blockchain sandbox research center",
+          NameNew45:"Fred Wang",
+          positionNew45:"Founder of Mars Finance and Consensus Lab Chairman of Linekong Interactive Group",
 
 
       },
