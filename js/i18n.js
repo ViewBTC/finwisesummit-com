@@ -967,7 +967,7 @@
           NameNew45:"王峰",
           positionNew45:"火星财经发起人、共识实验室发起人、蓝港互动集团董事长",
           NameNew46:"李广新",
-          positionNew46:"德鼎创新基金中国合伙人",
+          positionNew46:"德丰杰龙脉创新基金中国合伙人",
           NameNew47:"唐祥礼",
           positionNew47:"Plair冀建互动游戏平台 CEO",
           NameNew48:"大卫·金",
@@ -983,7 +983,7 @@
           NameNew53:"陳家豪",
           positionNew53:"香港智慧城市聯盟金融科技委員會主席",
           NameNew54:"胡一鸣",
-          positionNew54:"德鼎创新基金投资经理",
+          positionNew54:"德丰杰龙脉创新基金投资经理",
           NameNew55:"宋阳",
           positionNew55:"乐块 CEO",
       },
@@ -1887,14 +1887,14 @@
           nameYangNK:"linke Yang",
           positionYangNK:"Co-founder of BTCChina",
 
-          ATFuest_tl:"Guests",
+          ATFuest_tl:"FEATURED GUESTS",
           Agenda_tl:"Agenda",
 
 
           nameHanFeng:"Feng Han",
           positionHanFengInfo:"Founder of ELA",
 
-          organisers:"Organisers",
+          organisers:"Organiser",
           othersers:"Co-hosted",
           djiaguanming:"Premium Title Sponsorship",
           xianbandanwei:"Co-organiser",
@@ -2058,8 +2058,7 @@
           NameNew45:"Fred Wang",
           positionNew45:"Founder of Mars Finance and Consensus Lab Chairman of Linekong Interactive Group",
           NameNew46:"Larry Li ",
-          positionNew46:"DFJ\n" +
-              "DragonFund China",
+          positionNew46:"Managing Director of DFJ DragonFund China",
           NameNew47:"Pat Tang ",
           positionNew47:"Plair CEO",
           NameNew48:"David Kim",
@@ -2075,7 +2074,7 @@
           NameNew53:"Emil Chan ",
           positionNew53:"Hong Kong Smart City Consortium Fintech Chairman",
           NameNew54:"Yiming Hu ",
-          positionNew54:"Draper Dragon Associate",
+          positionNew54:"Associate of DFJ DragonFund China",
           NameNew55:"Song Yang ",
           positionNew55:"Leblock CEO",
 
