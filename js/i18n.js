@@ -1128,7 +1128,7 @@
           positionwyh10:"Partner of DFJ DragonFund China ",
 
           nameghc11:"Chandler Guo",
-          positionghc11:"Bitcoin Angle Investor",
+          positionghc11:"Bitcoin Angel Investor",
 
           namezll12:"Liaoliao Zhang",
           positionzll12:"Partner of gate.io",
@@ -1875,14 +1875,14 @@
           positionNew01:"Founder of Ethereum",
 
           NameNew02:"Bob Xu",
-          positionNew02:"Angle Investor\n" +
+          positionNew02:"Angel Investor\n" +
               "Founder of ZhenFund",
 
           NameNew03:"CZ",
           positionNew03:"CEO of Binance",
 
           NameNew04:"Zhao Dong",
-          positionNew04:"Angle Investor\n" +
+          positionNew04:"Angel Investor\n" +
               "Founder of DGroup",
 
           NameNew05:"Dr.Johnny Ng",
