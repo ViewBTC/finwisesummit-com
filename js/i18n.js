@@ -967,7 +967,7 @@
           NameNew45:"王峰",
           positionNew45:"火星财经发起人、共识实验室发起人、蓝港互动集团董事长",
           NameNew46:"李广新",
-          positionNew46:"德鼎创新基金管理合伙人",
+          positionNew46:"德鼎创新基金中国合伙人",
           NameNew47:"唐祥礼",
           positionNew47:"Plair冀建互动游戏平台 CEO",
           NameNew48:"大卫·金",
@@ -1114,7 +1114,7 @@
         qkzn68: "Blockchain and Artificial Intelligence",
         qkfz69: "New Development of Blockchain on the Mobile Devices",
         xyqs70: "The Development Trend of a New Generation of the Minging Pool",
-          fhfz711:'Hong Kong has always been at the forefront in The Greater Bay Area Plan (the development plan for the Guangdong-Hong Kong-Macau Greater Bay Area). In May 28th-29th 2019, FINWISE will embrace the national economic development policy and hold the FINWISE Summit in Hong Kong.Join us and embrace the future of financial technology with industry pioneers in the emerging technologies industries (Artificial Intelligence, Blockchain Technology, Cloud Computing, Big Data, and Internet of Things), along with top investment companies that will be in attendance.',
+          fhfz711:'Hong Kong has always been at the forefront in The Greater Bay Area Plan (the development plan for the Guangdong-Hong Kong-Macau Greater Bay Area). In May 28th-29th 2019, FINWISE will embrace the national economic development policy and hold the FINWISE Summit in Hong Kong. Join us and embrace the future of financial technology with industry pioneers in the emerging technologies industries (Artificial Intelligence, Blockchain Technology, Cloud Computing, Big Data, and Internet of Things), along with top investment companies that will be in attendance.',
         fhfz71:
           "FINWISE is one of the most influential brands in the blockchain event industry. The FINWISE Summit gathers a group of experienced experts and entrepreneurs from the financial services and blockchain industries, and together we discuss the development of FinTech and blockchain technology for applications in the now and the future. The goals of FINWISE are to share state of the art trends in blockchain technology and to create a trustworthy collaboration platform. We cooperate with national regulatory authorities around the world to ensure the healthy development of FinTech and blockchain industries in the long term.",
         cewl72:
@@ -1855,7 +1855,7 @@
           Partner_tl:"SUPPORT MEDIA",
           Partner_tl1:"STRATEGIC PARTNERS",
           Partner_GDtl:"Diamond Sponsor",
-          Partner_tl111:'SPONSOR',
+          Partner_tl111:'SPONSORS',
           HK_FWChoose:"Get Involved In",
           HK_FWChooseTK:"Sponsorship clause",
           Price_tips:"Notice: Because of the large fluctuation of digital money, this price is only valid until July 1st, and the official website updates the latest price in July 1st.",
@@ -2058,7 +2058,8 @@
           NameNew45:"Fred Wang",
           positionNew45:"Founder of Mars Finance and Consensus Lab Chairman of Linekong Interactive Group",
           NameNew46:"Larry Li ",
-          positionNew46:"Draper Dragon Managing Director",
+          positionNew46:"DFJ\n" +
+              "DragonFund China",
           NameNew47:"Pat Tang ",
           positionNew47:"Plair CEO",
           NameNew48:"David Kim",
