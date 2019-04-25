@@ -2074,7 +2074,7 @@
           NameNew53:"Emil Chan ",
           positionNew53:"Hong Kong Smart City Consortium Fintech Chairman",
           NameNew54:"Yiming Hu ",
-          positionNew54:"Draper Dragon Analyst",
+          positionNew54:"Draper Dragon Associate",
           NameNew55:"Song Yang ",
           positionNew55:"Leblock CEO",
 
