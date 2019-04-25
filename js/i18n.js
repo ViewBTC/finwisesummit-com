@@ -816,7 +816,7 @@
           Partner_tl:"支持媒体",
           Partner_tl1:"战略合作",
           Partner_GDtl:"钻石协办",
-          Partner_tl111:'赞助商',
+          Partner_tl111:'赞助单位',
           HK_FWChoose:"FINWISE香港站参会选择",
           HK_FWChooseTK:"赞助条款",
           Price_tips:"注：由于数字货币波动较大，此价格仅限于7月1日之前有效，7月1日官网更新最新价格。",
@@ -863,6 +863,7 @@
           organisers:"主办方",
           othersers:"联合主办",
           djiaguanming:"独家冠名赞助商",
+          xianbandanwei:"协办单位",
 
 
           NameNew01:"Vitalik",
@@ -1896,6 +1897,7 @@
           organisers:"Organisers",
           othersers:"Co-hosted",
           djiaguanming:"Premium Title Sponsorship",
+          xianbandanwei:"Co-organiser",
 
           NameNew01:"Vitalik Buterin",
           positionNew01:"Founder of Ethereum",
