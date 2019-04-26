@@ -144,7 +144,7 @@
           " FINWISE纷智峰会是全球最具影响的科技金融峰会之一，会议旨在汇 集科技金融行业的优秀企业、行业专家、投资机构，共同交流探讨未来科 技金融的发展及区块链技术的应用前景，分享最前沿的科技进展，创建可信的合作平台，同时携手各国的监管机构共同促进科技金融及区块链行业的长期稳健发展。",
         cewl72:
           "2017年-2018年，FINWISE纷智峰会先后在上海、澳门、东京、香 港四地举办。2017年纷智第一场会议，币安交易所、金色财经、波场 TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会。纷智会议带动了科技金融行业的会议热，同时也成就了纷智品牌在行业的影响力。",
-          fhfz711:'香港是“粤港澳大湾区”发展规划大局中的前沿阵地。2019年5月28日-5月29日，纷智顺应国家新经济发展的政策号召，将峰会再次放在香港。会议主题为“全球科技金融高峰论坛”，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域及传统金融投资领域等企业嘉宾参与',
+          fhfz711:'香港是“粤港澳大湾区”发展规划大局中的前沿阵地。2019年5月28日-5月29日，纷智顺应国家新经济发展的政策号召，将峰会再次放在香港。会议主题为“全球科技金融高峰论坛”，致力聚合ABCDI（人工智能、区块链、云计算、大数据、物联网）等领域的先锋企业及金融投资领域的头部企业，紧扣科技金融行业热点，打破技术、投资及生态建设等多方合作壁垒，打造一场具有前瞻性的行业峰会，充分发挥纷智品牌在科技金融领域的影响力，推动行业共赴时艰、健康发展。会议拟邀请150+科技金融领域及传统金融投资领域等企业嘉宾参与。',
 
           zwhe73: "FINWISE组委会",
         hxcy74: "核心团队成员",
@@ -941,7 +941,7 @@
           NameNew32:"蔡栋",
           positionNew32:"麦当劳中国首席数据智能官、INFINVISION深见ABC实验室创始人",
           NameNew33:"赵胜",
-          positionNew33:"WBF纽约世界区块链大会纽约Digital USD创始人、硅谷创客资本创始人",
+          positionNew33:"纽约Digital USD创始人",
           NameNew34:"Aurora",
           positionNew34:"ZB集团副总裁、加密资本创始人",
           NameNew35:"郑晓军",
@@ -986,6 +986,18 @@
           positionNew54:"德丰杰龙脉创新基金投资经理",
           NameNew55:"宋阳",
           positionNew55:"乐块 CEO",
+          NameNew56:'雪莉·徐',
+          positionNew56:"首席财务官 太平海集团有限公司",
+          NameNew57:'曼米特•辛格',
+          positionNew57:"首席信息官 区块链投资机构EMURGO",
+          NameNew58:'洪文正',
+          positionNew58:"香港新兴科技教育协会 主席",
+          NameNew59:'史翔宇',
+          positionNew59:"Node Capital 合伙人",
+          NameNew60:'梁捷扬',
+          positionNew60:"香港区块链协会创始人暨共同主席",
+          NameNew61:'鱼文辉',
+          positionNew61:"CoinVoice创始人"
       },
 
 
@@ -2008,8 +2020,8 @@
               "Co-founder and President \n" +
               "at InfiniVision iABC Labs",
           NameNew33:"Zhao Sheng",
-          positionNew33:"CEO and Founder\n" +
-              "of GXChain",
+          positionNew33:"The founder of \n" +
+              "New York Digital USD",
           NameNew34:"Aurora Wong",
           positionNew34:"Vice president of ZB Group\n" +
               "Founding Partner of\n" +
@@ -2077,7 +2089,25 @@
           positionNew54:"Associate of DFJ DragonFund China",
           NameNew55:"Song Yang ",
           positionNew55:"Leblock CEO",
-
+          NameNew56:'Shirley Hsu',
+          positionNew56:"CFO at Tus Pine\n" +
+              "Peak Group",
+          NameNew57:'Alex Hung',
+          positionNew57:"CIO of Emurgo",
+          NameNew58:'Shirley Hsu',
+          positionNew58:"CEO, Crossover international\n" +
+              "and Chairman of HK New\n" +
+              "Emerging Technology Education\n" +
+              "Association",
+          NameNew59:'Leon Shi',
+          positionNew59:"Partner of Node Capital",
+          NameNew60:'Jay Liang',
+          positionNew60:"Founder and Co-chairman\n" +
+              "of Hong Kong Blockchain\n" +
+              "Association",
+          NameNew61:'Ethan Yu',
+          positionNew61:" Founder and CEO\n" +
+              "of CoinVoice"
 
       },
       jap: {
