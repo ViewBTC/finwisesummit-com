@@ -1537,9 +1537,9 @@
           positioncxh116:"Founder of the Metaverse foundation",
           nameszh117:"Hao Zeng",
           positionzh117:"Founder of Ant Node Alliance",
-          namesyzw118:"ZhiWenYang",
+          namesyzw118:"YangZhiWen",
           positionyzw118:"Ant Node Alliance Co-founder",
-          namescxh119:"JingWeiZhang",
+          namescxh119:"ZhangJingWei",
           positioncxh119:"Ant Node Alliance Co-founder",
 
 
@@ -2019,10 +2019,10 @@
           positionNew32:"Mcdonald’s China CIO\n" +
               "Co-founder and President \n" +
               "at InfiniVision iABC Labs",
-          NameNew33:"Zhao Sheng",
+          NameNew33:"Johnson Zhao",
           positionNew33:"The founder of \n" +
               "New York Digital USD",
-          NameNew34:"Aurora Wong",
+          NameNew34:"Aurora",
           positionNew34:"Vice president of ZB Group\n" +
               "Founding Partner of\n" +
               "Crypto Capital",
@@ -2072,29 +2072,29 @@
           NameNew46:"Larry Li ",
           positionNew46:"Managing Director of DFJ DragonFund China",
           NameNew47:"Pat Tang ",
-          positionNew47:"Plair CEO",
+          positionNew47:"CEO of Plair ",
           NameNew48:"David Kim",
-          positionNew48:"Blue Block CEO",
+          positionNew48:"CEO of Blue Block ",
           NameNew49:"William Bao Bean",
-          positionNew49:"SOSV General Partner ",
+          positionNew49:"General Partner of SOSV",
           NameNew50:"Kenny Au ",
-          positionNew50:"Elevate Co-founder",
+          positionNew50:"Co-founder of Elevate ",
           NameNew51:"Patrick Palacios ",
-          positionNew51:"LoyalCoin CEO",
+          positionNew51:"CEO of LoyalCoin ",
           NameNew52:"Hans Lomsbardo",
-          positionNew52:"Blockpass CMO",
+          positionNew52:"CMO of Blockpass ",
           NameNew53:"Emil Chan ",
-          positionNew53:"Hong Kong Smart City Consortium Fintech Chairman",
+          positionNew53:"Fintech Chairman of Hong Kong Smart City Consortium ",
           NameNew54:"Yiming Hu ",
           positionNew54:"Associate of DFJ DragonFund China",
           NameNew55:"Song Yang ",
-          positionNew55:"Leblock CEO",
+          positionNew55:"CEO of Leblock ",
           NameNew56:'Shirley Hsu',
           positionNew56:"CFO at Tus Pine\n" +
               "Peak Group",
-          NameNew57:'Alex Hung',
+          NameNew57:'Manmeet Singh',
           positionNew57:"CIO of Emurgo",
-          NameNew58:'Shirley Hsu',
+          NameNew58:'Alex Hung',
           positionNew58:"CEO, Crossover international\n" +
               "and Chairman of HK New\n" +
               "Emerging Technology Education\n" +
@@ -2106,7 +2106,7 @@
               "of Hong Kong Blockchain\n" +
               "Association",
           NameNew61:'Ethan Yu',
-          positionNew61:" Founder and CEO\n" +
+          positionNew61:"Founder and CEO\n" +
               "of CoinVoice"
 
       },
