@@ -2106,7 +2106,7 @@
               "of Hong Kong Blockchain\n" +
               "Association",
           NameNew61:'Ethan Yu',
-          positionNew61:" Founder and CEO\n" +
+          positionNew61:"Founder and CEO\n" +
               "of CoinVoice"
 
       },
