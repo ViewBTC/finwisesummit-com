@@ -1537,9 +1537,9 @@
           positioncxh116:"Founder of the Metaverse foundation",
           nameszh117:"Hao Zeng",
           positionzh117:"Founder of Ant Node Alliance",
-          namesyzw118:"ZhiWenYang",
+          namesyzw118:"YangZhiWen",
           positionyzw118:"Ant Node Alliance Co-founder",
-          namescxh119:"JingWeiZhang",
+          namescxh119:"ZhangJingWei",
           positioncxh119:"Ant Node Alliance Co-founder",
 
 
@@ -2019,10 +2019,10 @@
           positionNew32:"Mcdonald’s China CIO\n" +
               "Co-founder and President \n" +
               "at InfiniVision iABC Labs",
-          NameNew33:"Zhao Sheng",
+          NameNew33:"Johnson Zhao",
           positionNew33:"The founder of \n" +
               "New York Digital USD",
-          NameNew34:"Aurora Wong",
+          NameNew34:"Aurora",
           positionNew34:"Vice president of ZB Group\n" +
               "Founding Partner of\n" +
               "Crypto Capital",
@@ -2092,9 +2092,9 @@
           NameNew56:'Shirley Hsu',
           positionNew56:"CFO at Tus Pine\n" +
               "Peak Group",
-          NameNew57:'Alex Hung',
+          NameNew57:'Manmeet Singh',
           positionNew57:"CIO of Emurgo",
-          NameNew58:'Shirley Hsu',
+          NameNew58:'Alex Hung',
           positionNew58:"CEO, Crossover international\n" +
               "and Chairman of HK New\n" +
               "Emerging Technology Education\n" +
