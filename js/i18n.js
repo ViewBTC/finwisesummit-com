@@ -980,7 +980,7 @@
           positionNew51:"LoyalCoin CEO",
           NameNew52:"汉斯·隆巴多",
           positionNew52:"Blockpass互联身份识别首席营销官",
-          NameNew53:"陳家豪",
+          NameNew53:"陈家豪",
           positionNew53:"香港智慧城市聯盟金融科技委員會主席",
           NameNew54:"胡一鸣",
           positionNew54:"德丰杰龙脉创新基金投资经理",
