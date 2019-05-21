@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title dom-i18n='webtitle_Hk'>纷智峰会 · 香港</title>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="纷智全球峰会,finwisesummit, viewfin, blockchain, metaverse">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="baidu-site-verification" content="vL5wYrCUrr" />
+    <link rel="shortcut icon" href="bitbug_favicon.ico">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/logo-icon/new72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="images/logo-icon/new76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/logo-icon/new114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="images/logo-icon/new120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="images/logo-icon/new144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="images/logo-icon/new152.png">
+    <script src="layui/layui.js"></script>
+
+</head>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .box{
+        height: 100%;
+        width: 100%;
+        background-image:url("images/email/cgKdk9inBmaM.jpg");
+        z-index: -1;
+        position: absolute;
+        opacity: 1;
+        background-size: cover;
+        background-position: center top;
+    }
+    .box_son{
+        height: 100%;
+        width: 100%;
+        background-color: rgb(229, 230, 240);
+        opacity: .7;
+    }
+    .ayhXL {
+        position: relative;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        height: 100%;
+        z-index: 99;
+    }
+    .ayhXL:before{
+        content: "";
+        display: block;
+        width: 100%;
+        height: calc(10%);
+    }
+    .yourName, .yourEmeil, .yourself_signUp, .yourRecommend, .understand_Detail{
+        width: 100%;
+        max-width: 840px;
+        margin: 0 auto;
+        opacity: 1;
+        z-index: 10;
+        position: relative;
+        padding-top: 0px;
+        padding-bottom: 48px;
+        text-align: center;
+    }
+    .yourName_p{
+        max-width: 100%;
+        font-weight: unset;
+        font-size: 24px;
+        line-height: 28px;
+        margin: 0px;
+    }
+    .username, .user_email, .user_Recommend, .user_contact, .user_Detail{
+        width: 90%;
+        margin: 0 auto;
+        position: relative;
+        z-index: 99999;
+        margin-top: 24px;
+        display: block;
+        font-family: inherit;
+        color: rgb(42, 37, 169);
+        -webkit-appearance: none;
+        transform: translateZ(0px);
+        line-height: 32px;
+        -webkit-font-smoothing: antialiased;
+        padding: 0px 0px 8px;
+        border-width: initial;
+        border-style: none;
+        border-color: initial;
+        border-image: initial;
+        outline: none;
+        border-radius: 0px;
+        transition: box-shadow 0.2s ease 0s;
+        background: none;
+        border-bottom: 1px solid rgb(42, 37, 169);
+    }
+    .username, .user_Recommend, .user_Detail, .user_contact{
+        font-size: 18px;
+    }
+    .user_email{
+        font-size: 18px;
+    }
+    .signUp_y, .signUp_n{
+        font-size: 24px;
+    }
+    .gBvIV {
+        display: inline-flex;
+        max-width: 100%;
+        margin-bottom: -8px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        -webkit-box-align: stretch;
+        align-items: stretch;
+        min-width: 168px;
+        margin-top: 24px;
+    }
+    .uOTsQ {
+        margin-right: 0px;
+        margin-bottom: 8px;
+        max-width: 100%;
+        width: calc((100% - 8px) + 8px);
+    }
+    .jpXLXT {
+        position: relative;
+        min-width: 75px;
+        height: auto;
+    }
+    .jeWzPk{
+        color: rgb(42, 37, 169);
+        background-color: rgba(42, 37, 169, 0.1);
+        box-shadow: rgba(42, 37, 169, 0.8) 0px 0px 0px 2px inset;
+        cursor: pointer;
+        opacity: 1;
+        will-change: opacity;
+        height: auto;
+        border-radius: 4px;
+        animation: 0.25s ease 0s 2 normal none running qNIWx;
+        font-size: 24px;
+    }
+    .submit_btn{
+        font-size: 30px;
+        text-align: center;
+        border: none;
+        background: rgba(42, 37, 169,.3);
+        min-width: 200px;
+        border-radius: 18px;
+        outline: none;
+    }
+    .submit_TiJiao{
+        width: 100%;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .footer_Thanking_language{
+        width: 100%;text-align: center;font-size: 12px
+    }
+    @media screen and ( min-width: 991px ){
+        .footer_Thanking_language{
+            width: 100%;text-align: center;font-size:24px;
+            padding-bottom: 10px;
+        }
+    }
+    @media screen and ( max-width: 840px ){
+        .footer_Thanking_language{
+            width: 100%;
+            text-align: center;
+            font-size:12px;
+            padding-bottom: 20px;
+        }
+    }
+    a{
+        text-decoration: none;
+        font-weight: 200;
+    }
+    .visa-tips {
+        position: fixed;
+        right: 0px;
+        top: 1%;
+        z-index: 9999;
+        background: #FF1D92;
+        padding: 5px 12px 4px 15px;
+        border-radius: 20px 0 0 20px;
+        font-size: 13px;
+        line-height: 1.5;
+        color: #fff;
+        text-decoration: none;
+    }
+</style>
+<body>
+<div class="box">
+    <div style="position: fixed;top: 10px;left: 10px; z-index: 9999">
+        <span><a href="javascript:;" onclick="i18n.setLang('zh')" style="color: white">中文 / </a></span>
+        <span><a href="javascript:;" onclick="i18n.setLang('en')" style="color: white"> EN</a></span>
+    </div>
+    <div class="box_son">
+        <div class="ayhXL">
+            <form id="myform" action="" method="post">
+                <!--请问您的名字是-->
+                <div class="yourName">
+                   <p class="yourName_p" dom-i18n='PNameWho'>请问您的名字是？</p>
+                    <input type="text" name="username" class="username" placeholder="Type your answer here...">
+                </div>
+                <!--请问您的邮箱地址-->
+                <div class="yourEmeil">
+                    <p class="yourName_p" dom-i18n='PEmailWho'>请问您的邮箱地址？</p>
+                    <input type="text" name="useremail" class="user_email" placeholder="Type your answer here...">
+                </div>
+                <!--您是为自己报名吗-->
+                <div class="yourself_signUp">
+                    <p class="yourName_p" dom-i18n='PbaomingWho'>您是为自己报名吗？</p>
+                    <!--yes-->
+                    <div class="gBvIV">
+                        <div class="uOTsQ">
+                            <div class="jpXLXT" style="position: relative">
+                                <div class="jeWzPk" id="jeWzPk_Yes">
+                                 Yes
+                                </div>
+                                <input type="hidden" value="1" style="position: absolute;top: 0;left: 0;font-size: 24px;width: 100%"  class="userSelf">
+                            </div>
+
+                        </div>
+                    </div>
+                    <!--no-->
+                    <div class="gBvIV">
+                        <div class="uOTsQ">
+                            <div class="jpXLXT" style="position: relative">
+                                <div class="jeWzPk" id="jeWzPk_No"  style="position: relative">
+                                    No
+                                </div>
+                                <input type="hidden" value="2" style="position: absolute;top: 0;left: 0;font-size: 24px;width: 100%"  class="userSelf">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <!--请问您要推荐的友商名字是什么-->
+                <div class="yourRecommend" style="display: none">
+                    <p class="yourName_p" dom-i18n='Ytuijian'>请问您要推荐的友商名字是什么？</p>
+                    <input type="text" name="userRecommend" class="user_Recommend" placeholder="Type your answer here...">
+                </div>
+                <!--请问如何联系-->
+                <div class="yourRecommend" style="display: none">
+                    <p class="yourName_p" dom-i18n='contact_How'>请问如何联系？</p>
+                    <input type="text" name="userContact" class="user_contact" placeholder="Type your answer here...">
+                </div>
+
+                <!--请填写希望了解关于纷智峰会的什么细节？-->
+                <div class="understand_Detail">
+                    <p class="yourName_p" dom-i18n='detail_Fh'>请填写希望了解关于纷智峰会的什么细节？</p>
+                    <input type="text" name="userDetail" class="user_Detail" placeholder="Type your answer here...">
+                </div>
+
+                <p class="submit_TiJiao">
+                    <input onclick="submit_btn()" class="submit_btn" type="button" value="Submit" />
+                </p>
+            </form>
+            <div  class="footer_Thanking_language" style="font-size: 12px">
+                <p dom-i18n='Thanking_language'>谢谢您的耐心！ 我们将争取在一个工作日内与您取得联系！</p>
+                <p dom-i18n='Thanking_language02'>纷智峰会2019香港会场，期待您的光临！</p>
+            </div>
+        </div>
+
+
+        <a href="./index.html" target="_blank" class="visa-tips" dom-i18n="back_index">返回官网</a>
+
+    </div>
+</div>
+
+</body>
+</html>
+
+<script src="js/jquery.js"></script>
+<script src="js/i18n.js"></script>
+<script>
+    layui.use('layer', function(){  //layer弹框
+        var layer = layui.layer;
+    });
+    console.log($("#jeWzPk_No").hasClass("youshang"))
+    $("#jeWzPk_Yes").click(function () {
+        $(this).text("Yes √");
+        $("#jeWzPk_No").text("No");
+        $(this).addClass("youshang");
+        $("#jeWzPk_No").removeClass("youshang");
+        if($("#jeWzPk_No").hasClass("youshang")==true){
+            $(".yourRecommend").show()
+        }else {
+            $(".yourRecommend").hide()
+        }
+    });
+    $("#jeWzPk_No").click(function () {
+        $(this).text("No √");
+        $("#jeWzPk_Yes").text("Yes");
+        $(this).addClass("youshang");
+        $('#jeWzPk_Yes').removeClass("youshang");
+        if($("#jeWzPk_No").hasClass("youshang")==true){
+            $(".yourRecommend").show()
+        }else {
+            $(".yourRecommend").hide()
+        }
+    });
+
+    function submit_btn() {
+
+        var username = $("input[name='username']").val();
+        var useremail = $("input[name='useremail']").val();
+        var userRecommend = $("input[name='userRecommend']").val();
+        var userContact = $("input[name='userContact']").val();
+        var userDetail = $("input[name='userDetail']").val();
+        $(".youshang").next().attr('name','userSelf');
+        var userSelf=$(".youshang").next().val();
+
+
+
+        console.log(userSelf);
+        var data = $("#myform").serialize();
+        var reg=/^([\u4E00-\u9FA5]+，?)+$/;
+        var visa_tips=$(".visa-tips").text();
+        if(!reg.test(visa_tips)){
+            if(username==''||username==null){
+                layer.msg("can't be blank");
+                return false
+            }
+            if(useremail==''||useremail==null){
+                layer.msg("can't be blank");
+                return false
+            }
+            if($("#jeWzPk_No").hasClass("youshang")==true){
+                if(userRecommend==''||userRecommend==null){
+                    layer.msg("can't be blank");
+                    return false
+                }
+                if(userContact==''||userContact==null){
+                    layer.msg("can't be blank");
+                    return false
+                }
+            }
+            if($(".jeWzPk").hasClass("youshang")==false){
+                layer.msg("can't be blank");
+                return false
+            }
+            if(userDetail==''||userDetail==null){
+                layer.msg("can't be blank");
+                return false
+            }else {
+                layer.msg("Thanks for your information")
+            }
+        }
+        else {
+            if(username==''||username==null){
+                layer.msg("名字不能为空");
+                return false
+            }
+            if(useremail==''||useremail==null){
+                layer.msg("邮箱地址不能为空");
+                return false
+            }
+            if($("#jeWzPk_No").hasClass("youshang")==true){
+                if(userRecommend==''||userRecommend==null){
+                    layer.msg("推荐人名字不能为空");
+                    return false
+                }
+                if(userContact==''||userContact==null){
+                    layer.msg("推荐人联系方式不能为空");
+                    return false
+                }
+            }
+            if($(".jeWzPk").hasClass("youshang")==false){
+                layer.msg("您是为自己报名吗？");
+                return false
+            }
+            if(userDetail==''||userDetail==null){
+                layer.msg("请填写希望了解关于纷智峰会的什么细节？");
+                return false
+            }
+            else {
+                layer.msg("提交成功")
+            }
+        }
+
+
+
+        console.log(data);
+        $.getJSON("https://mayi.org/home/Form/index?callback=?",data,function(json){
+            var msg = '';
+            if(json){
+
+                // var  sex = json.sex==1? "男生":"女生";
+                // msg = "<div id='result'><strong>提交成功！</strong><br/>姓名："+json.username+"<br/>性别："+sex+"<br/>年龄："+json.age+"</div>"
+
+            }else{
+                msg = "服务器忙，请稍候再试！";
+            }
+            // $("#myform").after(msg); //将返回信息插入页面对应的元素后
+        });
+        setTimeout(function () {
+            location.reload()
+        },2000)
+        return false;
+    }
+
+</script>
