@@ -997,11 +997,32 @@
           NameNew60:'梁捷扬',
           positionNew60:"香港区块链协会创始人暨共同主席",
           NameNew61:'鱼文辉',
-          positionNew61:"CoinVoice创始人"
+          positionNew61:"CoinVoice创始人",
+          PNameWho:"请问您的名字是?",
+          PEmailWho:"请问您的邮箱地址?",
+          PbaomingWho:"您是为自己报名吗？",
+          Ytuijian:"请问您要推荐的友商名字是什么？",
+          contact_How:"请问如何联系？",
+          detail_Fh:"请填写希望了解关于纷智峰会的什么细节？",
+          Thanking_language:'谢谢您的耐心！ 我们将争取在一个工作日内与您取得联系！',
+          Thanking_language02:'纷智峰会2019香港会场，期待您的光临！',
+          back_index:'返回官网',
+          WantSpeak:'我要演讲',
       },
 
 
       en: {
+          WantSpeak:'I want to speak',
+        back_index:'back',
+        Thanking_language:'That\'s everything. We\'ll send you an email with more details in one work day after you submit this form.',
+        Thanking_language02:'We hope you\'re excited as we are\'!',
+        PNameWho:'Great, can we get your full name?',
+        PEmailWho:"And what's your email address?",
+        PbaomingWho:"Are you nominating yourself？",
+        Ytuijian:"If No, Please indicate your friends/organizations name？",
+        contact_How:"If No, Please indicate your friends/organizations email address？",
+        detail_Fh:" Any questions about the event?",
+
         webtitle1:"FINWISESUMMIT · Tokyo",
           webtitle_Hk:"FINWISESUMMIT · HONGKONG",
 
