@@ -998,6 +998,8 @@
           positionNew60:"香港区块链协会创始人暨共同主席",
           NameNew61:'鱼文辉',
           positionNew61:"CoinVoice创始人",
+          NameNew64:'Avril Rae',
+          positionNew64:"毕马威金融科技负责人",
           PNameWho:"请问您的名字是?",
           PEmailWho:"请问您的邮箱地址?",
           PbaomingWho:"您是为自己报名吗？",
@@ -2128,7 +2130,9 @@
               "Association",
           NameNew61:'Ethan Yu',
           positionNew61:"Founder and CEO\n" +
-              "of CoinVoice"
+              "of CoinVoice",
+          NameNew64:'Avril Rae',
+          positionNew64:"Director, Head of Fintech"
 
       },
       jap: {
