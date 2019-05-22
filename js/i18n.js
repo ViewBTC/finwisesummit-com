@@ -2132,8 +2132,7 @@
           positionNew61:"Founder and CEO\n" +
               "of CoinVoice",
           NameNew64:'Avril Rae',
-          positionNew64:"Director, Head of Fintech"
-
+          positionNew64:"Head of Fintech at KPMG Advisory (China)"
       },
       jap: {
         seey1: "トップページ",
