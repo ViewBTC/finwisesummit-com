@@ -1000,6 +1000,8 @@
           positionNew61:"CoinVoice创始人",
           NameNew64:'Avril Rae',
           positionNew64:"毕马威金融科技负责人",
+          NameNew65:'李宁',
+          positionNew65:"超脑链首席技术官",
           PNameWho:"请问您的名字是?",
           PEmailWho:"请问您的邮箱地址?",
           PbaomingWho:"您是为自己报名吗？",
@@ -2132,7 +2134,9 @@
           positionNew61:"Founder and CEO\n" +
               "of CoinVoice",
           NameNew64:'Avril Rae',
-          positionNew64:"Head of Fintech at KPMG Advisory (China)"
+          positionNew64:"Head of Fintech at KPMG Advisory (China)",
+          NameNew65:'Li Ning',
+          positionNew65:"CTO of Ultrain"
       },
       jap: {
         seey1: "トップページ",
