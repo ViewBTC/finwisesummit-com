@@ -986,7 +986,7 @@
           positionNew54:"德丰杰龙脉创新基金投资经理",
           NameNew55:"宋阳",
           positionNew55:"乐块 CEO",
-          NameNew56:'雪莉·徐',
+          NameNew56:'许穗煒',
           positionNew56:"太平海集团有限公司首席财务官",
           NameNew57:'曼米特•辛格',
           positionNew57:"区块链投资机构EMURGO首席信息官",
