@@ -1017,7 +1017,7 @@
 
 
       en: {
-          winners_List:'winners list',
+          winners_List:'WINNERS LIST',
           WantSpeak:'I want to speak',
         back_index:'back',
         Thanking_language:'That\'s everything. We\'ll send you an email with more details in one work day after you submit this form.',
