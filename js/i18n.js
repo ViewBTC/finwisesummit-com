@@ -2194,7 +2194,7 @@
           NameNew78:'Wu Sheng',
           positionNew78:"Advocate of Parabox asian fans community",
           NameNew79:'Arthur Ye',
-          positionNew79:"Co_founder of Yesbit Krawlcat miner",
+          positionNew79:"Co-founder of Yesbit Krawlcat miner",
       },
       jap: {
         seey1: "トップページ",
