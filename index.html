@@ -23,7 +23,20 @@
         #topnav.stick .navigation-menu > li > a:hover{
             color: #f9297d;
         }
+        .pdf_Zh_btn{
+             background: url('images/HongKong/btn_bg_New.png');
+             background-size: 100% 100%;
+             width: 200px;
+             height:50px;
+             border: none;
+             outline: none;
+         }
+        .PC_margin_Left{
 
+         }
+        .PC_margin_Right{
+            margin-left: 60px;
+        }
         .visa-tips_index{
             position: fixed;
             right: 0px;
@@ -611,6 +624,24 @@
         }
 
         @media only screen and (max-width: 991px) and (min-width: 300px){
+            .Agenda_Big span{
+                width: 28%;
+                float: left;
+                margin-left:4%;
+            }
+            .PC_margin_Right{
+                margin-left: 0;
+            }
+            .pdf_Zh_btn{
+                background: url('images/HongKong/btn_bg_New.png');
+                background-size: 100% 100%;
+                font-size: 12px;
+                width: 100%;
+                height:35px;
+                border: none;
+                outline: none;
+
+            }
             body.zhlang .wap-show {
                 /*display: none !important;*/
             }
@@ -694,6 +725,9 @@
         }
 
         @media only screen and (max-width: 415px) and (min-width: 300px){
+            .pdf_Zh_btn{
+                font-size: 10px;
+            }
             .phone_mar_top{
                 margin-top: 10px!important;
             }
@@ -1199,6 +1233,7 @@
     <div class="container">
         <h3 class="h2-title spe-tlh3 text-left" dom-i18n='Partner_tl111'>赞助商</h3>
         <div class="mar-bt30 clearfix">
+
             <div class="swatch-a col-md-2 col-sm-2">
                 <img data-original="./images/HongKong/sponsor/24.jpg" alt="" class="lazy">
             </div>
@@ -1209,8 +1244,12 @@
                 <img data-original="./images/HongKong/sponsor/2.jpg" alt="" class="lazy">
             </div>
             <div class="swatch-a col-md-2 col-sm-2">
+                <img data-original="./images/HongKong/sponsor/25.jpg" alt="" class="lazy">
+            </div>
+            <div class="swatch-a col-md-2 col-sm-2">
                 <img data-original="./images/HongKong/sponsor/3.jpg" alt="" class="lazy">
             </div>
+
             <div class="swatch-a col-md-2 col-sm-2">
                 <img data-original="./images/HongKong/sponsor/4.jpg" alt="" class="lazy">
             </div>
@@ -2356,15 +2395,33 @@
         <h3 class="h2-title spe-tlh3 text-center" dom-i18n='Agenda_tl' id="Agenda-content" name="Agenda-content">议程</h3>
 
         <div class="Agenda-cont text-center">
-            <div class="col-sm-6">
-                <img data-original="./images/HongKong/Agenda/Agenda_zh002.png"  class="lazy zhshow" style="display: inline;">
-                <img data-original="./images/HongKong/Agenda/Agenda_en001.png"  class="lazy enshow" style="display: inline;">
-            </div>
-            <div class="col-sm-6">
-                <img data-original="./images/HongKong/Agenda/Agenda_zh001.png"  class="lazy zhshow" style="display: inline;">
-                <img data-original="./images/HongKong/Agenda/Agenda_en002.png"  class="lazy enshow" style="display: inline;">
-            </div>
+            <!--<div class="col-sm-6">-->
+                <!--<img data-original="./images/HongKong/Agenda/Agenda_zh002.png"  class="lazy zhshow" style="display: inline;">-->
+                <!--<img data-original="./images/HongKong/Agenda/Agenda_en001.png"  class="lazy enshow" style="display: inline;">-->
+            <!--</div>-->
+            <!--<div class="col-sm-6">-->
+                <!--<img data-original="./images/HongKong/Agenda/Agenda_zh001.png"  class="lazy zhshow" style="display: inline;">-->
+                <!--<img data-original="./images/HongKong/Agenda/Agenda_en002.png"  class="lazy enshow" style="display: inline;">-->
+            <!--</div>-->
             <!--<img data-original="./images/HongKong/Agenda.jpg"  class="lazy" style="display: inline;width: 900px;">-->
+            <div style="width: 100%;text-align: center" class="Agenda_Big">
+                <span>
+                <a href="build/Agenda.html">
+                    <button  class="pdf_Zh_btn PC_margin_Left">会议流程</button>
+                </a>
+                </span>
+                <span>
+                <a href="build/Agenda_En.html">
+                    <button class="pdf_Zh_btn PC_margin_Right">AGENDA</button>
+                </a>
+                </span>
+                <span>
+                <a href="build/Winners.html">
+                    <button class="pdf_Zh_btn PC_margin_Right" dom-i18n='winners_List'>获奖名单</button>
+                </a>
+                </span>
+            </div>
+
         </div>
     </div>
     </section>

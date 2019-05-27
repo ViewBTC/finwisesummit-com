@@ -1012,10 +1012,12 @@
           Thanking_language02:'纷智峰会2019香港会场，期待您的光临！',
           back_index:'返回官网',
           WantSpeak:'我要演讲',
+          winners_List:'获奖名单',
       },
 
 
       en: {
+          winners_List:'WINNERS LIST',
           WantSpeak:'I want to speak',
         back_index:'back',
         Thanking_language:'That\'s everything. We\'ll send you an email with more details in one work day after you submit this form.',
