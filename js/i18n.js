@@ -2190,7 +2190,7 @@
           NameNew76:'Li Xin',
           positionNew76:"Co-founder Renrenmine",
           NameNew77:'Tony Tong',
-          positionNew77:"Co-Chairman & co_founder of Hong Kong Blockchain Assoiation",
+          positionNew77:"Co-Chairman & co-founder of Hong Kong Blockchain Assoiation",
           NameNew78:'Wu Sheng',
           positionNew78:"Advocate of Parabox asian fans community",
           NameNew79:'Arthur Ye',
