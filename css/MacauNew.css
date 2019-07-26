@@ -1,0 +1,514 @@
+body{
+    background: white;
+}
+.Macau_Sponsor{
+    margin-top: 80px;
+    width: 150%;
+    position: relative;
+    right: 25%;
+    display: none;
+}
+.Macau_Sponsor_PC{
+    margin: 60px auto;
+}
+.Macau_Sponsor_PC .Macau_Sponsor_box{
+    width: 12%;
+    text-align: center;
+    float: left;
+}
+.Macau_Sponsor_PC .Macau_Sponsor_box:first-child{
+    margin-left: 10%;
+}
+#othersers_box{
+    width: 32%;
+}
+.Macau_Sponsor_PC .Macau_Sponsor_box img{
+    margin-top: 10px;
+}
+.Macau_Sponsor_font{
+    font-size: 16px;
+    color: white;
+    /*width: 56px;*/
+    /*display: inline-block;*/
+}
+.fz-ld{
+    padding-top: 30px;
+}
+.font32{
+    margin-top:100px ;
+}
+.hy-infotmation{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.visa-tips_index{
+    position: fixed;
+    right: 0px;
+    bottom: 18%;
+    z-index: 9999;
+    background: #FF1D92;
+    padding: 5px 12px 4px 15px;
+    border-radius: 20px 0 0 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #fff;
+    text-decoration: none;
+    display: none;
+}
+a, a:link, a:visited, a:hover, a:active {
+    color: #fff;
+    text-decoration: none;
+}
+.Macau_Sponsor_box{
+    display: inline;
+}
+.about-fwImg{
+     width: 20%;
+ }
+.about-fwImg-new{
+    width: 15%;
+}
+.about-fwImg-new-l{
+    width: 18.5%;
+}
+.font_Down{
+    position: relative;
+    top: 5px;
+}
+.cx-jb .col-md-2{
+    text-align: center;
+    margin-bottom: 20px;
+    height: 262px;
+    display: block;
+}
+.cx-jb .col-md-2{
+    text-align: center;
+    margin-bottom: 20px;
+    height: 262px;
+    display: block;
+}
+.fz-ld{
+    width: 100%;
+    margin: 0 auto;
+}
+.fz-ld li{
+    width:33% ;
+    text-align: center;
+    float: left;
+}
+.fz-ld-li-box{
+    width: 150px;
+    height: 150px;
+    background: url("../images/MacauNew/fz-ld-bg.png")no-repeat center top;
+    background-size: 100% 100%;
+    position: relative;
+    text-align: center;
+    line-height: 150px;
+    margin: 0 auto;
+}
+
+.fz-ld-li-box:hover .fz-li-images{;
+    animation: animotion-fz 1s;
+}
+@keyframes animotion-fz {
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+    }
+
+
+
+}
+.fz-ld-li-box img{
+    width: 50%;
+    margin-left: -4px;
+}
+
+.ssr-wy{
+    margin-left: 10px;
+}
+.ssr-wybig{
+    margin-left: 30px;
+}
+.Macau_Sponso_img{
+    width: 130px;
+    height: 36px;
+}
+.fz-ld-font{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.Bg-fwwrap{
+    background-image:none;
+}
+.pdf_Zh_btn{
+    background: url('../images/HongKong/btn_bg_New.png');
+    background-size: 100% 100%;
+    width: 200px;
+    height:50px;
+    border: none;
+    outline: none;
+}
+.spe-tlh3{
+    text-align: left;
+}
+.about-wrap .count-wrap{
+    margin: 0 auto;
+    overflow: hidden;
+    width: 90%;
+}
+.index-fwrap{
+    background: url('../images/MacauNew/index_new_bg.png')no-repeat top center;
+    background-size: 100% 100%;
+    height: 850px;
+    overflow: hidden;
+}
+.about-first-pp{
+    width:65% ;
+    float: left;
+}
+.AboutImg{
+    float: left;
+    width: 32%;
+    margin-left: 3%;
+    margin-top: 0px;
+}
+.guest-itembox .photo-dbbox {
+    border-radius: 50%;
+    max-width: 100%;
+    width: 126px;
+    padding: 4px;
+    margin: 0 auto;
+}
+.foot-p {
+    text-align: center;
+}
+.foot-p .plname-info {
+    font-size: 18px;
+}
+.foot-p .pl-info {
+    font-size: 14px;
+    color: rgba(51,51,51,0.50);
+    letter-spacing: .4px;
+    margin-top: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 7;
+    -webkit-box-orient: vertical;
+}
+.clearfix .swatch-a{
+    margin-top: 20px;
+}
+.review_meet{
+  width: 100%;
+}
+.review_meet ul{
+    width: 100%;
+}
+.review_meet ul li{
+    width: 30%;
+    float: left;
+    height: 230px;
+    margin-left: 2.5%;
+    margin-top: 20px;
+    position: relative;
+}
+.Tc_box{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.6);
+    z-index: 999;
+    display: block;
+}
+.review_meet ul li a{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.review_meet ul li img{
+    width: 100%;
+}
+.review_meet_detail{
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,.6);
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0;
+}
+.review_meet ul li:hover .review_meet_detail{
+    opacity: 1;
+    transition:linear 0.2s
+}
+.review_meet ul li:hover .Tc_box{
+    display: none;
+}
+.lang-wapbox{
+    display: none;
+}
+
+
+.clogo-img {
+    width: 700px;
+}
+
+
+
+@media only screen and (max-width: 1450px) and (min-width: 992px){
+    .index-fwrap {
+        background: url(../images/MacauNew/index_new_bg.png) no-repeat;
+        background-position: center 10px;
+        /*height: 765px;*/
+        height: 875px;
+        background-size: cover;
+        margin-top: 60px;
+    }
+    .Macau_Sponsor_font{
+        font-size: 14px;
+    }
+    .Macau_Sponso_img{
+        width: 115px;
+        height: 33px;
+    }
+
+    .Macau_Sponsor_PC{
+        width: 120%;
+        position: relative;
+        right: 10%;
+        margin-top: 80px;
+    }
+    .Macau_Sponso_img{
+
+    }
+    .clogo-img {
+        margin: 100px 0 50px 0 !important;
+        width: 57% !important;}
+
+}
+/** Generated by FG **/
+@font-face {
+    font-family: '../fonts/Alternate-Bold/Conv_DIN Alternate Bold';
+    src: url('../fonts/Alternate-Bold/DIN Alternate Bold.eot');
+    src: local('☺'), url('../fonts/Alternate-Bold/DIN Alternate Bold.woff') format('woff'), url('../fonts/Alternate-Bold/DIN Alternate Bold.ttf') format('truetype'), url('../fonts/Alternate-Bold/DIN Alternate Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@media (max-width: 992px){
+    .index-fwrap {
+        background: url(../images/MacauNew/index_new_bgwap.jpg) no-repeat;
+        background-position: center 10px;
+        background-size: cover;
+    }
+
+}
+@media (min-width: 992px){
+    .clogo-img {
+        margin: 50px 0 50px 0!important;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 320px){
+    .Macau_Sponsor_PC{
+        display: none;
+    }
+    .Macau_Sponsor{
+        display: block;
+    }
+    .about-fwImg-new{
+        width: 37%;
+    }
+    .fz-ld-font{
+        font-size: 13px;
+    }
+    .about-fwImg-new-l{
+        width: 43.5%;
+    }
+    .fz-ld{
+        margin-top: 0px;
+    }
+    .hy-infotmation{
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .fz-ld-li-box{
+        width: 60px;
+        height:60px;
+        background: url("../images/MacauNew/fz-ld-bg.png")no-repeat center top;
+        background-size: 100% 100%;
+        position: relative;
+        text-align: center;
+        line-height:60px;
+        margin: 0 auto;
+    }
+
+    .clogo-img {
+        margin: 0px 0 30px 0!important;
+        width:69%!important; ;
+    }
+    .left-iPhone{
+    }
+    .foot-p .pl-info{
+        font-size: 12px;
+    }
+    .pc-block{
+        display: none!important;
+    }
+    .foot-p .plname-info{
+        font-size: 16px;
+    }
+    .about-first-pp{
+        font-size: 14px;
+    }
+    #topnav .tikets-wapbox{
+        position: absolute;
+        top: 10px;
+        right: 40px!important;
+        z-index: 9999;
+    }
+    .past-review{
+        height: 265px;
+    }
+    .lang-wapbox{
+        position: absolute;
+        top: 17px;
+        right: 60px;
+        z-index: 9999;
+        font-size: 15px;
+        color: white;
+        display: block;
+    }
+    .font_Down{
+        position: relative;
+        top: 0px;
+        margin-top: 5px;
+        font-weight: bold;
+    }
+    .pdf_Zh_btn{
+        background: url('../images/HongKong/btn_bg_New.png');
+        background-size: 100% 100%;
+        font-size: 12px;
+        width: 100%;
+        height:35px;
+        border: none;
+        outline: none;
+    }
+    .Macau_Sponsor_font{
+        display: block;
+        font-size: 16px;
+        color: white;
+    }
+    .Macau_Sponsor_box{
+        display: block;
+    }
+    .img-hide{
+        display: none;
+    }
+    .Macau_Sponso_img{
+        width: 75px;
+        height: 23px;
+    }
+    .ssr-wytop{
+        position: relative;
+        top: 15px;
+    }
+    .Macau_Sponsor{
+        margin-top: -20px;
+        width: 100%;
+        position: relative;
+        right: 0;
+    }
+    .about-first-pp{
+        width: 90%;
+        margin-left: 5%;
+        text-align: justify;
+    }
+
+    .AboutImg{
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 2%;
+    }
+    .about-fwImg{
+        width: 45%;
+    }
+    .guest-itembox{
+        margin-top: 20px;
+    }
+    .guest-itembox .col-md-2 {
+        width: 50%;
+        height: 262px !important;
+        display: block;
+        float: left;
+    }
+    .about-wrap .count-wrap{
+        margin: 0 auto;
+        overflow: hidden;
+        width: 95%;
+    }
+    .clearfix .swatch-a{
+        margin-top: 20px;
+        width: 33.33%;
+        float: left;
+    }
+    .spe-tlh3 {
+        margin: 0px auto;
+    }
+    .font32{
+        margin-top:40px ;
+    }
+    .about-first-pp{
+        margin-top: 20px;
+    }
+    .review_meet_detail{
+        height: 40px;
+        line-height: 40px;
+        font-weight: bold;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: rgba(0,0,0,.6);
+        color: white;
+        text-align: center;
+        font-size: 14px;
+        opacity: 1;
+    }
+    .Tc_box{
+        display: none;
+    }
+    .review_meet ul li{
+        width: 85%;
+        margin-left: 7.5%;
+        float: left;
+        height: auto;
+        margin-top: 20px;
+        position: relative;
+    }
+
+}
+
+@media only screen and (max-width: 320px) and (min-width: 300px){
+    .clogo-img {
+        margin: -15px 0 30px 0!important;
+    }
+}
