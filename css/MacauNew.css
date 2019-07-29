@@ -11,6 +11,35 @@ body{
 .Macau_Sponsor_PC{
     margin: 60px auto;
 }
+.visa-tips-index{
+    position: fixed;
+    right: 0px;
+    bottom: 18%;
+    z-index: 9999;
+    background: #FF1D92;
+    padding: 5px 12px 4px 15px;
+    border-radius: 20px 0 0 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #fff;
+    text-decoration: none;
+    display: block!important;
+
+}
+.visa-tips-speaker{
+    position: fixed;
+    right: 0px;
+    bottom: 13%;
+    z-index: 9999;
+    background: #FF1D92;
+    padding: 5px 12px 4px 15px;
+    border-radius: 20px 0 0 20px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
 .Macau_Sponsor_PC .Macau_Sponsor_box{
     width: 12%;
     text-align: center;
@@ -324,6 +353,10 @@ a, a:link, a:visited, a:hover, a:active {
 @media (min-width: 992px){
     .clogo-img {
         margin: 10px 0 50px 0!important;
+    }
+    .otherlang .past-review .review-old.active {
+        padding: 0 10px;
+        font-size: 12px;
     }
 }
 @media (min-width: 769px) {

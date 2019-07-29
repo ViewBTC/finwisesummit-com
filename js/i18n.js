@@ -75,11 +75,11 @@
         wechatnum: " Wechat",
         sponsorshipct: "Sponsorship Contact",
 
-        citysh: " ShangHai Station(2017.July)",
-        citymacaustation: " Macau Station(2018.Jan)",
-          cityJapanstation: "Japan Station(2018.May)",
-          cityHongKongstation: " Hong Kong Station(2018.Aug)",
-          cityHongKong2019station:'Hong Kong Station(2019.May)',
+        citysh: " ShangHai Station(July.2017)",
+        citymacaustation: " Macau Station(Jan.2018)",
+          cityJapanstation: "Japan Station(May.2018)",
+          cityHongKongstation: " Hong Kong Station(Aug.2018)",
+          cityHongKong2019station:'Hong Kong Station(May.2019)',
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -2287,7 +2287,7 @@
             back_index:'返回官网',
             WantSpeak:'我要演讲',
             winners_List:'获奖名单',
-            fhfznewdetial01:'2018年1月12-13日，纷智峰会在澳门成功举办五千人行业巅峰大会，盛况空前。2019年9月21-22日，纷智峰会·澳门站将在澳门喜来登酒店再次荣耀起航。本次会议规模将达2000+，会议将延续5.28香港站的热度，以“去中心化金融的未来之路” 为主题，再次荟聚精英，展示成果，解析去中心化金融的发展趋势，从而凝聚并扩大行业共识，引领行业的发展。在市场热度持续高涨的历史节点下，会议将邀请全球金融科技及区块链行业大咖、行业机构、项目方及主流媒体共同参与，搭建链接资本与项目方的中坚桥梁，让资本与技术尽情拥抱，打造亚洲乃至全球最具影响力的行业峰会品牌。',
+            fhfznewdetial01:'2018年1月12-13日，纷智峰会在澳门成功举办五千人行业巅峰大会，盛况空前。2019年9月21-22日，第六届纷智峰会·澳门站将在澳门JW万豪酒店再次荣耀起航。本次会议规模将达2000+，会议将延续5.28香港站的热度，以“去中心化金融的未来之路” 为主题，再次荟聚精英，展示成果，解析去中心化金融的发展趋势，从而凝聚并扩大行业共识，引领行业的发展。在市场热度持续高涨的历史节点下，会议将邀请全球金融科技及区块链行业大咖、行业机构、项目方及主流媒体共同参与，搭建链接资本与项目方的中坚桥梁，让资本与技术尽情拥抱，打造亚洲乃至全球最具影响力的行业峰会品牌。',
             // fhfznewdetial02:''
         },
 
