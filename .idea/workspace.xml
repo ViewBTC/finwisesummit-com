@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43de7060-aa0e-4715-b8d1-e4cd4f10c9e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/MacauNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/MacauNew.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" afterDir="false" />
@@ -12,7 +10,7 @@
       <change beforePath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/i18n.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7414">
-              <caret line="392" column="80" lean-forward="true" selection-start-line="392" selection-start-column="80" selection-end-line="392" selection-end-column="80" />
+            <state relative-caret-position="324">
+              <caret line="89" column="69" selection-start-line="89" selection-start-column="69" selection-end-line="89" selection-end-column="69" />
               <folding>
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -152,9 +150,9 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/common/header.html" />
         <option value="$PROJECT_DIR$/common/footer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/i18n.js" />
         <option value="$PROJECT_DIR$/css/MacauNew.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -253,12 +251,12 @@
       <workItem from="1555288882722" duration="5207000" />
       <workItem from="1555377207388" duration="34000" />
       <workItem from="1558494466390" duration="9892000" />
-      <workItem from="1564362886343" duration="2823000" />
+      <workItem from="1564362886343" duration="3430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48541000" />
+    <option name="totallyTimeSpent" value="49148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -340,8 +338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7414">
-          <caret line="392" column="80" lean-forward="true" selection-start-line="392" selection-start-column="80" selection-end-line="392" selection-end-column="80" />
+        <state relative-caret-position="324">
+          <caret line="89" column="69" selection-start-line="89" selection-start-column="69" selection-end-line="89" selection-end-column="69" />
           <folding>
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
