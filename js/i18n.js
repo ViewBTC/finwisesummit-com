@@ -22,7 +22,7 @@
         winners_List:'WINNERS LIST',
         WantSpeak:'I want to speak',
         back_index:'back',
-        fhfznewdetial01:'In January of 2018, FINWISE successfully hosted a 5,000+ person industry summit in Macao. From September 21 to 22 of this year, FINWISE Macao will once again take place in the Sheraton Macao. The scope of this edition will be 2,000+ people and will continue the positive trends established in the 2019 Hong Kong edition. With the theme of “Global Fintech Consensus Summit," FINWISE will discuss the future developmental trends of the industry at large. Under the spotlight of a revived industry,  FINWISE will invite key opinion leaders, institutions, projects, investors, and mainstream media to participate. Together with these significant stakeholders, FINWISE aims to build the most influential fintech summit brand in Asia and the world.\n',
+        fhfznewdetial01:'In January of 2018, FINWISE successfully hosted a 5,000+ person industry summit in Macao. From September 21 to 22 of this year, FINWISE Macao will once again take place in the Sheraton Macao. The scope of this edition will be 2,000+ people and will continue the positive trends established in the 2019 Hong Kong edition. With the theme of “The future of Defi," FINWISE will discuss the future developmental trends of the industry at large. Under the spotlight of a revived industry,  FINWISE will invite key opinion leaders, institutions, projects, investors, and mainstream media to participate. Together with these significant stakeholders, FINWISE aims to build the most influential fintech summit brand in Asia and the world.\n',
         Thanking_language:'That\'s everything. We\'ll send you an email with more details in one work day after you submit this form.',
         Thanking_language02:'We hope you\'re excited as we are\'!',
         PNameWho:'Great, can we get your full name?',
@@ -2287,7 +2287,7 @@
             back_index:'返回官网',
             WantSpeak:'我要演讲',
             winners_List:'获奖名单',
-            fhfznewdetial01:'2018年1月12-13日，纷智峰会在澳门成功举办五千人行业巅峰大会，盛况空前。2019年9月21-22日，纷智峰会·澳门站将在澳门喜来登酒店再次荣耀起航。本次会议规模将达2000+，会议将延续5.28香港站的热度，以“全球金融科技共识峰会”为主题，再次荟聚精英，展示成果，共议行业的未来发展趋势，凝聚并扩大行业共识，引领行业的发展。在市场热度持续高涨的历史节点下，会议将邀请全球金融科技及区块链行业大咖、行业机构、项目方及主流媒体共同参与，致力打造亚洲乃至全球最具影响力的行业峰会品牌。\n',
+            fhfznewdetial01:'2018年1月12-13日，纷智峰会在澳门成功举办五千人行业巅峰大会，盛况空前。2019年9月21-22日，纷智峰会·澳门站将在澳门喜来登酒店再次荣耀起航。本次会议规模将达2000+，会议将延续5.28香港站的热度，以“去中心化金融的未来之路” 为主题，再次荟聚精英，展示成果，解析去中心化金融的发展趋势，从而凝聚并扩大行业共识，引领行业的发展。在市场热度持续高涨的历史节点下，会议将邀请全球金融科技及区块链行业大咖、行业机构、项目方及主流媒体共同参与，搭建链接资本与项目方的中坚桥梁，让资本与技术尽情拥抱，打造亚洲乃至全球最具影响力的行业峰会品牌。',
             // fhfznewdetial02:''
         },
 

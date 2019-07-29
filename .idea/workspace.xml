@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43de7060-aa0e-4715-b8d1-e4cd4f10c9e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/MacauNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/MacauNew.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" afterDir="false" />
@@ -10,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/i18n.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,33 +26,37 @@
         <counts>
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="7" />
           <entry key="html" value="538" />
           <entry key="js" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="7" />
           <entry key="HTML" value="538" />
           <entry key="JavaScript" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="html" value="4" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="HTML" value="4" />
           <entry key="JavaScript" value="2" />
         </counts>
@@ -77,24 +84,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="2239" column="66" selection-start-line="2239" selection-start-column="57" selection-end-line="2239" selection-end-column="66" />
+            <state relative-caret-position="-7414">
+              <caret line="392" column="80" lean-forward="true" selection-start-line="392" selection-start-column="80" selection-end-line="392" selection-end-column="80" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/i18n.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="447" lean-forward="true" selection-start-line="447" selection-end-line="447" />
+            <state relative-caret-position="285">
+              <caret line="24" column="383" selection-start-line="24" selection-start-column="383" selection-end-line="24" selection-end-column="383" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/MacauNew.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="322" column="1" lean-forward="true" selection-start-line="322" selection-start-column="1" selection-end-line="322" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -123,6 +138,9 @@
       <find>商务合作</find>
       <find>zzzx24</find>
       <find>images/HongKongNew/52.jpg</find>
+      <find>fhfznewdetial01</find>
+      <find>@media (min-width: 992px)</find>
+      <find>body.zhlang .wap-show</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,6 +154,7 @@
         <option value="$PROJECT_DIR$/common/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/i18n.js" />
+        <option value="$PROJECT_DIR$/css/MacauNew.css" />
       </list>
     </option>
   </component>
@@ -168,9 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +214,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/vue" />
+    <property name="last_opened_file_path" value="E:/ConsensusMachine" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -234,17 +253,18 @@
       <workItem from="1555288882722" duration="5207000" />
       <workItem from="1555377207388" duration="34000" />
       <workItem from="1558494466390" duration="9892000" />
+      <workItem from="1564362886343" duration="2823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45718000" />
+    <option name="totallyTimeSpent" value="48541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,17 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="2239" column="66" selection-start-line="2239" selection-start-column="57" selection-end-line="2239" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -312,16 +321,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#1;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/i18n.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="447" lean-forward="true" selection-start-line="447" selection-end-line="447" />
+        <state relative-caret-position="285">
+          <caret line="24" column="383" selection-start-line="24" selection-start-column="383" selection-end-line="24" selection-end-column="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/MacauNew.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="322" column="1" lean-forward="true" selection-start-line="322" selection-start-column="1" selection-end-line="322" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7414">
+          <caret line="392" column="80" lean-forward="true" selection-start-line="392" selection-start-column="80" selection-end-line="392" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
