@@ -672,9 +672,10 @@
 <footer id="footer" class="load-footer" style="margin-top: 50px"></footer>
 <!--load common footer end-->
 
-
+<a href="./hongkong_email.html"  class="visa-tips-index" dom-i18n='WantSpeak'>我要演讲</a>
+<div href="http://hdxu.cn/945eU"  class="visa-tips-speaker" dom-i18n='hqmprg66' id="visa-tips">获取门票</div>
 <!--<a href="./help.html#home" target="_blank" class="visa-tips">签证指南</a>-->
-<!--<a href="./hongkong_email.html"  class="visa-tips_index" dom-i18n='hqmprg66'>获取门票</a>-->
+
 
 <div class="go-top">
     <a href="#top">
@@ -692,6 +693,12 @@
 
 
 <script>
+    $("#visa-tips").click(function () {
+        if($("#visa-tips").text()=="获取门票"){
+            location.href="http://hdxu.cn/945eU"
+        }else {}
+        location.href="http://hdxu.cn/945eU"
+    })
 
 $('.show-ft .col-md-2:lt(18)') .addClass('showimg');
 
