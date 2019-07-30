@@ -1218,7 +1218,7 @@
           positionNew94:"Head of Marketing of Luxchain",
           NameNew95:'Bernardo Brites',
           positionNew95:"Lasting Capital CEO",
-          UserJj:'Your Personal Introduction?',
+          UserJj:'Introduce about yourself？',
       },
         zh: {
             webtitle1:"纷智峰会 · 东京",
@@ -2285,7 +2285,7 @@
             detail_Fh:"请填写希望了解关于纷智峰会的什么细节？",
             Thanking_language:'谢谢您的耐心！ 我们将争取在一个工作日内与您取得联系！',
             Thanking_language02:'您也可以发送邮件申请：finwise@163.com',
-            UserJj:'您的个人简介？',
+            UserJj:'请填写您的个人简介？',
             back_index:'返回官网',
             WantSpeak:'我要演讲',
             winners_List:'获奖名单',
