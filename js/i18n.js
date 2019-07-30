@@ -75,11 +75,11 @@
         wechatnum: " Wechat",
         sponsorshipct: "Sponsorship Contact",
 
-        citysh: " ShangHai Station(July.2017)",
-        citymacaustation: " Macau Station(Jan.2018)",
-          cityJapanstation: "Japan Station(May.2018)",
-          cityHongKongstation: " Hong Kong Station(Aug.2018)",
-          cityHongKong2019station:'Hong Kong Station(May.2019)',
+        citysh: " ShangHai Station(July,2017)",
+        citymacaustation: " Macau Station(Jan,2018)",
+          cityJapanstation: "Japan Station(May,2018)",
+          cityHongKongstation: " Hong Kong Station(Aug,2018)",
+          cityHongKong2019station:'Hong Kong Station(May,2019)',
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
