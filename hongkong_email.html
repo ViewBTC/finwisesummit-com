@@ -200,6 +200,11 @@
                    <p class="yourName_p" dom-i18n='PNameWho'>请问您的名字是？</p>
                     <input type="text" name="username" class="username" placeholder="Type your answer here...">
                 </div>
+                <!--请问您的名字是-->
+                <div class="yourName">
+                    <p class="yourName_p" dom-i18n='UserJj'>您的个人简介？</p>
+                    <input type="text" name="userJj" class="username" placeholder="Type your answer here...">
+                </div>
                 <!--请问您的邮箱地址-->
                 <div class="yourEmeil">
                     <p class="yourName_p" dom-i18n='PEmailWho'>请问您的邮箱地址？</p>
@@ -256,7 +261,7 @@
             </form>
             <div  class="footer_Thanking_language" style="font-size: 12px">
                 <p dom-i18n='Thanking_language'>谢谢您的耐心！ 我们将争取在一个工作日内与您取得联系！</p>
-                <p dom-i18n='Thanking_language02'>纷智峰会2019香港会场，期待您的光临！</p>
+                <p dom-i18n='Thanking_language02'>您也可以发送邮件申请：finwise@163.com</p>
             </div>
         </div>
 
@@ -302,6 +307,7 @@
     function submit_btn() {
 
         var username = $("input[name='username']").val();
+        var userJj = $("input[name='userJj']").val();
         var useremail = $("input[name='useremail']").val();
         var userRecommend = $("input[name='userRecommend']").val();
         var userContact = $("input[name='userContact']").val();
@@ -317,6 +323,10 @@
         var visa_tips=$(".visa-tips").text();
         if(!reg.test(visa_tips)){
             if(username==''||username==null){
+                layer.msg("can't be blank");
+                return false
+            }
+            if(userJj==''||userJj==null){
                 layer.msg("can't be blank");
                 return false
             }
