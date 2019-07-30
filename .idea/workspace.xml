@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,29 +34,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="40" />
-          <entry key="html" value="700" />
+          <entry key="css" value="49" />
+          <entry key="html" value="772" />
           <entry key="js" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="40" />
-          <entry key="HTML" value="700" />
+          <entry key="CSS" value="49" />
+          <entry key="HTML" value="772" />
           <entry key="JavaScript" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="7" />
+          <entry key="html" value="8" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="8" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
@@ -82,14 +83,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="245" column="10" lean-forward="true" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="10" />
+            <state relative-caret-position="375">
+              <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index_HongKong2018.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="959" lean-forward="true" selection-start-line="959" selection-end-line="959" />
             </state>
           </provider>
         </entry>
@@ -140,11 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/MacauNew.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="307" column="59" selection-start-line="307" selection-start-column="59" selection-end-line="307" selection-end-column="59" />
+            <state relative-caret-position="315">
+              <caret line="300" column="17" selection-start-line="300" selection-start-column="17" selection-end-line="300" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -161,8 +171,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index_HongKong2019.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4038">
-              <caret line="2849" selection-start-line="2849" selection-end-line="2849" />
+            <state relative-caret-position="407">
+              <caret line="1042" column="34" selection-start-line="1042" selection-start-column="21" selection-end-line="1042" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -171,10 +181,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>承办方</find>
-      <find>.fim-tl</find>
-      <find>fim-tl</find>
-      <find>othersers</find>
       <find>positionmaqianlie</find>
       <find>namemaqianli</find>
       <find>马千里</find>
@@ -200,7 +206,11 @@
       <find>.Macau_Sponsor_PC</find>
       <find>cityHongKong2019station</find>
       <find>UserJj</find>
+      <find>.visa-tips-index</find>
+      <find>lazy</find>
+      <find>clogo-img</find>
       <find>AboutImg</find>
+      <find>./images/MacauNew/HyInformation.png</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,10 +222,10 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/common/header.html" />
         <option value="$PROJECT_DIR$/common/footer.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/hongkong_email.html" />
         <option value="$PROJECT_DIR$/js/i18n.js" />
         <option value="$PROJECT_DIR$/css/MacauNew.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -300,12 +310,12 @@
       <workItem from="1555377207388" duration="34000" />
       <workItem from="1558494466390" duration="9892000" />
       <workItem from="1564362886343" duration="3430000" />
-      <workItem from="1564447565136" duration="6225000" />
+      <workItem from="1564447565136" duration="9735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58074000" />
+    <option name="totallyTimeSpent" value="61584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -371,13 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index_HongKong2019.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4038">
-          <caret line="2849" selection-start-line="2849" selection-end-line="2849" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hongkong_email.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -402,20 +405,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index_HongKong2018.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="245" column="10" lean-forward="true" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="802">
+          <caret line="959" lean-forward="true" selection-start-line="959" selection-end-line="959" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/MacauNew.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="307" column="59" selection-start-line="307" selection-start-column="59" selection-end-line="307" selection-end-column="59" />
+        <state relative-caret-position="315">
+          <caret line="300" column="17" selection-start-line="300" selection-start-column="17" selection-end-line="300" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_HongKong2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="1042" column="34" selection-start-line="1042" selection-start-column="21" selection-end-line="1042" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
