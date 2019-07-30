@@ -9,7 +9,7 @@ body{
     display: none;
 }
 .Macau_Sponsor_PC{
-    margin: 60px auto;
+    margin: 80px auto;
 }
 .visa-tips-index{
     position: fixed;
@@ -196,7 +196,7 @@ a, a:link, a:visited, a:hover, a:active {
     width: 90%;
 }
 .index-fwrap{
-    background: url('../images/MacauNew/index_new_bg.png')no-repeat top center;
+    background: url('../images/MacauNew/index_new_bg.jpg')no-repeat top center;
     background-size: 100% 100%;
     height: 850px;
     overflow: hidden;
@@ -298,14 +298,14 @@ a, a:link, a:visited, a:hover, a:active {
 
 
 .clogo-img {
-    width: 700px;
+    width: 650px;
 }
 
 
 
 @media only screen and (max-width: 1450px) and (min-width: 992px){
     .index-fwrap {
-        background: url(../images/MacauNew/index_new_bg.png) no-repeat;
+        background: url(../images/MacauNew/index_new_bg.jpg) no-repeat;
         background-position: center 10px;
         /*height: 765px;*/
         height: 875px;
