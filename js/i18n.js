@@ -2136,7 +2136,7 @@
             NameNew19:"虫哥",
             positionNew19:"POC生态布道者、Hpool矿池创始人",
             NameNew20:"安鑫鑫",
-            positionNew20:"金色财经合伙人、金色学院创始人",
+            positionNew20:"金色财经CEO、金色学院创始人",
             NameNew21:"刘嘉陵(巨蟹)",
             positionNew21:"比特股理事会理事、比特创业营联合创始人",
             NameNew22:"帅初",
