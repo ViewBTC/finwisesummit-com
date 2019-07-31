@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43de7060-aa0e-4715-b8d1-e4cd4f10c9e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/HongKongCenterLogoEn.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/WAP-en-logo_new.png" afterDir="false" />
@@ -10,7 +11,7 @@
       <change beforePath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/fw-PCzhNwe.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/HongKong/index_new_bgwap.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/Fz_Introduction.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/video/Fz_Introduction.mp4" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +26,10 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.26" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -85,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="503" column="22" lean-forward="true" selection-start-line="495" selection-start-column="11" selection-end-line="503" selection-end-column="22" />
+            <state relative-caret-position="-373">
+              <caret line="513" column="34" lean-forward="true" selection-start-line="513" selection-start-column="34" selection-end-line="513" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -137,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/i18n.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="64140">
               <caret line="2138" column="34" selection-start-line="2138" selection-start-column="34" selection-end-line="2138" selection-end-column="34" />
             </state>
           </provider>
@@ -251,9 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,12 +264,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="G:/Bz_App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -305,17 +306,18 @@
       <workItem from="1564362886343" duration="3430000" />
       <workItem from="1564447565136" duration="12042000" />
       <workItem from="1564534747527" duration="1800000" />
+      <workItem from="1564566303778" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65691000" />
+    <option name="totallyTimeSpent" value="65947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26972282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27238807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,6 +356,16 @@
     <entry file="file://$PROJECT_DIR$/bottom.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="513" column="34" lean-forward="true" selection-start-line="513" selection-start-column="34" selection-end-line="513" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index_HongKong2018.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28770">
@@ -386,6 +398,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64140">
+          <caret line="2138" column="34" selection-start-line="2138" selection-start-column="34" selection-end-line="2138" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/MacauNew.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9000">
@@ -404,23 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31260">
           <caret line="1042" column="34" selection-start-line="1042" selection-start-column="21" selection-end-line="1042" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/i18n.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="2138" column="34" selection-start-line="2138" selection-start-column="34" selection-end-line="2138" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="503" column="22" lean-forward="true" selection-start-line="495" selection-start-column="11" selection-end-line="503" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
