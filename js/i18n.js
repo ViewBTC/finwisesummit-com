@@ -964,7 +964,8 @@
           FzHk05:'Finwise·ShangHai',
           FzHk005:'July 30-31, 2017',
 
-
+            fz_pkp01:'FINWISE',
+            fz_pkp02:'Blockchain Poker Selection',
           NameNew01:"Vitalik Buterin",
           positionNew01:"Founder of Ethereum",
 
@@ -1014,7 +1015,7 @@
           NameNew15:"Yu Jianing",
           positionNew15:"President of\n" +
               "Huobi University",
-          NameNew16:"Change Jia",
+          NameNew16:"Chang Jia",
           positionNew16:"Founder and CEO\n" +
               "of 8btc",
           NameNew17:"Justin Sun",
@@ -2047,7 +2048,7 @@
 
 
             nameHans:"汉斯 哼瑞",
-            positionHans:"迪拜市政府-金融科技管理局企业家中心副总裁",
+            positionHans:"迪拜市政府-金融科技管理局企业家中心主任",
 
 
             nameHanFeng_info:"韩锋",
@@ -2086,7 +2087,8 @@
             xianbandanwei:"协办方",
             Contractor:'承办方',
 
-
+            fz_pkp01:'纷智',
+            fz_pkp02:'扑克牌',
             NameNew01:"Vitalik",
             positionNew01:"以太坊创始人",
 
