@@ -982,7 +982,8 @@
 
           NameNew05:"Dr.Johnny Ng",
           positionNew05:"Member of CPPCC and consultant of Hong Kong United Youth Association" ,
-
+            CoreUnits:'Core Units',
+            MembershiUnit:'Membershi Unit',
           NameNew06:"Eric Gu",
           positionNew06:"Founder of the\n" +
               "Metaverse foundation\n" +
@@ -2074,7 +2075,8 @@
             positionYangNK:"比特币中国联合创始人",
 
 
-
+            CoreUnits:"核心单位",
+            MembershiUnit:'成员单位',
             nameHanFeng:"韩峰",
             positionHanFengInfo:"哥伦比亚大学访问研究员、华为中央研究院区块链顾问、亚洲区块链DACA协会秘书长、亦来云基金会理事",
 
