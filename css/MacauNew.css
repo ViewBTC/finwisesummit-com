@@ -78,6 +78,10 @@ body{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+.about-fwImgYGA{
+    width: 37%;
+}
+
 .visa-tips_index{
     position: fixed;
     right: 0px;
@@ -373,7 +377,15 @@ a, a:link, a:visited, a:hover, a:active {
     }
 }
 @media only screen and (max-width: 991px) and (min-width: 320px){
-
+    .CoreUnits{
+        margin-top: 10px;
+    }
+    .MembershiUnit{
+        margin-top: 15px!important;
+    }
+    .about-fwImgYGA{
+        width: 85%;
+    }
     .Macau_Sponsor_PC{
         display: none;
     }
