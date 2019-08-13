@@ -280,6 +280,9 @@ a, a:link, a:visited, a:hover, a:active {
     height: 100%;
     display: inline-block;
 }
+.about-fwImg001{
+    width: 26%;
+}
 .review_meet ul li img{
     width: 100%;
 }
@@ -379,6 +382,9 @@ a, a:link, a:visited, a:hover, a:active {
 @media only screen and (max-width: 991px) and (min-width: 320px){
     .CoreUnits{
         margin-top: 10px;
+    }
+    .about-fwImg001{
+        width: 57%;
     }
     .MembershiUnit{
         margin-top: 15px!important;
