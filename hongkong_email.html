@@ -316,7 +316,6 @@
         var userSelf=$(".youshang").next().val();
 
 
-
         console.log(userSelf);
         var data = $("#myform").serialize();
         var reg=/^([\u4E00-\u9FA5]+，?)+$/;
@@ -394,13 +393,9 @@
             var msg = '';
             if(json){
 
-                // var  sex = json.sex==1? "男生":"女生";
-                // msg = "<div id='result'><strong>提交成功！</strong><br/>姓名："+json.username+"<br/>性别："+sex+"<br/>年龄："+json.age+"</div>"
-
             }else{
                 msg = "服务器忙，请稍候再试！";
             }
-            // $("#myform").after(msg); //将返回信息插入页面对应的元素后
         });
         setTimeout(function () {
             location.reload()
