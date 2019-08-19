@@ -576,6 +576,9 @@
           namescxh119:"ZhangJingWei",
           positioncxh119:"Ant Node Alliance Co-founder",
 
+          namescxh121:"Chairman",
+          positioncxh121:"CEO of Wanxiang Blockchain",
+
 
           zzhz01:"Sponsorship",
           qdhz02:"Channel Cooperation",
@@ -1057,7 +1060,6 @@
               "(NABA)",
           NameNew30:"Lucas Lu",
           positionNew30:"Founder of CyberMiles\n" +
-              "First GM of Alibaba’s Taobao\n" +
               "Mobile platform\n" +
               "Co-founder of LightInTheBox",
           NameNew31:"Caspar WONG",
@@ -1762,6 +1764,24 @@
             positionyzw118:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
             namescxh119:"张竟唯",
             positioncxh119:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
+            namescxh120:"Mike Costache",
+            positioncxh120:"TaaS Capital Partners BlockChain Investor & Advisor",
+            namescxh121:"肖风",
+            positioncxh121:"上海万向区块链股份有限公司董事长兼总经理",
+            namescxh122:"Loi Luu",
+            positioncxh122:"Founder, Kyber",
+            namescxh123:"Arthur Hayes",
+            positioncxh123:"Founder & CEO of Bitmex",
+            namescxh124:"Seth Rubin",
+            positioncxh124:"CEO & Co-Founder of Market Protocol",
+            namescxh125:"Joey Krug",
+            positioncxh125:"Founder of Beam",
+            namescxh126:"Sergey Nazarov",
+            positioncxh126:"CEO of Chainlink",
+            namescxh127:"Jae Kwon",
+            positioncxh127:"Co-Creator of Cosmos",
+            namescxh128:"Rune Christensen",
+            positioncxh128:"Founder & CEO of MakerDAO",
 
             GaHwHz:"港澳及海外合作",
 
@@ -2126,7 +2146,7 @@
             NameNew12:"王岳华",
             positionNew12:"德丰杰龙脉创新基金合伙人",
             NameNew13:"邓迪",
-            positionNew13:"太一云 董事长",
+            positionNew13:"太一云董事长、中国区块链应用研究中心理事长",
             NameNew14:"杨林科",
             positionNew14:"比特币中国创始人兼CEO",
             NameNew15:"于佳宁",
@@ -2160,7 +2180,7 @@
             NameNew29:"Ramble",
             positionNew29:"SWFTC 创始人、北美区块链协会(NABA)创始人",
             NameNew30:"卢亮",
-            positionNew30:"CyberMiles创始人、手机淘宝首任总经理、兰亭集势联合创始人",
+            positionNew30:"美国SMU物理博士、CyberMiles创始人、兰亭集势联合创始人",
             NameNew31:"黄俊瑯",
             positionNew31:"高锋创新金融行政总裁",
             NameNew32:"蔡栋",
