@@ -327,24 +327,30 @@ a, a:link, a:visited, a:hover, a:active {
 }
     @media (max-width: 320px){
         .index-fwrap{
-            height: 545px !important;
+            height: 585px !important;
 
         }
         .CoreUnits{
             margin-top: 10px;
         }
     }
-    @media only screen and (max-width: 415px) and (min-width: 321px){
+    @media only screen and (max-width: 409px) and (min-width: 321px){
         .index-fwrap{
-            height: 600px !important;
+            height: 645px !important;
         }
         .CoreUnits{
             margin-top: 10px;
         }
     }
-    @media only screen and (min-width: 410px){
+    @media only screen and (min-width: 410px)and (max-width: 640px){
         .CoreUnits{
-            margin-top: 0px;
+                margin-top: 0px;
+            }
+        .CoreUnitsBd{
+            margin-top: 10px;
+        }
+        .index-fwrap{
+            height: 625px !important;
         }
     }
     @media only screen and (max-width: 1450px) and (min-width: 992px){
