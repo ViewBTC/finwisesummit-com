@@ -1222,6 +1222,22 @@
           positionNew94:"Head of Marketing of Luxchain",
           NameNew95:'Bernardo Brites',
           positionNew95:"Lasting Capital CEO",
+            NameNew96:'Bella Fang',
+            positionNew96:"Founder of WBFex",
+            NameNew97:'ZhaoChangYu',
+            positionNew97:"CEO of ZG.com",
+            NameNew98:'LiWenHao',
+            positionNew98:"VP of ZG.com",
+            NameNew99:'HuiCong',
+            positionNew99:"MD of ZG.com",
+            NameNew100:'ZhaoChaoHui',
+            positionNew100:"Founder of Natural DAO",
+            NameNew101:'ChaoQianJie',
+            positionNew101:"FBG Capital Advisor",
+
+
+
+
           UserJj:'Introduce about yourself？',
       },
         zh: {
@@ -2301,6 +2317,20 @@
             positionNew92:"福布斯加密数字货币市场大中华地区执行董事",
             NameNew93:'朱涛',
             positionNew93:"中高会区块链产业联盟理事长",
+
+            NameNew96:'Bella Fang',
+            positionNew96:"WBFex 创始人",
+            NameNew97:'赵昌宇',
+            positionNew97:"CEO of ZG.com",
+            NameNew98:'李文浩',
+            positionNew98:"VP of ZG.com",
+            NameNew99:'惠聪',
+            positionNew99:"MD of ZG.com",
+            NameNew100:'周朝晖',
+            positionNew100:"Natural DAO创始人、时代学院创始讲师",
+            NameNew101:'赵千捷',
+            positionNew101:"原比特币中国高级副总裁、FBG Capital Adviso",
+
             PNameWho:"请问您的名字是?",
             PEmailWho:"请问您的邮箱地址?",
             PbaomingWho:"您是为自己报名吗？",
