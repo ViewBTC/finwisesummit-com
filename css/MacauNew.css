@@ -9,7 +9,7 @@ body{
     display: none;
 }
 .Macau_Sponsor_PC{
-    margin: 80px auto;
+    margin:0px auto;
 }
 .visa-tips-index{
     position: fixed;
@@ -316,14 +316,49 @@ a, a:link, a:visited, a:hover, a:active {
     width: 650px;
 }
 
+@media (max-width: 1400px){
+    .otherlang #topnav .navigation-menu > li > a{
+        font-size: 14px;
+        letter-spacing: .2em;
+    }
+    .otherlang #topnav .logo img {
+        width: 200px !important;
+    }
+}
+    @media (max-width: 320px){
+        .index-fwrap{
+            height: 585px !important;
 
-
-@media only screen and (max-width: 1450px) and (min-width: 992px){
+        }
+        .CoreUnits{
+            margin-top: 10px;
+        }
+    }
+    @media only screen and (max-width: 409px) and (min-width: 321px){
+        .index-fwrap{
+            height: 645px !important;
+        }
+        .CoreUnits{
+            margin-top: 10px;
+        }
+    }
+    @media only screen and (min-width: 410px)and (max-width: 640px){
+        .CoreUnits{
+                margin-top: 0px;
+            }
+        .CoreUnitsBd{
+            margin-top: 10px;
+        }
+        .index-fwrap{
+            height: 625px !important;
+        }
+    }
+    @media only screen and (max-width: 1450px) and (min-width: 992px){
     .index-fwrap {
         background: url(../images/MacauNew/index_new_bg.jpg) no-repeat;
         background-position: center 10px;
         /*height: 765px;*/
-        height: 875px;
+        height: 875px!important;
         background-size: cover;
         margin-top: 60px;
     }
@@ -339,7 +374,6 @@ a, a:link, a:visited, a:hover, a:active {
         width: 120%;
         position: relative;
         right: 10%;
-        margin-top: 80px;
     }
     .Macau_Sponso_img{
 
@@ -363,7 +397,6 @@ a, a:link, a:visited, a:hover, a:active {
         background-position: center 10px;
         background-size: cover;
     }
-
 }
 @media (min-width: 992px){
     .clogo-img {
@@ -380,9 +413,7 @@ a, a:link, a:visited, a:hover, a:active {
     }
 }
 @media only screen and (max-width: 991px) and (min-width: 320px){
-    .CoreUnits{
-        margin-top: 10px;
-    }
+
     .about-fwImg001{
         width: 57%;
     }
