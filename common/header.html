@@ -65,7 +65,7 @@
                 </li>
                 <li id="lang-switch" class="lang-switch">
                     <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
-                    <a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>／
+                    <a href="javascript:;" class="endingbtn en-lang idsetEn" onclick="i18n.setLang('en')" >EN</a>／
                     <a href="javascript:;" class="endingbtn jp-lang" onclick="i18n.setLang('jap')">日語</a>
                     <!--<a href="./en/index.html" class="endingbtn">EN</a>-->
                     <!--<a href="./index-en.html" class="endingbtn">EN</a>-->
@@ -75,3 +75,8 @@
     </div>
 <!--</header>-->
 <!-- header end-->
+<script>
+    $(".idsetEn").click(function () {
+        location.href="https://finwise.global/"
+    })
+</script>

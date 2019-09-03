@@ -97,7 +97,7 @@
 
                 <div id="lang-switch " class="lang-switch lang-wapbox">
                     <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
-                    <a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>
+                    <a href="javascript:;" class="endingbtn en-lang idsetEn" onclick="i18n.setLang('en')">EN</a>
                 </div>
 
                 <div id="navigation">
@@ -137,7 +137,7 @@
                         <!--</li>-->
                         <li id="lang-switch" class="lang-switch pc-block">
                              <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
-                             <a href="javascript:;" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>
+                             <a href="javascript:;" class="endingbtn en-lang idsetEn" onclick="i18n.setLang('en')">EN</a>
                         </li>
                     </ul>
                 </div>
@@ -1386,16 +1386,16 @@
 
 
 <script>
-    $(".endingbtn").click(function () {
-        location.href="https://finwise.global/"
-    })
+$(".idsetEn").click(function () {
+    location.href="https://finwise.global/"
+})
 
     $("#visa-tips").click(function () {
         if($("#visa-tips").text()=="获取门票"){
             location.href="http://hdxu.cn/945eU"
         }else {}
         location.href="http://hdxu.cn/945eU"
-    })
+    });
 
 $('.show-ft .col-md-2:lt(18)') .addClass('showimg');
 
