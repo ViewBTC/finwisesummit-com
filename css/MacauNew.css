@@ -321,9 +321,6 @@ a, a:link, a:visited, a:hover, a:active {
         font-size: 14px;
         letter-spacing: .2em;
     }
-    .otherlang #topnav .logo img {
-        width: 200px !important;
-    }
 }
     @media (max-width: 320px){
         .index-fwrap{
