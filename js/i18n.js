@@ -7,7 +7,7 @@
         if (tyLang && tyLang.length > 0 && tyLang != "undefined") {
         return tyLang;
       }
-      return "en";
+      return "zh";
 
     })(), //en | jap,
 
