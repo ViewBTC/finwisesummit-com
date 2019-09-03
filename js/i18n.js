@@ -1297,7 +1297,7 @@
             NameNew131:'Wu Hao',
             positionNew131:" Huawei Senior R&D Engineer、Tianqu Technology Alliance Partner",
             NameNew132:'Wu Hongxi',
-            positionNew132:"Singapore Chinese Foundation CEO、Asia Chain Executive CEO、AD Chain China Business School CEO",
+            positionNew132:"Singapore Chinese Foundation CEO、AD Chain Executive CEO、AD Chain China Business School CEO",
             NameNew133:'Wu Xiaohong',
             positionNew133:"Founding Partner of Beidou Node Alliance、Funbit Foundation Community Advisor",
             NameNew134:'Ioana Minea',
