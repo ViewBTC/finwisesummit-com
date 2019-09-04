@@ -1052,7 +1052,7 @@
           NameNew27:"Wang Binsheng",
           positionNew27:"Distinguished Professor of Chinese Academy Social Sciences",
           NameNew28:"Ken Huang",
-          positionNew28:"Chief blockchain architect for Nuclear chain member ",/*Chinese Electric Academy Blockchain Expert Committee*/
+          positionNew28:"Chinese Electric Academy Blockchain Expert Committee ",/**/
           NameNew29:"Ramble",
           positionNew29:"Founder of SWFTC\n" +
               "Founder of North America\n" +
@@ -1543,7 +1543,7 @@
             positionlqw19:"知产链IPChain联合创始人",
 
             namech20:"陈浩",
-            positionch20:"维优 首席技术官",
+            positionch20:"元界DNA联合创始人、元界联合创始人兼CTO",
 
             namelmz21:"李明肇",
             positionlmz21:"小牛链 CEO",
@@ -1688,7 +1688,7 @@
             positiontoni67:"sgamer ceo",
 
             nameljl68:"刘嘉陵（巨蟹）",
-            positionljl68:"比特股理事会理事、比特创业营创始成员、 YOYOW 联合创始人",
+            positionljl68:"比特股理事会理事、比特创业营创始成员",
 
             namegyl69:"高泽龙",
             positiongyl69:"国际区块链与数字货币协会 副会长",
@@ -2258,17 +2258,17 @@
             NameNew24:"李大伟",
             positionNew24:"ZB联合创始人、引力波动量化创始人",
             NameNew25:"曾豪",
-            positionNew25:"蚂蚁节点联盟创始人",
+            positionNew25:"蚂蚁节点联盟创始人、中高会区块链产业联盟副理事长",
             NameNew26:"申屠青春",
             positionNew26:"银联科技 CEO",
             NameNew27:"王彬生",
             positionNew27:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
             NameNew28:"黄连金",
-            positionNew28:"核聚链首席科学家、中国电子学会区块链分会专家委员",
+            positionNew28:"元界DNA联合创始人、中国电子学会区块链分会专家委员",
             NameNew29:"Ramble",
             positionNew29:"SWFTC 创始人、北美区块链协会(NABA)创始人",
             NameNew30:"卢亮",
-            positionNew30:"美国SMU物理博士、CyberMiles创始人、兰亭集势联合创始人",
+            positionNew30:"美国SMU物理博士、CyberMiles创始人",
             NameNew31:"黄俊瑯",
             positionNew31:"高锋创新金融行政总裁",
             NameNew32:"蔡栋",
