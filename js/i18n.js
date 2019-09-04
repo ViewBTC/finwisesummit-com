@@ -2421,7 +2421,7 @@
 
             /*2019-09-03*/
             NameNew109:'Brock Pierce',
-            positionNew109:"比特币基金会前主席",
+            positionNew109:"比特币基金会前主席(现场直播)",
             NameNew110:'Ruslan Gavrilyuk',
             positionNew110:"TaaS资本首席执行官",
             NameNew111:'Stefan Rust',
