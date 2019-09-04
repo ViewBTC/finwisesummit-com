@@ -1248,7 +1248,7 @@
             NameNew108:'Qi Luoyuan',
             positionNew108:"President of Tianfu Tiancheng Digital Asset Trading Service Co.Ltd.",
             namescxh120:"Mike Costache",
-            positioncxh120:"TaaS Capital Partners BlockChain Investor & Advisor",
+            positioncxh120:"TaaS Capital Partners BlockChain Investor & Advisor、CEO of FinWise Global",
 
             /*2019-09-03*/
             NameNew109:'Brock Pierce',
