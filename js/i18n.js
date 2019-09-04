@@ -242,7 +242,7 @@
           positionlqw19:"知产链IPChain联合创始人",
 
           namech20:"Hao Chen",
-          positionch20:"CTO of ViewFin",
+          positionch20:"Co-founder and CTO of Metaverse ",
 
           namelmz21:"李明肇",
           positionlmz21:"小牛链 CEO",
@@ -987,10 +987,9 @@
           positionNew05:"Member of CPPCC and consultant of Hong Kong United Youth Association" ,
             CoreUnits:'Core Units',
             MembershiUnit:'Membershi Unit',
+
           NameNew06:"Eric Gu",
-          positionNew06:"Founder of the\n" +
-              "Metaverse foundation\n" +
-              "Ethereum Angel Investor",
+          positionNew06:"Founder and CEO of Metaverse ",
 
           NameNew07:"Chandler Guo",
           positionNew07:"Angel Investor",
@@ -1052,7 +1051,7 @@
           NameNew27:"Wang Binsheng",
           positionNew27:"Distinguished Professor of Chinese Academy Social Sciences",
           NameNew28:"Ken Huang",
-          positionNew28:"Chief blockchain architect for Nuclear chain member ",/*Chinese Electric Academy Blockchain Expert Committee*/
+          positionNew28:"Chinese Electric Academy Blockchain Expert Committee ",
           NameNew29:"Ramble",
           positionNew29:"Founder of SWFTC\n" +
               "Founder of North America\n" +
@@ -1248,6 +1247,8 @@
             positionNew107:"Founder of Asian Blockchain Capital, Member of Henan Province Blockchain Research Association",
             NameNew108:'Qi Luoyuan',
             positionNew108:"President of Tianfu Tiancheng Digital Asset Trading Service Co.Ltd.",
+            namescxh120:"Mike Costache",
+            positioncxh120:"TaaS Capital Partners BlockChain Investor & Advisor、CEO of FinWise Global",
 
             /*2019-09-03*/
             NameNew109:'Brock Pierce',
@@ -1543,7 +1544,7 @@
             positionlqw19:"知产链IPChain联合创始人",
 
             namech20:"陈浩",
-            positionch20:"维优 首席技术官",
+            positionch20:"元界DNA联合创始人、元界联合创始人兼CTO",
 
             namelmz21:"李明肇",
             positionlmz21:"小牛链 CEO",
@@ -1688,7 +1689,7 @@
             positiontoni67:"sgamer ceo",
 
             nameljl68:"刘嘉陵（巨蟹）",
-            positionljl68:"比特股理事会理事、比特创业营创始成员、 YOYOW 联合创始人",
+            positionljl68:"比特股理事会理事、比特创业营创始成员",
 
             namegyl69:"高泽龙",
             positiongyl69:"国际区块链与数字货币协会 副会长",
@@ -1853,7 +1854,7 @@
             namescxh119:"张竟唯",
             positioncxh119:"蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人",
             namescxh120:"Mike Costache",
-            positioncxh120:"TaaS Capital Partners BlockChain Investor & Advisor",
+            positioncxh120:"TaaS资本合伙人、纷智全球首席执行官",
             namescxh121:"肖风",
             positioncxh121:"上海万向区块链股份有限公司董事长兼总经理",
             namescxh122:"Loi Luu",
@@ -2215,7 +2216,7 @@
             positionNew05:"全国政协委员、香港青年联会顾问",
 
             NameNew06:"初夏虎",
-            positionNew06:"维优 CEO、元界基金会主席",
+            positionNew06:"元界创始人兼CEO",
 
             NameNew07:"郭宏才",
             positionNew07:"著名天使投资人",
@@ -2258,17 +2259,17 @@
             NameNew24:"李大伟",
             positionNew24:"ZB联合创始人、引力波动量化创始人",
             NameNew25:"曾豪",
-            positionNew25:"蚂蚁节点联盟创始人",
+            positionNew25:"蚂蚁节点联盟创始人、中高会区块链产业联盟副理事长",
             NameNew26:"申屠青春",
             positionNew26:"银联科技 CEO",
             NameNew27:"王彬生",
             positionNew27:"区块链联合发展组织顾问、中国社会科学院研究生院特聘教授",
             NameNew28:"黄连金",
-            positionNew28:"核聚链首席科学家、中国电子学会区块链分会专家委员",
+            positionNew28:"元界DNA联合创始人、中国电子学会区块链分会专家委员",
             NameNew29:"Ramble",
             positionNew29:"SWFTC 创始人、北美区块链协会(NABA)创始人",
             NameNew30:"卢亮",
-            positionNew30:"美国SMU物理博士、CyberMiles创始人、兰亭集势联合创始人",
+            positionNew30:"美国SMU物理博士、CyberMiles创始人",
             NameNew31:"黄俊瑯",
             positionNew31:"高锋创新金融行政总裁",
             NameNew32:"蔡栋",
