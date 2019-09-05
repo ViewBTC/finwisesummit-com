@@ -1289,7 +1289,7 @@
             positionNew126:"Co-founder of Zignaly",
             NameNew127:'Daniele Monteleon',
             positionNew127:"CEO of Metalyfe",
-            NameNew128:'Alex',
+            NameNew128:'Alexander Alexandrov',
             positionNew128:"Founder&CEO of Velas",
             NameNew129:'Leo Su',
             positionNew129:"BiKi.com General Manager of Assets",
@@ -1308,6 +1308,10 @@
 
             NameNew136:'Wei Yuhong',
             positionNew136:"Yuhong Capital Founder / Public Chain Application Co-founder",
+            NameNew137:'Tone Vays',
+            positionNew137:"Bitcoin Trading Top Instructor (world)",
+            NameNew138:'Eddy Travia',
+            positionNew138:"Co-founder and CEO, Coinsilium Group",
 
 
 
@@ -2458,7 +2462,7 @@
             positionNew126:"Zignaly联合创始人",
             NameNew127:'Daniele Monteleon',
             positionNew127:"Metalyfe首席执行官",
-            NameNew128:'Alex',
+            NameNew128:'Alexander Alexandrov',
             positionNew128:"Founder&CEO of Velas",
             NameNew129:'Leo Su',
             positionNew129:"BiKi.com 资产端总经理",
@@ -2476,6 +2480,10 @@
             positionNew135:"EXX联合创始人兼CEO",
             NameNew136:'韦雨宏',
             positionNew136:"天使投资人、雨宏资本创始人、公元链应用联合创始人",
+            NameNew137:'Tone Vays',
+            positionNew137:"比特币交易教师（现场直播）",
+            NameNew138:'Eddy Travia',
+            positionNew138:"Coinsilium联合创始人兼首席执行官",
 
 
             PNameWho:"请问您的名字是?",
