@@ -1312,7 +1312,8 @@
             positionNew137:"Bitcoin Trading Top Instructor (world)",
             NameNew138:'Eddy Travia',
             positionNew138:"Co-founder and CEO, Coinsilium Group",
-
+            NameNew139:'Chris McCoy',
+            positionNew139:"Founder of StoreCoin",
 
 
           UserJj:'Introduce about yourself？',
@@ -2484,6 +2485,8 @@
             positionNew137:"比特币交易教师（现场直播）",
             NameNew138:'Eddy Travia',
             positionNew138:"Coinsilium联合创始人兼首席执行官",
+            NameNew139:'Chris McCoy',
+            positionNew139:"StoreCoin创始人",
 
 
             PNameWho:"请问您的名字是?",
