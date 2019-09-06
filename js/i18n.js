@@ -2364,7 +2364,7 @@
             NameNew76:'李芯',
             positionNew76:"人人矿场联合创始人",
             NameNew77:'唐仪',
-            positionNew77:"HKBA 香港区块链协会联合创始人",
+            positionNew77:"HKBA 香港区块链协会联合创始人、中国信用管理协会副会长",
             NameNew78:'吴胜',
             positionNew78:"Parabox亚洲爱好者社区布道者",
             NameNew79:'叶柱',
@@ -2392,7 +2392,7 @@
             // NameNew91:'季程晨',
             // positionNew91:"中国计算机学会CCF区块链专委会委员",
             NameNew92:'周国华',
-            positionNew92:"福布斯加密数字货币市场大中华地区执行董事",
+            positionNew92:"福布斯数字资产市场大中华地区执行董事、香港区块链协会共同主席",
             NameNew93:'朱涛',
             positionNew93:"中高会区块链产业联盟理事长",
 
