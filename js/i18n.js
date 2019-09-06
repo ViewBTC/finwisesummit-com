@@ -2364,7 +2364,7 @@
             NameNew76:'李芯',
             positionNew76:"人人矿场联合创始人",
             NameNew77:'唐仪',
-            positionNew77:"HKBA 香港区块链协会联合创始人",
+            positionNew77:"HKBA 香港区块链协会联合创始人、中国信用管理协会副会长",
             NameNew78:'吴胜',
             positionNew78:"Parabox亚洲爱好者社区布道者",
             NameNew79:'叶柱',
