@@ -1549,7 +1549,7 @@
             positionlqw19:"知产链IPChain联合创始人",
 
             namech20:"陈浩",
-            positionch20:"元界DNA联合创始人、元界联合创始人兼CTO",
+            positionch20:"Rightbtc CTO、元界联合创始合伙人兼CTO",
 
             namelmz21:"李明肇",
             positionlmz21:"小牛链 CEO",
