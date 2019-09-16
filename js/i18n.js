@@ -1549,7 +1549,7 @@
             positionlqw19:"知产链IPChain联合创始人",
 
             namech20:"陈浩",
-            positionch20:"元界DNA联合创始人、元界联合创始人兼CTO",
+            positionch20:"Rightbtc CTO、元界联合创始合伙人兼CTO",
 
             namelmz21:"李明肇",
             positionlmz21:"小牛链 CEO",
@@ -2411,7 +2411,7 @@
             NameNew102:'孔华威',
             positionNew102:"中科院计算所上海分所所长、起点创投合伙人",
             NameNew103:'魏先华',
-            positionNew103:"中国科学院虚拟经济与数据开学研究中心副主任",
+            positionNew103:"中国科学院虚拟经济与数据科学研究中心副主任",
             NameNew104:'黄天威',
             positionNew104:"比特时代创始人",
             NameNew105:'李非凡',
