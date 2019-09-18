@@ -1314,6 +1314,8 @@
             positionNew138:"Co-founder and CEO, Coinsilium Group",
             NameNew139:'Chris McCoy',
             positionNew139:"Founder of StoreCoin",
+            NameNew140:'Franklin Urteaga',
+            positionNew140:"",
 
 
           UserJj:'Introduce about yourself？',
@@ -2218,7 +2220,7 @@
             positionNew04:"著名天使投资人、DGroup创始人",
 
             NameNew05:"吴杰庄",
-            positionNew05:"全国政协委员、香港青年联会顾问",
+            positionNew05:"清华大学博士后、高锋集团董事局主席、中国人民政治协商会议全国委员会委员",
 
             NameNew06:"初夏虎",
             positionNew06:"元界创始人兼CEO",
@@ -2487,6 +2489,8 @@
             positionNew138:"Coinsilium联合创始人兼首席执行官",
             NameNew139:'Chris McCoy',
             positionNew139:"StoreCoin创始人",
+            NameNew140:'Franklin Urteaga',
+            positionNew140:"前白宫科技创新顾问、OIGETIT联合创始人兼首席执行官",
 
 
             PNameWho:"请问您的名字是?",
