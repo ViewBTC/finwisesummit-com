@@ -34,7 +34,7 @@
 
         webtitle1:"FINWISESUMMIT · Tokyo",
         webtitle_Hk:"FINWISESUMMIT · HONGKONG",
-        webtitle_MK:"FINWISESUMMIT · MACAO",
+        webtitle_MK:"FINWISESUMMIT",
 
 
         webvisa2:"FINWISESUMMIT · Visa",
@@ -1323,7 +1323,7 @@
         zh: {
             webtitle1:"纷智峰会 · 东京",
             webtitle_Hk:"纷智峰会 · 香港",
-            webtitle_MK:"纷智峰会 · 澳门",
+            webtitle_MK:"Finwise纷智全球峰会",
 
 
 
