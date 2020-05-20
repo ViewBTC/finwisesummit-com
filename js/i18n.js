@@ -7,7 +7,7 @@
         if (tyLang && tyLang.length > 0 && tyLang != "undefined") {
         return tyLang;
       }
-      return "zh";
+      return "en";
 
     })(), //en | jap,
 
@@ -2763,4 +2763,10 @@ if(tyLang == 'zh'){
     $('body').addClass('otherlang');
     $('body').removeClass('zhlang');
 }
+
+$(function(){
+    $(".en-lang").click(function(){
+        //adding your code here
+    });
+});
 // 通过语言区分页面 end

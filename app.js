@@ -118,7 +118,7 @@ http.createServer(function(req, res) {
 
                         });
 
-                        res.write(createPostHtml("提交成功！", "/appc-index.html"));
+                        res.write(createPostHtml("提交成功！", "/appc-index_Macau2019.html"));
 
                         res.end();
 
@@ -169,7 +169,7 @@ http.createServer(function(req, res) {
                             <td> ${obj.position}</td><td> ${obj.email}</td><td>${obj.telphone}</td><td>${obj.supportReason}</td></tr>`
                         }
                         var sponsorHtml = `<html><head><meta charset="UTF-8"></head><p>总人数：${sponsorTable.length}</p><table style="width:100%;" cellpadding="2" cellspacing="0" border="1" bordercolor="#000000"><tbody><tr><th>姓名</th><th>公司</th><th>职位</th><th>电邮</th><th>电话</th><th>赞助原因</th></tr>${sponsorMore}</tbody><html>`;
-                        res.write(createPostHtml("提交成功！", "/appc-index.html"));
+                        res.write(createPostHtml("提交成功！", "/appc-index_Macau2019.html"));
                         res.end();
                         //保存html
                         fs.writeFile('./sponsor.html', sponsorHtml, function(err) {
@@ -197,7 +197,7 @@ http.createServer(function(req, res) {
         }
         if (pathName.charAt(pathName.length - 1) == "/") {
             //如果访问目录 
-            pathName += "appc-index.html"; //指定为默认网页 
+            pathName += "appc-index_Macau2019.html"; //指定为默认网页
         }
 
         //使用路径解析模块,组装实际文件路径 
