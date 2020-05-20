@@ -40,6 +40,7 @@
             s.parentNode.insertBefore(hm, s);
         })();
     </script>
+
     <!--[if lt IE 9]->
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -50,9 +51,25 @@
         border-radius: 50%;
         max-width: 100%;
         width: 126px;
-         padding: 0px;
+        padding: 0px;
         overflow: hidden;
-        margin: 0 auto;}
+        margin: 0 auto;
+    }
+    .pc-show{
+       margin-top: 70px;
+    }
+    @media only screen and (max-width: 991px) and (min-width: 300px){
+        #footer .footer-spewrap {
+            background-color: #0d0d0d!important;
+            width: 100%;
+        }
+    }
+    @media (max-width: 768px){
+        #footer .footer-spewrap {
+            background-color: #0d0d0d!important;
+            width: 100%;
+        }
+    }
 </style>
 <body>
 <!-- Preloader-->
@@ -66,1412 +83,112 @@
     </div>
 </div>
 <!-- End Preloader-->
-    <div class="index-bgwrap index-fwrap">
+<div class=" index-fwrap-CloudLive">
 
-        <!-- header-->
-        <header id="topnav">
-            <div class="container">
-                <!-- Logo container-->
-                <h1 class="logo">
-                    <a href="./index.html" class="finwise-logowrap">
-                        <!--<img class="logo-light" data-original="images/finwise/logo-macau.png" alt="纷智全球峰会">-->
-                        <img class="logo-dark fwlogo" src="images/finwise-tokyo/finwiselogo001.png" alt="纷智全球峰会" title="纷智全球峰会">
-                    </a>
-                </h1>
-                <!-- End Logo container-->
-                <div class="menu-extras">
-                    <div class="menu-item toggle-nav">
-                        <!-- Mobile menu toggle-->
-                        <a class="menu-toggle" href="#" onclick="mininav()">
-                            <div class="toggle-inner"></div>
-                        </a>
-                        <!-- End mobile menu toggle-->
-                    </div>
-                </div>
-
-                <!--<a href="https://www.eventbrite.com/e/finwise-summit-2019-hong-kong-tickets-60454000543" target="_self" class="lang-select fg-line tikets-wapbox wap-show" >-->
-                    <!--<span class="gettiketsbox" dom-i18n='hqmprg66' style="width: auto;">获取门票</span>-->
-                <!--</a>-->
-
-
-
-                <div id="lang-switch " class="lang-switch lang-wapbox">
-                    <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
-                    <a href="https://finwise.global/" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>
-                </div>
-
-                <div id="navigation">
-                    <ul class="navigation-menu nav">
-                        <li>
-                            <a href="./index.html" class="active" dom-i18n='seey1'>首页</a>
-                        </li>
-                        <!--<li>-->
-                             <!--<a href="./#Agenda-content"   class="endingbtn"  dom-i18n='hyyc2'>会议议程</a>-->
-                        <!--</li>-->
-                        <!--<li>-->
-                            <!--<a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>-->
-                        <!--</li>-->
-                        <li class="past-review sl-language">
-                            <a class="spe-hover"  href="javascript:;" dom-i18n='wjhg4'>往届回顾</a>
-                            <ul class="review-old">
-                                <li><a href="./index_HongKong2019.html" class="endingbtn" target="_blank" dom-i18n='cityHongKong2019station'>香港站(2019)</a></li>
-                                <li><a href="./index_HongKong2018.html" class="endingbtn" target="_blank" dom-i18n='cityHongKongstation'>香港站(2018)</a></li>
-                                <li><a href="./Japan/index.html" class="endingbtn" target="_blank" dom-i18n='cityJapanstation'>日本站</a></li>
-                                <li><a href="./macau/index.html" class="endingbtn" target="_blank" dom-i18n='citymacaustation'>澳门站</a></li>
-                                <li><a href="./appc-index.html" class="endingbtn" target="_blank" dom-i18n='citysh'>上海站</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="./about.html" class="about" dom-i18n='gywm5'>关于我们</a>
-                        </li>
-                        <!--<li>-->
-                            <!--<a href="./help.html" class="help" dom-i18n='helpnav'>参会指南</a>-->
-                        <!--</li>-->
-                        <!--<li class="tikets-box pc-hide">-->
-                            <!--<a href="https://www.eventbrite.com/e/finwise-summit-2019-hong-kong-tickets-60454000543" target="_blank" class="fg-line">-->
-                                <!--<span class="gettiketsbox" dom-i18n='hqmprg66'>-->
-                                    <!--&lt;!&ndash; <a href="/appc-index.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> &ndash;&gt;-->
-                                   <!--获取门票-->
-                                <!--</span>-->
-                            <!--</a>-->
-                        <!--</li>-->
-                        <li id="lang-switch" class="lang-switch pc-block">
-                             <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">中文</a>／
-                             <a href="https://finwise.global/" class="endingbtn en-lang" onclick="i18n.setLang('en')">EN</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </header>
-        <!-- header end-->
-
-        <!--load common header begin-->
-        <!--<header id="topnav" class="load-header"></header>-->
-        <!--load common header end-->
-
-        <!--welcome begin-->
-        <section class="im-welbox index-bgdd text-center container">
-            <div class="index-bg">
-                <div class="pc-show">
-                    <img src="./images/MacauNew/HongKongCenterLogoNew.png" alt="" class="clogo-img zhshow" >
-                    <img src="./images/MacauNew/HongKongCenterLogoNew.png" alt="" class="clogo-img enshow" >
-                </div>
-
-                <div class="wap-show">
-                    <img src="./images/MacauNew/HongKongCenterLogoNew.png" alt="" class="clogo-img zhshow">
-                    <img src="./images/MacauNew/HongKongCenterLogoNew.png" alt="" class="clogo-img enshow" >
-                </div>
-                <!--<a href="javascript:;" target="_self" class="lang-select fg-line tikets-wapbox" >-->
-                    <!--<span class="gettiketsbox gray-nouse" dom-i18n='hqmprg66' style="width: auto;">获取门票</span>-->
-                <!--</a>-->
-
-                <!--<a href="http://www.huodongxing.com/go/finwise" target="_blank" class="fg-line">-->
-                    <!--<span class="gettiketsbox btn-demo" dom-i18n="hqmprg66">获取门票</span>-->
-                <!--</a>-->
-                <div class="Macau_Sponsor">
-                    <div class="Macau_Sponsor_box">
-                        <span class="Macau_Sponsor_font font_Down" dom-i18n='organisers'>主办方</span>
-                        <span class=""><img src="./images/MacauNew/RedG.png" style="width: 10px;height: 17px" class="font_Down img-hide"></span>
-                        <img src="./images/MacauNew/FinwiseZb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box box-left " >
-                        <span class="Macau_Sponsor_font font_Down" dom-i18n='Contractor'>承办方</span>
-                        <span><img src="./images/MacauNew/RedG.png" style="width: 10px;height: 17px" class="font_Down img-hide"></span>
-                        <img src="./images/MacauNew/FinwiseCb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box box-left ">
-                        <span class="Macau_Sponsor_font font_Down" dom-i18n='djiaguanming'>总冠名</span>
-                        <span><img src="./images/MacauNew/RedG.png" style="width: 10px;height: 17px" class="font_Down img-hide"></span>
-                        <img src="./images/MacauNew/FinwiseCgM01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box  box-left">
-                        <span class="Macau_Sponsor_font font_Down" dom-i18n='othersers'>联合主办</span>
-                        <span><img src="./images/MacauNew/RedG.png" style="width: 10px;height: 17px" class="font_Down img-hide"></span>
-                        <span>
-                         <img src="./images/MacauNew/FinwiseLhZb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                         <img src="./images/MacauNew/FinwiseLhZb02.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                         <img src="./images/MacauNew/BTCLHzB.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                         <img src="./images/MacauNew/qubite.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                         <img src="./images/MacauNew/Gyl.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img CoreUnits">
-                         <img src="./images/MacauNew/TfTc.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img CoreUnits CoreUnitsBd">
-                         <img src="./images/MacauNew/TfTc02.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img CoreUnits CoreUnitsBd">
-                         <img src="./images/MacauNew/TfTc05.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img  CoreUnits CoreUnitsBd">
-                         <img src="./images/MacauNew/TfTc03.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img  CoreUnits CoreUnitsBd">
-                         <img src="./images/MacauNew/TfTc04.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img  CoreUnits CoreUnitsBd">
-
-                        </span>
-                    </div>
-                    <div class="Macau_Sponsor_box box-left ">
-                        <span class="Macau_Sponsor_font font_Down" dom-i18n='xianbandanwei'>协办方</span>
-                        <span><img src="./images/MacauNew/RedG.png" style="width: 10px;height: 17px" class="font_Down img-hide"></span>
-                        <img src="./images/MacauNew/0001.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/FinwiseXb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/Woex.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/LiuSao.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone ">
-                        <img src="./images/MacauNew/0002.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone CoreUnits">
-                        <img src="./images/MacauNew/0003.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img CoreUnits CoreUnitsBd">
-                        <img src="./images/MacauNew/Myq.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone CoreUnits CoreUnitsBd">
-                        <img src="./images/MacauNew/ZG.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone CoreUnits CoreUnitsBd">
-                        <img src="./images/MacauNew/0004.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img CoreUnits CoreUnitsBd">
-                    </div>
-                </div>
-
-                <div class="Macau_Sponsor_PC">
-                    <div class="Macau_Sponsor_box">
-                        <div>
-                            <p class="Macau_Sponsor_font font_Down" dom-i18n='organisers'>主办方</p>
-                        </div>
-                        <img src="./images/MacauNew/FinwiseZb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box box-left " >
-                        <p class="Macau_Sponsor_font font_Down" dom-i18n='Contractor'>承办方</p>
-                        <img src="./images/MacauNew/FinwiseCb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box box-left ">
-                        <p class="Macau_Sponsor_font font_Down" dom-i18n='djiaguanming'>总冠名</p>
-                        <img src="./images/MacauNew/FinwiseCgM01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                    </div>
-                    <div class="Macau_Sponsor_box box-left" id="othersers_box">
-                        <p class="Macau_Sponsor_font font_Down" dom-i18n='othersers'>联合主办</p>
-                        <span>
-                        <img src="./images/MacauNew/FinwiseLhZb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/FinwiseLhZb02.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/BTCLHzB.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/qubite.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/Gyl.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/TfTc.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/TfTc02.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/TfTc05.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/TfTc03.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img ">
-                        <img src="./images/MacauNew/TfTc04.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img">
-                        </span>
-
-                    </div>
-                    <div class="Macau_Sponsor_box_M box-left ">
-                        <p class="Macau_Sponsor_font font_Down" dom-i18n='xianbandanwei'>协办方</p>
-                        <img src="./images/MacauNew/0001.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/FinwiseXb01.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/Woex.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/LiuSao.png" alt="2019纷智区块链峰会-澳门" class="Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/0002.png" alt="2019纷智区块链峰会-澳门" class=" Macau_Sponso_img left-iPhone">
-                        <img src="./images/MacauNew/0003.png" alt="2019纷智区块链峰会-澳门" class=" Macau_Sponso_img left-iPhone ">
-                        <img src="./images/MacauNew/Myq.png" alt="2019纷智区块链峰会-澳门" class=" Macau_Sponso_img left-iPhone  ">
-                        <img src="./images/MacauNew/ZG.png" alt="2019纷智区块链峰会-澳门" class=" Macau_Sponso_img left-iPhone  ">
-                        <img src="./images/MacauNew/0004.png" alt="2019纷智区块链峰会-澳门" class=" Macau_Sponso_img left-iPhone ">
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--welcome end-->
+    <div class="pc-show">
+        <img src="images/CloudLive/index_new_bg.png" alt="" width="100%" class="zhshow">
+        <img src="images/CloudLive/index_new_bgEn.png" alt="" width="100%" class="enshow">
     </div>
-    <!--HK finwise Des begin-->
-<!--关于纷智-->
-    <div class="HK-fwDes-wrap bg-gray clearfix">
+    <div class="wap-show">
+        <img src="images/CloudLive/phoneZh.jpg" alt="" width="100%" class="zhshow">
+        <img src="images/CloudLive/phoneEn.jpg" alt="" width="100%" class="enshow">
+    </div>
+    <!-- header-->
+    <header id="topnav">
         <div class="container">
-            <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-                <img src="./images/MacauNew/About_Fz.png" alt="" class="about-fwImg zhshow lazy">
-                <img src="./images/MacauNew/About_FzEn.png" alt="" class="about-fwImg enshow lazy">
-            </h2>
-            <div style="width: 100%">
-                <p class="afw-des first-p about-first-pp" dom-i18n='fhfznewdetial01'  style="text-indent: 2em"></p>
-                <!--<img src="./images/MacauNew/AboutImg_03.png" alt="" class="AboutImg">-->
-                <video src="./video/Fz_Mitting.mp4" class="AboutImg"  controls='controls' poster='./images/MacauNew/poster.png'></video>
-            </div>
-            <!--<p class="afw-des" dom-i18n='cewl72' style="text-indent: 2em;margin-top: 10px">2017年-2018年，FINWISE先后在上海、澳门、东京、香港四地举办，从2017年纷智第一场会议起，币安交易所、金色财经、波场TRON等知名项目在会议上首次亮相并迅速发展成为行业领先者，诸多圈内知名大佬也在该会议上展露头角，获得投资、合作机会，纷智会议带动了区块链行业的会议热，同时也成就了纷智品牌在行业的影响力。</p>-->
-            <!--count begin-->
-
-            <!--count end-->
-
-        </div>
-    </div>
-    <!--HK finwise Des end-->
-
-<!--会议信息-->
-<div class="HK-fwDes-wrap bg-gray clearfix">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img data-original="./images/MacauNew/HyInformation.png" alt="" class="about-fwImg-new-l zhshow lazy">
-            <img data-original="./images/MacauNew/HyInformationEn.png" alt="" class="about-fwImg-new-l enshow lazy">
-        </h2>
-
-        <div class="Bg-fwwrap text-center">
-            <!--about begin-->
-            <div class="about-wrap container count-pc-show">
-                <div class="clearfix">
-                    <div class="row count-wrap data-item ">
-                        <img data-original="./images/MacauNew/fw-PCzhNwe.png" alt="" class="count-wrap  zhshow hy-infotmation lazy">
-                        <img data-original="./images/MacauNew/fw-PCzhNweEn.png" alt="" class="count-wrap  enshow hy-infotmation lazy">
-                    </div>
-                </div>
-                <!--end list-->
-            </div>
-            <!--about end-->
-        </div>
-
-    </div>
-</div>
-<!--会议亮点-->
-<div class="HK-fwDes-wrap bg-gray clearfix">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img data-original="./images/MacauNew/Hycont.png" alt="" class="about-fwImg-new zhshow lazy">
-            <img data-original="./images/MacauNew/HycontEn.png" alt="" class="about-fwImg-new enshow lazy">
-
-        </h2>
-        <ul class="fz-ld">
-            <li>
-                <div class="fz-ld-li-box">
-                    <img data-original="./images/MacauNew/fz-dp.png" alt="" class="fz-li-images lazy">
-                </div>
-                <div class="fz-ld-font">
-                    <p dom-i18n='fzcap'>"纷智杯"</p>
-                    <p dom-i18n='fzpriceJ'>区块链行业奖</p>
-                </div>
-
-            </li>
-
-            <li>
-                <div class="fz-ld-li-box">
-                    <img data-original="./images/MacauNew/Fz_pkp.png" alt="" class="fz-li-images lazy">
-                </div>
-                <div class="fz-ld-font">
-                    <p dom-i18n='fz_pkp01'>纷智</p>
-                    <p dom-i18n='fz_pkp02'>扑克牌</p>
-                </div>
-            </li>
-
-            <li>
-                <div class="fz-ld-li-box">
-                    <img data-original="./images/MacauNew/fz-ejd.png" alt="" class="fz-li-images lazy">
-                </div>
-                <div class="fz-ld-font">
-                    <p dom-i18n='fzdjzy'>顶级资源</p>
-                    <p dom-i18n='fzhyfx'>引领行业风向</p>
-                </div>
-            </li>
-            <li>
-                <div class="fz-ld-li-box">
-                    <img data-original="./images/MacauNew/fz-lc-logo.png" alt="" class="fz-li-images lazy">
-                </div>
-                <div class="fz-ld-font">
-                    <p dom-i18n='yueGa'>粤港澳大湾区</p>
-                    <p dom-i18n='MtLm'>媒体联盟</p>
-                </div>
-            </li>
-        </ul>
-
-
-    </div>
-</div>
-
-<!--往届出席嘉宾-->
-<div class="HK-fwDes-wrap bg-gray clearfix">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32 ">
-            <img data-original="./images/MacauNew/cXjB.png" alt="" class="about-fwImg zhshow lazy">
-            <img data-original="./images/MacauNew/cXjBEn.png" alt="" class="about-fwImg enshow lazy">
-        </h2>
-
-        <div class="guest-itembox row cx-jb">
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/05.png" alt="初夏虎" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew05">吴杰庄</p>
-                    <p class="pl-info" dom-i18n="positionNew05">全国政协委员、香港青年联会顾问</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/06.png" alt="初夏虎" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew06">初夏虎</p>
-                    <p class="pl-info" dom-i18n="positionNew06">维优 CEO、元界基金会主席</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/07.png" alt="郭宏才" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew07">郭宏才</p>
-                    <p class="pl-info" dom-i18n="positionNew07">著名天使投资人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/28.png" alt="黄连金" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew28">黄连金</p>
-                    <p class="pl-info" dom-i18n="positionNew28">核聚链首席科学家、中国电子学会区块链分会专家委员</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="./images/MacauNew/chenhao.png" alt="陈浩" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="namech20">陈浩</p>
-                    <p class="pl-info" dom-i18n="positionch20">维优 首席技术官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/FranklinUrteaga.png" alt="BrockPierce" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew140">Franklin Urteaga</p>
-                    <p class="pl-info" dom-i18n="positionNew140">前白宫科技创新顾问、OIGETIT联合创始人兼首席执行官</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/BrockPierce.png" alt="BrockPierce" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew109">Brock Pierce</p>
-                    <p class="pl-info" dom-i18n="positionNew109">比特币基金会前主席</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/ToneVays.png" alt="ToneVays" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew137">Tone Vays</p>
-                    <p class="pl-info" dom-i18n="positionNew137">Bitcoin Trading Top Instructor (world)比特币交易教师（现场直播）</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/RuslanGavrilyuk.png" alt="RuslanGavrilyuk" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew110">Ruslan Gavrilyuk</p>
-                    <p class="pl-info" dom-i18n="positionNew110">TaaS资本首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/StefanRust.png" alt="StefanRust" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew111">Stefan Rust</p>
-                    <p class="pl-info" dom-i18n="positionNew111">Bitcoin.com首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/DanSchatt.png" alt="DanSchatt" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew112">Dan Schatt</p>
-                    <p class="pl-info" dom-i18n="positionNew112">Cred首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/EricBenz.png" alt="EricBenz" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew113">Eric Benz</p>
-                    <p class="pl-info" dom-i18n="positionNew113">Changelly首席执行官</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/EddyTravia.png" alt="Eddy Travia" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew138">Eddy Travia</p>
-                    <p class="pl-info" dom-i18n="positionNew138">Co-founder and CEO, Coinsilium Group
-                        Eddy Travia｜Coinsilium联合创始人兼首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/27.png" alt="王彬生" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew27">王彬生</p>
-                    <p class="pl-info" dom-i18n="positionNew27">区块链联合发展组织顾问、中国社会科学院研究生院特聘教授</p>
-                </div>
-            </div>
-
-            <!--孔华威-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/konghuawei.png" alt="孔华威" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew102">孔华威</p>
-                    <p class="pl-info" dom-i18n="positionNew102">中科院计算所上海分所所长、起点创投合伙人</p>
-                </div>
-            </div>
-            <!--魏先华-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/weixianhua.png" alt="魏先华" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew103">魏先华</p>
-                    <p class="pl-info" dom-i18n="positionNew103">中国科学院虚拟经济与数据开学研究中心副主任</p>
-                </div>
-            </div>
-
-
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/09.png" alt="杜均" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew09">杜均</p>
-                    <p class="pl-info" dom-i18n="positionNew09">金色财经创始人、节点资本创始合伙人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/13.png" alt="邓迪" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew13">邓迪</p>
-                    <p class="pl-info" dom-i18n="positionNew13">太一云董事长、中国区块链应用研究中心理事长</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/01.png" alt="Mike Costache" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="namescxh120">Mike Costache</p>
-                    <p class="pl-info" dom-i18n="positioncxh120">TaaS Capital Partners BlockChain Investor & Advisor</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/25.png" alt="曾豪" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew25">曾豪</p>
-                    <p class="pl-info" dom-i18n="positionNew25">蚂蚁节点联盟创始人</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="./images/MacauNew/DistinguishedGuest/zhaoqianjie.png" alt="赵千捷" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew101">赵千捷</p>
-                    <p class="pl-info" dom-i18n="positionNew101">原比特币中国高级副总裁、FBG Capital Advisor</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/14.png" alt="杨林科" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew14">杨林科</p>
-                    <p class="pl-info" dom-i18n="positionNew14">比特币中国创始人兼CEO</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/63.jpg" alt="张竟唯" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="namescxh119">张竟唯</p>
-                    <p class="pl-info" dom-i18n="positioncxh119">蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/62.jpg" alt="杨志文" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="namesyzw118">杨志文</p>
-                    <p class="pl-info" dom-i18n="positionyzw118">蚂蚁节点联盟联合创始人、蚂蚁联盟国际资本联合创始人</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/20.png" alt="安鑫鑫" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew20">安鑫鑫</p>
-                    <p class="pl-info" dom-i18n="positionNew20">金色财经合伙人、金色学院创始人</p>
-                </div>
-            </div>
-            <!--黄天威-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/huangtianwei.png" alt="黄天威" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew104">黄天威</p>
-                    <p class="pl-info" dom-i18n="positionNew104">比特时代创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/12.png" alt="卢亮" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew30">卢亮</p>
-                    <p class="pl-info" dom-i18n="positionNew30">美国SMU物理博士、兰亭集势创始人、CyberMiles创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/LeoSu.png" alt="LeoSu" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew129">Leo Su</p>
-                    <p class="pl-info" dom-i18n="positionNew129">BiKi.com 资产端总经理</p>
-                </div>
-            </div>
-
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/21.png" alt="刘嘉陵（巨蟹）" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="nameljl68">刘嘉陵（巨蟹）</p>
-                    <p class="pl-info" dom-i18n="positionljl68">比特股理事会理事、比特创业营创始成员、 YOYOW 联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/92.png" alt="" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew92">周国华</p>
-                    <p class="pl-info" dom-i18n="positionNew92">福布斯数字资产市场大中华地区执行董事、香港区块链协会共同主席</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/77.png" alt="" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew77">唐仪</p>
-                    <p class="pl-info" dom-i18n="positionNew77">HKBA 香港区块链协会联合创始人</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/10.png" alt="周朝晖" class="lazy party-pl">
-                 </div>
-                 <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew100">周朝晖</p>
-                    <p class="pl-info" dom-i18n="positionNew100">Natural DAO创始人时代学院创始讲师</p>
-                </div>
-            </div>
-            <!--李非凡-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/lifeifan.png" alt="李非凡" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew105">李非凡</p>
-                    <p class="pl-info" dom-i18n="positionNew105">链得得总裁</p>
-                </div>
-            </div>
-            <!--简一-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/jianyi.png" alt="简一" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew106">简一</p>
-                    <p class="pl-info" dom-i18n="positionNew106">链合CEO、厦门大学区块链研究中心副主任</p>
-                </div>
-            </div>
-
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="./images/MacauNew/Aurora.png" alt="Aurora" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew34">Aurora</p>
-                    <p class="pl-info" dom-i18n="positionNew34">ZB集团副总裁、加密资本创始人</p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/HongKongNew/93.png" alt="朱涛" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew93">朱涛</p>
-                    <p class="pl-info" dom-i18n="positionNew93">中高会区块链产业联盟理事长</p>
-                </div>
-            </div>
-            <!--郭智军-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/guozhijun.png" alt="郭智军" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew107">郭智军</p>
-                    <p class="pl-info" dom-i18n="positionNew107">亚洲区块链资本创始人、河南省区块链研究会理事</p>
-                </div>
-            </div>
-            <!--戚洛源-->
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/qiluoyuan.png" alt="戚洛源" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew108">戚洛源</p>
-                    <p class="pl-info" dom-i18n="positionNew108">天富天承数字资产交易服务有限公司总裁</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/zhouxuesong.png" alt="周雪松" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew130">周雪松</p>
-                    <p class="pl-info" dom-i18n="positionNew130">红岸智能CTO/天驱技术联盟合伙人</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/Bella-Fang.png" alt="Bella Fang" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew96">Bella Fang</p>
-                    <p class="pl-info" dom-i18n="positionNew96">WBFex 创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/wuji.png" alt="吴骥" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew131">吴骥</p>
-                    <p class="pl-info" dom-i18n="positionNew131">华为资深研发工程师/天驱技术联盟合伙人 </p>
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/MaxCai.png" alt="MaxCai" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="">Max Cai</p>
-                    <p class="pl-info" dom-i18n="">CEO of BCAChain</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/Weiyuhong.png" alt="韦雨宏" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew136">韦雨宏</p>
-                    <p class="pl-info" dom-i18n="positionNew136">天使投资人、雨宏资本创始人、公元链应用联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/Wuhongxi.png" alt="吴宏熙" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew132">吴宏熙</p>
-                    <p class="pl-info" dom-i18n="positionNew132">新加坡华裔基金会CEO/公元链亚洲执行CEO/公元链中国商学院CEO</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/IoanaMinea.png" alt="Ioana Minea" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew134">IoanaMinea</p>
-                    <p class="pl-info" dom-i18n="positionNew134">Marketing Director of Upbite Alliance</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/ZhuGong.png" alt="主公" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew135">主公</p>
-                    <p class="pl-info" dom-i18n="positionNew135">EXX联合创始人兼CEO</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/DariusSit.png" alt="DariusSit" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew114">Darius Sit</p>
-                    <p class="pl-info" dom-i18n="positionNew114">QCP资本管理伙伴</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/ChrisMcCoy.png" alt="Chris McCoy" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew139">Chris McCoy</p>
-                    <p class="pl-info" dom-i18n="positionNew139">StoreCoin创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/MinaChung.png" alt="Mina Chung" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew115">Mina Chung</p>
-                    <p class="pl-info" dom-i18n="positionNew115">Constant用户采用负责人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/AlanVontai.png" alt="Alan Vontai" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew116">Alan Vontai</p>
-                    <p class="pl-info" dom-i18n="positionNew116">ChainFuel和TeleFuel联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/VarunDeshpande.png" alt="VarunDeshpande" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew117">Varun Deshpande</p>
-                    <p class="pl-info" dom-i18n="positionNew117">Nuo联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/CynthiaBlanchard.png" alt="CynthiaBlanchard" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew118">Cynthia Blanchard</p>
-                    <p class="pl-info" dom-i18n="positionNew118">Hercules & AnthemGold主席</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/AnthemBlanchard.png" alt="AnthemBlanchard" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew119">Anthem Blanchard</p>
-                    <p class="pl-info" dom-i18n="positionNew119">Hercules & AnthemGold 首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/GeorgeRotariu.png" alt="George Rotariu" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew120">George Rotariu</p>
-                    <p class="pl-info" dom-i18n="positionNew120">BTR交易所首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/BenjaminSoh.png" alt="Benjamin Soh" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew121">Benjamin Soh</p>
-                    <p class="pl-info" dom-i18n="positionNew121">直布罗陀证券交易所集团执行董事</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/BrianKer.png" alt="Brian Ker" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew122">Brian Ker</p>
-                    <p class="pl-info" dom-i18n="positionNew122">Kava.io首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/RobertPreoteasa.png" alt="Robert Preoteasa" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew123">Robert Preoteasa</p>
-                    <p class="pl-info" dom-i18n="positionNew123">Framey首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/ArtemTrofymenko.png" alt="Artem Trofymenko" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew124">Artem Trofymenko</p>
-                    <p class="pl-info" dom-i18n="positionNew124">CryptoCoin.Pro合伙人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/TimFrost.jpg" alt="Tim Frost" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew125">Tim Frost</p>
-                    <p class="pl-info" dom-i18n="positionNew125">EQIBank联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/BenRavaru.png" alt="Ben Ravaru" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew126">Ben Ravaru</p>
-                    <p class="pl-info" dom-i18n="positionNew126">Zignaly联合创始人</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/DanieleMonteleon.png" alt="Daniele Monteleon" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew127">Daniele Monteleon</p>
-                    <p class="pl-info" dom-i18n="positionNew127">Metalyfe首席执行官</p>
-                </div>
-            </div>
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/Alex.png" alt="Alexander Alexandrov" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew128">Alexander Alexandrov</p>
-                    <p class="pl-info" dom-i18n="positionNew128">Founder&CEO of Velas</p>
-                </div>
-            </div>
-
-
-
-
-            <div class="col-md-2">
-                <div class="photo-dbbox">
-                    <img data-original="images/MacauNew/DistinguishedGuest/Wuxiaohong.png" alt="吴晓宏" class="lazy party-pl">
-                </div>
-                <div class="foot-p">
-                    <p class="plname-info" dom-i18n="NameNew133">吴晓宏</p>
-                    <p class="pl-info" dom-i18n="positionNew133">北斗节点联盟创始人合伙人/趣比特基金会社区顾问</p>
-                </div>
-            </div>
-
-        </div>
-
-</div>
-        <!--count end-->
-
-</div>
-
-
-<!--往期合作单位-->
-<div class="HK-fwDes-wrap bg-gray clearfix" style="padding-bottom: 50px">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img src="./images/MacauNew/WjHzDw.png" alt="" class="about-fwImg001  zhshow">
-            <img src="./images/MacauNew/WjHzDwEn.png" alt="" class="about-fwImg001 enshow">
-        </h2>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/1.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/2.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/3.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/4.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/5.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/6.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/7.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/8.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/9.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/10.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/11.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/12.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/13.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/14.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/FormerPartners/15.png" alt="" class="lazy">
-            </div>
-
-        </div>
-    </div>
-</div>
-<!--粤港澳大湾区矩形-->
-<div class="HK-fwDes-wrap bg-gray clearfix" style="padding-bottom: 50px">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img src="./images/MacauNew/YGADWQ.png" alt="" class="about-fwImgYGA  zhshow">
-            <img src="./images/MacauNew/YGADWQEn.png" alt="" class="about-fwImgYGA enshow">
-        </h2>
-        <h2 style="font-size: 25px;text-indent: 1em;font-weight: bold" dom-i18n="CoreUnits" class="CoreUnits">核心单位</h2>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/1.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/2.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/3.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/4.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/5.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/6.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/7.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/8.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/9.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/10.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/11.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/12.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/13.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/14.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/15.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/16.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/17.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/CoreUnits/18.png" alt="" class="lazy">
+            <!-- Logo container-->
+            <h1 class="logo">
+                <a href="./index_Macau2019.html" class="finwise-logowrap">
+                    <!--<img class="logo-light" data-original="images/finwise/logo-macau.png" alt="纷智全球峰会">-->
+                    <img class="logo-dark fwlogo" src="images/finwise-tokyo/finwiselogo001.png" alt="纷智全球峰会" title="纷智全球峰会">
+                </a>
+            </h1>
+            <!-- End Logo container-->
+            <div class="menu-extras">
+                <div class="menu-item toggle-nav">
+                    <!-- Mobile menu toggle-->
+                    <a class="menu-toggle" href="#" onclick="mininav()">
+                        <div class="toggle-inner"></div>
+                    </a>
+                    <!-- End mobile menu toggle-->
+                </div>
+            </div>
+
+            <!--<a href="https://www.eventbrite.com/e/finwise-summit-2019-hong-kong-tickets-60454000543" target="_self" class="lang-select fg-line tikets-wapbox wap-show" >-->
+            <!--<span class="gettiketsbox" dom-i18n='hqmprg66' style="width: auto;">获取门票</span>-->
+            <!--</a>-->
+
+
+
+            <div id="lang-switch " class="lang-switch lang-wapbox">
+                <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">
+                    <img src="images/CloudLive/zhongguo.png" alt="">
+                </a>／
+                <a href="javascript:" class="endingbtn en-lang" onclick="i18n.setLang('en')">
+                    <img src="images/CloudLive/yingguo.png" alt="">
+                </a>
+            </div>
+
+            <div id="navigation">
+                <ul class="navigation-menu nav">
+                    <li>
+                        <a href="./index_Macau2019.html" class="active" dom-i18n='seey1'>首页</a>
+                    </li>
+                    <!--<li>-->
+                    <!--<a href="./#Agenda-content"   class="endingbtn"  dom-i18n='hyyc2'>会议议程</a>-->
+                    <!--</li>-->
+                    <!--<li>-->
+                    <!--<a href="./cooperation.html" class="endingbtn" dom-i18n='zzhz3'>赞助合作</a>-->
+                    <!--</li>-->
+                    <li class="past-review sl-language">
+                        <a class="spe-hover"  href="javascript:;" dom-i18n='wjhg4'>往届回顾</a>
+                        <ul class="review-old">
+                            <li><a href="./index_HongKong2019.html" class="endingbtn" target="_blank" dom-i18n='cityHongKong2019station'>香港站(2019)</a></li>
+                            <li><a href="./index_HongKong2018.html" class="endingbtn" target="_blank" dom-i18n='cityHongKongstation'>香港站(2018)</a></li>
+                            <li><a href="./Japan/index.html" class="endingbtn" target="_blank" dom-i18n='cityJapanstation'>日本站</a></li>
+                            <li><a href="./macau/index.html" class="endingbtn" target="_blank" dom-i18n='citymacaustation'>澳门站</a></li>
+                            <!--<li><a href="./appc-index_Macau2019.html" class="endingbtn" target="_blank" dom-i18n='citysh'>上海站</a></li>-->
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="./about.html" class="about" dom-i18n='gywm5'>关于我们</a>
+                    </li>
+                    <!--<li>-->
+                    <!--<a href="./help.html" class="help" dom-i18n='helpnav'>参会指南</a>-->
+                    <!--</li>-->
+                    <!--<li class="tikets-box pc-hide">-->
+                    <!--<a href="https://www.eventbrite.com/e/finwise-summit-2019-hong-kong-tickets-60454000543" target="_blank" class="fg-line">-->
+                    <!--<span class="gettiketsbox" dom-i18n='hqmprg66'>-->
+                    <!--&lt;!&ndash; <a href="/appc-index_Macau2019.html">中文</a><span class="fg-line">/</span><a href="/appc-index-en.html">English</a> &ndash;&gt;-->
+                    <!--获取门票-->
+                    <!--</span>-->
+                    <!--</a>-->
+                    <!--</li>-->
+                    <li id="lang-switch" class="lang-switch pc-block">
+                        <a href="javascript:;" class="endingbtn zh-lang" onclick="i18n.setLang('zh')">
+                            <img src="images/CloudLive/zhongguo.png" alt="" width="80%">
+                        </a>／
+                        <a href="javascript:" class="endingbtn en-lang" onclick="i18n.setLang('en')">
+                            <img src="images/CloudLive/yingguo.png" alt="" width="80%">
+                        </a>
+                    </li>
+                </ul>
             </div>
         </div>
-        <h2 style="font-size: 25px;text-indent: 1em;font-weight: bold;margin-top: 15px" dom-i18n="MembershiUnit" class="MembershiUnit">成员单位</h2>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/14.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/1.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/2.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/3.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/4.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/5.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/6.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/7.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/8.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/9.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/10.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/11.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/12.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/13.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/MembershipUnit/15.png" alt="" class="lazy">
-            </div>
-
-
-        </div>
-    </div>
+    </header>
 </div>
-<!--战略合作单位-->
-<div class="HK-fwDes-wrap bg-gray clearfix" style="padding-bottom: 50px">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img src="./images/MacauNew/StrategicCooperationUnit.png" alt="" class="about-fwImg  zhshow">
-            <img src="./images/MacauNew/StrategicCooperationUnitEn.png" alt="" class="about-fwImg enshow">
-        </h2>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/1.png" alt="" class="lazy">
-            </div>
-            <!--<div class="swatch-a col-md-2 col-sm-2">-->
-                <!--<img data-original="./images/MacauNew/ZlHZ/2.png" alt="" class="lazy">-->
-            <!--</div>-->
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/3.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/4.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/5.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/6.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/7.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/8.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/9.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/10.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/11.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/12.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/13.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/14.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/15.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/16.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/17.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/18.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/19.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/20.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/21.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/ZlHZ/22.png" alt="" class="lazy">
-            </div>
-        </div>
-    </div>
-</div>
-<!--支持媒体-->
-<div class="HK-fwDes-wrap bg-gray clearfix" style="padding-bottom: 50px">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img src="./images/MacauNew/suportMedia.png" alt="" class="about-fwImg  zhshow">
-            <img src="./images/MacauNew/suportMediaEn.png" alt="" class="about-fwImg enshow">
-        </h2>
-        <div class="mar-bt30 clearfix">
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/1.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/2.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/3.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/4.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/5.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/6.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/7.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/8.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/9.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/10.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/11.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/12.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/13.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/14.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/15.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/16.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/17.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/18.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/19.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/20.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/21.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/22.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/23.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/24.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/25.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/26.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/27.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/28.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/29.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/30.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/31.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/32.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/33.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/34.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/35.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/36.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/37.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/38.png" alt="" class="lazy">
-            </div>
-            <div class="swatch-a col-md-2 col-sm-2">
-                <img data-original="./images/MacauNew/suportMedia/39.png" alt="" class="lazy">
-            </div>
-        </div>
-    </div>
-</div>
-<!--往届精彩回顾-->
-<div class="HK-fwDes-wrap bg-gray clearfix">
-    <div class="container">
-        <h2 class="about-fw h2-Ctl spe-tlh3 font32">
-            <img src="./images/MacauNew/WjHg.png" alt="" class="about-fwImg zhshow lazy">
-            <img src="./images/MacauNew/WjHgEn.png" alt="" class="about-fwImg enshow lazy">
-        </h2>
-        <div class="review_meet">
-            <ul>
-                <li>
+<!--HK finwise Des begin-->
 
-                    <div class="Tc_box"></div>
-                    <img data-original="./images/MacauNew/bg_meet05.png" alt="" class="zhshow lazy">
-                    <img data-original="./images/MacauNew/bg_meet05.jpg" alt="" class="enshow lazy">
-                    <span class="review_meet_detail">
-                        <!--纷智峰会(香港) 2019.5.28-29-->
-                        <span dom-i18n="FzHk01">Finwise·HongKong </span>&nbsp&nbsp<span style="font-weight: 200" dom-i18n="FzHk001">May 28-29，2019</span>
-                    </span>
-                    <a href="./index_HongKong2019.html"></a>
-                </li>
-                <li>
-                    <a href="./index_HongKong2018.html"></a>
-                    <div class="Tc_box"></div>
-                    <img data-original="./images/MacauNew/bg_meet04_07.png" alt="" class="zhshow lazy">
-                    <img data-original="./images/MacauNew/bg_meet04.jpg" alt="" class="enshow lazy">
-                    <span class="review_meet_detail">
-                        <!--纷智峰会(香港) 2018.8.10-11-->
-                         <span dom-i18n="FzHk02">Finwise·HongKong</span> &nbsp&nbsp<span style="font-weight: 200" dom-i18n="FzHk002">Aug 10-11，2018</span>
-                    </span>
-                </li>
-                <li>
-                    <a href="./Japan/index.html"></a>
-                    <div class="Tc_box"></div>
-                    <img data-original="./images/MacauNew/bg_meet03_03.png" alt="" class="zhshow lazy">
-                    <img data-original="./images/MacauNew/bg_meet03.jpg" alt="" class="enshow lazy">
-                    <span class="review_meet_detail">
-                        <span dom-i18n="FzHk03">Finwise·Tokyo </span>&nbsp&nbsp<span style="font-weight: 200" dom-i18n="FzHk003">May 21-22，2018</span>
-                        <!--纷智峰会(东京) 2018.5.21-22-->
-                    </span>
-                </li>
-                <li>
-                    <a href="./macau/index.html"></a>
-                    <div class="Tc_box"></div>
-                    <img data-original="./images/MacauNew/bg_meet02_03.png" alt="" class="zhshow lazy">
-                    <img data-original="./images/MacauNew/bg_meet02.jpg" alt="" class="enshow lazy">
-                    <span class="review_meet_detail">
-                         <span dom-i18n="FzHk04">Finwise·Macao </span>&nbsp&nbsp<span style="font-weight: 200" dom-i18n="FzHk004">Jan 12-13，2018</span>
-                        <!--纷智峰会(澳门) 2018.1.12-13-->
-                    </span>
-                </li>
-                <li>
-                    <a href="./appc-index.html"></a>
-                    <div class="Tc_box"></div>
-                    <img data-original="./images/MacauNew/bg_meet01_03.png" alt="" class="lazy">
-                    <span class="review_meet_detail">
-                        <span dom-i18n="FzHk05">Finwise·Shanghai </span>&nbsp&nbsp<span style="font-weight: 200" dom-i18n="FzHk005">July 30-31，2017</span>
-                        <!--纷智峰会(上海) 2017.7.30-31-->
-                    </span>
-                </li>
-            </ul>
-
-        </div>
+<!--HK finwise Des end-->
 
 
 
-    </div>
-</div>
+
 
 
 
 <!--load common footer begin-->
-<footer id="footer" class="load-footer" style="margin-top: 50px"></footer>
+<footer id="footer" class="load-footer"></footer>
 <!--load common footer end-->
 
 <a href="./hongkong_email.html"  class="visa-tips-index" dom-i18n='WantSpeak'>我要演讲</a>
@@ -1492,6 +209,8 @@
 <script type="text/javascript" src="js/main.js"></script>
 <script type="text/javascript" src="js/mini-nav.js"></script>
 <script src="js/jquery.lazyload.js"></script>
+<script src="js/i18n.js"></script>
+
 
 
 <script>
@@ -1502,13 +221,18 @@
         location.href="http://hdxu.cn/945eU"
     })
 
-$('.show-ft .col-md-2:lt(18)') .addClass('showimg');
+    $('.show-ft .col-md-2:lt(18)') .addClass('showimg');
 
-//show or hide imgs end
-//  img lazyload
+    //show or hide imgs end
+    //  img lazyload
     $(function() {
         $("img.lazy").lazyload({effect: "fadeIn"});
     });
+
+    $(function(){
+        $(".en-lang").trigger("click");
+    });
+
 </script>
 </body>
 </html>
