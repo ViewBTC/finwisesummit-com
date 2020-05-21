@@ -56,7 +56,7 @@
         margin: 0 auto;
     }
     .pc-show{
-       margin-top: 70px;
+       margin-top: 55px;
     }
     @media only screen and (max-width: 991px) and (min-width: 300px){
         #footer .footer-spewrap {
@@ -75,9 +75,33 @@
     }
     @media (max-width: 768px){
         #topnav .logo .fwlogo {
-            width: 140px !important;
+            width: 120px !important;
         }
     }
+
+    .btnEnter{
+        width: 100%;
+    }
+    .btnEnter-bg{
+        width: 100%;
+        position: relative;
+    }
+    .btnEnter-wap img{
+        position: absolute;
+        top: 0;
+        width: 30%;
+        left: 5%;
+    }
+    .btnEnter-pc img{
+        position: absolute;
+        top: 1%;
+        width: 20%;
+        left: 7.5%;
+    }
+    .btnEnter-wap-BroadcastEn{
+        width: 40%!important;
+    }
+
 </style>
 <body>
 <!-- Preloader-->
@@ -92,14 +116,75 @@
 </div>
 <!-- End Preloader-->
 <div class=" index-fwrap-CloudLive">
-
+    <!--pc页面-->
     <div class="pc-show">
-        <img src="images/CloudLive/index_new_bg.png" alt="" width="100%" class="zhshow">
-        <img src="images/CloudLive/index_new_bgEn.png" alt="" width="100%" class="enshow">
+        <div class="zhshow">
+                <img src="images/CloudLive/index_new_bg01.png" alt="" width="100%" class="zhshow">
+            <div class="btnEnter-bg">
+                <!--进入直播按钮-->
+                <div class="btnEnter-pc">
+                    <a href="https://www.crowdcast.io/e/finwise-cloud-conference/register" target="_blank">
+                        <img src="images/CloudLive/EnterLiveBroadcast.png" alt="" >
+                    </a>
+                </div>
+                <img src="images/CloudLive/index_new_bg02.png" alt="" width="100%">
+            </div>
+
+        </div>
+
+        <div class="enshow">
+            <img src="images/CloudLive/index_new_bgEn01.png" alt="" width="100%">
+            <div class="btnEnter-bg">
+                <!--进入直播按钮-->
+                <div class="btnEnter-pc">
+                    <a href="https://www.crowdcast.io/e/finwise-cloud-conference/register" target="_blank">
+                        <img src="images/CloudLive/EnterLiveBroadcastEn.png" alt="" >
+                    </a>
+                </div>
+                <img src="images/CloudLive/index_new_bgEn02.png" alt="" width="100%">
+            </div>
+
+        </div>
+
     </div>
+
+
+
+
+
+    <!--手机页面-->
     <div class="wap-show">
-        <img src="images/CloudLive/phoneZh.jpg" alt="" width="100%" class="zhshow">
-        <img src="images/CloudLive/phoneEn.jpg" alt="" width="100%" class="enshow">
+        <!--中文版-->
+        <div class="zhshow">
+            <!--上半部图-->
+                <img src="images/CloudLive/phoneZh01.png" alt="" width="100%" >
+            <!--下半部图-->
+            <div class="btnEnter-bg">
+                <!--进入直播按钮-->
+                <div class="btnEnter-wap">
+                    <a href="https://www.crowdcast.io/e/finwise-cloud-conference/register" target="_blank">
+                        <img src="images/CloudLive/EnterLiveBroadcast.png" alt="" >
+                    </a>
+                </div>
+                <img src="images/CloudLive/phoneZh02.png" alt="" width="100%">
+            </div>
+
+        </div>
+        <!--英文版-->
+        <div class="enshow">
+            <!--上半部图-->
+            <img src="images/CloudLive/phoneEn01.png" alt="" width="100%" >
+            <!--下半部图-->
+            <div class="btnEnter-bg">
+                <!--进入直播按钮-->
+                <div class="btnEnter-wap">
+                    <a href="https://www.crowdcast.io/e/finwise-cloud-conference/register" target="_blank">
+                        <img src="images/CloudLive/EnterLiveBroadcastEn.png" alt="" class="btnEnter-wap-BroadcastEn">
+                    </a>
+                </div>
+                <img src="images/CloudLive/phoneEn02.png" alt="" width="100%">
+            </div>
+        </div>
     </div>
     <!-- header-->
     <header id="topnav">
