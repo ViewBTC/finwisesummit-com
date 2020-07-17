@@ -77,9 +77,10 @@
 
         citysh: " ShangHai Station(July,2017)",
         citymacaustation: " Macau Station(Jan,2018)",
-          cityJapanstation: "Japan Station(May,2018)",
-          cityHongKongstation: " Hong Kong Station(Aug,2018)",
-          cityHongKong2019station:'Hong Kong Station(May,2019)',
+        cityJapanstation: "Japan Station(May,2018)",
+         cityHongKongstation: " Hong Kong Station(Aug,2018)",
+         cityHongKong2019station:'Hong Kong Station(May,2019)',
+         citycloudtation:"Finwise cloud(May,2020)",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -1318,6 +1319,7 @@
             positionNew140:"",
 
 
+
           UserJj:'Introduce about yourself？',
       },
         zh: {
@@ -1365,6 +1367,7 @@
             cityJapanstation: "日本站(2018.5)",
             cityHongKongstation:'香港站(2018.8)',
             cityHongKong2019station:'香港站(2019.5)',
+            citycloudtation:"云峰会(2020.5)",
 
 
             qqgs16: "全球区块链公司",
