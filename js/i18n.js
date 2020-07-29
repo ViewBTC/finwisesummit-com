@@ -81,6 +81,7 @@
          cityHongKongstation: " Hong Kong Station(Aug,2018)",
          cityHongKong2019station:'Hong Kong Station(May,2019)',
          citycloudtation:"Finwise cloud(May,2020)",
+         citycloudtationSecond:"Finwise cloud(Zuly,2020)",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -1368,7 +1369,7 @@
             cityHongKongstation:'香港站(2018.8)',
             cityHongKong2019station:'香港站(2019.5)',
             citycloudtation:"云峰会(2020.5)",
-
+            citycloudtationSecond:"云峰会(2020.7)",
 
             qqgs16: "全球区块链公司",
             gydh17: "关于大会",
