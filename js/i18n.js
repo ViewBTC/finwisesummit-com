@@ -1327,7 +1327,7 @@
         zh: {
             webtitle1:"纷智峰会 · 东京",
             webtitle_Hk:"纷智峰会 · 香港",
-            webtitle_MK:"Finwise纷智全球峰会",
+            webtitle_MK:"FinwiseSummit-纷智全球峰会",
 
 
 
