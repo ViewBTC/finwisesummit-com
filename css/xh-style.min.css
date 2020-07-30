@@ -6,7 +6,7 @@ img,video{max-width:100%;height:auto}
 .photo .row{width:100%}
 #topnav>.container{position:relative}
 #topnav .logo{float:left;padding:14px 0;-webkit-transition:all .3s ease;transition:all .3s ease;position:relative;z-index:110}
-#topnav .logo img{max-height:70px;-webkit-transition:all .3s ease;transition:all .3s ease;width:280px}
+#topnav .logo img{max-height:70px;-webkit-transition:all .3s ease;transition:all .3s ease;width: 100px!important;}
 #topnav .logo .logo-light,#topnav.stick .logo .logo-dark{display:block}
 #topnav .logo .logo-dark,#topnav.stick .logo .logo-light{display:none}
 #topnav .navigation-menu>li{display:inline-block;position:relative;color:#fff}
