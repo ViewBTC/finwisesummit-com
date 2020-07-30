@@ -80,8 +80,9 @@
         cityJapanstation: "Japan Station(May,2018)",
          cityHongKongstation: " Hong Kong Station(Aug,2018)",
          cityHongKong2019station:'Hong Kong Station(May,2019)',
-         citycloudtation:"Finwise cloud(May,2020)",
-         citycloudtationSecond:"Finwise cloud(Zuly,2020)",
+         citymacau2019station: " Macau Station(Sept,2019)",
+         citycloudtation:"Finwise cloud1(May,2020)",
+         citycloudtationSecond:"Finwise cloud2(July,2020)",
 
         qqgs16: "Global Blockchain Corporation",
         gydh17: "About FINWISE",
@@ -1368,8 +1369,9 @@
             cityJapanstation: "日本站(2018.5)",
             cityHongKongstation:'香港站(2018.8)',
             cityHongKong2019station:'香港站(2019.5)',
-            citycloudtation:"云峰会(2020.5)",
-            citycloudtationSecond:"云峰会(2020.7)",
+            citymacau2019station:"澳门站(2019.9)",
+            citycloudtation:"云峰会1(2020.5)",
+            citycloudtationSecond:"云峰会2(2020.7)",
 
             qqgs16: "全球区块链公司",
             gydh17: "关于大会",
