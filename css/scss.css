@@ -292,7 +292,7 @@ body {
     #topnav .navigation-menu > li > a.active {
       color: #FF1D92; }
   #topnav .logo img {
-    width: 160px !important; }
+    width: 100px !important; }
 
   .otherlang #topnav .navigation-menu > li > a {
     font-size: 12px;
