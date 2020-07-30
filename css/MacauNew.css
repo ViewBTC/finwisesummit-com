@@ -317,6 +317,9 @@ a, a:link, a:visited, a:hover, a:active {
 }
 
 @media (max-width: 1400px){
+    .otherlang #topnav .logo img{
+        width: 100px!important;
+    }
     .otherlang #topnav .navigation-menu > li > a{
         font-size: 14px;
         letter-spacing: .2em;

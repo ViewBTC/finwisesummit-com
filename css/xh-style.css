@@ -38,7 +38,7 @@ img, video {
   max-height: 70px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  width: 280px;
+  width: 100px!important;
 }
 #topnav .logo .logo-light, #topnav.stick .logo .logo-dark {
   display: block;
