@@ -15,7 +15,7 @@
     margin: 50px 0 30px !important; } }
 @media (max-width: 375px) {
   .otherlang #topnav .logo img {
-    width: 120px !important; } }
+    width: 100px !important; } }
 @media (max-width: 474px) {
   .btn-demo {
     height: 32px;
