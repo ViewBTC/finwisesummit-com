@@ -299,7 +299,7 @@ body {
     line-height: 70px;
     margin: 0 4px !important; }
   .otherlang #topnav .logo img {
-    width: 140px !important; }
+    width: 100px !important; }
 
   .about-finwise.h2-tl, .guest-item .h2-tl {
     font-size: 28px !important;
@@ -467,7 +467,7 @@ body {
   #topnav .logo {
     padding: 0; }
     #topnav .logo .fwlogo {
-      width: 150px !important; }
+      width: 100px !important; }
     #topnav .logo .finwise-logowrap {
       height: 55px;
       vertical-align: middle;
